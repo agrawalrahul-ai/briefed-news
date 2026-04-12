@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Briefed — Daily News Digest</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --ink: #0f0f0f;
+    --paper: #faf8f3;
+    --muted: #6b6860;
+    --rule: #e0ddd5;
+    --accent: #c8392b;
+    --card-bg: #ffffff;
+    --ticker-bg: #0f0f0f;
+    --ticker-text: #faf8f3;
+    --tag-bg: #f0ede6;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'DM Sans', sans-serif; background: var(--paper); color: var(--ink); min-height: 100vh; }
+  .ticker-wrap { background: var(--ticker-bg); color: var(--ticker-text); padding: 10px 0; overflow: hidden; position: sticky; top: 0; z-index: 100; border-bottom: 2px solid var(--accent); }
+  .ticker-label { display: inline-block; background: var(--accent); color: #fff; font-size: 10px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; padding: 3px 10px; margin-right: 20px; vertical-align: middle; }
+  .ticker-track { display: inline-block; white-space: nowrap; animation: scroll-ticker 40s linear infinite; }
+  .ticker-track:hover { animation-play-state: paused; }
+  .ticker-item { display: inline-block; font-size: 12px; font-weight: 300; letter-spacing: 0.04em; margin-right: 60px; vertical-align: middle; opacity: 0.9; }
+  .ticker-item::before { content: '◆'; color: var(--accent); margin-right: 10px; font-size: 8px; }
+  @keyframes scroll-ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+  .masthead { border-bottom: 1px solid var(--rule); padding: 28px 40px 20px; display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; }
+  .masthead-brand { display: flex; align-items: baseline; gap: 12px; }
+  .brand-name { font-family: 'Playfair Display', serif; font-size: 42px; font-weight: 900; letter-spacing: -0.02em; line-height: 1; color: var(--ink); }
+  .brand-name span { color: var(--accent); }
+  .brand-tagline { font-size: 11px; font-weight: 400; color: var(--muted); letter-spacing: 0.1em; text-transform: uppercase; padding-bottom: 4px; }
+  .masthead-meta { text-align: right; }
+  .meta-date { font-size: 12px; color: var(--muted); font-weight: 300; }
+  .meta-updated { font-size: 11px; color: var(--accent); margin-top: 3px; }
+  .category-nav { border-bottom: 1px solid var(--rule); padding: 0 40px; display: flex; gap: 0; overflow-x: auto; scrollbar-width: none; }
+  .category-nav::-webkit-scrollbar { display: none; }
+  .cat-btn { background: none; border: none; border-bottom: 3px solid transparent; padding: 14px 20px 11px; font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 400; color: var(--muted); cursor: pointer; white-space: nowrap; transition: color 0.15s, border-color 0.15s; text-transform: capitalize; }
+  .cat-btn:hover { color: var(--ink); }
+  .cat-btn.active { color: var(--ink); border-bottom-color: var(--accent); font-weight: 500; }
+  .main { max-width: 1200px; margin: 0 auto; padding: 36px 40px 60px; }
+  .section-header { display: flex; align-items: center; gap: 16px; margin-bottom: 28px; }
+  .section-title { font-family: 'Playfair Display', serif; font-size: 22px; font-weight: 700; text-transform: capitalize; }
+  .section-count { font-size: 12px; color: var(--muted); font-weight: 300; }
+  .section-rule { flex: 1; height: 1px; background: var(--rule); }
+  .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; }
+  .news-card { background: var(--card-bg); border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; display: flex; flex-direction: column; transition: transform 0.15s, box-shadow 0.15s; cursor: pointer; text-decoration: none; color: inherit; }
+  .news-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.08); }
+  .card-image-wrap { height: 160px; overflow: hidden; background: var(--tag-bg); position: relative; }
+  .card-image-wrap img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .card-image-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 32px; opacity: 0.3; font-family: 'Playfair Display', serif; color: var(--muted); }
+  .card-category-badge { position: absolute; top: 12px; left: 12px; background: var(--accent); color: #fff; font-size: 9px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; padding: 3px 8px; }
+  .card-body { padding: 20px; flex: 1; display: flex; flex-direction: column; gap: 10px; }
+  .card-title { font-family: 'Playfair Display', serif; font-size: 17px; font-weight: 700; line-height: 1.35; color: var(--ink); }
+  .card-summary { font-size: 13.5px; font-weight: 300; line-height: 1.7; color: #3a3830; flex: 1; }
+  .card-footer { display: flex; justify-content: space-between; align-items: center; padding: 12px 20px; border-top: 1px solid var(--rule); background: #fcfaf6; }
+  .card-source { font-size: 11px; font-weight: 500; color: var(--muted); text-transform: uppercase; letter-spacing: 0.07em; }
+  .card-time { font-size: 11px; color: var(--muted); font-weight: 300; }
+  .card-read-link { font-size: 11px; color: var(--accent); text-decoration: none; font-weight: 500; }
+  .card-read-link:hover { text-decoration: underline; }
+  .state-msg { text-align: center; padding: 60px 20px; color: var(--muted); font-size: 14px; font-weight: 300; grid-column: 1/-1; }
+  .state-msg strong { display: block; font-family: 'Playfair Display', serif; font-size: 22px; color: var(--ink); font-weight: 700; margin-bottom: 8px; }
+  .skeleton { animation: shimmer 1.4s infinite; }
+  @keyframes shimmer { 0%,100%{opacity:1} 50%{opacity:0.4} }
+  .skeleton-card { background: var(--card-bg); border: 1px solid var(--rule); border-radius: 2px; overflow: hidden; }
+  .sk-img { height: 160px; background: var(--tag-bg); }
+  .sk-body { padding: 20px; }
+  .sk-line { height: 12px; background: var(--rule); border-radius: 2px; margin-bottom: 10px; }
+  .site-footer { border-top: 1px solid var(--rule); padding: 20px 40px; display: flex; justify-content: space-between; align-items: center; font-size: 11px; color: var(--muted); font-weight: 300; }
+  @media (max-width: 640px) {
+    .masthead { padding: 20px; flex-direction: column; align-items: flex-start; }
+    .brand-name { font-size: 32px; }
+    .category-nav { padding: 0 20px; }
+    .main { padding: 24px 20px 48px; }
+    .news-grid { grid-template-columns: 1fr; }
+    .site-footer { flex-direction: column; gap: 8px; text-align: center; }
+  }
+</style>
+</head>
+<body>
+
+<div class="ticker-wrap">
+  <span class="ticker-label">Latest</span>
+  <div class="ticker-track" id="ticker-track">
+    <span class="ticker-item">Loading latest headlines…</span>
+  </div>
+</div>
+
+<header class="masthead">
+  <div class="masthead-brand">
+    <div class="brand-name">Briefed<span>.</span></div>
+    <div class="brand-tagline">60 words. Twice daily.</div>
+  </div>
+  <div class="masthead-meta">
+    <div class="meta-date" id="today-date"></div>
+    <div class="meta-updated" id="last-updated">Loading…</div>
+  </div>
+</header>
+
+<nav class="category-nav" id="category-nav">
+  <button class="cat-btn active" data-cat="all">All</button>
+</nav>
+
+<main class="main">
+  <div class="section-header">
+    <div class="section-title" id="section-title">All News</div>
+    <div class="section-count" id="section-count"></div>
+    <div class="section-rule"></div>
+  </div>
+  <div class="news-grid" id="news-grid">
+    <div class="skeleton-card skeleton"><div class="sk-img"></div><div class="sk-body"><div class="sk-line" style="width:80%"></div><div class="sk-line" style="width:60%"></div><div class="sk-line" style="width:90%"></div></div></div>
+    <div class="skeleton-card skeleton"><div class="sk-img"></div><div class="sk-body"><div class="sk-line" style="width:70%"></div><div class="sk-line" style="width:85%"></div><div class="sk-line" style="width:55%"></div></div></div>
+    <div class="skeleton-card skeleton"><div class="sk-img"></div><div class="sk-body"><div class="sk-line" style="width:90%"></div><div class="sk-line" style="width:40%"></div><div class="sk-line" style="width:75%"></div></div></div>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div>© Briefed — AI-generated summaries. Always verify with original sources.</div>
+  <div id="footer-updated"></div>
+</footer>
+
+<script>
+  const NEWS_JSON_URL = 'https://raw.githubusercontent.com/agrawalrahul-ai/briefed-news/main/news.json';
+
+  let allArticles = [];
+  let currentCat  = 'all';
+
+  document.getElementById('today-date').textContent = new Date().toLocaleDateString('en-US', {
+    weekday: 'long', year: 'numeric', month: 'long', day: 'numeric'
+  });
+
+  async function loadNews() {
+    try {
+      const res  = await fetch(NEWS_JSON_URL + '?t=' + Date.now());
+      if (!res.ok) throw new Error('HTTP ' + res.status);
+      const data = await res.json();
+      processData(data);
+    } catch (err) {
+      showError(err);
+    }
+  }
+
+  function processData(data) {
+    allArticles = [];
+    const categories = Object.keys(data.categories || {});
+    categories.forEach(cat => {
+      (data.categories[cat] || []).forEach(art => {
+        allArticles.push({ ...art, category: art.category || cat });
+      });
+    });
+    allArticles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
+    buildNav(['all', ...categories]);
+    buildTicker(allArticles);
+    const upd = data.updatedAt ? new Date(data.updatedAt) : new Date();
+    document.getElementById('last-updated').textContent  = 'Updated ' + upd.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
+    document.getElementById('footer-updated').textContent = 'Last refresh: ' + upd.toLocaleString();
+    render();
+  }
+
+  function buildNav(cats) {
+    const nav = document.getElementById('category-nav');
+    nav.innerHTML = '';
+    cats.forEach(cat => {
+      const btn = document.createElement('button');
+      btn.className = 'cat-btn' + (cat === currentCat ? ' active' : '');
+      btn.dataset.cat = cat;
+      btn.textContent = cat === 'all' ? 'All' : cap(cat);
+      btn.addEventListener('click', () => setCategory(cat));
+      nav.appendChild(btn);
+    });
+  }
+
+  function setCategory(cat) {
+    currentCat = cat;
+    document.querySelectorAll('.cat-btn').forEach(b => b.classList.toggle('active', b.dataset.cat === cat));
+    render();
+  }
+
+  function render() {
+    const filtered = currentCat === 'all' ? allArticles : allArticles.filter(a => a.category === currentCat);
+    document.getElementById('section-title').textContent = currentCat === 'all' ? 'All News' : cap(currentCat);
+    document.getElementById('section-count').textContent = filtered.length + ' stories';
+    const grid = document.getElementById('news-grid');
+    if (filtered.length === 0) {
+      grid.innerHTML = '<div class="state-msg"><strong>Nothing here yet</strong>Check back after the next update.</div>';
+      return;
+    }
+    grid.innerHTML = '';
+    filtered.forEach(art => grid.appendChild(makeCard(art)));
+  }
+
+  function makeCard(art) {
+    const card = document.createElement('a');
+    card.className = 'news-card';
+    card.href = art.url || '#';
+    card.target = '_blank';
+    card.rel = 'noopener noreferrer';
+    card.innerHTML = `
+      <div class="card-image-wrap">
+        ${art.image
+          ? `<img src="${esc(art.image)}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=card-image-placeholder>◆</div>'">`
+          : `<div class="card-image-placeholder">◆</div>`}
+        <div class="card-category-badge">${esc(art.category || 'news')}</div>
+      </div>
+      <div class="card-body">
+        <div class="card-title">${esc(art.title)}</div>
+        <div class="card-summary">${esc(art.summary)}</div>
+      </div>
+      <div class="card-footer">
+        <span class="card-source">${esc(art.source || '')}</span>
+        <span class="card-time">${relativeTime(art.publishedAt)}</span>
+        <a class="card-read-link" href="${esc(art.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Read →</a>
+      </div>`;
+    return card;
+  }
+
+  function buildTicker(articles) {
+    if (!articles.length) return;
+    const items = articles.slice(0, 20).map(a => `<span class="ticker-item">${esc(a.title)}</span>`).join('');
+    document.getElementById('ticker-track').innerHTML = items + items;
+  }
+
+  function showError(err) {
+    console.error('Failed to load news:', err);
+    document.getElementById('last-updated').textContent = 'Could not load';
+    document.getElementById('news-grid').innerHTML = `<div class="state-msg"><strong>Could not load news</strong>Make sure news.json exists in your GitHub repo and n8n has run at least once.<br><br><small>${err.message}</small></div>`;
+  }
+
+  function cap(s) { return s.charAt(0).toUpperCase() + s.slice(1); }
+
+  function esc(s) {
+    if (!s) return '';
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  function relativeTime(iso) {
+    if (!iso) return '';
+    const diff = (Date.now() - new Date(iso).getTime()) / 1000;
+    if (diff < 3600)  return Math.round(diff / 60) + 'm ago';
+    if (diff < 86400) return Math.round(diff / 3600) + 'h ago';
+    return Math.round(diff / 86400) + 'd ago';
+  }
+
+  loadNews();
+  setInterval(loadNews, 15 * 60 * 1000);
+</script>
+</body>
+</html>
