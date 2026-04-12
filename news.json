@@ -1,1 +1,34 @@
-empty
+{
+  "updatedAt": "2026-04-12T13:50:57.182Z",
+  "categories": {
+    "general": [
+      {
+        "title": "This accessory lets you play Switch 2 games on your iPad or iMac display at 4K resolution",
+        "url": "https://9to5mac.com/2026/04/11/play-switch-2-games-on-imac-hdmi-4k-capture-card/",
+        "source": "9to5Mac",
+        "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/04/MG_3572.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-04-12T01:34:00Z",
+        "summary": "A new accessory allows users to play Switch 2 games on iPad or iMac displays at 4K resolution. Apple iMacs have featured high-quality display panels, but previously, they could only be utilized for macOS. The discontinued Target Display Mode limited their use. This accessory provides a solution, enhancing gaming experiences on Apple's devices with improved visual quality.",
+        "wordCount": 57
+      },
+      {
+        "title": "Two First-Party Switch 2 Ratings Have Been Spotted",
+        "url": "https://www.nintendolife.com/news/2026/04/two-first-party-switch-2-ratings-have-been-spotted",
+        "source": "Nintendo Life",
+        "image": "https://images.nintendolife.com/c4f7571d7a573/large.jpg",
+        "publishedAt": "2026-04-12T01:05:00Z",
+        "summary": "New ratings for two Nintendo Switch titles, \"Splatoon Raiders\" and \"Fire Emblem: Fortune's Weave,\" have been identified on Nintendo's European website. This discovery suggests that Nintendo may be preparing for upcoming releases. \"Splatoon Raiders\" is anticipated as a single-player spin-off, potentially appealing to fans who prefer solo gameplay over the traditional PvP format of the Splatoon series.",
+        "wordCount": 57
+      },
+      {
+        "title": "Regularly $1,099, you can now get this MacBook Air for $230 if you act fast",
+        "url": "https://mashable.com/article/april-10-macbook-air-13-3-inch-8gbram-128gb",
+        "source": "Mashable",
+        "image": "https://helios-i.mashable.com/imagery/articles/01K57TTZpOZPxIvhfPGSIdA/hero-image.fill.size_1200x675.v1775609256.jpg",
+        "publishedAt": "2026-04-12T00:20:45Z",
+        "summary": "The Apple MacBook Air, originally priced at $1,099, is currently available for $229.99. This discount presents an opportunity for those looking to upgrade their laptop. The MacBook Air is noted for its performance and efficiency, making it a suitable choice for users seeking a reliable device. Interested buyers are encouraged to act quickly to secure this deal.",
+        "wordCount": 57
+      }
+    ]
+  }
+}
