@@ -1,195 +1,68 @@
 {
-  "updatedAt": "2026-04-12T16:51:57.741Z",
+  "updatedAt": "2026-04-13T06:11:29.439Z",
   "categories": {
-    "general": [
+    "world": [
       {
-        "title": "Iran’s new supreme leader Mojtaba Khamenei recovering from severe, disfiguring wounds: Report",
-        "url": "https://indianexpress.com/article/world/iran-new-supreme-leader-mojtaba-khamenei-severe-disfiguring-wounds-report-10631960/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/04/Iran_War_99129-c9b9d.jpg",
-        "publishedAt": "2026-04-12T04:31:54Z",
-        "summary": "Mojtaba Khamenei, appointed as Iran's new Supreme Leader following his father's death on February 28, is reportedly recovering from severe, disfiguring wounds sustained during an airstrike. His health and whereabouts have been largely kept secret since the incident. The situation remains tense as negotiations continue regarding the ongoing conflict and the reopening of the Strait of Hormuz.",
-        "wordCount": 57
-      },
-      {
-        "title": "US navy warships transit Strait of Hormuz amid tense standoff with Iran",
-        "url": "https://www.indiatoday.in/world/story/us-navy-destroyers-transit-strait-of-hormuz-amid-iran-standoff-last-warning-talks-2894973-2026-04-12",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/tense-standoff-in-strait-of-hormuz-as-iranian-navy-challenges-us-destroyers-trying-to-sail-through-12200711-16x9_0.jpg?VersionId=BvMjFWSSzmaN_4MNUG6fORQCBGDpIi9p",
-        "publishedAt": "2026-04-12T03:22:06Z",
-        "summary": "US Navy warships transited the Strait of Hormuz amid escalating tensions with Iran, coinciding with diplomatic talks in Islamabad. The presence of American vessels heightened the standoff with Iranian forces in the contested waters. Negotiators from both nations engaged in discussions, but the military movements underscored the fragile situation, reflecting ongoing geopolitical tensions in the region.",
-        "wordCount": 56
-      },
-      {
-        "title": "'Unlawful requests': Iran hits out at US after Islamabad talks fail, cites ‘breach of promises’",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/unlawful-requests-iran-hits-out-at-us-after-islamabad-talks-fail-cites-breach-of-promises/articleshow/130201900.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130201935,width-1280,height-720,imgsize-699122,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-12T03:16:00Z",
-        "summary": "Iran's foreign ministry spokesperson criticized the United States following unsuccessful negotiations in Islamabad, accusing Washington of \"breaches of promise\" and making \"excessive demands.\" The talks aimed to address key issues but ended without an agreement, reflecting ongoing tensions between the two nations. Iran's response indicates a firm stance against what it perceives as unlawful requests from the U.S.",
-        "wordCount": 58
-      },
-      {
-        "title": "popular former employee and father of AI Yann LeCun calls Anthropic's latest model that has everyone scared, as 'Drama'",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/metas-most-popular-former-employee-and-father-of-ai-yann-lecun-calls-anthropics-latest-model-that-has-everyone-scared-as-drama/articleshow/130202341.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130202341,width-1280,height-720,imgsize-102708,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-12T04:10:00Z",
-        "summary": "Yann LeCun, former chief AI scientist at Meta and a deep learning pioneer, has criticized the alarm surrounding Anthropic's Claude Mythos Preview, labeling it as \"BS from self-delusion.\" He argues that the model's capabilities, which reportedly include identifying vulnerabilities in major operating systems, should not incite fear. LeCun's comments reflect a broader skepticism about AI-related anxieties.",
-        "wordCount": 56
-      },
-      {
-        "title": "Stocks to buy under ₹100: Sumeet Bagadia recommends three stocks to buy on Monday - 13 April 2026",
-        "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-100-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-13-april-2026-11775964628990.html",
-        "source": "Mint",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/12/1600x900/logo/Sumeet_Bagadia_Choice_Broking_1680942463906_1775966127843.jpg",
-        "publishedAt": "2026-04-12T04:01:48Z",
-        "summary": "The Indian stock market rebounded after six weeks of decline, driven by positive global cues and investor optimism regarding a potential US–Iran ceasefire. Analyst Sumeet Bagadia provided insights into the market outlook for the coming week and recommended three stocks priced under ₹100 as good buying opportunities in the current situation, reflecting a shift in investor sentiment.",
-        "wordCount": 57
-      },
-      {
-        "title": "From setbacks to second wind, what next for Ola and Bhavish Aggarwal?",
-        "url": "https://economictimes.indiatimes.com/industry/renewables/what-next-for-bhavish-aggarwal-the-ola-electric-founder-bets-on-energy-independence-to-revive-growth-can-he-turn-it-around/articleshow/130202152.cms?from=mdr",
+        "title": "After unsuccessful US-Iran talks, what next for Trump?",
+        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-dilemma-after-failed-us-iran-talks-options-narrow-as-tensions-escalate/articleshow/130215405.cms?from=mdr",
         "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-130202218,width-1200,height-630,imgsize-967923,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-12T03:58:55Z",
-        "summary": "Ola Electric faces significant challenges, including a decline in market share, financial strain, and operational difficulties. Founder Bhavish Aggarwal is now concentrating on addressing service problems and implementing aggressive price reductions to stimulate growth. This strategy comes amid increasing competition from established companies in the electric vehicle sector, as Ola seeks to regain its competitive edge.",
-        "wordCount": 56
+        "image": "https://img.etimg.com/thumb/msid-130216342,width-1200,height-630,imgsize-53696,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-04-12T18:09:37Z",
+        "category": "world",
+        "summary": "President Donald Trump confronts difficult decisions following unsuccessful US-Iran peace talks. A suggested blockade of the Strait of Hormuz may heighten tensions and raise global economic concerns. Analysts express skepticism about this approach, highlighting potential dangers to US military personnel and the possibility of voter discontent. Meanwhile, Iran's Revolutionary Guards issue a strong warning regarding the situation.",
+        "wordCount": 57
       },
       {
-        "title": "Vivo T5 Pro 5G Roundup: Launch Date, Expected Price in India and Specifications",
-        "url": "https://www.gadgets360.com/mobiles/features/vivo-t5-pro-5g-roundup-leaks-price-in-india-launch-date-availability-specifications-features-11339409",
-        "source": "Gadgets 360",
-        "image": "https://i.gadgets360cdn.com/large/vivo_t5_pro_5g_1775631819632.jpg",
-        "publishedAt": "2026-04-12T02:30:01Z",
-        "summary": "Vivo T5 Pro 5G is scheduled for launch in India on April 15. It features a 9,020mAh battery and a dual rear camera setup. This model will be the second in Vivo's T5 series, following the Vivo T5x 5G, which was introduced on March 17. Further details on pricing and specifications are anticipated closer to the launch date.",
+        "title": "Nigerian airstrike hits market, 200 feared dead in Yobe state",
+        "url": "https://www.cnbc.com/2026/04/12/nigerian-airstrike-hits-market-200-feared-dead-in-yobe-state.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108290190-1776010795537-gettyimages-2269139779-030426mtlf055.jpeg?v=1776010818&w=1920&h=1080",
+        "publishedAt": "2026-04-12T16:21:31Z",
+        "category": "world",
+        "summary": "Nigerian military jets mistakenly struck a village market in Yobe state while pursuing Islamist militants on Saturday night, resulting in at least 200 feared dead. Local officials and residents reported the incident, highlighting the tragic consequences of the airstrike. The Nigerian Air Force has faced criticism for its operations in civilian areas amid ongoing conflicts with militant groups.",
         "wordCount": 58
       },
       {
-        "title": "7 everyday devices that secretly run Linux",
-        "url": "https://www.howtogeek.com/everyday-devices-that-secretly-run-linux/",
-        "source": "How-To Geek",
-        "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2025/03/linux-mascot-on-a-globe-holding-a-flag.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-04-11T18:30:16Z",
-        "summary": "Many everyday devices operate on Linux, showcasing its widespread influence since its launch in 1991 by Linus Torvalds. This open-source operating system powers various technologies, including smartphones, smart TVs, and home routers. Its robust design and adaptability have made it a popular choice for manufacturers, enabling a range of devices to function efficiently and securely in daily life.",
-        "wordCount": 58
-      },
-      {
-        "title": "France says no to Microsoft Windows and the reason is America; says: We want to regain control of ...",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/france-says-no-to-microsoft-windows-and-the-reason-is-america-says-we-want-to-regain-control-of-/articleshow/130196156.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130196160,width-1280,height-720,imgsize-41932,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-11T17:03:00Z",
-        "summary": "France is shifting away from Microsoft Windows as part of a broader European initiative to decrease dependence on American technology. This decision reflects a desire to regain control over digital sovereignty and promote local alternatives. The move aligns with ongoing efforts across Europe to foster technological independence and reduce reliance on major U.S. tech companies in various sectors.",
-        "wordCount": 58
-      },
-      {
-        "title": "Sanju Samson's IPL 2026 Ton Prompts Stunning 'MS Dhoni Remark' From CSK Coach",
-        "url": "https://sports.ndtv.com/ipl-2026/samson-not-far-behind-dhoni-when-it-comes-to-calmness-csk-bowling-coach-eric-simons-11345586",
-        "source": "NDTV Sports",
-        "image": "https://c.ndtvimg.com/2026-04/rttpkejo_sanju-samson-ton-bcci-ipl_625x300_12_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-12T04:48:04Z",
-        "summary": "Sanju Samson made history by scoring his first IPL century for Chennai Super Kings (CSK), becoming the first player to achieve centuries for three different franchises. CSK bowling coach Eric Simons praised both Samson and MS Dhoni for their composure and game understanding, calling Dhoni one of the calmest players he has ever worked with during his career.",
-        "wordCount": 58
-      },
-      {
-        "title": "\"Don't Have X-Factor\": CSK Captain Ruturaj Gaikwad's Straight Talk After Win Over DC",
-        "url": "https://sports.ndtv.com/ipl-2026/dont-have-x-factor-csk-captain-ruturaj-gaikwads-straight-talk-after-win-over-dc-11344914",
-        "source": "NDTV Sports",
-        "image": "https://c.ndtvimg.com/2026-04/oooank1_ruturaj-gaikwad-bcci_625x300_12_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-12T04:05:04Z",
-        "summary": "Chennai Super Kings (CSK) secured their first points of the season with a win over Delhi Capitals (DC) after three consecutive losses. Captain Ruturaj Gaikwad noted the team's bowling lacked an 'X Factor' but emphasized their commitment to improving effectiveness and proactivity. This victory marked CSK's most complete performance so far, reflecting their ongoing efforts to enhance team dynamics.",
-        "wordCount": 59
-      },
-      {
-        "title": "Ayush Mhatre Explains Why CSK Asked Him To Retire Out: 'Wasn't Really Getting It Going'",
-        "url": "https://www.news18.com/cricket/ayush-mhatre-explains-why-csk-asked-him-to-retire-out-wasnt-really-getting-it-going-ws-lno-10028566.html",
-        "source": "News18",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/04/IPL-2026_Ayush-Mhatre-2026-04-b7372c766cda3abd7a8e14123b9d0f68-1200x675.png",
-        "publishedAt": "2026-04-12T04:00:09Z",
-        "summary": "Chennai Super Kings (CSK) retired Ayush Mhatre out during their IPL 2026 match against Delhi, where he scored 59 runs. Mhatre explained the decision, stating he \"wasn't really getting it going.\" CSK posted a total of 212 runs, while Delhi was bowled out for 189, resulting in CSK's first victory of the season by 23 runs.",
-        "wordCount": 56
-      },
-      {
-        "title": "Mint, chilli, eucalyptus combo may fight inflammation better",
-        "url": "https://www.indiatoday.in/health/story/mint-chilli-eucalyptus-combo-may-fight-inflammation-better-2894988-2026-04-12",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/spices-102942675-16x9.jpg?VersionId=rWni9Hz4Kk75M6o3E5aQleAYrNqM1caA",
-        "publishedAt": "2026-04-12T04:21:30Z",
-        "summary": "Research indicates that combining common spices such as mint, chilli, and eucalyptus may enhance anti-inflammatory effects compared to using them individually. Chronic inflammation, often asymptomatic, can elevate the risk of serious health issues, including type 2 diabetes, heart disease, arthritis, obesity, and cancer. This study suggests a potential natural approach to mitigate inflammation-related health risks.",
-        "wordCount": 55
-      },
-      {
-        "title": "Think Before You Pop That Pill: How Common Painkillers Can Damage Your Kidneys",
-        "url": "https://www.news18.com/lifestyle/health-and-fitness/think-before-you-pop-that-pill-how-common-painkillers-can-damage-your-kidneys-10028540.html",
-        "source": "News18",
-        "image": "https://images.news18.com/ibnlive/uploads/2025/08/use-of-contraceptive-pills-2025-08-26942bd0daf6dc1f17646868a0ae52f2-16x9.png",
-        "publishedAt": "2026-04-12T03:30:13Z",
-        "summary": "Frequent use of common painkillers, such as ibuprofen and diclofenac, can potentially damage kidneys. Experts highlight the associated risks and warning signs, advising caution in their use. They recommend exploring safer alternatives for pain management to mitigate the risk of kidney harm. Awareness of the implications of regular painkiller consumption is essential for maintaining kidney health.",
-        "wordCount": 56
-      },
-      {
-        "title": "10,000 Steps Vs One Hour Of Pickleball: What Really Works For Your Fitness?",
-        "url": "https://www.news18.com/lifestyle/health-and-fitness/10000-steps-vs-one-hour-of-pickleball-what-really-works-for-your-fitness-10028523.html",
-        "source": "News18",
-        "image": "https://images.news18.com/ibnlive/uploads/2025/09/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2025-09-27T171832.106-2025-09-41c534bb4137a4f6725b52dac06e4230-16x9.png",
-        "publishedAt": "2026-04-12T02:59:30Z",
-        "summary": "Experts discuss the effectiveness of 10,000 steps a day compared to engaging workouts like pickleball. They suggest that activities such as pickleball may provide superior fitness benefits due to their dynamic nature. The traditional step-counting approach may not be sufficient for optimal health, prompting a reevaluation of exercise methods to enhance overall fitness and well-being.",
-        "wordCount": 55
-      },
-      {
-        "title": "Artemis II spotlights engineering of human spaceflight and ISRO’s progress",
-        "url": "https://www.thehindu.com/sci-tech/science/artemis-ii-spotlights-engineering-of-human-spaceflight-and-isros-progress/article70850229.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/g831wa/article70850262.ece/alternates/LANDSCAPE_1200/2026-04-10T172804Z_2046254458_RC2VJKA2YTEP_RTRMADP_3_SPACE-MOON-ARTEMIS-VICTOR-GLOVER.JPG",
-        "publishedAt": "2026-04-11T06:55:50Z",
-        "summary": "On April 10, the Orion crew capsule from NASA's Artemis II mission successfully splashed down in the Pacific Ocean after a 10-day journey around the moon, carrying four astronauts. This mission highlights advancements in human spaceflight engineering. Additionally, the Indian Space Research Organisation (ISRO) is making progress on its Gaganyaan crewed mission, aiming for future human space exploration.",
-        "wordCount": 58
-      },
-      {
-        "title": "New era for space dawns as Artemis astronauts return",
-        "url": "https://news.un.org/en/story/2026/04/1167284",
-        "source": "UN News",
-        "image": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/09-04-2026_Brian-Cox.jpg/image770x420cropped.jpg",
-        "publishedAt": "2026-04-10T18:10:35Z",
-        "summary": "NASA’s Artemis II mission, featuring four astronauts, is concluding a 10-day journey around the Moon, with a planned splashdown in the Pacific Ocean on Friday. This historic mission achieved a record distance for human space travel during its lunar flyby. It marks a significant step toward returning humans to the Moon's surface for the first time since 1972.",
-        "wordCount": 58
-      },
-      {
-        "title": "Artemis II returns LIVE: NASA prepares for Artemis II crew's perilous return to Earth at record-breaking speeds",
-        "url": "https://www.livescience.com/space/live/artemis-ii-returns-friday-april-10",
-        "source": "Live Science",
-        "image": "https://cdn.mos.cms.futurecdn.net/JkcjH69AupHTZFHZ3coZSS-2560-80.jpg",
-        "publishedAt": "2026-04-10T14:41:38Z",
-        "summary": "NASA's Artemis II mission crew is preparing for their return to Earth after a 10-day lunar journey. As they approach reentry, the spacecraft, Integrity, is expected to travel at record-breaking speeds. Live updates are being provided, showcasing views from the solar array wing camera. The crew anticipates witnessing Earth grow larger in their field of view during descent.",
-        "wordCount": 58
-      },
-      {
-        "title": "Salman Khan's Maatrubhumi 'sanitised', references to China removed and 40% film reshot after diktat from centre: Report",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/salman-khan-maatrubhumi-sanitised-references-to-china-and-galwan-valley-clash-removed-after-diktat-from-centre-101775968299348.html",
+        "title": "‘Trumpian revolution’ cracking: Defeat imminent in Europe as Hungary votes, MAGA fractures at home too",
+        "url": "https://www.hindustantimes.com/world-news/trumpian-revolution-cracking-defeat-imminent-in-europe-as-orban-set-to-lose-hungary-maga-fractures-at-home-too-101775998132263.html",
         "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/12/550x309/salman_khan_1769436573180_1769436578237_1775968408152.jpeg",
-        "publishedAt": "2026-04-12T04:45:48Z",
-        "summary": "Salman Khan's film Maatrubhumi, previously titled Battle of Galwan, has undergone significant changes following a directive from the Ministry of Defence. All references to China have been removed, and approximately 40% of the film has been reshot to incorporate a fictional narrative. The adjustments aim to align the film with government requests regarding its portrayal of real events.",
-        "wordCount": 58
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/12/550x309/n_1775998710783_1775998718802.png",
+        "publishedAt": "2026-04-12T16:06:48Z",
+        "category": "world",
+        "summary": "Hungary's recent election poses a significant challenge to Prime Minister Viktor Orban's 16-year rule and his concept of \"illiberal democracy.\" This election is seen as a critical test for Orban, who has shifted from left-wing to far-right politics. Former President Trump has endorsed Orban's approach as a model for his Make America Great Again movement.",
+        "wordCount": 55
+      }
+    ],
+    "business": [
+      {
+        "title": "Trade Setup for April 13: Top 15 things to know before the opening bell as US-Iran talks end without agreement",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/trade-setup-for-april-13-top-15-things-to-know-before-the-opening-bell-as-us-iran-talks-end-without-agreement-13886935.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260314033855_sensex_nifty_stock_markets.jpg",
+        "publishedAt": "2026-04-12T17:04:51Z",
+        "category": "business",
+        "summary": "US-Iran talks concluded without an agreement, impacting market sentiment. The technical setup showed improvement, highlighted by a bullish crossover in momentum indicators. The index maintained its position above short-term moving averages, indicating potential for further gains. Analysts suggest that sustaining levels above 24,000 will be crucial for short-term market performance as traders prepare for the opening bell.",
+        "wordCount": 57
       },
       {
-        "title": "Ranveer Allahbadia reacts to Samay Raina jabs on Still Alive Kaun Samay",
-        "url": "https://www.indiatoday.in/entertainment/story/ranveer-allahbadia-responds-to-samay-raina-still-alive-special-india-got-latent-controversy-2894989-2026-04-12",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/ranveer-allahbadia--samay-raina-12113148-16x9_0.jpg?VersionId=cKOYzK9_kdIlEhoXkyeoXr2sVBmznKVF",
-        "publishedAt": "2026-04-12T04:38:48Z",
-        "summary": "Podcaster Ranveer Allahbadia addressed comedian Samay Raina's jokes directed at him in Raina's stand-up special, Still Alive. The special, released on YouTube, included multiple jabs at Ranveer, coinciding with ongoing discussions surrounding the India’s Got Latent controversy. Ranveer's reaction highlights the interplay between social media commentary and comedic performances in contemporary entertainment.",
-        "wordCount": 52
+        "title": "How are China and Iran cornering US without firing a shot amid tensions in Gulf",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/how-are-china-and-iran-cornering-us-without-firing-a-shot-amid-tensions-in-gulf/articleshow/130211394.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130211768,width-1280,height-720,imgsize-1904004,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-12T17:03:00Z",
+        "category": "business",
+        "summary": "China and Iran are leveraging global supply chains and strategic chokepoints to challenge the United States without direct military confrontation. This approach is reshaping economic warfare and highlighting vulnerabilities in U.S. strategies. A report by The Washington Post analyzes these developments, emphasizing how both nations are effectively countering U.S. influence in the Gulf region amid rising tensions.",
+        "wordCount": 57
       },
       {
-        "title": "Kayadu Lohar: The busiest actress to watch out for",
-        "url": "https://www.123telugu.com/mnews/kayadu-lohar-the-busiest-actress-to-watch-out-for-avd.html",
-        "source": "123telugu.com",
-        "image": "https://cdn.123telugu.com/content/wp-content/uploads/2026/04/Kayadu-Lohar-1.webp",
-        "publishedAt": "2026-04-12T04:31:00Z",
-        "summary": "Kayadu Lohar is gaining recognition as one of the busiest young actresses in South Indian cinema. Her upcoming projects across various film industries highlight her rising prominence. As she continues to build an impressive portfolio, industry insiders are increasingly viewing her as a potential leading star in the region. Her work is generating significant interest among audiences and critics alike.",
-        "wordCount": 60
+        "title": "Q4 results: ICICI Prudential AMC, Just Dial, Swaraj Engines among 7 firms to release earnings on April 13; check list",
+        "url": "https://upstox.com/news/market-news/earnings/q4-results-icici-prudential-amc-just-dial-swaraj-engines-among-7-firms-to-release-earnings-on-april-13-check-list/article-192024/",
+        "source": "Upstox",
+        "image": "https://assets.upstox.com/content/assets/images/news/bajaj-finance-q4-results-date-time-dividend.webp",
+        "publishedAt": "2026-04-12T16:32:52Z",
+        "category": "business",
+        "summary": "Seven companies, including ICICI Prudential AMC, Just Dial, and Swaraj Engines, will announce their Q4 earnings for FY26 on April 13. ICICI Prudential AMC and Swaraj Engines are also expected to declare their final dividends for the fiscal year. Other firms reporting include Continental Controls and Ind Bank Housing, among others, contributing to the financial updates for the quarter.",
+        "wordCount": 59
       }
     ]
   }
