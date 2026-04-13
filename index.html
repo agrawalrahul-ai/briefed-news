@@ -14,19 +14,10 @@
     --rule: #e0ddd5;
     --accent: #c8392b;
     --card-bg: #ffffff;
-    --ticker-bg: #0f0f0f;
-    --ticker-text: #faf8f3;
     --tag-bg: #f0ede6;
   }
   *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
   body { font-family: 'DM Sans', sans-serif; background: var(--paper); color: var(--ink); min-height: 100vh; }
-  .ticker-wrap { background: var(--ticker-bg); color: var(--ticker-text); padding: 10px 0; overflow: hidden; position: sticky; top: 0; z-index: 100; border-bottom: 2px solid var(--accent); }
-  .ticker-label { display: inline-block; background: var(--accent); color: #fff; font-size: 10px; font-weight: 500; letter-spacing: 0.12em; text-transform: uppercase; padding: 3px 10px; margin-right: 20px; vertical-align: middle; }
-  .ticker-track { display: inline-block; white-space: nowrap; animation: scroll-ticker 40s linear infinite; }
-  .ticker-track:hover { animation-play-state: paused; }
-  .ticker-item { display: inline-block; font-size: 12px; font-weight: 300; letter-spacing: 0.04em; margin-right: 60px; vertical-align: middle; opacity: 0.9; }
-  .ticker-item::before { content: '◆'; color: var(--accent); margin-right: 10px; font-size: 8px; }
-  @keyframes scroll-ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
   .masthead { border-bottom: 1px solid var(--rule); padding: 28px 40px 20px; display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; }
   .masthead-brand { display: flex; align-items: baseline; gap: 12px; }
   .brand-name { font-family: 'Playfair Display', serif; font-size: 42px; font-weight: 900; letter-spacing: -0.02em; line-height: 1; color: var(--ink); }
@@ -81,13 +72,6 @@
 </head>
 <body>
 
-<div class="ticker-wrap">
-  <span class="ticker-label">Latest</span>
-  <div class="ticker-track" id="ticker-track">
-    <span class="ticker-item">Loading latest headlines…</span>
-  </div>
-</div>
-
 <header class="masthead">
   <div class="masthead-brand">
     <div class="brand-name">Briefed<span>.</span></div>
@@ -99,9 +83,7 @@
   </div>
 </header>
 
-<nav class="category-nav" id="category-nav">
-  <button class="cat-btn active" data-cat="all">All</button>
-</nav>
+<nav class="category-nav" id="category-nav"></nav>
 
 <main class="main">
   <div class="section-header">
@@ -151,8 +133,14 @@
       });
     });
     allArticles.sort((a, b) => new Date(b.publishedAt) - new Date(a.publishedAt));
-    buildNav(['all', ...categories]);
-    buildTicker(allArticles);
+
+    // All tab goes at the END
+    buildNav([...categories, 'all']);
+
+    // Default to first category tab instead of all
+    currentCat = categories[0] || 'all';
+    document.querySelectorAll('.cat-btn').forEach(b => b.classList.toggle('active', b.dataset.cat === currentCat));
+
     const upd = data.updatedAt ? new Date(data.updatedAt) : new Date();
     document.getElementById('last-updated').textContent  = 'Updated ' + upd.toLocaleTimeString('en-US', { hour: '2-digit', minute: '2-digit' });
     document.getElementById('footer-updated').textContent = 'Last refresh: ' + upd.toLocaleString();
@@ -214,12 +202,6 @@
         <a class="card-read-link" href="${esc(art.url)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">Read →</a>
       </div>`;
     return card;
-  }
-
-  function buildTicker(articles) {
-    if (!articles.length) return;
-    const items = articles.slice(0, 20).map(a => `<span class="ticker-item">${esc(a.title)}</span>`).join('');
-    document.getElementById('ticker-track').innerHTML = items + items;
   }
 
   function showError(err) {
