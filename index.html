@@ -168,8 +168,8 @@
 
   function render() {
     const filtered = currentCat === 'all' ? allArticles : allArticles.filter(a => a.category === currentCat);
-    document.getElementById('section-title').textContent = currentCat === 'all' ? 'All News' : cap(currentCat);
-    document.getElementById('section-count').textContent = filtered.length + ' stories';
+    //document.getElementById('section-title').textContent = currentCat === 'all' ? 'All News' : cap(currentCat);
+    //document.getElementById('section-count').textContent = filtered.length + ' stories';
     const grid = document.getElementById('news-grid');
     if (filtered.length === 0) {
       grid.innerHTML = '<div class="state-msg"><strong>Nothing here yet</strong>Check back after the next update.</div>';
