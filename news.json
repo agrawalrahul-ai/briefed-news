@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-04-13T06:11:29.439Z",
+  "updatedAt": "2026-04-13T06:43:00.570Z",
   "categories": {
     "world": [
       {
-        "title": "After unsuccessful US-Iran talks, what next for Trump?",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/trumps-dilemma-after-failed-us-iran-talks-options-narrow-as-tensions-escalate/articleshow/130215405.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-130216342,width-1200,height-630,imgsize-53696,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-12T18:09:37Z",
+        "title": "Fight us, we will fight back: Iran's blunt warning to Trump after talks fail in Pak",
+        "url": "https://www.indiatoday.in/world/story/fight-us-we-fight-back-bring-logic-we-deal-with-logic-iran-to-trumps-hormuz-blockade-warning-2895219-2026-04-12",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/iran-parliament-speaker-mohammad-bagher-ghalibaf--us-president-donald-trump-235309147-16x9_1.jpg?VersionId=CRBn2fel3k0aCeoIYlA5IaJNTT932zTp",
+        "publishedAt": "2026-04-12T18:29:29Z",
         "category": "world",
-        "summary": "President Donald Trump confronts difficult decisions following unsuccessful US-Iran peace talks. A suggested blockade of the Strait of Hormuz may heighten tensions and raise global economic concerns. Analysts express skepticism about this approach, highlighting potential dangers to US military personnel and the possibility of voter discontent. Meanwhile, Iran's Revolutionary Guards issue a strong warning regarding the situation.",
-        "wordCount": 57
+        "summary": "Iran's Parliamentary Speaker Mohammad Baqer Qalibaf responded to Donald Trump's threats following failed peace talks, asserting that such threats would not affect Iran. He emphasized that Iran had engaged in discussions with the United States in good faith. Qalibaf warned that if provoked, Iran would retaliate, reflecting the country's stance on its sovereignty and regional security.",
+        "wordCount": 56
       },
       {
-        "title": "Nigerian airstrike hits market, 200 feared dead in Yobe state",
-        "url": "https://www.cnbc.com/2026/04/12/nigerian-airstrike-hits-market-200-feared-dead-in-yobe-state.html",
-        "source": "CNBC",
-        "image": "https://image.cnbcfm.com/api/v1/image/108290190-1776010795537-gettyimages-2269139779-030426mtlf055.jpeg?v=1776010818&w=1920&h=1080",
-        "publishedAt": "2026-04-12T16:21:31Z",
+        "title": "How a Netanyahu phone call to JD Vance 'shifted focus' in Iran",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/how-a-netanyahu-phone-call-to-jd-vance-shifted-focus-in-iran-us-negotiations/articleshow/130216264.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130217285,width-1280,height-720,imgsize-29766,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-12T18:23:00Z",
         "category": "world",
-        "summary": "Nigerian military jets mistakenly struck a village market in Yobe state while pursuing Islamist militants on Saturday night, resulting in at least 200 feared dead. Local officials and residents reported the incident, highlighting the tragic consequences of the airstrike. The Nigerian Air Force has faced criticism for its operations in civilian areas amid ongoing conflicts with militant groups.",
+        "summary": "The United States and Iran did not achieve a peace deal after extensive 21-hour negotiations in Islamabad, leading to uncertainty regarding a tenuous two-week ceasefire. Both nations accused each other for the failure of the talks. US Vice President JD Vance played a significant role in the discussions, which were aimed at addressing ongoing tensions between the countries.",
         "wordCount": 58
       },
       {
-        "title": "‘Trumpian revolution’ cracking: Defeat imminent in Europe as Hungary votes, MAGA fractures at home too",
-        "url": "https://www.hindustantimes.com/world-news/trumpian-revolution-cracking-defeat-imminent-in-europe-as-orban-set-to-lose-hungary-maga-fractures-at-home-too-101775998132263.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/12/550x309/n_1775998710783_1775998718802.png",
-        "publishedAt": "2026-04-12T16:06:48Z",
+        "title": "US warships fled Hormuz after IRGC's warning? Iran releases footage of standoff",
+        "url": "https://www.indiatoday.in/world/story/did-us-warships-transit-strait-of-hormuz-iran-releases-footage-of-standoff-amid-trump-blockade-2895209-2026-04-12",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/us-warship-121440631-16x9_0.png?VersionId=Tf7MlarZyJayqTOHBTwFG.P7.HTssz90",
+        "publishedAt": "2026-04-12T18:16:11Z",
         "category": "world",
-        "summary": "Hungary's recent election poses a significant challenge to Prime Minister Viktor Orban's 16-year rule and his concept of \"illiberal democracy.\" This election is seen as a critical test for Orban, who has shifted from left-wing to far-right politics. Former President Trump has endorsed Orban's approach as a model for his Make America Great Again movement.",
-        "wordCount": 55
+        "summary": "Iranian state media reported that the IRGC Navy warned a US missile destroyer to change course while it was in the Strait of Hormuz. Iran claims this warning led to the retreat of US warships, while the United States maintains that its vessels completed their mission without interference. Conflicting narratives are emerging regarding the encounter in the strategic waterway.",
+        "wordCount": 59
       }
     ],
     "business": [
@@ -41,8 +41,8 @@
         "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260314033855_sensex_nifty_stock_markets.jpg",
         "publishedAt": "2026-04-12T17:04:51Z",
         "category": "business",
-        "summary": "US-Iran talks concluded without an agreement, impacting market sentiment. The technical setup showed improvement, highlighted by a bullish crossover in momentum indicators. The index maintained its position above short-term moving averages, indicating potential for further gains. Analysts suggest that sustaining levels above 24,000 will be crucial for short-term market performance as traders prepare for the opening bell.",
-        "wordCount": 57
+        "summary": "US-Iran talks concluded without an agreement, impacting market sentiment. The technical setup for trading on April 13 showed a bullish crossover in momentum indicators. The index maintained its position above short-term moving averages, indicating strength. Traders should monitor the sustainability of the index above 24,000, as this level is crucial for short-term market performance.",
+        "wordCount": 54
       },
       {
         "title": "How are China and Iran cornering US without firing a shot amid tensions in Gulf",
@@ -51,7 +51,7 @@
         "image": "https://static.toiimg.com/thumb/msid-130211768,width-1280,height-720,imgsize-1904004,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-04-12T17:03:00Z",
         "category": "business",
-        "summary": "China and Iran are leveraging global supply chains and strategic chokepoints to challenge the United States without direct military confrontation. This approach is reshaping economic warfare and highlighting vulnerabilities in U.S. strategies. A report by The Washington Post analyzes these developments, emphasizing how both nations are effectively countering U.S. influence in the Gulf region amid rising tensions.",
+        "summary": "China and Iran are leveraging global supply chains and strategic chokepoints to challenge the United States without direct military confrontation. This approach is reshaping economic warfare and highlighting vulnerabilities within the U.S. The Washington Post report details how these nations are coordinating efforts to exert influence and counter U.S. policies in the Gulf region amid rising tensions.",
         "wordCount": 57
       },
       {
@@ -61,8 +61,158 @@
         "image": "https://assets.upstox.com/content/assets/images/news/bajaj-finance-q4-results-date-time-dividend.webp",
         "publishedAt": "2026-04-12T16:32:52Z",
         "category": "business",
-        "summary": "Seven companies, including ICICI Prudential AMC, Just Dial, and Swaraj Engines, will announce their Q4 earnings for FY26 on April 13. ICICI Prudential AMC and Swaraj Engines are also expected to declare their final dividends for the fiscal year. Other firms reporting include Continental Controls and Ind Bank Housing, among others, contributing to the financial updates for the quarter.",
+        "summary": "Seven companies, including ICICI Prudential AMC, Just Dial, and Swaraj Engines, are set to announce their Q4 earnings for the financial year 2026-27 on April 13. ICICI Prudential AMC and Swaraj Engines are also expected to declare their final dividends for the fiscal year. Other firms reporting include Continental Controls and Ind Bank Housing, among others.",
+        "wordCount": 56
+      }
+    ],
+    "technology": [
+      {
+        "title": "Apple’s MacBook Air M5 sees a rare 150 US dollar price drop",
+        "url": "https://tech.sportskeeda.com/laptops/news-apple-s-macbook-air-m5-sees-rare-150-us-dollar-price-drop",
+        "source": "Sportskeeda Tech",
+        "image": "https://staticg.sportskeeda.com/editor/2026/04/311de-17760163697607-1920.jpg",
+        "publishedAt": "2026-04-12T18:32:11Z",
+        "category": "technology",
+        "summary": "Apple's MacBook Air M5 has experienced a notable price drop of $150 shortly after its launch on March 3, 2026. This discount applies to various configurations and is available on Amazon. The reduction is considered rare for a new model so soon after release, marking one of the first significant deals for the MacBook Air M5.",
+        "wordCount": 56
+      },
+      {
+        "title": "Why Windows Secure Boot can be bypassed so easily (and what Microsoft isn't telling you)",
+        "url": "https://www.makeuseof.com/why-windows-secure-boot-can-be-bypassed-so-easily/",
+        "source": "MakeUseOf",
+        "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/02/acer-swift-edge-14-ai-1.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-04-12T18:00:17Z",
+        "category": "technology",
+        "summary": "Windows Secure Boot, designed to protect PCs from malware and security threats during startup, has been found to have vulnerabilities that can be easily bypassed. Despite its initial reputation as a robust security feature, there are no straightforward solutions to address these weaknesses. Microsoft has not fully disclosed the extent of these vulnerabilities, raising concerns among users.",
+        "wordCount": 57
+      },
+      {
+        "title": "I replaced Notepad++ with this lightweight editor and never looked back",
+        "url": "https://www.makeuseof.com/kate-lightweight-notepad-alternative/",
+        "source": "MakeUseOf",
+        "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/04/kate-editor-open-on-a-hp-pavillion-gaming-laptop-running-windows-11.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-04-12T17:30:17Z",
+        "category": "technology",
+        "summary": "The author transitioned from Notepad++ to a new lightweight editor, citing performance issues with Notepad++. The lag and automatic reopening of previously open tabs contributed to the decision. The new editor offers a more efficient experience, addressing the frustrations encountered with Notepad++. The author expresses satisfaction with the switch, highlighting the improved functionality and responsiveness of the alternative editor.",
         "wordCount": 59
+      }
+    ],
+    "sports": [
+      {
+        "title": "Labuschagne carries Hyderabad Kingsmen home with unbeaten 61",
+        "url": "https://www.espncricinfo.com/series/pakistan-super-league-2026-1515734/hyderabad-kingsmen-vs-islamabad-united-21st-match-1527572/match-report",
+        "source": "ESPNcricinfo",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/415500/415593.6.jpg",
+        "publishedAt": "2026-04-12T18:14:05Z",
+        "category": "sports",
+        "summary": "In the PSL 2026 match, Hyderabad Kingsmen defeated Islamabad United by four wickets. Marnus Labuschagne scored an unbeaten 61 runs, leading his team to a total of 157 for 4. Islamabad United managed 153 for 9, with Devon Conway contributing 45 runs. Debutant Asif Mehmood excelled with the ball, taking four wickets against the opposing team.",
+        "wordCount": 56
+      },
+      {
+        "title": "IPL 2026: Rohit Sharma retires hurt; Ritika Sajdeh's reaction breaks the internet",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-retires-hurt-ritika-sajdehs-reaction-breaks-the-internet/articleshow/130213240.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130213392,width-1280,height-720,imgsize-71526,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-12T17:37:00Z",
+        "category": "sports",
+        "summary": "Rohit Sharma retired hurt during the IPL 2026 match at Wankhede Stadium, where Royal Challengers Bengaluru scored 240/4 against Mumbai Indians. The match featured impressive performances from Phil Salt, Virat Kohli, and Rajat Patidar. Following Sharma's retirement, his wife Ritika Sajdeh's reaction gained significant attention online, sparking widespread discussion among fans and media.",
+        "wordCount": 53
+      }
+    ],
+    "health": [
+      {
+        "title": "11-14-yr-olds in obesity crosshairs, docs launch multi-speciality plan",
+        "url": "https://timesofindia.indiatimes.com/city/kolkata/11-14-yr-olds-in-obesity-crosshairs-docs-launch-multi-speciality-plan/articleshow/130214408.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-117517797,width-1280,height-720,imgsize-507377,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-12T18:30:00Z",
+        "category": "health",
+        "summary": "Experts in Kolkata reported a 20% increase in obesity among children aged 11 to 14 during a meeting for World Obesity Day. In response, a multi-specialty consensus on obesity management was initiated, focusing on comprehensive strategies to address the rising issue. The initiative aims to improve health outcomes for affected children through collaborative efforts among various medical specialties.",
+        "wordCount": 58
+      },
+      {
+        "title": "Jammu Kashmir reports 11,959 TB cases in 2025",
+        "url": "https://www.thenewsnow.co.in/jammu-kashmir-reports-11959-tb-cases-in-2025/",
+        "source": "The News Now",
+        "image": "https://www.thenewsnow.co.in/wp-content/uploads/2024/12/310272163_5593899533999131_4738875370750831308_n-150x150.jpg",
+        "publishedAt": "2026-04-12T18:26:08Z",
+        "category": "health",
+        "summary": "Jammu and Kashmir reported 11,959 tuberculosis (TB) cases in the past year, according to data presented in the Lok Sabha by the Ministry of Health and Family Welfare. This information was disclosed in response to a starred question in Parliament regarding the implementation of TB control measures. The figures highlight the ongoing public health challenge in the region.",
+        "wordCount": 58
+      },
+      {
+        "title": "Biotech firm takes the battle to metastasis",
+        "url": "https://www.thehindubusinessline.com/specials/emerging-entrepreneurs/biotech-firm-takes-the-battle-to-metastasis/article70855184.ece",
+        "source": "BusinessLine",
+        "image": "https://bl-i.thgim.com/public/incoming/vjchh8/article70855186.ece/alternates/LANDSCAPE_1200/BL1304_Spark_anchor.jpg",
+        "publishedAt": "2026-04-12T18:19:55Z",
+        "category": "health",
+        "summary": "Bengaluru biotech firm Mestastop is set to initiate a phase II clinical trial targeting cancer metastasis, specifically in colorectal cancer. This innovative approach aims to address a significant gap in oncology care, as current treatments primarily focus on tumor reduction rather than preventing the spread of cancer. The trial represents a critical step in advancing cancer treatment methodologies.",
+        "wordCount": 58
+      }
+    ],
+    "science": [
+      {
+        "title": "‘Is it anyone’s job to check for sharks?’ NASA responds after Artemis II splashdown",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/is-it-anyones-job-to-check-for-sharks-nasa-responds-after-artemis-ii-splashdown/articleshow/130207133.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130207236,width-1280,height-720,imgsize-36688,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-12T11:34:00Z",
+        "category": "science",
+        "summary": "NASA's Artemis II mission recently achieved a successful splashdown, marking a significant moment in the astronauts' return. The event attracted considerable public interest, with many closely monitoring the mission's updates and final landing. Amid the excitement, questions arose regarding safety measures, including whether it is anyone's responsibility to check for sharks in the splashdown area.",
+        "wordCount": 55
+      },
+      {
+        "title": "Artemis II: What are 'organ chips' NASA sent to space?",
+        "url": "https://www.newsbytesapp.com/news/science/nasa-s-artemis-ii-mission-carried-human-organ-chips-to-moon/story",
+        "source": "NewsBytes",
+        "image": "https://i.cdn.newsbytesapp.com/images/l271_5181775972732.jpg",
+        "publishedAt": "2026-04-12T08:13:30Z",
+        "category": "science",
+        "summary": "NASA's Artemis II mission included an experiment with 'organ chips,' small devices containing lab-grown human tissue replicas. These chips aim to study the effects of deep space on human cells. The mission, which focuses on lunar exploration, seeks to enhance understanding of human health in space. This research could inform future long-duration space missions and medical advancements.",
+        "wordCount": 57
+      },
+      {
+        "title": "Planet Earth, you are a crew: Artemis II after returning from the Moon",
+        "url": "https://www.indiatoday.in/science/artemis-missions/story/artemis-ii-astronauts-return-moon-christina-koch-earth-lifeboat-crew-hansen-2895025-2026-04-12",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/the-artemis-ii-crew-of-reid-wiseman--victor-glover--christina-koch-and-jeremy-hansen-at-their-homeco-121155853-16x9_0.jpg?VersionId=DwxIMdzRhYoF07kH4uetjgAxomDyBiF1",
+        "publishedAt": "2026-04-12T07:25:52Z",
+        "category": "science",
+        "summary": "The Artemis II crew returned to Earth on April 11, 2026, marking the first human lunar flyby in over 50 years. The mission provided valuable data and insights, influencing the astronauts' perspectives on Earth and humanity's place in the universe. This historic journey underscores the significance of space exploration and its potential impact on global awareness and unity.",
+        "wordCount": 58
+      }
+    ],
+    "entertainment": [
+      {
+        "title": "Dhurandhar 2 box office collection day 25: Ranveer Singh film shows growth, crosses ₹1083 crore",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/dhurandhar-2-box-office-collection-day-25-ranveer-singh-film-crosses-1083-crore-aditya-dhar-r-madhavan-arjun-rampal-101776010275919.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/12/550x309/Dhurandhar_2_box_office_1774233320477_1774233320604_1776011138178.jpeg",
+        "publishedAt": "2026-04-12T17:13:36Z",
+        "category": "entertainment",
+        "summary": "Dhurandhar 2, directed by Aditya Dhar, has shown growth at the box office, surpassing ₹1083 crore in its 25th day since release on March 19. The film has outperformed Baahubali 2's lifetime collection of ₹1,030.42 crore but has yet to reach the total of Pushpa 2: The Rise, which stands at ₹1,234.10 crore.",
+        "wordCount": 53
+      },
+      {
+        "title": "Jana Nayagan leak: Cyber Crime Department arrests 6 for illegal circulation of Vijay's unreleased film",
+        "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/jana-nayagan-leak-cyber-crime-department-arrests-6-for-illegal-circulation-of-vijay-unreleased-film-101776011249464.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/12/550x309/vijay_jana_nayagan_1776011501221_1776011501379.jfif",
+        "publishedAt": "2026-04-12T16:41:47Z",
+        "category": "entertainment",
+        "summary": "The Cyber Crime Department has arrested six individuals for the illegal circulation of the unreleased film \"Jana Nayagan,\" starring Vijay. Following the film's online leak, KVN Productions, the producer, issued a legal notice indicating potential legal action. The notice emphasizes the seriousness of the breach and the company's commitment to protecting its intellectual property rights.",
+        "wordCount": 55
+      },
+      {
+        "title": "Athiya Shetty slammed for sharing Lata Mangeshkar's picture while paying tribute to Asha Bhosle",
+        "url": "https://www.pinkvilla.com/cinema/athiya-shetty-lands-in-major-goof-up-trolled-for-sharing-lata-mangeshkars-picture-on-asha-bhosles-demise-1402233",
+        "source": "Pinkvilla",
+        "image": "https://www.pinkvilla.com/images/2026-04/961486163_athiya_-asha.webp",
+        "publishedAt": "2026-04-12T16:26:34Z",
+        "category": "entertainment",
+        "summary": "Athiya Shetty faced backlash after mistakenly sharing a picture of Lata Mangeshkar while paying tribute to Asha Bhosle, who recently passed away in Mumbai. The entertainment and music industry reacted with shock to Bhosle's death, prompting emotional tributes from various celebrities. Shetty's error drew criticism amidst the outpouring of condolences for the legendary playback singer.",
+        "wordCount": 55
       }
     ]
   }
