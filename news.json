@@ -1,157 +1,187 @@
 {
-  "updatedAt": "2026-04-13T12:31:19.483Z",
+  "updatedAt": "2026-04-13T18:31:26.908Z",
   "categories": {
     "world": [
       {
-        "title": "Zero lessons earned, was inches away from deal: Iran blames US for talks collapse",
-        "url": "https://www.indiatoday.in/world/story/iran-us-talks-collapse-inches-from-deal-us-blockade-announcement-islamabad-araghchi-trump-2895230-2026-04-13",
+        "title": "Trump ties, friction with EU: What led to Hungary strongman Viktor Orban's defeat after 16 years",
+        "url": "https://www.hindustantimes.com/world-news/trump-ties-friction-with-eu-what-led-to-hungary-strongman-viktor-orbans-defeat-after-16-years-peter-magyar-election-101776052383617.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/13/550x309/HUNGARY-POLITICS-VOTE-23_1776052438638_1776052452439.jpg",
+        "publishedAt": "2026-04-13T05:47:24Z",
+        "category": "world",
+        "summary": "Viktor Orban's 16-year rule ended due to a combination of factors, including deepened ties with Donald Trump, China, and Russia, which led to friction with the European Union. Experts note that his loss resulted from a gradual erosion of authority, increasing public discontent, and the rise of a strong challenger within his political system.",
+        "wordCount": 54
+      },
+      {
+        "title": "image of himself as Christ after slamming Pope Leo as 'weak', 'terrible'",
+        "url": "https://www.wionews.com/photos/trump-shares-ai-image-of-himself-as-jesus-christ-after-slamming-pope-leo-as-weak-terrible-how-the-feud-began-1776051410819",
+        "source": "WION",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260413/image-1776051430473.png?imwidth=1200&imheight=900",
+        "publishedAt": "2026-04-13T04:18:00Z",
+        "category": "world",
+        "summary": "US President Donald Trump posted an AI-generated image of himself resembling Jesus Christ on Truth Social. This action coincided with his criticism of Pope Leo XIV, whom he labeled as “weak” regarding crime and foreign policy. The image depicts Trump in robes, surrounded by light and supporters, and appears to show him 'healing' a man.",
+        "wordCount": 55
+      },
+      {
+        "title": "A war he opposed, a deal he couldn't secure: JD Vance's Pakistan setback",
+        "url": "https://www.indiatoday.in/world/story/jd-vance-us-iran-talks-pakistan-no-deal-2895261-2026-04-13",
         "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/us-iran-talks-in-pakistan-130332131-16x9_0.png?VersionId=Y2loiDj7Txp3lBi13LCTt1en531hJjMy",
-        "publishedAt": "2026-04-12T23:39:56Z",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/vice-president-jd-vance-133233878-16x9_0.jpg?VersionId=wJJOeE33cPfX._GgAU6g2OzSYlJ3q7aO",
+        "publishedAt": "2026-04-13T03:41:37Z",
         "category": "world",
-        "summary": "Iran has accused the US of \"maximalism\" and shifting goalposts for the collapse of negotiations aimed at finalizing the Islamabad Memorandum of Understanding (MoU). After 21 hours of discussions, tensions escalated with new threats of blockades. Iran stated that the agreement was \"inches away\" from completion before the talks ultimately failed to yield any results.",
-        "wordCount": 55
-      },
-      {
-        "title": "Iran was inches away from US deal in Islamabad, says Araghchi as Trump announces Hormuz blockade",
-        "url": "https://www.livemint.com/news/us-news/iran-was-inches-away-from-us-deal-in-islamabad-says-araghchi-as-trump-announces-hormuz-blockade-us-iran-war-11776036123993.html",
-        "source": "Mint",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/12/1600x900/logo/IRAN-CRISIS-GENEVA-28_1773705418596_1773705430593_1776036560468.JPG",
-        "publishedAt": "2026-04-12T23:38:15Z",
-        "category": "world",
-        "summary": "Iran's Foreign Minister Seyed Abbas Araghchi stated that Tehran was close to reaching an agreement with the United States during recent talks in Islamabad. This announcement coincided with the US Central Command's declaration of a blockade on all maritime traffic to and from Iranian ports, set to begin at 10 am ET on April 13.",
-        "wordCount": 55
-      },
-      {
-        "title": "US announces naval blockade on 'all maritime traffic entering & exiting' Iran ports: What it means",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-blocks-all-maritime-traffic-to-iran-ports-after-talks-fail-allows-hormuz-passage/articleshow/130222282.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130222288,width-1280,height-720,imgsize-865698,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-12T23:15:00Z",
-        "category": "world",
-        "summary": "The US military will implement a naval blockade on all maritime traffic entering and exiting Iranian Gulf ports starting April 13 at 1400 GMT. Vessels not destined for Iran will still be permitted to transit the Strait of Hormuz. This measure aims to exert pressure on Iran amid ongoing tensions in the region, impacting shipping routes significantly.",
-        "wordCount": 57
+        "summary": "US Vice President JD Vance's diplomatic mission to Pakistan concluded without a breakthrough amid rising tensions. Vance, known for his anti-war stance, faced challenges in securing a deal during his brief 21-hour visit. The trip highlighted the complexities of U.S.-Pakistan relations and Vance's struggle to navigate a conflict he had publicly opposed, as reported by the New York Times.",
+        "wordCount": 59
       }
     ],
     "business": [
       {
-        "title": "Jhunjhunwalas-backed IKS healthcare looks to acquire TruBridge for $600 million",
-        "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/jhunjhunwalas-backed-iks-healthcare-looks-to-acquire-trubridge-for-600-million/articleshow/130219906.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-130222778,width-1200,height-630,imgsize-903323,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-13T00:30:00Z",
+        "title": "2026 Bajaj Pulsar 180 vs Apache RTR 180 - Specs, Features, Performance Compared",
+        "url": "https://www.rushlane.com/2026-bajaj-pulsar-180-vs-apache-rtr-180-specs-features-performance-compared-12543990.html",
+        "source": "RushLane",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/04/pulsar-180-vs-apache-rtr-180-cover.jpg",
+        "publishedAt": "2026-04-13T06:29:04Z",
         "category": "business",
-        "summary": "Inventurus Knowledge Solutions (IKS), supported by the family of late investor Rakesh Jhunjhunwala, is in advanced negotiations to acquire Nasdaq-listed TruBridge for approximately $600 million. This potential acquisition would mark IKS's largest deal to date and enhance its presence in healthcare technology and revenue cycle management in the United States. A formal announcement is anticipated soon.",
-        "wordCount": 56
+        "summary": "Bajaj Auto has re-launched the Pulsar 180, entering the competitive 180cc premium sporty commuter segment, previously dominated by TVS Motor's Apache RTR 180 and Hornet 2.0. A comparison of specifications, features, and performance between the Bajaj Pulsar 180 and Apache RTR 180 reveals insights into their capabilities, highlighting the ongoing rivalry in this motorcycle category.",
+        "wordCount": 55
       },
       {
-        "title": "Gold falls to near $4,650 as Oil surge, US-Iran tensions hit Fed cuts",
-        "url": "https://www.fxstreet.com/news/gold-falls-to-near-4-650-as-oil-surge-us-iran-tensions-hit-fed-cuts-202604130001",
-        "source": "FXStreet",
-        "image": "https://editorial.fxsstatic.com/images/i/gold-02_Medium.jpg",
-        "publishedAt": "2026-04-13T00:01:31Z",
-        "category": "business",
-        "summary": "Gold prices (XAU/USD) opened lower, trading around $4,670 per troy ounce during Asian hours on Monday. The decline is attributed to rising oil prices and heightened tensions between the US and Iran, which are impacting expectations for Federal Reserve interest rate cuts. The non-yielding metal faces challenges as inflation risks increase amid the energy price surge.",
-        "wordCount": 56
-      },
-      {
-        "title": "MFs cut cash holdings to 16-month low amid March market selloff",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/mutual-funds/mfs-cut-cash-holdings-to-16-month-low-amid-march-market-selloff-13886897.html",
+        "title": "Ola Electric shares fall nearly 8% after sharp rally; stock had surged 79% in 7 sessions",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/stocks/ola-electric-shares-fall-nearly-8-after-sharp-rally-stock-had-surged-79-in-7-sessions-13887324.html",
         "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260314033736_stocks5.jpg",
-        "publishedAt": "2026-04-12T23:30:10Z",
+        "image": "https://images.moneycontrol.com/static-mcnews/2022/11/2-ola-electric-at-eicma-2022.jpg",
+        "publishedAt": "2026-04-13T06:14:01Z",
         "category": "business",
-        "summary": "Mutual fund cash holdings decreased to Rs 1.86 lakh crore in March, marking the lowest level since December 2024. This represents a decline of Rs 24,319 crore, or 12 percent, from Rs 2.1 lakh crore in February. The significant reduction in cash reserves occurred amid a market selloff during March, impacting overall investment strategies.",
-        "wordCount": 54
+        "summary": "Ola Electric shares fell nearly 8% following a significant rally, where the stock surged 79% over seven sessions. This decline is attributed to a correction after a rapid increase in share price, suggesting that the gains were driven by short-term momentum buying. The trading volume during this period indicates heightened investor activity and interest in the stock.",
+        "wordCount": 57
+      },
+      {
+        "title": "Delhi EV Policy Draft - Petrol Scooters, Motorcycles Ban From 2028",
+        "url": "https://www.rushlane.com/delhi-ev-policy-draft-petrol-scooters-motorcycles-ban-from-2028-12543988.html",
+        "source": "RushLane",
+        "image": "https://www.rushlane.com/wp-content/uploads/2025/09/hero-125-million-editions-launched-new-2.jpg",
+        "publishedAt": "2026-04-13T06:09:04Z",
+        "category": "business",
+        "summary": "The Delhi government has unveiled a draft EV Policy for 2026–2030, aiming to promote electric mobility. Starting January 1, 2027, new registrations will be limited to electric three-wheelers. Additionally, all new government vehicle purchases will be electric. The policy includes phased restrictions on petrol and diesel vehicles, with a ban on petrol scooters and motorcycles set for 2028.",
+        "wordCount": 58
       }
     ],
     "technology": [
       {
-        "title": "Linux Kernel 7.0 Officially Released, This Is What’s New",
-        "url": "https://9to5linux.com/linux-kernel-7-0-officially-released-this-is-whats-new",
-        "source": "9to5Linux",
-        "image": "https://9to5linux.com/wp-content/uploads/2026/04/lk7.webp",
-        "publishedAt": "2026-04-12T21:07:21Z",
+        "title": "OPPO Find X9 Ultra's complete design, colour options revealed: Watch video",
+        "url": "https://www.business-standard.com/technology/tech-news/oppo-find-x9-ultra-design-colour-options-revealed-camera-specs-watch-video-126041300292_1.html",
+        "source": "Business Standard",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/13/full/1776061155-1069.png",
+        "publishedAt": "2026-04-13T06:29:48Z",
         "category": "technology",
-        "summary": "Linux kernel 7.0 has been officially released and is available for download. Announced by Linus Torvalds, this version includes enhanced hardware support, improvements to filesystems and networking, and various security enhancements. While it is not considered a major release, it introduces several changes aimed at improving overall performance and compatibility across different systems and devices.",
-        "wordCount": 55
+        "summary": "The design and color options of the OPPO Find X9 Ultra have been unveiled through an official video. The video provides detailed insights into the smartphone's camera system and accessories ahead of its launch. This announcement highlights the device's aesthetic features and functionality, generating anticipation for its release. Viewers can watch the video for a comprehensive overview.",
+        "wordCount": 57
       },
       {
-        "title": "Will Forza Horizon 6 Be On Xbox Game Pass?",
-        "url": "https://fandomwire.com/will-forza-horizon-6-be-on-xbox-game-pass/",
-        "source": "FandomWire",
-        "image": "https://fwmedia.fandomwire.com/wp-content/uploads/2026/04/12162742/forza-horizon-6-xbox-game-pass.jpg",
-        "publishedAt": "2026-04-12T20:28:41Z",
+        "title": "Why is France ditching Microsoft Windows for Linux?",
+        "url": "https://www.firstpost.com/explainers/france-dumping-microsoft-windows-linux-digital-sovereignty-explained-13999708.html",
+        "source": "Firstpost",
+        "image": "https://images.firstpost.com/uploads/2026/04/Microsoft-France-Paris-office-Reuters-2026-04-5f2eff05e16013477aa0d46015a01aa1.jpg?im=FitAndFill=(1200,675)",
+        "publishedAt": "2026-04-13T06:28:52Z",
         "category": "technology",
-        "summary": "Forza Horizon 6 is set to release on May 19, 2026, and will be available on Xbox Game Pass for Ultimate and PC subscribers at launch. Players can pre-install the game early. The new installment will feature a racing environment inspired by Japan, showcasing its rich racing culture. Details on subscription tiers for access have been specified.",
+        "summary": "France is transitioning its government systems from Microsoft Windows to Linux, beginning with DINUM, to decrease reliance on US technology. This initiative includes replacing Microsoft Teams and migrating health data platforms, focusing on eight critical areas of digital dependency within public administration. The move aims to enhance national control over essential systems and bolster France's technological independence.",
         "wordCount": 57
+      },
+      {
+        "title": "Elon Musk to launch XChat as part of push to build WeChat",
+        "url": "https://technode.com/2026/04/13/elon-musk-to-launch-xchat-as-part-of-push-to-build-wechat-like-super-app/",
+        "source": "TechNode",
+        "image": "https://technode.com/wp-content/uploads/2026/04/musk-x-account.jpg",
+        "publishedAt": "2026-04-13T05:57:03Z",
+        "category": "technology",
+        "summary": "Elon Musk's social media platform X (formerly Twitter) announced the launch of its instant messaging app, XChat, on the Apple App Store on April 17. This initiative is part of Musk's strategy to develop a super app akin to China's WeChat. The release date for the Android version of XChat has not yet been disclosed.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "Drama at Wankhede! RCB star Tim David refuses to return ball; umpire annoyed - WATCH",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/drama-at-wankhede-rcb-star-tim-david-refuses-to-return-ball-umpire-annoyed-watch/articleshow/130217324.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130217709,width-1280,height-720,imgsize-35922,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-12T23:31:00Z",
+        "title": "‘Usko maar maar ke dhoya’: R Ashwin shows no sympathy for Hardik Pandya for his captaincy blunder against RCB",
+        "url": "https://www.hindustantimes.com/cricket/usko-maar-maar-ke-dhoya-r-ashwin-shows-no-sympathy-for-hardik-pandya-for-his-captaincy-blunder-against-rcb-101776058234063.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/13/550x309/1000232628_1776059382811_1776059393409.jpg",
+        "publishedAt": "2026-04-13T05:52:40Z",
         "category": "sports",
-        "summary": "During the IPL 2026 match between Royal Challengers Bengaluru and Mumbai Indians at Wankhede Stadium, Tim David, an all-rounder for RCB, caused some annoyance to the umpire with a playful act. The incident occurred when David refused to return the ball, leading to a light-hearted moment amidst the competitive atmosphere of the match.",
-        "wordCount": 53
+        "summary": "R Ashwin criticized Hardik Pandya's captaincy decision to bowl Mayank Markande against Rajat Patidar during the recent SRH vs RCB match. Ashwin noted that Patidar effectively targeted Markande, showcasing his ability as a spin hitter. The decision ultimately backfired, leading to questions about Pandya's strategic choices in the game. The incident has sparked discussions among cricket analysts.",
+        "wordCount": 57
       },
       {
-        "title": "IPL 2026: Jasprit Bumrah struggles for breakthroughs, records longest wicketless streak",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/whats-wrong-with-jasprit-bumrah-shocking-ipl-numbers-0-wickets-in-5-matches/articleshow/130211833.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130211840,width-1280,height-720,imgsize-45738,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-12T23:25:00Z",
+        "title": "Jasprit Bumrah not the real concern for MI: Why Hardik Pandya is right in throwing bowlers under the bus",
+        "url": "https://www.hindustantimes.com/cricket/jasprit-bumrah-not-the-real-concern-for-mi-why-hardik-pandya-is-right-in-throwing-bowlers-under-the-bus-101776055012172.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/13/550x309/hardik_bumrah_ipl_1776055346010_1776055353552.jpg",
+        "publishedAt": "2026-04-13T05:47:22Z",
         "category": "sports",
-        "summary": "Jasprit Bumrah is experiencing an unusual performance in IPL 2026, struggling to secure breakthroughs during the Powerplay. Known for his effective yorkers and early wickets, he is currently on the longest wicketless streak of his career. This shift in form has raised concerns among fans and analysts, as Bumrah's effectiveness has been a key aspect of his IPL success.",
-        "wordCount": 59
+        "summary": "Mumbai Indians face a critical match against Punjab Kings as they seek to address ongoing bowling issues. Captain Hardik Pandya highlighted broader concerns within the team, noting their recent three-match losing streak since their initial victory against Kolkata Knight Riders. Without a quick resolution, MI risks an early end to their season, following a narrow defeat to the defending champions.",
+        "wordCount": 60
       },
       {
-        "title": "Jannik Sinner Wins Monte Carlo Masters, Becomes World No. 1",
-        "url": "https://thenewsmill.com/2026/04/jannik-sinner-wins-monte-carlo-masters-claims-top-atp-ranking/",
-        "source": "The News Mill",
-        "image": "https://thenewsmill.com/tnm-og/514387.jpg",
-        "publishedAt": "2026-04-12T20:27:30Z",
+        "title": "Hardik Pandya Gives MI Teammates \"2 Options\" In Tense Dressing Room Address. Video",
+        "url": "https://sports.ndtv.com/ipl-2026/there-are-2-options-hardik-pandyas-no-nonsense-mi-dressing-room-address-after-rcb-loss-11349477",
+        "source": "NDTV Sports",
+        "image": "https://c.ndtvimg.com/2026-04/g7vf6jg_hardik-pandya-mi-dressing-room-x_625x300_13_April_26.jpeg",
+        "publishedAt": "2026-04-13T05:42:12Z",
         "category": "sports",
-        "summary": "Jannik Sinner won his first ATP Masters 1000 title at the Monte Carlo Masters, defeating Carlos Alcaraz. The match took place on April 13, under windy conditions. This victory marks Sinner's first title on clay and guarantees his rise to the top of the ATP rankings, making him the world number one starting Monday.",
-        "wordCount": 54
+        "summary": "Mumbai Indians captain Hardik Pandya addressed his teammates in a tense dressing room after the team faced its third consecutive loss in the IPL 2026 season. Pandya expressed disappointment over the team's performance and presented two options for moving forward. The team is struggling as they prepare to face the Royal Challengers Bengaluru in their upcoming match.",
+        "wordCount": 57
       }
     ],
     "health": [
       {
-        "title": "Suspicious CCTV camera found installed near Panipat colony",
-        "url": "https://www.tribuneindia.com/news/haryana/suspicious-cctv-camera-found-installed-near-panipat-colony/",
-        "source": "Tribune India",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRhZmViNzcwLTM2YjYtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
-        "publishedAt": "2026-04-12T21:30:32Z",
+        "title": "Is your diet enough? Nutritionist shares when your body actually needs nutritional supplements",
+        "url": "https://www.hindustantimes.com/lifestyle/health/is-your-diet-enough-nutritionist-shares-when-your-body-actually-needs-nutritional-supplements-101775839732454.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/10/550x309/Nutraceuticals--also-known-as-functional-foods--ar_1684265709747_1775839854150.jpg",
+        "publishedAt": "2026-04-13T06:17:38Z",
         "category": "health",
-        "summary": "The Model Town police removed a suspicious solar-operated CCTV camera from a pole near Mukhija Colony on Jatal road on Sunday. The action followed a tip-off regarding the camera's installation. Authorities are currently gathering information about the individual responsible for placing the camera. The investigation aims to determine the purpose and origin of the device.",
-        "wordCount": 55
-      },
-      {
-        "title": "From thalassemia to sickle cell: Bone marrow transplants as a ‘reset’ for genetic blood disorders",
-        "url": "https://www.firstpost.com/health/from-thalassemia-to-sickle-cell-why-bone-marrow-transplants-are-emerging-as-a-reset-for-genetic-blood-disorders-ws-e-13995599.html",
-        "source": "Firstpost",
-        "image": "https://images.firstpost.com/uploads/2026/04/image-2026-04-12e5449b194f2a6ea60c4e6dda6b13d3-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-04-12T19:15:59Z",
-        "category": "health",
-        "summary": "Bone marrow transplants are gaining traction in India for treating genetic blood disorders such as thalassemia and sickle cell disease, moving beyond their traditional association with cancer. Despite their potential benefits, challenges such as high costs, limited access, and a shortage of donors hinder widespread adoption. This shift in application reflects advancements in medical science and evolving treatment strategies.",
-        "wordCount": 59
-      },
-      {
-        "title": "Persistent joint pain in children: It could be hemophilia, not a sports injury",
-        "url": "https://www.firstpost.com/health/persistent-joint-pain-in-children-it-could-be-hemophilia-not-a-sports-injury-ws-e-13999578.html",
-        "source": "Firstpost",
-        "image": "https://images.firstpost.com/uploads/2026/04/image-2026-04-7426043b66407db6aff92eb53a3d0279-1200x675.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-04-12T19:14:13Z",
-        "category": "health",
-        "summary": "Persistent joint pain in children, particularly recurring swelling in the same area, may indicate hemophilia rather than a sports injury. Early diagnosis of this bleeding disorder is crucial to prevent long-term disabilities. Parents should be vigilant if a child avoids weight-bearing activities or shows sudden changes in movement, as these could signal a more serious underlying condition.",
+        "summary": "Nutritional supplements can improve health by addressing dietary gaps, especially when meeting nutrient requirements through food alone is challenging. Some individuals may be susceptible to deficiencies, making supplements beneficial. Nutritionists provide guidance on when to consider supplements and offer tips for selecting the right ones based on individual needs, ensuring a balanced approach to nutrition and health.",
         "wordCount": 57
+      },
+      {
+        "title": "Mosquito menace worsens as 28 fogging machines lie non",
+        "url": "https://thelivenagpur.com/2026/04/13/mosquito-menace-worsens-as-28-fogging-machines-lie-non-functional/",
+        "source": "The Live Nagpur",
+        "image": "https://thelivenagpur.com/wp-content/uploads/2024/08/download-1.jpg",
+        "publishedAt": "2026-04-13T06:06:40Z",
+        "category": "health",
+        "summary": "The city's battle against mosquitoes and vector-borne diseases is compromised, as over half of its hand fogging machines are either non-functional or in need of repairs. A report from the Nagpur Municipal Corporation highlights the inadequacy of resources to combat the growing threat. This situation raises concerns about public health and the effectiveness of mosquito control measures in the area.",
+        "wordCount": 60
+      },
+      {
+        "title": "FACT CHECK: Does wearing a saree cause cancer?",
+        "url": "https://www.theweek.in/news/health/2026/04/13/fact-check-does-wearing-a-saree-cause-cancer.html",
+        "source": "theweek.in",
+        "image": "https://www.theweek.in/content/dam/week/week/news/health/images/2026/4/13/saree-indian-woman.jpg",
+        "publishedAt": "2026-04-13T05:14:52Z",
+        "category": "health",
+        "summary": "Medical literature acknowledges rare cases of “saree cancer,” linked to wearing a saree tightly at the waist. The friction from the drawstring may cause skin damage, potentially leading to cancer. However, these instances are isolated and not common. The claim suggests a connection between saree wear and cancer, but evidence remains limited and not widely supported.",
+        "wordCount": 56
       }
     ],
     "science": [
+      {
+        "title": "Artemis II crew used modern photography to tell the visual story of their lunar journey - and update some classic Apollo images",
+        "url": "https://www.theweek.in/wire-updates/international/2026/04/13/artemis-ii-crew-used-modern-photography-to-tell-the-visual-story-of-their-lunar-journey-%E2%80%93-and-update-some-classic-apollo-images.html",
+        "source": "theweek.in",
+        "image": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+        "publishedAt": "2026-04-13T05:28:36Z",
+        "category": "science",
+        "summary": "NASA's Artemis II crew utilized modern photography techniques to document their lunar journey, aiming to create a visual narrative that updates classic Apollo images. This initiative reflects the extensive collection of materials available from NASA's human spaceflight history, including documents, artifacts, and images, allowing researchers to share the stories of past space missions while connecting them to current endeavors.",
+        "wordCount": 59
+      },
+      {
+        "title": "Artemis II and India’s next leap in space",
+        "url": "https://www.sentinelassam.com/more-news/editorial/artemis-ii-and-indias-next-leap-in-space",
+        "source": "The Sentinel - of this Land, for its People",
+        "image": "https://media.assettype.com/sentinelassam-english%2F2026-04-13%2Fhqxzy8x0%2FArtemis-II-and-India%E2%80%99s-next-leap-in-space.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-13T04:55:16Z",
+        "category": "science",
+        "summary": "Artemis II is set to be the first crewed mission of NASA's Artemis programme, marking a significant step in humanity's renewed exploration of the Moon. The mission will transport astronauts around the Moon and back, establishing a foundation for future sustained human presence beyond Earth. This initiative reflects ongoing advancements in space exploration and international collaboration in scientific endeavors.",
+        "wordCount": 59
+      },
       {
         "title": "Artemis II: Uniting America Through Space Exploration",
         "url": "https://www.devdiscourse.com/article/technology/3871686-artemis-ii-uniting-america-through-space-exploration",
@@ -159,59 +189,39 @@
         "image": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_17_00_46_5151186.jpg?width=920&format=jpeg",
         "publishedAt": "2026-04-12T20:59:40Z",
         "category": "science",
-        "summary": "Artemis II's successful moon mission has inspired Americans and reignited interest in space exploration. The mission showcases the potential for unity through shared goals in science and technology. Concurrently, Russia's Soyuz-5 rocket is reportedly prepared for upcoming space projects, as confirmed by Roscosmos head Dmitry Bakanov to President Vladimir Putin, marking a significant moment in international space endeavors.",
-        "wordCount": 58
-      },
-      {
-        "title": "‘Is it anyone’s job to check for sharks?’ NASA responds after Artemis II splashdown",
-        "url": "https://timesofindia.indiatimes.com/etimes/trending/is-it-anyones-job-to-check-for-sharks-nasa-responds-after-artemis-ii-splashdown/articleshow/130207133.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130207236,width-1280,height-720,imgsize-36688,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-12T11:34:00Z",
-        "category": "science",
-        "summary": "NASA's Artemis II mission successfully splashed down, marking a significant moment in the astronauts' return. The event attracted considerable public interest, with many closely following the mission updates and landing process. Amid the excitement, questions arose regarding safety measures, including whether anyone is responsible for checking for sharks in the splashdown area, highlighting concerns beyond the space mission itself.",
-        "wordCount": 59
-      },
-      {
-        "title": "Artemis II: What are 'organ chips' NASA sent to space?",
-        "url": "https://www.newsbytesapp.com/news/science/nasa-s-artemis-ii-mission-carried-human-organ-chips-to-moon/story",
-        "source": "NewsBytes",
-        "image": "https://i.cdn.newsbytesapp.com/images/l271_5181775972732.jpg",
-        "publishedAt": "2026-04-12T08:13:30Z",
-        "category": "science",
-        "summary": "NASA's Artemis II mission included an experiment with 'organ chips,' small devices containing lab-grown human tissue. These chips aim to study the effects of deep space on human cells. The mission's objective extends beyond lunar exploration, focusing on understanding how microgravity influences biological processes. This research could provide insights into human health during long-duration space travel.",
-        "wordCount": 56
+        "summary": "Artemis II's successful moon mission has reignited American interest in space exploration, inspiring future astronauts and showcasing advancements in technology. Concurrently, Russia's Soyuz-5 rocket is reportedly prepared for upcoming space projects, as confirmed by Roscosmos head Dmitry Bakanov to President Vladimir Putin. This period marks a significant moment for international space endeavors and the potential for collaboration.",
+        "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Libra Horoscope Today for April 13, 2026: One emotional pattern may need to be named before it gets heavier",
-        "url": "https://www.hindustantimes.com/astrology/horoscope/libra-horoscope-today-for-april-13-2026-one-emotional-pattern-may-need-to-be-named-before-it-gets-heavier-101776019484094.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/12/550x309/Libra_1762107664617_1762107670719_1776019513653.png",
-        "publishedAt": "2026-04-13T00:07:10Z",
+        "title": "‘Jana Nayagan’ Film Leak: Six Arrested, Over 300 Links Taken Down by Cyber Crime Wing",
+        "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-leak-six-arrested-as-cyber-crime-wing-takes-down-over-300-links/articleshow/130227377.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130227377,width-1280,height-720,imgsize-99296,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-13T06:14:00Z",
         "category": "entertainment",
-        "summary": "Libra's horoscope for April 13, 2026, emphasizes the importance of clarity over comfort. Financial stability is linked to balanced choices. A person may seek a clearer answer, and a situation might require firmer terms. Additionally, naming an emotional pattern is advised to prevent it from becoming more burdensome. The day is not characterized as harsh, but rather insightful.",
-        "wordCount": 58
+        "summary": "The Tamil Nadu Cyber Crime Wing has arrested six individuals linked to the illegal online leak of Vijay's film 'Jana Nayagan.' This action follows a complaint from the film's producers and involves multiple legal provisions. In addition, over 300 links to pirated content have been removed, with authorities issuing warnings against sharing such material.",
+        "wordCount": 54
       },
       {
-        "title": "Cancer Horoscope Today for April 13, 2026: Love asks for sincerity today",
-        "url": "https://www.hindustantimes.com/astrology/horoscope/cancer-horoscope-today-for-april-13-2026-love-asks-for-sincerity-today-101776018658140.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/12/550x309/Cancer_1762108444411_1762108450249_1776018687234.png",
-        "publishedAt": "2026-04-13T00:04:12Z",
-        "category": "entertainment",
-        "summary": "Cancer's horoscope for April 13, 2026, emphasizes the importance of sincerity in love. As the day progresses, confidence is highlighted as more beneficial than worry. Individuals may find that a specific goal or responsibility requires them to be stronger. Focusing on the present is crucial, as dwelling on past hurts or doubts could hinder new opportunities.",
-        "wordCount": 56
-      },
-      {
-        "title": "Box Office: Is Pradeep Ranganathan’s Winning Streak At Risk Due To Love Insurance Kompany?",
-        "url": "https://www.koimoi.com/box-office/box-office-is-pradeep-ranganathans-winning-streak-at-risk-due-to-love-insurance-kompany/",
+        "title": "Neck-To-Neck With Shah Rukh Khan's Pathaan, Now 4th Highest Bollywood Grosser Ever!",
+        "url": "https://www.koimoi.com/box-office/dhurandhar-2-overseas-box-office-day-25-neck-to-neck-with-shah-rukh-khans-pathaan-now-4th-highest-bollywood-grosser-ever/",
         "source": "Koimoi",
-        "image": "https://www.koimoi.com/wp-content/new-galleries/2026/04/pradeep-ranganathan-box-office.jpg",
-        "publishedAt": "2026-04-12T20:09:30Z",
+        "image": "https://www.koimoi.com/wp-content/new-galleries/2026/04/dhurandhar-2-overseas-box-office-day-25-neck-to-neck-with-shah-rukh-khans-pathaan-now-4th-highest-bollywood-grosser-ever.jpg",
+        "publishedAt": "2026-04-13T06:09:23Z",
         "category": "entertainment",
-        "summary": "Pradeep Ranganathan’s film, Love Insurance Kompany, had a strong opening at the Indian box office but did not see significant growth on its second day. Ranganathan has quickly become a notable talent in Kollywood, achieving impressive box office success since his acting debut in 2022. The film's performance raises questions about the sustainability of his winning streak.",
+        "summary": "Ranveer Singh's film Dhurandhar 2 has achieved significant success, becoming the fourth highest-grossing Bollywood film ever. Released during Eid 2026, it has maintained a strong performance at the overseas box office over 25 days. Directed by Aditya Dhar, the film is now positioned alongside Shah Rukh Khan's Pathaan in the rankings of top-grossing Bollywood movies.",
+        "wordCount": 55
+      },
+      {
+        "title": "Athiya Shetty faces heat for sharing Lata Mangeshkar’s photo while paying tribute to Asha Bhosle: ‘This is pathetic’",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/athiya-shetty-faces-backlash-for-sharing-lata-mangeshkar-s-photo-while-paying-tribute-to-asha-bhosle-101776054560050.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/13/550x309/Asha_Bhosle_1776054623418_1776054624149.jpg",
+        "publishedAt": "2026-04-13T05:14:10Z",
+        "category": "entertainment",
+        "summary": "Athiya Shetty faced backlash for sharing a photo of Lata Mangeshkar while paying tribute to Asha Bhosle, who passed away on April 12. Although Shetty deleted the post shortly after, screenshots circulated widely, leading to criticism on social media. The incident occurred during a time of national mourning, with many tributes from the film and music community.",
         "wordCount": 57
       }
     ]
