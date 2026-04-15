@@ -1,135 +1,135 @@
 {
-  "updatedAt": "2026-04-15T08:43:46.200Z",
+  "updatedAt": "2026-04-15T12:42:17.525Z",
   "categories": {
     "world": [
       {
-        "title": "Hundreds missing after Rohingya boat capsizes in Andaman Sea: UN",
-        "url": "https://www.aljazeera.com/news/2026/4/14/hundreds-missing-after-rohingya-boat-capsizes-in-andaman-sea-un",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2024-03-21T061331Z_2124869948_RC26Q6A6H8OM_RTRMADP_3_MIGRATION-ROHINGYA-INDONESIA-1711075543.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-04-14T20:29:47Z",
+        "title": "Mistrust can't be solved overnight: JD Vance ahead of fresh US-Iran peace talks",
+        "url": "https://www.indiatoday.in/world/story/us-iran-peace-talks-face-mistrust-issues-vance-donald-trump-2896324-2026-04-15",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/jd-vance-175641380-16x9.jpg?VersionId=WLj9NSRFz301JxZXiINibSHgG4FaK_TF",
+        "publishedAt": "2026-04-14T23:44:48Z",
         "category": "world",
-        "summary": "About 250 Rohingya refugees and Bangladeshi nationals are feared missing after a boat capsized in the Andaman Sea, according to the United Nations. The vessel, carrying men, women, and children, reportedly sank due to heavy winds, rough seas, and overcrowding. Search and rescue efforts are ongoing as authorities work to locate the missing individuals amid challenging conditions.",
-        "wordCount": 57
-      },
-      {
-        "title": "Jaishankar discusses Iran, Hormuz and Lebanon with Israel's Sa'ar",
-        "url": "https://www.hindustantimes.com/india-news/west-asia-crisis-eam-jaishankar-speaks-to-israeli-counterpart-101776191763084.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/14/550x309/PTI04-11-2026-000087A-0_1776193079808_1776193104377.jpg",
-        "publishedAt": "2026-04-14T18:36:02Z",
-        "category": "world",
-        "summary": "Indian External Affairs Minister S. Jaishankar discussed regional issues, including Iran, the Strait of Hormuz, and Lebanon, in a call with Israeli Minister Eli Sa'ar. Sa'ar emphasized that Iran's actions threaten navigation freedom and require a response. Jaishankar also spoke with Australian Foreign Minister Penny Wong, addressing the ongoing conflict involving Iran and the US-Israel alliance.",
+        "summary": "US Vice President JD Vance stated that deep-rooted mistrust between Washington and Tehran poses significant challenges to transforming a fragile ceasefire into a comprehensive peace agreement. Despite this, both sides are reportedly willing to engage in ongoing negotiations. Vance emphasized that resolving this mistrust cannot be achieved overnight, highlighting the complexities involved in the diplomatic efforts.",
         "wordCount": 56
       },
       {
-        "title": "Iran talks 2.0 may happen in next two days in Pak, says Trump. Then praises Munir",
-        "url": "https://www.indiatoday.in/world/story/iran-talks-could-happen-over-next-2-days-in-pak-field-marshal-asim-munir-doing-great-job-trump-to-ny-post-2896216-2026-04-14",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/donald-trump-praises-pakistan-asim-munir-shehbaz-sharif-121946191-16x9.png?VersionId=vRvwynKHhLIs6fAPTmPyCJLTNpSVfK21",
-        "publishedAt": "2026-04-14T18:30:19Z",
+        "title": "4 key H-1B visa reforms proposed by DOL: US grads first, end dual intent, no green card loophole, more",
+        "url": "https://www.financialexpress.com/world-news/us-news/4-key-h-1b-visa-reforms-proposed-by-dol-us-grads-first-end-dual-intent-no-green-card-loophole-more/4206429/",
+        "source": "The Financial Express",
+        "image": "https://images.financialexpressdigital.com/2026/04/covers-2026-04-06T203425.030.png",
+        "publishedAt": "2026-04-14T23:28:09Z",
         "category": "world",
-        "summary": "US President Donald Trump indicated a potential second round of talks with Iran could occur within two days in Pakistan. His comments come amid rising tensions following the US blockade of Iranian ports, with Tehran threatening regional strikes. The situation in the Strait of Hormuz raises concerns about renewed hostilities and the economic impact of the ongoing regional conflict.",
-        "wordCount": 59
+        "summary": "The US Department of Labor has proposed significant reforms to the H-1B visa system, emphasizing wage increases and stricter regulations. Key changes include prioritizing US graduates for jobs, eliminating dual intent for visa holders, closing green card loopholes, and implementing higher minimum salary requirements for employers. These reforms aim to enhance job opportunities for American workers and ensure fair compensation.",
+        "wordCount": 60
+      },
+      {
+        "title": "Lebanon hold first direct talks in decades",
+        "url": "https://timesofindia.indiatimes.com/world/us/trump-signals-fresh-us-iran-talks-as-israel-lebanon-agree-to-direct-negotiations/articleshow/130270426.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130270433,width-1280,height-720,imgsize-41144,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-14T23:27:00Z",
+        "category": "world",
+        "summary": "US President Donald Trump announced that new peace talks with Iran might begin within two days. Concurrently, Israel and Lebanon have agreed to initiate direct negotiations, marking a significant diplomatic development in the Middle East. These discussions represent a rare opportunity for dialogue between the nations, highlighting ongoing efforts to address regional tensions and foster stability.",
+        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "Gold surges as Iran talks hopes dent US Dollar again",
-        "url": "https://www.fxstreet.com/news/gold-surges-as-iran-talks-hopes-dent-us-dollar-again-202604141938",
-        "source": "FXStreet",
-        "image": "https://editorial.fxsstatic.com/images/i/gold-03_Medium.jpg",
-        "publishedAt": "2026-04-14T19:38:01Z",
+        "title": "Gold loan delinquency rates send red signal",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/gold-loan-delinquency-rates-send-red-signal/articleshow/130268019.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-130268072,width-1200,height-630,imgsize-209466,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-04-15T00:00:00Z",
         "category": "business",
-        "summary": "Gold (XAU/USD) prices increased nearly 2% on Tuesday, reaching $4,835 after recovering from daily lows of $4,742. This surge is attributed to rising optimism surrounding the resumption of US-Iran talks. Despite this, the US military continues to seize Iran-linked ships amid an ongoing blockade of the Strait of Hormuz, impacting regional tensions and market dynamics.",
+        "summary": "Borrowers with outstanding gold loans exceeding ₹2.5 lakh reported a delinquency rate of 1.5% at December's end, approximately 2.2 times higher than those with lower amounts, according to a credit information report. Additionally, the delinquency rate rose to 1.9% for individuals holding more than five loans, indicating potential risks in the gold loan sector.",
+        "wordCount": 54
+      },
+      {
+        "title": "Scott Bessent says Trump’s tariff rates could be restored by July",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/scott-bessent-says-trump-s-tariff-rates-could-be-restored-by-july-article-13889066.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260322151248_bessent.png",
+        "publishedAt": "2026-04-14T23:41:31Z",
+        "category": "business",
+        "summary": "Scott Bessent stated that former President Trump aims to reinstate his tariff rates by July, utilizing alternative authorities. This move follows a high court ruling deeming Trump's previous use of emergency powers to impose those tariffs unconstitutional. Bessent noted the uncertainty surrounding the timing of the consequences resulting from these actions, emphasizing the complexities involved.",
         "wordCount": 55
       },
       {
-        "title": "Trade Spotlight: How should you trade Engineers India, Sona Comstar, Lenskart, KRN Heat Exchanger, TD Power Systems, Bharti Airtel, and others on April 15?",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-engineers-india-sona-comstar-lenskart-krn-heat-exchanger-td-power-systems-bharti-airtel-and-others-on-april-15-13888905.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260314033736_stocks5.jpg",
-        "publishedAt": "2026-04-14T19:32:37Z",
+        "title": "Rising digital ad costs push brands to rethink e-commerce growth strategy",
+        "url": "https://www.livemint.com/companies/rising-digital-ad-costs-push-brands-to-rethink-e-commerce-growth-strategy-11776158925396.html",
+        "source": "Mint",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/14/1600x900/logo/Brand_building_1776164351738_1776164378549.png",
+        "publishedAt": "2026-04-14T23:30:43Z",
         "category": "business",
-        "summary": "The market is anticipated to rebound on April 15, driven by optimism surrounding potential US-Iran peace talks. Analysts have provided a list of short-term trading ideas, including recommendations for stocks like Engineers India, Sona Comstar, Lenskart, KRN Heat Exchanger, TD Power Systems, and Bharti Airtel. Investors are encouraged to consider these suggestions for potential trading opportunities.",
-        "wordCount": 56
-      },
-      {
-        "title": "Tata invests ₹1,500 crore more to charge up iPhone biz",
-        "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/tata-invests-1500-crore-more-to-charge-up-iphone-biz/articleshow/130267539.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-130271514,width-1200,height-630,imgsize-31972,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-14T19:16:08Z",
-        "category": "business",
-        "summary": "Tata Group has invested ₹1,500 crore in Tata Electronics to enhance its iPhone manufacturing capabilities and plans additional investments. The group has also increased funding for its Pegatron India unit. Analysts indicate this strategy signifies a long-term capacity expansion, as Tata aims to strengthen its position within Apple's supply chains and expand its involvement in the semiconductor sector.",
-        "wordCount": 58
+        "summary": "Brands are reevaluating their e-commerce growth strategies due to increasing digital advertising costs and declining returns. This shift moves away from reliance on marketplace-driven growth towards prioritizing customer retention and operational efficiency. Companies are adopting more sustainable business models to navigate the changing landscape, focusing on adapting to competition and evolving consumer behaviors in both urban and emerging markets.",
+        "wordCount": 59
       }
     ],
     "technology": [
       {
-        "title": "New material may help aluminium batteries last longer, cost less",
-        "url": "https://timesofindia.indiatimes.com/science/new-material-may-help-aluminium-batteries-last-longer-cost-less/articleshow/130268281.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130268370,width-1280,height-720,imgsize-18220,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-14T20:26:00Z",
+        "title": "108 malicious Chrome extensions found stealing data and injecting ads into every page you visit - delete them right now",
+        "url": "https://www.tomsguide.com/computing/online-security/108-malicious-chrome-extensions-found-stealing-data-and-injecting-ads-into-every-page-you-visit-delete-them-right-now",
+        "source": "Tom's Guide",
+        "image": "https://cdn.mos.cms.futurecdn.net/W6JjyA6fWc7yvSauu4zdzT-2000-80.jpg",
+        "publishedAt": "2026-04-14T23:57:58Z",
         "category": "technology",
-        "summary": "Scientists in Bengaluru have made progress in developing aluminium batteries as a safer and cheaper alternative to lithium-ion batteries. A research team, led by Kavita Patil, has addressed a longstanding issue that has hindered the performance of aluminium batteries. This advancement could potentially enhance battery longevity and reduce costs, marking a significant step forward in battery technology.",
-        "wordCount": 57
-      },
-      {
-        "title": "GoPro Launches Mission 1 Pro with 8K Video and Advanced Features",
-        "url": "https://www.indianewsnetwork.com/en/gopro-launches-mission-1-pro-8k-video-advanced-features-20260415",
-        "source": "India News Network",
-        "image": "https://media.wired.com/photos/69de5fd2d84f3809d71e97d9/3:2/w_1600,c_limit/GoPro%20M1Series%20Cameras%20SOURCE%20GoPro.jpg",
-        "publishedAt": "2026-04-14T19:24:31Z",
-        "category": "technology",
-        "summary": "GoPro has launched the Mission 1 Pro, part of its new Mission 1 series, which includes features like 8K video and 50MP photos. This camera targets the action cinema market, aiming to elevate the capabilities of action cameras by incorporating advanced features typically found in professional filming equipment. The Mission 1 Pro seeks to redefine the action camera experience.",
+        "summary": "Security researchers identified 108 malicious Chrome extensions that collectively have over 20,000 downloads. These extensions are designed to steal user data and inject advertisements into web pages. Users are advised to delete these extensions immediately to protect their personal information and browsing experience. The campaign highlights the risks associated with downloading unverified browser extensions, which can compromise user security.",
         "wordCount": 59
       },
       {
-        "title": "GoPro Unveils Mission 1 Lineup with 8K Video and Pro-Grade Interchangeable Lenses",
-        "url": "https://www.firstpost.com/tech/gopro-unveils-mission-1-lineup-with-8k-video-and-pro-grade-interchangeable-lenses-14000497.html",
-        "source": "Firstpost",
-        "image": "https://images.firstpost.com/uploads/2026/04/Go-Pro-Mission-1-cameras-2026-04-51635ba389e627e4b538ea2772745b55.jpg?im=FitAndFill=(1200,675)",
-        "publishedAt": "2026-04-14T18:47:42Z",
+        "title": "Adobe Acrobat Reader vulnerability, trapped PDFs and prepress workflow security",
+        "url": "https://www.printindustry.news/story/51709/adobe-acrobat-reader-vulnerability-trapped-pdfs-and-prepress-workflow-security",
+        "source": "PrintIndustry.news",
+        "image": "https://media.printindustry.news/src/images/news/articles/ima-image-51709.png",
+        "publishedAt": "2026-04-14T22:00:00Z",
         "category": "technology",
-        "summary": "GoPro has launched its Mission 1 lineup of action cameras, which includes the Mission 1, Mission 1 Pro, and Mission 1 Pro ILS. Each model features a large 1-inch sensor capable of recording 8K video and offers enhanced low-light performance. The new cameras are designed for professional use, incorporating interchangeable lenses for greater versatility in shooting.",
-        "wordCount": 56
+        "summary": "A critical vulnerability in Adobe Acrobat Reader, active since December 2025, enables code execution upon opening a PDF. This exploit utilizes native Reader functions and embedded JavaScript, posing significant risks in the graphics industry, where PDFs are integral to workflows. The vulnerability highlights how production files can serve as attack vectors, raising concerns about security in prepress environments.",
+        "wordCount": 58
       }
     ],
     "sports": [
       {
-        "title": "”We’ll have to put four or six on him’ - Diego Simeone responds to Lamine Yamal’s challenge ahead of Barcelona’s clash with Atletico",
-        "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/117715/well-have-to-put-six-on-him-diego-simeone-responds-to-lamine-yamals-challenge-ahead-of-barcelonas-clash-with-atletico",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/04/gettyimages-2269305867.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-04-14T18:38:20Z",
+        "title": "Arne Slot makes Mohamed Salah transfer claim after Liverpool's Champions League exit",
+        "url": "https://metro.co.uk/2026/04/15/arne-slot-makes-mohamed-salah-transfer-claim-liverpools-champions-league-exit-27978398/",
+        "source": "Metro.co.uk",
+        "image": "https://metro.co.uk/wp-content/uploads/2026/04/SEI_293180698-ba74_1776236191.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+        "publishedAt": "2026-04-14T23:42:00Z",
         "category": "sports",
-        "summary": "Diego Simeone humorously suggested he might assign “four or six men” to mark Barcelona's Lamine Yamal ahead of their Champions League quarter-final second leg. This comment followed Yamal's pre-match remarks, where he expressed curiosity about whether Simeone would give him special attention during the game. The match highlights the growing prominence of the young Barcelona player.",
-        "wordCount": 56
-      },
-      {
-        "title": "IPL 2026: Noor Ahmad's trickery stands out as CSK hand KKR fourth defeat in 5 games",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-noor-ahmads-trickery-stands-out-as-csk-hand-kkr-fourth-defeat-in-5-games/articleshow/130266529.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130266687,width-1280,height-720,imgsize-82982,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-14T18:33:00Z",
-        "category": "sports",
-        "summary": "Chennai Super Kings defeated Kolkata Knight Riders by 32 runs in the IPL, marking KKR's fourth loss in five matches. Batting first, CSK set a target of 193 runs. KKR struggled on a challenging pitch, finishing their innings at 160/7. Noor Ahmad's performance was notable as CSK capitalized on KKR's difficulties to secure the victory.",
+        "summary": "Arne Slot stated that Liverpool must \"sell to buy\" if they intend to replace Mohamed Salah this summer. This comment follows Liverpool's recent exit from the Champions League, where they lost 2-0 to Paris Saint-Germain, with Ousmane Dembele scoring both goals. The defeat raises questions about Liverpool's squad management and potential transfer strategies moving forward.",
         "wordCount": 55
       },
       {
-        "title": "Rohit skips MI nets but no information on tear in hamstring",
-        "url": "https://www.cricbuzz.com/cricket-news/138378/rohit-skips-mi-nets-but-no-information-on-tear-in-hamstring",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c916580/rohit-sharma-suffered-a-hamstring-injury-while-playing-against-rcb.jpg",
-        "publishedAt": "2026-04-14T18:32:26Z",
+        "title": "IPL 2026: Will Virat Kohli play today vs LSG? Latest update on RCB star",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/will-virat-kohli-play-today-vs-lsg-latest-update-on-rcb-star/articleshow/130264637.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130264640,width-1280,height-720,imgsize-71246,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-14T23:31:00Z",
         "category": "sports",
-        "summary": "Rohit Sharma did not attend the Mumbai Indians' practice session on April 14, raising concerns about his fitness ahead of the upcoming match against Punjab Kings. The team management has not confirmed the status of his hamstring injury, leaving his availability uncertain. They may choose to prioritize caution or allow Rohit to make the final decision regarding his participation.",
-        "wordCount": 59
+        "summary": "Virat Kohli, the star batter for Royal Challengers Bengaluru, recently exited a match against Mumbai Indians due to an ankle niggle. His performance in IPL 2026 has been notable, raising questions about his availability for the upcoming game against Lucknow Super Giants. Updates on his condition are anticipated as fans await confirmation regarding his participation in the match.",
+        "wordCount": 58
+      },
+      {
+        "title": "Barcelona player ratings vs Atletico Madrid: Lamine Yamal & Ferran Torres' brilliance counts for nothing! Blaugrana fall short in stirring Champions League comeback attempt",
+        "url": "https://www.goal.com/en-in/lists/barcelona-player-ratings-atletico-madrid-lamine-yamal-ferran-torres/bltb71f0f8599d817fd",
+        "source": "Goal.com",
+        "image": "https://assets.goal.com/images/v3/blt59ac8299f173d307/GOAL%20-%20Multiple%20Images%20-%203%20Stacked%20-%20Facebook%20(33).png",
+        "publishedAt": "2026-04-14T22:58:44Z",
+        "category": "sports",
+        "summary": "Barcelona faced Atletico Madrid in the Champions League quarter-final second leg, where Lamine Yamal scored early, capitalizing on a Clement Lenglet mistake. Despite Yamal and Ferran Torres' efforts, including a missed opportunity by Dani Olmo, Barcelona could not secure a comeback. The match highlighted both individual brilliance and defensive errors, ultimately leading to Barcelona's elimination from the tournament.",
+        "wordCount": 58
       }
     ],
     "health": [
+      {
+        "title": "A Distinct New Type of Diabetes Is Now Officially Recognized",
+        "url": "https://www.sciencealert.com/a-distinct-new-type-of-diabetes-is-now-officially-recognized",
+        "source": "ScienceAlert",
+        "image": "https://www.sciencealert.com/images/2025/10/Type5Diabetes.jpg",
+        "publishedAt": "2026-04-14T23:56:26Z",
+        "category": "health",
+        "summary": "The International Diabetes Federation (IDF) has officially recognized a fifth type of diabetes in 2025, concluding decades of debate. This new classification, referred to as Type 5 diabetes, aims to enhance understanding and treatment of the condition. The IDF is encouraging other health organizations, including the World Health Organization (WHO), to adopt this new classification in their guidelines.",
+        "wordCount": 58
+      },
       {
         "title": "When antibiotics fail: The hidden cost of self-medication",
         "url": "https://philstarlife.com/self/510640-antibiotics-fail-hidden-cost-self-medication",
@@ -137,8 +137,8 @@
         "image": "https://d2nnykqiaju69u.cloudfront.net/pslife_photos/Maricel_temp/Health%20and%20Family/1-2026-April-14/Castillo%20630.jpg",
         "publishedAt": "2026-04-14T19:41:15Z",
         "category": "health",
-        "summary": "Misuse of antibiotics during self-medication can lead to stronger infections, as improper use trains bacteria to resist treatment. A patient reported treating his flu-like symptoms with antibiotics without consulting a doctor, highlighting the risks associated with self-prescribing. This behavior contributes to the growing problem of antibiotic resistance, posing a significant public health challenge and increasing future treatment difficulties.",
-        "wordCount": 58
+        "summary": "Misuse of antibiotics during self-medication can lead to stronger infections, as improper use contributes to antibiotic resistance. A patient shared his experience of taking antibiotics for flu-like symptoms without consulting a doctor, highlighting the risks associated with self-treatment. This practice not only affects individual health but also poses broader public health challenges by diminishing the effectiveness of existing antibiotics.",
+        "wordCount": 59
       },
       {
         "title": "Childhood cancer in India on the rise: Expert warns late diagnosis is reducing survival rates among children",
@@ -147,21 +147,21 @@
         "image": "https://st1.thehealthsite.com/wp-content/uploads/2026/04/Childhood-cancer.jpg",
         "publishedAt": "2026-04-14T15:58:00Z",
         "category": "health",
-        "summary": "Childhood cancer cases in India are increasing, with experts highlighting that late diagnosis is significantly reducing survival rates among affected children. They emphasize the importance of early detection and increased awareness to improve outcomes. Efforts to enhance screening and education about childhood cancer are crucial for saving more young lives in the country.",
-        "wordCount": 53
-      },
-      {
-        "title": "The gut microbiome as a fingerprint of antibiotic use history",
-        "url": "https://www.nature.com/articles/s41591-026-04360-3?error=cookies_not_supported&code=061c3f14-ad6e-419b-95f3-b944e793db3c",
-        "source": "Nature",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41591-026-04360-3/MediaObjects/41591_2026_4360_Fig1_HTML.png",
-        "publishedAt": "2026-04-14T12:45:00Z",
-        "category": "health",
-        "summary": "A study involving 14,979 individuals found that antibiotic use over eight years significantly altered gut microbiome composition. Data from the Swedish National Prescribed Drug Register and stool metagenomic profiles were analyzed. Changes occurred after just one course of antibiotics and varied widely among different antibiotic classes, highlighting the lasting impact of antibiotic exposure on gut health.",
-        "wordCount": 56
+        "summary": "Childhood cancer cases in India are increasing, with experts highlighting that late diagnosis is negatively impacting survival rates. The lack of early detection and awareness is contributing to the problem. Experts emphasize the importance of improving early diagnosis and raising awareness to enhance survival chances for affected children. Addressing these issues is crucial for saving more young lives.",
+        "wordCount": 58
       }
     ],
     "science": [
+      {
+        "title": "Universe expansion gap becomes harder to explain",
+        "url": "https://www.earth.com/news/expansion-rate-local-universes-is-clearer-than-ever-but-still-doesnt-add-up/",
+        "source": "Earth.com",
+        "image": "https://cff2.earth.com/uploads/2026/04/14154909/universe-expansion.jpg",
+        "publishedAt": "2026-04-14T22:52:30Z",
+        "category": "science",
+        "summary": "Scientists have confirmed that the universe is expanding faster than previously expected, exacerbating the Hubble tension, a discrepancy between local and early Universe measurements. A recent analysis has narrowed the uncertainty surrounding this gap, highlighting the ongoing challenge in reconciling these two distinct observations. The findings deepen the mystery of cosmic expansion and raise questions about current cosmological models.",
+        "wordCount": 59
+      },
       {
         "title": "Is Yellowstone volcano near eruption? New study sparks buzz, scientists urge caution",
         "url": "https://www.livemint.com/us/trending/is-yellowstone-volcano-near-eruption-new-study-sparks-buzz-scientists-urge-caution-11776196907903.html",
@@ -169,8 +169,8 @@
         "image": "https://www.livemint.com/lm-img/img/2026/04/14/1600x900/logo/Gzc6E5sXQAMqz9t_1776196888286_1776196900539.jpg",
         "publishedAt": "2026-04-14T20:09:57Z",
         "category": "science",
-        "summary": "A recent study indicates that magma may be closer to the surface beneath Yellowstone, raising concerns about a potential eruption. However, scientists caution that fears of an imminent eruption are likely overstated. The study has generated significant online discussion, but experts emphasize the need for careful interpretation of the findings and a measured response to the information presented.",
-        "wordCount": 58
+        "summary": "A recent study indicates that magma might be closer to the surface beneath Yellowstone, raising concerns about a potential eruption. However, scientists caution that fears of an imminent eruption are likely overstated. They emphasize the importance of understanding volcanic activity and stress that while monitoring is essential, there is no immediate threat to the area.",
+        "wordCount": 55
       },
       {
         "title": "Study Links Excessive Screentime To Eating Disorders",
@@ -179,50 +179,40 @@
         "image": "https://img.republicworld.com/all_images/2026/04/excessive-screentime-can-trigger-eating-disorders-1776189340506-1280x720.webp",
         "publishedAt": "2026-04-14T17:55:45Z",
         "category": "science",
-        "summary": "A recent study published in the Journal of Medical Internet Research indicates that excessive smartphone use is a significant risk factor for developing eating disorders. While health experts assert that smartphones are not the direct cause of these disorders, they can negatively impact eating habits. This finding highlights the broader implications of screen time beyond eye strain and sleep disruption.",
-        "wordCount": 60
-      },
-      {
-        "title": "This supermassive black hole is located in an unusual part of its galaxy",
-        "url": "https://www.notebookcheck.net/This-supermassive-black-hole-is-located-in-an-unusual-part-of-its-galaxy.1273312.0.html",
-        "source": "Notebookcheck",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/galaxy-hubble.jpg",
-        "publishedAt": "2026-04-14T17:30:00Z",
-        "category": "science",
-        "summary": "Astronomers using the James Webb Space Telescope have identified a supermassive black hole in an unusual area of the elliptical galaxy NGC 4486B. This black hole has a mass approximately 360 million times that of the Sun. The discovery challenges existing theories, prompting researchers to propose a new hypothesis to explain its unexpected location within the galaxy.",
+        "summary": "A recent study published in the Journal of Medical Internet Research indicates that excessive smartphone use is a significant risk factor for developing eating disorders. While health experts clarify that smartphones are not the direct cause, they contribute to harmful eating habits. The findings highlight the broader implications of excessive screentime beyond eye strain and sleep disruption.",
         "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Sir one more chance please: Buchi Babu’s comment on Ram Charan’s Insta post goes viral",
-        "url": "https://www.123telugu.com/mnews/sir-one-more-chance-please-buchi-babus-comment-on-ram-charans-insta-post-goes-viral-prp.html",
-        "source": "123telugu.com",
-        "image": "https://cdn.123telugu.com/content/wp-content/uploads/2026/03/Peddi-14.webp",
-        "publishedAt": "2026-04-14T20:30:00Z",
+        "title": "Horoscope Today: April 15, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-april-15-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-04-15T00:30:00Z",
         "category": "entertainment",
-        "summary": "Ram Charan is currently filming the sports action drama \"Peddi,\" directed by Buchi Babu Sana. The film's release, originally scheduled for April 30, has been postponed without a new date announced. Recently, Buchi Babu's comment on Ram Charan's Instagram post gained attention, contributing to the ongoing buzz surrounding the film and its lead actor in Telugu cinema news.",
+        "summary": "On April 15, 2026, Taurus is advised to reflect on a period of pause influenced by past experiences. This introspection is essential for shaping future decisions. While there are mixed outcomes ahead, the focus should remain on personal growth and understanding. The horoscope emphasizes the importance of navigating this transitional phase with awareness and intention for positive developments.",
         "wordCount": 58
       },
       {
-        "title": "Here Are All The K-Pop Artists Nominated For The 2026 American Music Awards",
-        "url": "https://www.soompi.com/article/1833088wpp/here-are-all-the-k-pop-artists-nominated-for-the-2026-american-music-awards",
-        "source": "Soompi",
-        "image": "https://0.soompi.io/wp-content/uploads/2026/04/14121051/2026-American-Music-Awards.jpg",
-        "publishedAt": "2026-04-14T19:19:32Z",
+        "title": "Aries Horoscope Today: April 15, 2026",
+        "url": "https://www.vogue.in/content/aries-horoscope-today-april-15-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/16:9/w_1280,c_limit/1-Aries_16;9.png",
+        "publishedAt": "2026-04-15T00:20:00Z",
         "category": "entertainment",
-        "summary": "The 2026 American Music Awards (AMAs) announced its nominees on April 14. K-Pop artists received nominations based on fan interactions, including streaming and album sales. The AMAs aim to recognize popular music achievements, and this year's nominations highlight the growing influence of K-Pop in the global music industry. The full list of nominees includes various artists across multiple categories.",
-        "wordCount": 59
+        "summary": "Aries individuals are advised to take a break as midweek emotions may feel intense and overwhelming. Feelings of burnout or disappointment are acknowledged as valid experiences. It's important to recognize when something feels off, allowing for self-reflection and care. The horoscope emphasizes the significance of addressing emotional fluctuations rather than dismissing them, encouraging a mindful approach to well-being.",
+        "wordCount": 58
       },
       {
-        "title": "Bobby Deol recalls Dharmendra’s struggle with alcohol; says his loss brought him closer to Esha Deol and Ahana Deol",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/bobby-deol-recalls-dharmendras-struggle-with-alcohol-says-his-loss-brought-him-closer-to-esha-deol-and-ahana-deol/articleshow/130267430.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130267430,width-1280,height-720,imgsize-69556,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-14T19:00:00Z",
+        "title": "Pisces Horoscope Today for April 15, 2026: Businesses may expect new beginnings today",
+        "url": "https://www.hindustantimes.com/astrology/horoscope/pisces-daily-horoscope-today-for-april-15-2026-businesses-may-expect-new-beginnings-today-101776204692597.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/14/550x309/Pisces_1776204759433_1776204759574.png",
+        "publishedAt": "2026-04-15T00:12:02Z",
         "category": "entertainment",
-        "summary": "Bobby Deol has shared his journey of quitting alcohol, a significant personal change he made a year and a half ago. He found the transition easier than anticipated. Deol also reflected on his father, Dharmendra's struggles with alcohol, noting that his father's loss strengthened his relationships with his sisters, Esha Deol and Ahana Deol.",
-        "wordCount": 54
+        "summary": "On April 15, 2026, Pisces individuals may experience heightened emotional awareness, enabling them to quickly pick up on their surroundings. The day encourages them to trust these insights and take decisive action. Persistent thoughts regarding self-worth, finances, or relationships may arise, prompting the need for resolution. Overall, the horoscope suggests a time for new beginnings and clarity in personal matters.",
+        "wordCount": 60
       }
     ]
   }
