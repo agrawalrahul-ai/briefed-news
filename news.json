@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-04-15T18:31:27.279Z",
+  "updatedAt": "2026-04-16T00:31:00.680Z",
   "categories": {
     "world": [
       {
-        "title": "One Man Lightly Wounded After Dozens of Hezbollah Missiles Target Northern Israel",
-        "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-15/ty-article-live/trump-says-the-iran-war-is-very-close-to-over-as-vance-talks-of-mistrust/0000019d-8edb-d4f2-abdf-cffffa430000",
-        "source": "Haaretz",
-        "image": "https://img.haarets.co.il/bs/0000019d-8edb-d4f2-abdf-cffffa430000/90/a0/0309578e4ec9ac722fb4783a3011/final-desktop.png?precrop=1000,581,x0,y0&width=1200&height=630&cmsprod",
-        "publishedAt": "2026-04-15T06:27:00Z",
+        "title": "Turkey school shooting: 9 killed, many hurt; 2nd such incident in two days",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/turkey-school-shooting-4-killed-20-hurt-2nd-such-incident-in-two-days/articleshow/130283330.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130283274,width-1280,height-720,imgsize-37676,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-15T12:04:00Z",
         "category": "world",
-        "summary": "One man was lightly wounded as Hezbollah launched dozens of missiles targeting northern Israel. Concurrently, Lebanese media reported two fatalities from drone strikes on the Tyre-Beirut highway, where one vehicle was hit while traveling south, and another was struck approximately 3.5 kilometers away. Meanwhile, no progress was made in Gaza cease-fire talks as Hamas met with Egyptian intelligence in Cairo.",
-        "wordCount": 60
+        "summary": "Nine people were killed and many others injured when a middle school student opened fire at a school in Kahramanmaras, southeastern Turkey, on Wednesday. The incident marks the second school shooting in the country within two days. Local authorities, including Governor Mukerrem Unluer, confirmed that a teacher was among the victims in this tragic event.",
+        "wordCount": 55
       },
       {
-        "title": "Trump criticises Giorgia Melonis Iran war stance, straining US-Italy alliance",
-        "url": "https://www.indiatoday.in/world/story/trump-meloni-attack-iran-war-energy-pope-leo-remarks-nato-ally-2896294-2026-04-14",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/trump-and-meloni-140252177-16x9_0.jpg?VersionId=viik6sH0O.E7ynJ4SS44U81yqRDJqFXU",
-        "publishedAt": "2026-04-15T05:58:13Z",
+        "title": "In Trump's Post On Strait Of Hormuz, A \"China Very Happy\" Message",
+        "url": "https://www.ndtv.com/world-news/in-trumps-post-on-strait-of-hormuz-a-china-very-happy-message-11361371",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2025-11/cs14ppeo_trump-xi-afp_625x300_05_November_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-15T11:55:44Z",
         "category": "world",
-        "summary": "US President Donald Trump criticized Italian Prime Minister Giorgia Meloni for her stance on the Iran war, expressing shock that she did not align with Washington's position. He also took issue with her defense of Pope Leo, stating that she was \"no longer the same person.\" This marks a significant strain in the previously close US-Italy alliance.",
-        "wordCount": 57
+        "summary": "US President Donald Trump announced on Truth Social that he is \"permanently opening\" the Strait of Hormuz, stating that it will never be blocked again. He suggested that this decision makes China \"very happy.\" Trump's remarks come amid ongoing discussions about the strategic importance of the Strait, a vital route for global oil shipments and trade.",
+        "wordCount": 56
       },
       {
-        "title": "Why Dubai’s Most Famous Hotel Is Shutting Doors Until 2027",
-        "url": "https://www.news18.com/lifestyle/travel/why-dubais-most-famous-hotel-is-shutting-doors-until-2027-10033795.html",
-        "source": "News18",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/04/Ranbir-Alia-8-2026-04-16328ca71da275b886b0c9b662bda012-1200x675.jpg",
-        "publishedAt": "2026-04-15T05:46:31Z",
+        "title": "Turkey school shooting: 4 dead, 20 injured after gun attack at middle school",
+        "url": "https://www.hindustantimes.com/world-news/turkey-school-shooting-shots-fired-at-kahramanmaras-middle-school-second-incident-in-two-days-101776252110452.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/15/550x309/photo-1532077795300-c4b487f601f6_1776252639091_1776252653308.jpg",
+        "publishedAt": "2026-04-15T11:27:18Z",
         "category": "world",
-        "summary": "Dubai's iconic Burj Al Arab hotel will close for an 18-month restoration, marking the end of its 25-year operation as a luxury landmark. The hotel, known for its distinctive sail-shaped design, has been a symbol of opulence in the city. The renovation aims to enhance its facilities and maintain its status as a premier destination in Dubai.",
-        "wordCount": 57
+        "summary": "A shooting at a middle school in Turkey resulted in four deaths, including three students and one teacher, and approximately 20 injuries. The incident prompted a swift response from security forces, who secured and cordoned off the area. Reports indicate that the attacker was an eighth-grade student. The situation is ongoing, with investigations currently underway.",
+        "wordCount": 55
       }
     ],
     "business": [
       {
-        "title": "Snap layoffs: Company may cut up to 1 in 5 jobs; Perplexity integration called off",
-        "url": "https://economictimes.indiatimes.com/tech/technology/snap-layoffs-company-may-cut-up-to-1-in-5-jobs-perplexity-integration-called-off/articleshow/130274538.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-231690,resizemode-75,msid-130274538/tech/technology/snap-layoffs-company-may-cut-up-to-1-in-5-jobs-perplexity-integration-called-off.jpg",
-        "publishedAt": "2026-04-15T06:11:54Z",
+        "title": "India slips to sixth-largest economy in 2025, now seen becoming third-biggest by 2031",
+        "url": "https://www.moneycontrol.com/news/business/economy/india-slips-to-sixth-largest-economy-in-2025-now-seen-becoming-third-biggest-by-2031-13889924.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260415121726_India-Indian-economy.png",
+        "publishedAt": "2026-04-15T12:17:40Z",
         "category": "business",
-        "summary": "Snap Inc. is planning significant layoffs, potentially affecting 15-20% of its workforce, according to Alex Heath. While some teams will see major reductions, the Specs unit, which develops AR smart glasses, is increasing hiring. Additionally, a planned $400 million integration with Perplexity AI has been canceled due to disagreements between the two companies.",
-        "wordCount": 53
-      },
-      {
-        "title": "Massive Fire Breaks Out At BYD Factory In China's Shenzhen: Video",
-        "url": "https://www.ndtv.com/auto/massive-fire-breaks-out-at-byd-factory-in-chinas-shenzhen-video-11359423",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-04/dqsc7sc_byd-factory-fire_625x300_15_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=800",
-        "publishedAt": "2026-04-15T05:45:53Z",
-        "category": "business",
-        "summary": "A massive fire erupted at BYD's factory in Shenzhen, specifically within a multi-level parking garage. Videos shared on social media depict thick clouds of black smoke rising from the facility. The incident has prompted a large-scale emergency response. Authorities are currently addressing the situation, but details regarding the cause of the fire and any potential injuries remain unclear.",
+        "summary": "India is projected to become the sixth-largest economy in 2025, according to the International Monetary Fund, dropping one rank from the previous year. This decline is attributed to a stronger dollar and GDP revisions, despite India maintaining one of the fastest growth rates among major economies. The country is expected to rise to the third-largest economy by 2031.",
         "wordCount": 58
       },
       {
-        "title": "Mahindra Scorpio Classic Prices Increased With Immediate Effect",
-        "url": "https://www.carwale.com/news/mahindra-scorpio-classic-prices-increased-with-immediate-effect/",
-        "source": "CarWale",
-        "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/130613/mahindra-scorpio-classic-left-front-three-quarter0.jpeg?isig=0&art=1&isig=0&q=80",
-        "publishedAt": "2026-04-15T05:32:45Z",
+        "title": "Snap to lay off 1,000 employees, CEO Evan Spiegel's memo puts it on AI; says: 'Rapid advancements in AI enable our teams to...'",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/snap-to-lay-off-1000-employees-ceo-evan-spiegels-memo-puts-it-on-ai-says-rapid-advancements-in-ai-enable-our-teams-to-/articleshow/130283505.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130283505,width-1280,height-720,imgsize-58572,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-15T12:12:00Z",
         "category": "business",
-        "summary": "Mahindra has increased the prices of the Scorpio Classic in India, with the new starting price set at Rs. 13 lakh. This revision applies to all variants of the vehicle. The updated price list follows the company's announcement of a planned price hike effective April 6, 2026. Details on the specific percentage increase were not disclosed.",
-        "wordCount": 56
+        "summary": "Snap is laying off 1,000 employees, representing 16% of its global workforce, as it shifts focus towards profitable growth and integrates artificial intelligence. CEO Evan Spiegel highlighted the rapid advancements in AI as a key factor in this decision, which aims to enhance efficiency and reduce costs. The layoffs reflect the company's strategic pivot in a challenging market.",
+        "wordCount": 58
+      },
+      {
+        "title": "HDB Financial Q4 results: Net profit rises 41% to Rs 751 crore, NBFC declares Rs 2 dividend",
+        "url": "https://www.moneycontrol.com/news/business/earnings/hdb-financial-q4-results-net-profit-rises-41-to-rs-751-crore-nbfc-declares-rs-2-dividend-13889922.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2025/07/20250702081405_HDB-Financial.jpg",
+        "publishedAt": "2026-04-15T12:06:36Z",
+        "category": "business",
+        "summary": "HDB Financial Services reported a 41.4% increase in net profit for Q4 FY26, reaching Rs 751 crore, compared to Rs 531 crore in the same quarter last year. The company's interest income rose 13% to Rs 4,081 crore, up from Rs 3,623 crore. Additionally, the non-bank lender declared a dividend of Rs 2 per share.",
+        "wordCount": 55
       }
     ],
     "technology": [
       {
-        "title": "Why Apple threatened to remove Musk's Grok from App Store",
-        "url": "https://www.newsbytesapp.com/news/science/apple-threatened-to-remove-grok-from-app-store-report/story",
-        "source": "NewsBytes",
-        "image": "https://i.cdn.newsbytesapp.com/images/l81320260415110618.jpeg",
-        "publishedAt": "2026-04-15T06:20:54Z",
+        "title": "Scientists discover way to make Aluminium batteries affordable and safer, offering alternative to Lithium",
+        "url": "https://www.tribuneindia.com/news/science-technology/scientists-discover-way-to-make-aluminium-batteries-affordable-and-safer-offering-alternative-to-lithium/",
+        "source": "The Tribune",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNmMmQyYjQwLTM4YzYtMTFmMS1hMjhiLThiZWUzODg3Y2VjMC5qcGc=",
+        "publishedAt": "2026-04-15T12:29:47Z",
         "category": "technology",
-        "summary": "Apple threatened to remove the Grok AI app from its App Store due to violations of store guidelines regarding user-generated sexualized deepfakes involving women and children. The issue was reported by NBC News, highlighting concerns over inappropriate content. Apple’s action underscores its commitment to maintaining a safe environment for users and adhering to its policies on harmful material.",
+        "summary": "Indian scientists have created a new composite electrode material for aluminium-ion batteries, enhancing stability and lifespan. This innovation addresses significant challenges in aluminium-ion technology, making these batteries more affordable and safer compared to traditional lithium-ion options. The development presents a promising alternative that is both eco-friendlier and potentially transformative for the battery industry, improving overall performance and longevity.",
         "wordCount": 58
       },
       {
-        "title": "Apple warned Musk's xAI of removing Grok from App Store over AI deepfakes",
-        "url": "https://www.business-standard.com/technology/tech-news/apple-warned-musk-s-xai-of-removing-grok-from-app-store-over-ai-deepfakes-126041500364_1.html",
-        "source": "Business Standard",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-11/12/full/1731390095-262.jpg",
-        "publishedAt": "2026-04-15T06:09:59Z",
+        "title": "2026 KTM 1390 Super Duke RR aka The Beast Unveiled With 187 HP Engine",
+        "url": "https://www.ndtv.com/auto/2026-ktm-1390-super-duke-rr-aka-the-beast-unveiled-with-187-hp-engine-11361550",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-04/qmhafvak_2026-ktm-1390-super-duke-rr_625x300_15_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=800",
+        "publishedAt": "2026-04-15T12:27:28Z",
         "category": "technology",
-        "summary": "Apple has warned Musk's xAI that its Grok app may be removed from the App Store due to violations of guidelines concerning sexualized deepfakes. The company has requested fixes to address these issues, emphasizing that failure to comply could result in the app's removal. The situation highlights ongoing concerns regarding content moderation and AI-generated material in mobile applications.",
-        "wordCount": 58
+        "summary": "KTM has unveiled the 2026 1390 Super Duke RR, featuring the LC8 engine that delivers 187 horsepower. Positioned as the flagship model in its lineup, the motorcycle is designed for enhanced performance and agility. Dubbed \"The Beast,\" it aims to offer a more focused riding experience, emphasizing its capabilities as a high-performance street machine.",
+        "wordCount": 54
       },
       {
-        "title": "Xiaomi Redmi A7 Pro 5g: Chinese smartphone maker returns with budget phone; priced at Rs 11499 with 6300 mAh battery",
-        "url": "https://www.etnownews.com/technology/xiaomi-redmi-a7-pro-5g-chinese-smartphone-maker-returns-with-budget-phone-priced-at-rs-11499-with-6300-mah-battery-article-154081319",
-        "source": "ET Now",
-        "image": "https://images.etnownews.com/thumb/msid-154081319,updatedat-1776232691095,width-1280,height-720,resizemode-75/154081319.jpg",
-        "publishedAt": "2026-04-15T05:58:10Z",
+        "title": "Oppo F33 and F33 Pro announced with 7,000mAh batteries and Dimensity 6360 Max chipsets",
+        "url": "https://www.gsmarena.com/oppo_f33_and_f33_pro_announced_with_7000mah_batteries_and_dimensity_6360_max_chipsets-news-72378.php",
+        "source": "GSMArena.com",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/04/oppo-f33-f33-pro-ofic/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-04-15T11:44:02Z",
         "category": "technology",
-        "summary": "Xiaomi has launched the Redmi A7 Pro 5G, a budget smartphone priced at Rs 11,499. The device features a substantial 6,300 mAh battery and upgraded display. The company aims to attract customers with this new offering, highlighting significant improvements over previous models. Further details on specifications and features are expected to be discussed in upcoming articles.",
-        "wordCount": 56
+        "summary": "Oppo has announced the F33 and F33 Pro smartphones in India, featuring 7,000mAh batteries and Dimensity 6360 Max chipsets. Both models are available for pre-order, with deliveries set for April 26. The F33 mirrors the global A6 Pro, while the F33 Pro closely resembles the Chinese A6 series. The devices maintain familiar designs and specifications.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "Arne Slot's time is up at Anfield after shocking selections, Ousmane Dembele's Ballon d'Or-winning brilliance and all of the winners and losers from Liverpool's Champions League loss to Paris Saint-Ge",
-        "url": "https://www.goal.com/en-in/lists/arne-slot-shocking-selections-ousmane-dembele-ballon-dor-brillance-winners-losers-liverpool-champions-league-loss-paris-saint-germain/bltb82ae3a15062f682",
-        "source": "Goal.com",
-        "image": "https://assets.goal.com/images/v3/blt13d76f09fc94ea86/Liverpool-PSG%20winners%20&%20losers.jpg",
-        "publishedAt": "2026-04-15T06:01:40Z",
+        "title": "Rs 25.20 Crore Star Cameron Green Now A 'Liability', KKR Told To Drop Australian By India Great",
+        "url": "https://sports.ndtv.com/ipl-2026/rs-25-20-crore-star-cameron-green-now-a-liability-kkr-told-to-drop-australian-by-india-great-virender-sehwag-11361540",
+        "source": "NDTV Sports",
+        "image": "https://c.ndtvimg.com/2026-04/blr3akng_cameron-green_625x300_14_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-15T12:22:21Z",
         "category": "sports",
-        "summary": "Liverpool faced a disappointing Champions League exit after losing to Paris Saint-Germain at Anfield. Key figures included Arne Slot, whose selections were criticized, and Ousmane Dembele, whose exceptional goal highlighted his Ballon d'Or-winning talent. The match showcased various winners and losers, including players like Hugo Ekitike, as Liverpool's hopes for advancement were dashed in the last 16.",
+        "summary": "Kolkata Knight Riders (KKR) have secured only one point after five matches in IPL 2026, with four losses and one washed-out game against Punjab Kings. Former Indian cricketer has labeled Australian player Cameron Green, who was acquired for Rs 25.20 crore, as a \"liability\" and advised KKR to consider dropping him from the team.",
+        "wordCount": 54
+      },
+      {
+        "title": "IPL 2026: Match 24, MI vs PBKS Match Prediction - Who will win today’s IPL match between Mumbai Indians vs Punjab Kings?",
+        "url": "https://www.crictracker.com/cricket-match-predictions/ipl-2026-match-24-mi-vs-pbks-match-prediction-who-will-win-todays-ipl-match-between-mumbai-indians-vs-punjab-kings/",
+        "source": "CricTracker",
+        "image": "https://media.crictracker.com/media/attachments/1775639523747_Untitled-design---2026-04-08T144201.jpeg",
+        "publishedAt": "2026-04-15T12:00:00Z",
+        "category": "sports",
+        "summary": "Mumbai Indians (MI) face Punjab Kings (PBKS) in Match 24 of IPL 2026 at Wankhede Stadium on April 16. MI has struggled in their campaign this season, while PBKS aims to capitalize on their performance. Fans and analysts are eager to see the outcome of this high-stakes match, with predictions circulating about which team will secure victory.",
         "wordCount": 57
       },
       {
-        "title": "“It looks really bad”: Liverpool striker Hugo Ekitike suffered a horror injury against PSG-now his World Cup hopes are in doubt",
-        "url": "https://www.goal.com/en-gb/lists/it-looks-really-bad-liverpool-striker-hugo-ekitike-suffered-a-horror-injury-against-psg-now-his-world-cup-hopes-are-in-doubt/blt337918e3a55c439a",
-        "source": "Goal.com",
-        "image": "https://assets.goal.com/images/v3/bltd50ca4b57f0af61e/1600.jpg",
-        "publishedAt": "2026-04-15T05:59:05Z",
+        "title": "Vaibhav Sooryavanshi Set To Break Sachin Tendulkar's Record. Who's Youngest Cricketer To Make International Debut?",
+        "url": "https://www.news18.com/photogallery/cricket/vaibhav-sooryavanshi-breaks-sachin-tendulkar-record-youngest-cricketer-to-make-international-debut-10034712.html",
+        "source": "News18",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/04/Vaibhav-Sooryavanshi-set-to-break-Sachin-Tendulkars-record-2026-04-15f0e6334813758e428910ae317d4fc1-1200x675.jpg",
+        "publishedAt": "2026-04-15T11:55:02Z",
         "category": "sports",
-        "summary": "Hugo Ekitike sustained a serious injury during Liverpool FC's Champions League match against Paris Saint-Germain. Manager Arne Slot described the injury as \"really bad,\" but did not provide details on its severity. Further tests are planned for Wednesday. The injury raises concerns about Ekitike's availability for the upcoming World Cup, adding to Liverpool's challenges this season.",
-        "wordCount": 56
+        "summary": "Vaibhav Sooryavanshi, a 15-year-old left-handed batter from Bihar, is poised to break Sachin Tendulkar's record as the youngest player to debut for the India men’s cricket team. He has been included in the list of probable players for the upcoming T20I series against Ireland, marking a significant milestone in his budding cricket career.",
+        "wordCount": 53
       }
     ],
     "health": [
       {
-        "title": "COVID ‘Cicada’ Variant: What One Should Know",
-        "url": "https://www.bwhealthcareworld.com/article/covid-cicada-variant-what-one-should-know-602318",
-        "source": "BW Healthcare World",
-        "image": "https://static.businessworld.in/1624849193_B7nBOQ_COVID_19.jpg",
-        "publishedAt": "2026-04-15T06:08:02Z",
+        "title": "HIV outbreak horror: 331 children infected in Pakistan's Punjab, unsafe injection practices found at govt hospital",
+        "url": "https://www.wionews.com/world/hiv-outbreak-horror-331-children-infected-in-pakistan-s-punjab-unsafe-injection-practices-found-at-govt-hospital-1776250256924",
+        "source": "WION",
+        "image": "https://cdn1.wionews.com/prod/wion/images/2026/20260415/image-1776250699144.jpg?imwidth=1200&imheight=900",
+        "publishedAt": "2026-04-15T11:08:00Z",
         "category": "health",
-        "summary": "A new COVID-19 subvariant, named “Cicada” (BA.3.2), is circulating, prompting concerns among families. Health experts advise a fact-based response, noting it is classified as a “variant under monitoring” with low risk. Current vaccines still provide strong protection against severe illness. Experts emphasize the importance of vaccination and hygiene, urging preparedness over panic in response to evolving variants.",
+        "summary": "At least 331 children in Punjab, Pakistan, have contracted HIV between November 2024 and October 2025, linked to unsafe injection practices at a government hospital. An investigation revealed that among 97 affected children, only four had HIV-positive mothers, suggesting mother-to-child transmission was not the primary cause. The outbreak was first noticed by a local doctor in late 2024.",
+        "wordCount": 58
+      },
+      {
+        "title": "VAR Checks take on new meaning as Bally Bet Pledges donations per check to boost testicular cancer awareness",
+        "url": "https://sportstalkflorida.com/premier-league-soccer-featured/var-checks-take-on-new-meaning-as-bally-bet-pledges-donations-per-check-to-boost-testicular-cancer-awareness/",
+        "source": "Sports Talk Florida",
+        "image": "https://sportstalkflorida.com/wp-content/uploads/2026/04/f087bc12bec6bfe7a617059427645328f1f07b44-1236x810-1.png",
+        "publishedAt": "2026-04-15T10:54:37Z",
+        "category": "health",
+        "summary": "Bally Bet has announced a donation of £100 to The OddBalls Foundation for each VAR check during the Premier League matches this weekend. This initiative is part of their \"Check Your Bally’s\" campaign, aimed at raising awareness for Testicular Cancer Awareness Month. The campaign seeks to give a meaningful purpose to VAR checks while promoting health awareness.",
         "wordCount": 57
       },
       {
-        "title": "6 symptoms of chronic stress your body is battling silently: Belly fat, craving for salt, waking at 3 am, more",
-        "url": "https://www.moneycontrol.com/health-and-fitness/6-symptoms-of-chronic-stress-your-body-is-battling-silently-belly-fat-craving-for-salt-waking-at-3-am-more-article-13889307.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260415052351_Symptoms-of-stress.jpg",
-        "publishedAt": "2026-04-15T06:00:51Z",
+        "title": "PharmEasy promotes preventive heart care in campaign",
+        "url": "https://www.campaignindia.in/article/pharmeasy-promotes-preventive-heart-care-in-campaign/45470zy998dge5a8xcn14g01xy",
+        "source": "Campaign India",
+        "image": "https://www.campaignindia.in/media/default.jpg",
+        "publishedAt": "2026-04-15T10:39:13Z",
         "category": "health",
-        "summary": "Chronic stress can manifest through various physical symptoms that often go unnoticed. Common indicators include increased belly fat, salt cravings, and waking up at 3 AM. Experts emphasize the importance of recognizing these signs as they may signify deeper imbalances in the body. Timely awareness and seeking professional guidance are crucial for managing chronic stress effectively.",
-        "wordCount": 56
-      },
-      {
-        "title": "Want a healthy snack? Nutritionist shares a protein-fibre combination that supports blood sugar balance and gut health",
-        "url": "https://www.hindustantimes.com/lifestyle/health/want-a-healthy-snack-nutritionist-shares-a-proteinfibre-combination-that-supports-blood-sugar-balance-and-gut-health-101776230682701.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/15/550x309/berry_yoghurt_1776231524666_1776231524787.jpg",
-        "publishedAt": "2026-04-15T05:48:22Z",
-        "category": "health",
-        "summary": "Nutritionist Deepsikha emphasizes the importance of healthy snacking, advocating for balanced, nutrient-rich options. She highlights a protein-fiber combination that can help regulate blood sugar levels and promote gut health. Many individuals tend to choose ultra-processed snacks like chips and sugary cereals, which may satisfy cravings but lack essential nutrients. Healthier alternatives can support overall well-being.",
-        "wordCount": 55
+        "summary": "PharmEasy has launched a World Health Day campaign promoting preventive heart care through real-life storytelling. The campaign features Prashant Desai, who shares his personal experience of losing family members, including his father at 37, to heart disease. The initiative aims to raise awareness and encourage heart health screenings, emphasizing the importance of preventive measures in heart care.",
+        "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "Rare comet visible from south India: How to watch",
-        "url": "https://www.newsbytesapp.com/news/science/rare-comet-passing-near-earth-how-to-spot-it/story",
-        "source": "NewsBytes",
-        "image": "https://i.cdn.newsbytesapp.com/images/l28820260415105635.jpeg",
-        "publishedAt": "2026-04-15T06:20:27Z",
+        "title": "Scientists Say the Universe Could Eventually Tear Itself Apart Under This Extreme Scenario",
+        "url": "https://indiandefencereview.com/scientists-say-universe-tear-itself-apart-extreme-scenario/",
+        "source": "Indian Defence Review",
+        "image": "https://indiandefencereview.com/wp-content/uploads/2026/04/a-black-hole-that-swallowed-galaxies-scaled.jpg",
+        "publishedAt": "2026-04-15T12:30:00Z",
         "category": "science",
-        "summary": "A newly discovered comet, C/2025 R3 (Pan-STARRS), is visible in south India until April 20, appearing low on the eastern horizon just before sunrise. This rare celestial event allows observers to witness the comet, which was discovered on September 8, 2025. Skywatchers are encouraged to look for the comet during the pre-dawn hours for optimal viewing.",
+        "summary": "A new scientific model indicates that the universe may eventually tear itself apart due to accelerated expansion, potentially leading to a scenario known as the Big Rip. This phenomenon could be influenced by quantum effects, suggesting that the cohesive fabric of spacetime might not remain intact. The research highlights the complex dynamics of cosmic evolution since the Big Bang.",
+        "wordCount": 59
+      },
+      {
+        "title": "Sperm whale communication shows striking similarities to human language: study",
+        "url": "https://madhyamamonline.com/science/sperm-whale-communication-shows-striking-similarities-to-human-language-1511680",
+        "source": "madhyamamonline.com",
+        "image": "https://madhyamamonline.com/h-upload/2026/04/15/2831725-sperm-whale.jpg",
+        "publishedAt": "2026-04-15T12:26:35Z",
+        "category": "science",
+        "summary": "A new study reveals that sperm whales exhibit vocal communication patterns similar to human language. Researchers discovered that the whales use an \"alphabet\" of clicks, called codas, which can create vowel-like sounds by varying length and tone. This finding underscores the complexity of sperm whale social interactions and suggests advanced communication abilities among these marine mammals.",
         "wordCount": 56
       },
       {
-        "title": "New study suggests Neanderthals may have eaten outsiders, not their own group",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/trends/new-study-suggests-neanderthals-may-have-eaten-outsiders-not-their-own-group-13889333.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260415052051_nther.jpg",
-        "publishedAt": "2026-04-15T05:21:11Z",
+        "title": "How Hidden Undercurrents Are Reshaping Long-Term Dynamics",
+        "url": "https://www.downtoearth.org.in/forests/indiscernible-undercurrents-in-the-himalayan-forests-are-reshaping-long-term-forest-dynamics",
+        "source": "Down To Earth",
+        "image": "https://gumlet.assettype.com/downtoearth%2F2026-04-15%2F7ehw4mc8%2FPine-forest.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-15T12:09:40Z",
         "category": "science",
-        "summary": "A new study of 41,000–45,000-year-old Neanderthal remains indicates potential cannibalism, suggesting that victims were likely from outside their communities rather than their own groups. Analysis of bone marks reveals evidence of consumption, specifically targeting women and children. This research challenges previous assumptions about Neanderthal behavior and social dynamics, highlighting their interactions with neighboring groups.",
-        "wordCount": 54
-      },
-      {
-        "title": "Deep Dive into the Different Types of Underwater Algae",
-        "url": "https://indianexpress.com/web-stories/miscellaneous/types-of-algae-found-underwater/10635639/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/04/types-of-algae-found-.png",
-        "publishedAt": "2026-04-15T05:11:22Z",
-        "category": "science",
-        "summary": "The article examines various types of underwater algae, highlighting their ecological significance. It discusses blue-green algae, which are technically bacteria but are often classified with algae due to their photosynthetic capabilities. Additionally, it covers brown algae, predominantly found in colder oceans, which includes large seaweeds. The diversity of these organisms plays a crucial role in aquatic ecosystems.",
+        "summary": "Himalayan forests are experiencing a hidden regeneration crisis, with key species such as deodar, chir pine, and banj oak struggling to establish seedlings and saplings. Factors like dense monocultures, altered fire regimes, and invasive plants are disrupting forest structure. This threatens long-term ecosystem stability, despite the appearance of stable forest cover, highlighting the importance of continuous regeneration.",
         "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "What to watch on Netflix, Prime Video, JioHotstar",
-        "url": "https://www.mid-day.com/entertainment/bollywood-news/photo/ott-releases-this-week-assi-matka-king-toaster-to-do-deewane-seher-mein-110618",
-        "source": "Mid-day",
-        "image": "https://images.mid-day.com/images/images/2026/apr/ottreleaseswweekapri3_d.jpg",
-        "publishedAt": "2026-04-15T06:05:00Z",
-        "category": "entertainment",
-        "summary": "This week’s OTT releases include \"Do Deewaane Seher Mein\" on Netflix, featuring Siddhant Chaturvedi and Mrunal Thakur in a romantic drama about a modern love story with emotional highs and relatable moments. Other platforms like Prime Video and JioHotstar also have new content, including various films and series, catering to diverse viewer preferences.",
-        "wordCount": 53
-      },
-      {
-        "title": "A driver never forgot actor Madhavan's son Vedaant. Actor shares his parenting tip that is taught even in MBA schools",
-        "url": "https://economictimes.indiatimes.com/magazines/panache/a-driver-never-forgot-actor-madhavans-son-vedaant-actor-shares-his-parenting-tip-that-is-taught-even-in-mba-schools/articleshow/130273060.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-130274122,width-1200,height-630,imgsize-27608,overlay-etpanache/articleshow.jpg",
-        "publishedAt": "2026-04-15T05:43:04Z",
-        "category": "entertainment",
-        "summary": "Actor R Madhavan recounted a story about his son Vedaant, whose politeness left a lasting impression on a driver years later. Madhavan emphasized the importance of treating everyone with respect, noting that such courtesy is a vital soft skill in professional development. He highlighted how these simple acts can shape relationships and create opportunities throughout life.",
-        "wordCount": 56
-      },
-      {
-        "title": "From Feel-Good Films to Fear: MS Raju’s Agadha Announced, First Look Stuns Fans",
-        "url": "https://www.123telugu.com/mnews/from-feel-good-films-to-fear-ms-rajus-agadha-announced-first-look-stuns-fans-hk.html",
+        "title": "Rs. 112 Crore Just for a Title? What LIK Makers Did Next Will Surprise You",
+        "url": "https://www.123telugu.com/mnews/rs-112-crore-just-for-a-title-what-lik-makers-did-next-will-surprise-you-hk.html",
         "source": "123telugu.com",
-        "image": "https://cdn.123telugu.com/content/wp-content/uploads/2026/04/Agadha.webp",
-        "publishedAt": "2026-04-15T05:28:00Z",
+        "image": "https://cdn.123telugu.com/content/wp-content/uploads/2026/04/LIK-7.webp",
+        "publishedAt": "2026-04-15T12:30:00Z",
         "category": "entertainment",
-        "summary": "Veteran filmmaker MS Raju, known for his feel-good films, is venturing into the horror genre with his upcoming movie titled Agadha. This project aims to be a pan-Indian spectacle, showcasing a significant shift in Raju's directorial style. The first look of Agadha has generated excitement among fans, highlighting the filmmaker's new direction in storytelling.",
-        "wordCount": 54
+        "summary": "\"Love Insurance Kompany\" (LIK), featuring Pradeep Ranganathan and Krithi Shetty, was released five days ago but has performed poorly at the box office. The film, a futuristic romantic drama, has not met expectations, raising questions about its title's cost of Rs. 112 crore. The production team is now considering strategies to improve its reception and overall performance.",
+        "wordCount": 57
+      },
+      {
+        "title": "Bhooth Bangla Box Office Day 1 Advance Booking (2 Days To Go): Akshay Kumar Starrer Sells 10K+ Tickets Across Country!",
+        "url": "https://www.koimoi.com/box-office/bhooth-bangla-box-office-day-1-advance-booking-2-days-to-go-akshay-kumar-starrer-sells-10k-tickets-across-country/",
+        "source": "Koimoi",
+        "image": "https://www.koimoi.com/wp-content/new-galleries/2026/04/bhooth-bangla-box-office-02.jpg",
+        "publishedAt": "2026-04-15T12:25:29Z",
+        "category": "entertainment",
+        "summary": "Bhooth Bangla, featuring Akshay Kumar, is set to release on April 17, with paid previews on April 16 at 9 pm. The film has sold over 10,000 tickets in advance bookings across India. Despite this initial success, the film needs to improve its advance sales to achieve a strong box office performance following the success of Dhurandhar 2.",
+        "wordCount": 58
+      },
+      {
+        "title": "EXCLUSIVE: No direct-to-OTT release for Maatrubhumi; Salman Khan determined to bring his film to cinemas",
+        "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-no-direct-to-ott-release-for-maatrubhumi-salman-khan-determined-to-bring-his-film-to-cinemas/",
+        "source": "Bollywood Hungama",
+        "image": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/04/Maatrubhumi-1-1.jpg",
+        "publishedAt": "2026-04-15T12:14:16Z",
+        "category": "entertainment",
+        "summary": "Salman Khan's film Maatrubhumi will not have a direct-to-OTT release, as he is committed to bringing it to cinemas. Additionally, following directives from the Ministry of Defence, the film will not mention China. This decision has generated significant discussion within the Bollywood community, highlighting the film's anticipated release and the impact of governmental guidelines on its content.",
+        "wordCount": 57
       }
     ]
   }
