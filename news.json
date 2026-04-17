@@ -1,228 +1,208 @@
 {
-  "updatedAt": "2026-04-17T12:31:14.014Z",
+  "updatedAt": "2026-04-17T18:31:36.638Z",
   "categories": {
     "world": [
       {
-        "title": "Trump says second round of talks with Iran could take place this weekend",
-        "url": "https://www.timesofisrael.com/trump-says-second-round-of-talks-with-iran-could-take-place-this-weekend/",
-        "source": "The Times of Israel",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/04/AP26106685390028.jpg",
-        "publishedAt": "2026-04-16T23:41:56Z",
+        "title": "Strait Of Hormuz: US Naval Blockade: Sailors Face Food Shortages and Mail Delivery Issues",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-naval-blockade-whats-on-the-menu-for-sailors-marines-onboard-warships-new-pictures-surface/articleshow/130322173.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130322258,width-1280,height-720,imgsize-450924,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-17T06:29:00Z",
         "category": "world",
-        "summary": "US President Donald Trump announced that a second round of talks with Iran may occur this weekend, following unsuccessful negotiations in Islamabad. He reiterated claims that Iran has agreed to surrender its \"nuclear dust\" and noted the effectiveness of the blockade of the Hormuz Strait. Iran's UN envoy expressed cautious optimism regarding the potential discussions.",
+        "summary": "Families of US service members aboard warships enforcing the naval blockade in the Strait of Hormuz report food shortages and poor meal quality. Photographs show limited portions, raising concerns about sailors' nutrition. Additionally, mail delivery to troops has been indefinitely suspended, complicating efforts to send care packages. These issues have prompted increased anxiety among families regarding their loved ones' well-being.",
+        "wordCount": 60
+      },
+      {
+        "title": "Watch: US Central Command releases footage of navy redirecting ship amid Hormuz blockade as Iran war stalemate persists",
+        "url": "https://www.hindustantimes.com/world-news/us-news/watch-us-central-command-releases-footage-of-navy-redirecting-ship-amid-hormuz-blockade-as-iran-war-stalemate-persists-101776401309780.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/17/550x309/us_centcom_block_1776403736235_1776403737325.gif",
+        "publishedAt": "2026-04-17T05:33:42Z",
+        "category": "world",
+        "summary": "The US Central Command (CENTCOM) released footage of the US Navy enforcing a blockade on Iranian ports, involving over 10,000 personnel, naval vessels, and aircraft. The video shows the USS Michael Murphy diverting a merchant vessel amid ongoing tensions in the region. The blockade aims to restrict Iran's maritime activities as the war stalemate continues.",
         "wordCount": 55
       },
       {
-        "title": "Turkey or Pakistan could become Israel's new enemy, analyst says",
-        "url": "https://www.middleeasteye.net/news/turkey-pakistan-could-become-israels-new-enemy-analyst-says",
-        "source": "Middle East Eye",
-        "image": "https://www.middleeasteye.net/sites/default/files/images-story/israel-pakistan-afp-handout-picture-2026.jpg",
-        "publishedAt": "2026-04-16T23:27:03Z",
+        "title": "Pakistan Army Chief Asim Munir Takes Spotlight In US-Iran Peace Talks",
+        "url": "https://www.ndtv.com/world-news/us-iran-news-pakistans-army-chief-asim-munir-takes-spotlight-in-us-iran-peace-talks-11369727",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2025-12/vnk3bth4_asim-munir_625x300_23_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-17T04:56:22Z",
         "category": "world",
-        "summary": "Israeli analyst Boaz Golani, in an opinion piece for Maariv, posits that Turkey or Pakistan may emerge as Israel's new adversary following the significant weakening of Iran's military capabilities due to ongoing conflicts. He describes a transformation in regional dynamics, indicating that the geopolitical landscape in the Middle East is changing, with potential implications for Israel's security strategy.",
-        "wordCount": 58
-      },
-      {
-        "title": "'We are not leaving': Netanyahu says Israeli forces will hold positions in Lebanon as 10",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/we-are-not-leaving-netanyahu-says-israeli-forces-will-hold-positions-in-lebanon-as-10-day-ceasefire-begins/articleshow/130320041.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130320093,width-1280,height-720,imgsize-729315,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-16T23:19:00Z",
-        "category": "world",
-        "summary": "Israeli Prime Minister Benjamin Netanyahu announced that Israeli forces will maintain their positions in southern Lebanon despite the ongoing 10-day ceasefire. In a video statement, he emphasized, \"we are not leaving,\" indicating a commitment to their current military presence. This statement follows discussions with US President Donald Trump regarding the situation in the region.",
-        "wordCount": 54
+        "summary": "Pakistan's army chief, Field Marshal Asim Munir, has gained prominence as a key facilitator in US-Iran peace negotiations. His unexpected role highlights the trust he has built with both nations, positioning Pakistan as a central player in the dialogue. With further talks anticipated, Munir's leadership is crucial in navigating the complexities of these diplomatic efforts.",
+        "wordCount": 55
       }
     ],
     "business": [
       {
-        "title": "Quick commerce turning to reset lane as profit push tempers growth metrics",
-        "url": "https://economictimes.indiatimes.com/tech/startups/quick-commerce-turning-to-reset-lane-as-profit-push-tempers-growth-metrics/articleshow/130315966.cms?from=mdr",
+        "title": "Gautam Adani Overtakes Mukesh Ambani As Asia's Richest, Check Full List",
+        "url": "https://www.ndtv.com/business-news/gautam-adani-overtakes-mukesh-ambani-as-asias-richest-world-richest-billionaire-list-11370145",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-04/uo377ld_gautam-adani-overtakes-mukesh-ambani_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-17T06:26:11Z",
+        "category": "business",
+        "summary": "Gautam Adani, founder and chairman of the Adani Group, has surpassed Mukesh Ambani, chairman of Reliance Industries, to become Asia's richest person. This shift in wealth is attributed to the performance of Adani Group's businesses, which span infrastructure, energy, and logistics. In contrast, Reliance Industries is prominent in energy, telecom, and retail sectors.",
+        "wordCount": 53
+      },
+      {
+        "title": "A golden opening awaits Indians this Akshaya Tritiya in the middle of global gloom",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/akshaya-tritiya-2026-gold-prices-india-senco-kalyan-jewellers-titan-company-offers-gold-rate-today-auspicious-time-gold-buying-tips-india/articleshow/130323866.cms?from=mdr",
         "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-2358699,resizemode-75,msid-130315966/tech/startups/quick-commerce-turning-to-reset-lane-as-profit-push-tempers-growth-metrics.jpg",
-        "publishedAt": "2026-04-17T00:30:00Z",
+        "image": "https://img.etimg.com/thumb/msid-130324714,width-1200,height-630,imgsize-71730,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-04-17T06:19:44Z",
         "category": "business",
-        "summary": "Quick commerce companies Blinkit and Instamart are anticipated to show slowed growth in the January-March quarter after periods of rapid expansion. Analysts and industry executives indicate that these firms are now prioritizing margin improvement and profitability over aggressive growth metrics. This shift reflects a broader trend in the sector as companies reassess their strategies for sustainable success.",
-        "wordCount": 57
+        "summary": "Gold demand in India is anticipated to increase ahead of Akshaya Tritiya, driven by recent price corrections and improved global sentiment. Retailers are noting early bookings, particularly for lighter jewellery and coins. However, industry perspectives vary, with some predicting weak demand due to uncertainty and cash preferences, while others expect steady festive purchases and a positive long-term growth outlook.",
+        "wordCount": 59
       },
       {
-        "title": "Weaker rupee makes India 6th largest economy: IMF data",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/weaker-rupee-makes-india-6th-largest-economy-imf-data/articleshow/130320178.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130320178,width-1280,height-720,imgsize-79242,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-17T00:07:00Z",
+        "title": "Employee automates 60% of team’s workload using AI but hesitates to tell manager because…",
+        "url": "https://www.hindustantimes.com/trending/employee-automates-60-of-team-s-workload-using-ai-but-hesitates-to-tell-manager-101776404563924.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/17/550x309/Employee_AI_Manager_Viral_Reddit_1776404593744_1776404593930.jpg",
+        "publishedAt": "2026-04-17T06:09:05Z",
         "category": "business",
-        "summary": "India has fallen to the sixth largest economy in dollar terms, according to the latest International Monetary Fund (IMF) estimates. This shift is attributed to a weaker rupee and a change in the base year for calculating GDP. The new ranking reflects economic adjustments and highlights the impact of currency fluctuations on national economic standings.",
-        "wordCount": 55
-      },
-      {
-        "title": "Middle East Energy Infrastructure Damage Close to $60 Billion",
-        "url": "https://oilprice.com/Energy/Energy-General/Middle-East-Energy-Infrastructure-Damage-Close-to-60-Billion.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-04-16_b70viwbuty.jpg",
-        "publishedAt": "2026-04-16T22:00:00Z",
-        "category": "business",
-        "summary": "Damage to Gulf energy infrastructure due to ongoing conflicts is estimated to cost up to $58 billion for repairs, significantly exceeding previous assessments. Rystad Energy's analysis indicates that some facilities may take years to recover from the impacts of the war involving the U.S., Israel, and Iran, highlighting the extensive and lasting effects on the region's energy sector.",
-        "wordCount": 58
+        "summary": "An anonymous employee has automated 60% of their team’s workload using AI, significantly improving efficiency. However, the individual is uncertain about informing their manager of this development. Seeking advice on Reddit, the employee grapples with the implications of revealing the automation breakthrough, which could potentially alter workplace dynamics and impact job security for colleagues.",
+        "wordCount": 54
       }
     ],
     "technology": [
       {
-        "title": "OpenAI Super App Takes Shape: Codex Gets Computer Use, Browser, and Image Gen",
-        "url": "https://decrypt.co/364670/codex-computer-use-browser-image-gen-openai-super-app",
-        "source": "Decrypt",
-        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg",
-        "publishedAt": "2026-04-16T20:43:06Z",
+        "title": "Gemini can now create AI images using your photo library",
+        "url": "https://www.newsbytesapp.com/news/science/gemini-can-now-create-ai-images-using-your-photo-library/story",
+        "source": "NewsBytes",
+        "image": "https://i.cdn.newsbytesapp.com/images/l142_24811776399410.jpg",
+        "publishedAt": "2026-04-17T05:49:32Z",
         "category": "technology",
-        "summary": "OpenAI has updated its Codex desktop app, enabling it to control Mac computers, operate its own browser, and generate images. This enhancement introduces over 90 new plugins, expanding Codex's capabilities. Nearly one year after its launch, OpenAI reports that more than 3 million developers are using Codex, positioning it alongside competitors like Claude Code and OpenClaw.",
+        "summary": "Google's AI platform, Gemini, has integrated with Google Photos, enabling personalized image generation. This new feature, part of Gemini's \"personal intelligence,\" allows users to create customized AI images using their own photo libraries. The update aims to enhance user experience by providing tailored content based on individual photo collections, marking a significant advancement in AI-driven personalization.",
         "wordCount": 56
       },
       {
-        "title": "Android 17 Beta 4 has arrived: Here's what to expect",
-        "url": "https://www.androidauthority.com/android-17-beta-4-3658290/",
-        "source": "Android Authority",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-8-scaled.jpg",
-        "publishedAt": "2026-04-16T20:33:41Z",
+        "title": "Meta to raise Quest VR headset prices in US on rising component costs",
+        "url": "https://cio.economictimes.indiatimes.com/news/corporate-news/meta-to-raise-quest-vr-headset-prices-in-us-on-rising-component-costs/130322262",
+        "source": "Indiatimes",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-130322262,imgsize-69192,width-1200,height=627,overlay-etcio,resizemode-75/corporate-news/meta-to-raise-quest-vr-headset-prices-in-us-on-rising-component-costs.jpg",
+        "publishedAt": "2026-04-17T05:30:00Z",
         "category": "technology",
-        "summary": "Android 17 Beta 4 has been released for testers, specifically for Pixel 6 and newer devices. This update follows last month’s Beta 3, which achieved platform stability. Users can expect improvements and new features as the development progresses. The final version of Android 17 is anticipated to be available in the coming months, enhancing user experience on supported devices.",
-        "wordCount": 59
-      },
-      {
-        "title": "Metro 2039 Returns: Why is this the darkest Chapter yet for the iconic post-apocalyptic shooter series?",
-        "url": "https://economictimes.indiatimes.com/news/international/us/metro-2039-returns-why-is-this-the-darkest-chapter-yet-for-the-iconic-post-apocalyptic-shooter-series/articleshow/130317109.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-130317306,width-1200,height-630,imgsize-107562,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-04-16T19:32:32Z",
-        "category": "technology",
-        "summary": "Metro 2039 is the latest installment in the post-apocalyptic shooter series, set in the Moscow Metro tunnels. Players face a new authoritarian regime, the Novoreich, which has united underground factions. The game focuses on themes of survival, tyranny, and freedom, featuring environmental storytelling and tense encounters. It aims to deliver a darker narrative than previous entries in the series.",
-        "wordCount": 59
+        "summary": "Meta Platforms announced a price increase for its Quest VR headsets in the U.S., effective April 19, due to rising memory chip costs. The entry-level Quest 3S will now be priced at $349.99. This adjustment reflects the broader trend in the tech industry, where demand for memory chips has surged, driven by developments in AI infrastructure.",
+        "wordCount": 56
       }
     ],
     "sports": [
       {
-        "title": "Bavarian Football Works",
-        "url": "https://www.bavarianfootballworks.com/champions-league/190347/luis-diaz-says-ucl-tie-winning-goal-for-bayern-munich-is-top-three-of-career",
-        "source": "Bavarian Football Works",
-        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/04/gettyimages-2271515213.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-04-17T00:15:00Z",
+        "title": "Arshdeep Singh's rumoured girlfriend: Meet Samreen Kaur, model-actor from Jammu and Kashmir and Miss India contestant",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/arshdeep-singh-girlfriend-samreen-kaur-ipl-rumours-model-actor-jammu-and-kashmir-miss-india-contestant-pics-video-101776403737148.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/17/550x309/MixCollage-17-Apr-2026-10-27-AM-4823_1776403798298_1776403806978.jpg",
+        "publishedAt": "2026-04-17T06:21:20Z",
         "category": "sports",
-        "summary": "Luis Díaz, the FC Bayern winger, struggled during the Champions League match against Real Madrid but showcased his relentless work ethic. As the game neared its end, he made a significant impact, contributing to Bayern's performance. Despite earlier challenges in the match, Díaz's determination and skill have made him a key player for the team this season.",
-        "wordCount": 57
-      },
-      {
-        "title": "‘I don’t have much to say’: ‘Dejected’ Hardik Pandya after MI sink to fourth straight defeat",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/i-dont-have-much-to-say-dejected-hardik-pandya-after-mi-sink-to-fourth-straight-defeat/articleshow/130316844.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130316913,width-1280,height-720,imgsize-90936,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-16T23:31:00Z",
-        "category": "sports",
-        "summary": "Mumbai Indians captain Hardik Pandya expressed disappointment following his team's fourth consecutive defeat, a seven-wicket loss to Punjab Kings. Pandya stated that the team is \"searching for answers\" as they struggle to find form. The five-time champions are facing challenges in their performance, leading to concerns about their current standing in the league.",
+        "summary": "Samreen Kaur, a model and actor from Jammu and Kashmir, is rumored to be dating cricketer Arshdeep Singh. She gained recognition after winning the Miss India Jammu and Kashmir title and competing in Miss India 2018. Additionally, Kaur has appeared in a music video by Badshah, showcasing her talents in the entertainment industry.",
         "wordCount": 53
       },
       {
-        "title": "Ponting praised after Punjab soar to top of IPL",
-        "url": "https://www.cricket.com.au/news/4489067/match-report-punjab-kings-beat-mumbai-indians-ipl-2026-highlights-ricky-ponting-leadership-arshdeep-singh-quinton-de-kock-century-shreyas-iyer-catch-cooper-connolly",
-        "source": "cricket.com.au",
-        "image": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2026/04/16/7089df04-28cd-469e-a2cb-8e16f9d6d912/Ponting-ipl.jpg",
-        "publishedAt": "2026-04-16T21:35:58Z",
+        "title": "Employee automates 60% of team’s workload using AI but hesitates to tell manager because…",
+        "url": "https://www.hindustantimes.com/trending/employee-automates-60-of-team-s-workload-using-ai-but-hesitates-to-tell-manager-101776404563924.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/17/550x309/Employee_AI_Manager_Viral_Reddit_1776404593744_1776404593930.jpg",
+        "publishedAt": "2026-04-17T06:09:05Z",
         "category": "sports",
-        "summary": "Ricky Ponting has received praise for his coaching as the Punjab Kings remain unbeaten and ascend to the top of the Indian Premier League. Under the leadership of skipper Shreyas Iyer, the team has showcased strong performances, contributing to their success. Ponting's influence is recognized by players, highlighting his effective guidance in their current winning streak.",
+        "summary": "An anonymous employee has automated 60% of their team's workload using AI, significantly improving efficiency. However, they are uncertain about informing their manager of this development. The employee sought advice on Reddit regarding the potential implications of disclosing the automation breakthrough, which could save substantial working hours for the office. The dilemma reflects modern workplace challenges.",
+        "wordCount": 56
+      },
+      {
+        "title": "'We don't want to push': Mumbai Indians head coach gives big update on Rohit Sharma",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-we-dont-want-to-push-mumbai-indians-head-coach-gives-big-update-on-rohit-sharma/articleshow/130323599.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130323600,width-1280,height-720,imgsize-68010,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-17T05:19:00Z",
+        "category": "sports",
+        "summary": "Rohit Sharma missed the Mumbai Indians' IPL 2026 match against Punjab Kings at Wankhede Stadium. The head coach stated that they do not want to push Sharma, emphasizing the importance of his health and fitness. Sharma, a key player and former captain, has led the team to five IPL titles, highlighting his significance to the franchise.",
         "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Yet to frame a policy on SSPE, a rare disease: State tells HC",
-        "url": "https://www.hindustantimes.com/cities/mumbai-news/yet-to-frame-a-policy-on-sspe-a-rare-disease-state-tells-hc-101776365970401.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/16/550x309/-p-Yet-to-frame-a-policy-on-SSPE--a-rare-disease--_1776365950440.jpg",
-        "publishedAt": "2026-04-17T00:12:15Z",
-        "category": "health",
-        "summary": "The Maharashtra government informed the High Court that it has not yet framed a policy regarding Subacute Sclerosing Panencephalitis (SSPE), a rare neurological disorder linked to measles. This response followed a Public Interest Litigation filed by Mahadu Belkar, a father of a child affected by the disease, urging the government to take action for affected families.",
-        "wordCount": 56
-      },
-      {
-        "title": "Army docs save 4 from rare cardiac infection after stenting process",
-        "url": "https://timesofindia.indiatimes.com/city/pune/army-docs-save-4-from-rare-cardiac-infection-after-stenting-process/articleshow/130316306.cms",
+        "title": "The air you breathe is making you sick earlier than you think, finds UK study",
+        "url": "https://timesofindia.indiatimes.com/health/the-air-you-breathe-is-making-you-sick-earlier-than-you-think-find-uk-study/articleshow/130323788.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130317035,width-1280,height-720,imgsize-24438,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-16T23:58:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-130323781,width-1280,height-720,imgsize-474878,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-17T05:33:00Z",
         "category": "health",
-        "summary": "A team of doctors from the Army Institute of Cardiothoracic Sciences (AICTS) in Pune successfully treated four patients with a rare and life-threatening condition known as coronary stent infection. This condition is exceptionally uncommon, with fewer than 50 reported cases globally. The successful intervention highlights the expertise of the medical team in managing complex cardiac infections.",
-        "wordCount": 56
+        "summary": "A UK study published in GeroScience highlights the significant health impacts of air pollution, suggesting it may cause illness earlier than previously understood. The research emphasizes that air pollution contributes to lung damage, worsens asthma, and negatively affects heart health. These findings aim to raise awareness about the urgent need to address air quality for public health improvement.",
+        "wordCount": 58
       },
       {
-        "title": "The truth about dementia",
-        "url": "https://mumbaimirror.indiatimes.com/you/the-truth-about-dementia/articleshow/130311999.html",
-        "source": "Mumbai Mirror",
-        "image": "https://staticimg.publishstory.co/thumb/130311997.cms?imgsize=178044&width=1280&height=720&resizemode=8",
-        "publishedAt": "2026-04-16T22:30:00Z",
+        "title": "New study finds that AI can identify early risk patters in individuals at higher risk of melanoma",
+        "url": "https://www.mid-day.com/lifestyle/health-and-fitness/article/artificial-intelligence-can-spot-early-risk-patterns-for-skin-cancer-study-23626186",
+        "source": "Mid-day",
+        "image": "https://images.mid-day.com/images/images/2026/apr/Cancerlatesthealthnews-1776400590039_d.png",
+        "publishedAt": "2026-04-17T04:39:00Z",
         "category": "health",
-        "summary": "Neuroscientist Kumaar Bagrodia argues that “early detection” scores for dementia can be misleading. He emphasizes the need for a focus on long-term prevention strategies rather than solely relying on early diagnosis. Bagrodia critiques current marketing trends in brain-training and advocates for a comprehensive approach to dementia that prioritizes prevention to improve outcomes for individuals at risk.",
+        "summary": "A new study reveals that artificial intelligence can detect early risk patterns in individuals predisposed to melanoma. Analyzing data from 6,036,186 participants, the research found that 38,582 (0.64%) developed melanoma over five years. Factors considered included age, sex, diagnoses, medication use, and socioeconomic status, highlighting AI's potential in early identification of at-risk individuals.",
+        "wordCount": 53
+      },
+      {
+        "title": "Type 5 Diabetes Recognized: Millions Still Misdiagnosed",
+        "url": "https://www.timesnownews.com/health/type-5-diabetes-officially-recognized-yet-millions-still-misdiagnosed-experts-warn-article-154098122",
+        "source": "Times Now",
+        "image": "https://images.timesnownews.com/thumb/msid-154098122,width-1280,height-720,resizemode-75/154098122.jpg",
+        "publishedAt": "2026-04-17T04:30:00Z",
+        "category": "health",
+        "summary": "Type 5 diabetes, associated with malnutrition, has been officially recognized by the International Diabetes Federation. However, millions remain misdiagnosed due to low awareness, unclear guidelines, and ineffective treatments, particularly in developing countries. Experts emphasize the need for improved education and resources to address this issue, as many individuals continue to suffer without proper diagnosis and management.",
         "wordCount": 56
       }
     ],
     "science": [
       {
-        "title": "Forgotten Fossil in Museum Drawer Reveals 200-Million-Year-Old Croc Ancestor with Unbelievable Bite",
-        "url": "https://indiandefencereview.com/fossil-200-million-year-old-croc-ancestor/",
-        "source": "Indian Defence Review",
-        "image": "https://indiandefencereview.com/wp-content/uploads/2026/04/forgotten-fossil-in-museum-drawer-reveals-200-million-year-old-croc-ancestor-with-unbelievable-bite-scaled.png",
-        "publishedAt": "2026-04-16T23:05:00Z",
+        "title": "Researchers from Chiba University reveal synergistic light–heat mechanism to boost CO₂",
+        "url": "https://agrospectrumindia.com/2026/04/17/researchers-from-chiba-university-reveal-synergistic-light-heat-mechanism-to-boost-co%E2%82%82-to-methane-conversion-efficiency.html",
+        "source": "Agro Spectrum India",
+        "image": "https://agrospectrumindia.com/wp-content/uploads/2026/04/image.jpg",
+        "publishedAt": "2026-04-17T06:18:00Z",
         "category": "science",
-        "summary": "A rediscovered fossil, Eosphorosuchus lacrimosa, reveals an ancient crocodile ancestor with a powerful bite and unique characteristics. This species, hidden in a museum drawer for over 70 years, enhances understanding of early crocodylomorph diversity and complexity. The findings provide valuable insights into the evolutionary history of crocodiles, reshaping perceptions of their ancestors and their ecological roles.",
-        "wordCount": 56
+        "summary": "Researchers at Chiba University have discovered a synergistic mechanism combining photocatalytic and photothermal processes to enhance carbon dioxide (CO₂) conversion. This breakthrough aims to advance carbon recycling technologies, addressing the increasing global CO₂ emissions. The findings could pave the way for innovative methods to transform greenhouse gases into valuable fuels, contributing to efforts in mitigating climate change.",
+        "wordCount": 57
       },
       {
-        "title": "Ash Creeps Across Mars: Mars Express Captures a Planet in Motion [PHOTOS]",
-        "url": "https://orbitaltoday.com/2026/04/17/ash-creeps-across-mars-mars-express-captures-a-planet-in-motion-photos/",
-        "source": "Orbital Today",
-        "image": "https://orbitaltoday.com/wp-content/uploads/2026/04/dark-ash-on-mars.jpg",
-        "publishedAt": "2026-04-16T21:01:37Z",
+        "title": "Musk's SpaceX to launch Rosalind Franklin rover to Mars aboard Falcon Heavy in 2028",
+        "url": "https://www.indiatoday.in/science/story/musks-spacex-to-launch-rosalind-franklin-rover-to-mars-aboard-falcon-heavy-in-2028-2897498-2026-04-17",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/mars-mission-173230923-16x9_0.jpg?VersionId=X0FqBzqsJ7HrxaPJg9obT_1Su6PNNhjg",
+        "publishedAt": "2026-04-17T05:35:01Z",
         "category": "science",
-        "summary": "The European Space Agency (ESA) has published new images from Mars Express, showcasing the planet's changing color due to volcanic ash spreading across its bright northern plains. These images highlight the dynamic nature of Mars, capturing a significant transformation. The release marks a notable moment in the ongoing exploration and study of the Martian environment and its geological activity.",
-        "wordCount": 59
-      },
-      {
-        "title": "Earth from space: NASA captures mini lake carving into Canada’s 20,000-year-old ice mass",
-        "url": "https://timesofindia.indiatimes.com/science/earth-from-space-nasa-captures-mini-lake-carving-into-canadas-20000-year-old-ice-mass/articleshow/130307595.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130307737,width-1280,height-720,imgsize-1075284,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-16T20:30:00Z",
-        "category": "science",
-        "summary": "NASA has captured an image of a mini lake forming on Canada’s ancient ice mass, which is approximately 20,000 years old. This photograph, taken from a high altitude, reveals how remote regions can showcase unique geological features. The lake's presence illustrates the ongoing changes in these ice formations, providing insights into the environmental dynamics at play in the area.",
-        "wordCount": 59
+        "summary": "SpaceX will launch the Rosalind Franklin rover to Mars in late 2028 using its Falcon Heavy rocket. This collaboration between NASA and the European Space Agency marks a significant step forward for the rover, which faced delays due to the Russia-Ukraine war. The mission aims to explore Mars and enhance understanding of the planet's potential for life.",
+        "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Aquarius Horoscope Today, April 17, 2026: Commit to one bold goal",
-        "url": "https://timesofindia.indiatimes.com/astrology/horoscope/aquarius-horoscope-today-april-17-2026-commit-to-one-bold-goal/articleshow/130306539.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130306539,width-1280,height-720,imgsize-218346,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-17T00:30:00Z",
+        "title": "‘I Just Delivered A Baby’: Patralekhaa SLAMS Body Shaming Comments, Urges Kindness Around Postpartum",
+        "url": "https://www.news18.com/movies/bollywood/rajkummar-rao-wife-patralekhaa-slams-body-shaming-comments-urges-kindness-around-postpartum-i-just-delivered-a-baby-ws-kl-10038498.html",
+        "source": "News18",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/04/Patralekhaa-slams-body-shaming-cmments-2026-04-8217fdf0895eec69dad3d240e7e96a55-1200x675.jpg",
+        "publishedAt": "2026-04-17T06:30:28Z",
         "category": "entertainment",
-        "summary": "On April 17, 2026, Aquarians may experience tension and restlessness due to hard work. It is advised to rely on siblings for support and to concentrate on a single bold goal. Maintaining open communication with partners is essential to resolve any misunderstandings. Overall, focusing energy thoughtfully can help navigate the challenges of the day effectively.",
+        "summary": "Patralekhaa addressed body-shaming comments made about her appearance at the Toaster screening, emphasizing the need for kindness towards those experiencing postpartum changes. She criticized the insensitivity of remarks regarding her physical appearance and highlighted the challenges new mothers face. Patralekhaa's response aims to promote understanding and compassion in discussions surrounding body image and postpartum recovery.",
         "wordCount": 55
       },
       {
-        "title": "Horoscope Today: April 17, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-april-17-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-04-17T00:30:00Z",
+        "title": "Kangana Ranaut reacts to Chirag Paswan dating buzz with a witty remark",
+        "url": "https://www.indiatoday.in/movies/celebrities/story/kangana-ranaut-reacts-to-chirag-paswan-dating-buzz-with-a-witty-remark-2897505-2026-04-17",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/kangana-ranaut-on-romance-with-chirag-paswan-163104188-16x9.jpg?VersionId=ucLLyB3TqCB2QWfnwL.ZVHlZr8PgXxXa",
+        "publishedAt": "2026-04-17T06:25:53Z",
         "category": "entertainment",
-        "summary": "On April 17, 2026, horoscopes suggest that Gemini may encounter ancient wisdom or ruins in their life, prompting introspection. This period encourages Gemini to identify and eliminate negative influences while attempting to salvage valuable aspects. The forecast emphasizes a transformative experience, urging individuals to embrace change and growth as they navigate personal challenges and opportunities for improvement.",
-        "wordCount": 57
+        "summary": "Kangana Ranaut addressed rumors regarding her relationship with fellow politician Chirag Paswan, clarifying that they are just friends. She humorously noted that if they had dated during their past film collaboration, they might have been parents by now. The speculation about their relationship had circulated recently, prompting Ranaut to set the record straight on their bond.",
+        "wordCount": 56
       },
       {
-        "title": "Dhurandhar 2 Full Movie Collection: 'Dhurandhar 2' box office collection Day 29: Ranveer Singh starrer crosses Rs 1100 crore net mark; fails to break 'Dhurandhar' record for highest week 4 haul",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-box-office-collection-day-29-ranveer-singh-sara-arjun-arjun-rampal-starrer-crosses-rs-1100-crore-net-mark-fails-to-break-dhurandhar-record-for-highest-week-4-haul/articleshow/130320148.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130320265,width-1280,height-720,imgsize-72614,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-17T00:27:00Z",
+        "title": "Chahatt Khanna Opens Up On Her Two Divorces: \"I Converted To Islam, Then Returned To Sanatan Dharma\"",
+        "url": "https://www.ndtv.com/entertainment/chahatt-khanna-opens-up-on-her-two-divorces-i-converted-to-islam-then-returned-to-sanatan-dharma-11370005",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-04/v0tjt2f4_chahatt-khanna_625x300_17_April_26.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-17T05:56:19Z",
         "category": "entertainment",
-        "summary": "'Dhurandhar: The Revenge', featuring Ranveer Singh, has surpassed the Rs 1,100 crore mark at the Indian box office after 29 days of release. Despite this achievement, it did not break the record for the highest fourth-week collection set by its predecessor, 'Dhurandhar'. The film continues to perform strongly in theaters, maintaining its popularity among audiences.",
-        "wordCount": 55
+        "summary": "Chahatt Khanna discussed her two divorces, first from Bharat Narsinghani in 2007 and later from Farhan Mirza in 2018, citing harassment. She also addressed her conversion to Islam and subsequent return to Sanatan Dharma, highlighting the public scrutiny surrounding her religious beliefs. Khanna is known for her role in the television series \"Bade Acche Lagte Hain.\"",
+        "wordCount": 56
       }
     ]
   }
