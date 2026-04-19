@@ -1,228 +1,228 @@
 {
-  "updatedAt": "2026-04-18T18:31:27.693Z",
+  "updatedAt": "2026-04-19T00:31:02.791Z",
   "categories": {
     "world": [
       {
-        "title": "Dubai schools must offer in-person and distance learning options to all students",
-        "url": "https://www.khaleejtimes.com/uae/education/dubai-schools-offer-in-person-distance-learning-students",
-        "source": "Khaleej Times",
-        "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-04-18/y04h8qba/Screenshot-2026-04-18-at-8.32.26-AM.png?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=0,4,988,659",
-        "publishedAt": "2026-04-18T06:13:58Z",
-        "category": "world",
-        "summary": "Dubai schools are required to provide both in-person and distance learning options for all students as part of a phased return to classrooms. Schools must meet specific mandatory requirements and obtain official approval before reopening. This initiative aims to ensure a safe transition back to in-person education while accommodating diverse learning needs amidst ongoing developments in the region.",
-        "wordCount": 58
-      },
-      {
-        "title": "What is so special about Iran’s uranium that US, China and Russia all want it?",
-        "url": "https://timesofindia.indiatimes.com/defence/international/what-is-so-special-about-irans-uranium-that-us-china-and-russia-all-want-it-all-you-need-to-know-about-nuclear-dust/articleshow/130346730.cms",
+        "title": "Gunfire in Hormuz: Indian-flagged tanker among ships targeted as Iran closes strait again",
+        "url": "https://timesofindia.indiatimes.com/india/indian-tankers-turn-back-amid-irans-mixed-hormuz-signals-gunfire-hits-other-ships/articleshow/130352896.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130348010,width-1280,height-720,imgsize-2584389,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-18T06:02:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-130353594,width-1280,height-720,imgsize-520159,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-18T12:17:00Z",
         "category": "world",
-        "summary": "Iran’s enriched uranium stockpile is central to a global power struggle involving the United States, China, and Russia. Each country aims to influence the future of this resource, which has significant geopolitical implications. Meanwhile, Iran maintains that it will not relinquish control over its uranium, emphasizing its importance in the ongoing negotiations and international relations surrounding nuclear capabilities.",
-        "wordCount": 58
+        "summary": "Tensions in the Strait of Hormuz have intensified as Iranian gunboats reportedly opened fire, prompting several vessels, including an Indian-flagged supertanker, to turn back. This escalation raises concerns over the safety of this vital oil route, which has seen increased volatility. The situation has led to heightened scrutiny and calls for diplomatic efforts to ensure maritime security.",
+        "wordCount": 57
       },
       {
-        "title": "How Trump stunned Netanyahu with 'Israel prohibited' post",
-        "url": "https://www.indiatoday.in/world/story/donald-trump-lebanon-strike-ban-shocks-benjamin-netanyahu-contradicts-ceasefire-2898063-2026-04-18",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/trump--netanyahu-185617293-16x9_0.jpg?VersionId=GRfoWE7gCW7lXu87Qa.0_dHSo9su4UTZ",
-        "publishedAt": "2026-04-18T05:41:55Z",
+        "title": "2 Iranian Gunboats Fire On Tanker In Hormuz, Crew Safe: UK Body",
+        "url": "https://www.ndtv.com/world-news/2-iranian-gunboats-fire-on-tanker-in-hormuz-crew-safe-uk-body-11375782",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-04/kcpvi5rk_strait-of-hormuz_625x300_09_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-18T11:31:44Z",
         "category": "world",
-        "summary": "Donald Trump surprised Benjamin Netanyahu by stating that Israel was “prohibited” from striking Lebanon, which contradicted a US-backed ceasefire permitting self-defense. Following Trump's post, Israel requested clarification from the White House, as reported by Axios. The declaration raised concerns among Israeli officials regarding its implications for military operations and regional stability amidst ongoing tensions in the area.",
+        "summary": "Two Iranian gunboats fired on a tanker in the Strait of Hormuz on Saturday, following Iran's decision to reimpose restrictions on the waterway. This incident occurred a day after U.S. President Donald Trump announced the continuation of a naval blockade in the region. Fortunately, the crew of the tanker remained safe despite the attack.",
+        "wordCount": 54
+      },
+      {
+        "title": "US-Israel-Iran War Live: Hormuz sees first tanker movement in weeks, but Tehran signals strait may close again",
+        "url": "https://www.indiatoday.in/world/story/us-iran-israel-war-strait-of-hormuz-trump-araghchi-lebanon-netanyahu-markets-oil-prices-deal-nuclear-stocks-ceasefire-hezbollah-live-updates-2898000-2026-04-18",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202604/hormuz-oil-flagged-tanker-175633717-16x9.png?VersionId=_Asdv5LYnXNCfcUrRvoDxdJtsXQ0K95C",
+        "publishedAt": "2026-04-18T11:29:35Z",
+        "category": "world",
+        "summary": "US President Donald Trump stated negotiations with Iran are progressing, but Tehran demands the lifting of the US blockade for the Strait of Hormuz to remain open. Iran denied agreeing to transfer enriched uranium. The US Central Command reported 21 vessels turned back since April 13. A cruise ship recently crossed the strait, indicating limited maritime movement.",
         "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "RBI announced ‘new rules’ for exchanging old ₹500 & ₹1000 notes? PIB Factcheck says…",
-        "url": "https://www.livemint.com/news/india/rbi-announced-new-rules-for-exchanging-old-500-1000-notes-pib-factcheck-says-11776486886253.html",
+        "title": "Meta layoffs: 8,000 employees likely to be sacked in massive workforce purge on May 20",
+        "url": "https://www.livemint.com/companies/news/meta-layoffs-8-000-employees-likely-to-be-sacked-in-massive-workforce-purge-on-may-20-11776511294702.html",
         "source": "Mint",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/18/1600x900/logo/RBI2-kpFH--621_1776486943224_1776486943430.jpg",
-        "publishedAt": "2026-04-18T05:38:03Z",
+        "image": "https://www.livemint.com/lm-img/img/2026/04/18/1600x900/logo/META-LAWSUIT-MASSACHUSETTS-0_1776514662227_1776514716217.JPG",
+        "publishedAt": "2026-04-18T12:19:15Z",
         "category": "business",
-        "summary": "The Reserve Bank of India (RBI) has not announced new rules for exchanging old ₹500 and ₹1000 notes, according to a fact-check by the Press Information Bureau (PIB). Users are advised to refrain from sharing unverified messages and to report any suspicious content to the PIB to prevent misinformation regarding currency exchange practices.",
-        "wordCount": 53
+        "summary": "Meta is set to lay off approximately 8,000 employees, representing about 10% of its global workforce, on May 20. This marks the company's largest workforce reduction since restructuring efforts in late 2022 and early 2023. Additional layoffs are anticipated in the latter half of the year, according to three sources familiar with the company's plans.",
+        "wordCount": 55
       },
       {
-        "title": "Bonus issue, stock split, dividend: 9 stocks to turn ex-record date next week, check details",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-issue-stock-split-dividend-9-stocks-to-turn-ex-record-date-next-week-check-details/corporate-radar/slideshow/130347332.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-130347332,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-        "publishedAt": "2026-04-18T05:27:21Z",
+        "title": "Ola Sona Weekend Announced with Benefits of Up To Rs 50,000",
+        "url": "https://bikeadvice.in/ola-sona-weekend-announced-with-benefits-of-up-to-rs-50000/",
+        "source": "BikeAdvice",
+        "image": "https://bikeadvice.in/wp-content/uploads/2026/04/Ola-Sona-Weekend.jpg",
+        "publishedAt": "2026-04-18T12:13:06Z",
         "category": "business",
-        "summary": "Between April 20 and April 24, several companies will go ex-record date for bonus issues, stock splits, and dividends. Investors must purchase shares before these record dates to qualify for dividend payments, bonus shares, or stock splits. Key dates and additional details are available for investors to ensure they do not miss out on these opportunities.",
-        "wordCount": 56
+        "summary": "Ola Electric has announced the 'Ola Sona Weekend' promotion, offering benefits of up to Rs 50,000 on its S1 range of e-scooters and Roadster line-up of e-motorcycles. This offer is valid exclusively on April 18 and 19. Customers can take advantage of these discounts during this limited-time event to purchase electric vehicles from the company.",
+        "wordCount": 55
       },
       {
-        "title": "Gold price in India rallies by ₹5000 in two weeks. Is it a right time to buy gold on Akshaya Tritiya?",
-        "url": "https://www.livemint.com/market/commodities/gold-rate-today-akshaya-tritiya-18-april-2026-gold-price-in-india-rallies-by-rs-5000-is-it-a-right-time-to-buy-gold-11776483774551.html",
-        "source": "Mint",
-        "image": "https://www.livemint.com/lm-img/img/2026/04/18/1600x900/logo/Gold_Rate_Today_Gold_Price_Today_US_Iran_news_1776489661772_1776489661970.jpg",
-        "publishedAt": "2026-04-18T05:26:48Z",
+        "title": "Tesla Model Y L (6-Seater) Could Launch In India On April 22nd - Report",
+        "url": "https://www.rushlane.com/tesla-model-y-l-6-seater-could-launch-in-india-on-april-22nd-report-12544471.html",
+        "source": "RushLane",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/04/tesla-model-y-l-india-launch-6.jpg",
+        "publishedAt": "2026-04-18T11:55:13Z",
         "category": "business",
-        "summary": "Gold prices in India have increased by ₹5,000 over the past two weeks, rising from ₹1,49,690 to ₹1,54,605 per 10 grams as of April 18, 2026. This surge follows a decline in crude oil prices due to easing tensions in the US-Iran conflict. The upcoming Akshaya Tritiya may prompt buyers to consider purchasing gold at these rates.",
+        "summary": "Tesla is reportedly set to launch the Model Y L, a 6-seater version of its standard Model Y, in India on April 22nd. This variant is currently exclusive to China. The move appears to be part of Tesla's strategy to improve its reception among Indian SUV buyers, following a lukewarm response to the initial Model Y offering.",
         "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "NVIDIA Introduces GeForce NOW in India Powered by Blackwell RTX Architecture",
-        "url": "https://digitalterminal.in/gaming/nvidia-introduces-geforce-now-in-india-powered-by-blackwell-rtx-architecture",
-        "source": "digital terminal",
-        "image": "https://media.assettype.com/digitalterminal%2F2026-04-18%2Fcjt4zjgc%2FNvidoa-DT-.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-04-18T05:47:16Z",
+        "title": "iPhone 18 Pro launch: New dark cherry colour and design changes",
+        "url": "https://www.indiatoday.in/technology/news/story/iphone-18-pro-launching-soon-new-cherry-colour-and-everything-else-to-expect-2898173-2026-04-18",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/iphone-18-pro-rumored-colours-182923854-16x9_0.png?VersionId=xGVNZ.YoYOB6l0l4kHD.hm3qnKP2sN22",
+        "publishedAt": "2026-04-18T11:30:24Z",
         "category": "technology",
-        "summary": "NVIDIA has launched early access to GeForce NOW™ in India, utilizing the Blackwell RTX architecture. This initiative highlights the significance of the Indian gaming market. The platform aims to provide gamers in India with enhanced cloud gaming experiences. NVIDIA's move reflects its commitment to expanding its services in emerging markets, catering specifically to local gaming needs and preferences.",
-        "wordCount": 58
+        "summary": "Apple's upcoming iPhone 18 Pro is expected to feature a new Dark Cherry color and design modifications, including a smaller Dynamic Island and an updated camera module. The company is generating anticipation ahead of the September launch, with rumors suggesting significant upgrades. Early discussions indicate that these changes may enhance the overall user experience of the device.",
+        "wordCount": 57
       },
       {
-        "title": "Galaxy S27 Ultra leak reveals faster storage and next-generation processor",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/technology/galaxy-s27-ultra-leak-reveals-faster-storage-and-next-generation-processor-article-13892522.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260225180422_Galaxy-S26-Ultra.png",
-        "publishedAt": "2026-04-18T04:11:34Z",
+        "title": "WhatsApp Developing Automatic Business Chat Separation To Reduce Inbox Clutter",
+        "url": "https://www.etvbharat.com/en/technology/whatsapp-developing-automatic-business-chat-separation-to-reduce-inbox-clutter-enn26041803817",
+        "source": "ETV Bharat",
+        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/18-04-2026/1200-675-26503096-727-26503096-1776508024220.jpg",
+        "publishedAt": "2026-04-18T10:27:52Z",
         "category": "technology",
-        "summary": "Leaks regarding Samsung's upcoming Galaxy S27 Ultra indicate enhancements in storage and processing capabilities. The device is expected to feature UFS 5.0 storage technology and a new Snapdragon 8 Elite Gen 6 Pro processor. These advancements aim to improve performance and efficiency, positioning the Galaxy S27 Ultra as a competitive flagship in the smartphone market.",
-        "wordCount": 55
+        "summary": "WhatsApp is developing a feature for Android that will automatically separate business chats from personal conversations after 24 hours. This initiative aims to reduce inbox clutter and spam for users. The new functionality is reported by WABetaInfo, a WhatsApp tracking portal, and is designed to enhance user experience by organizing chat categories more effectively.",
+        "wordCount": 54
       },
       {
-        "title": "Tech wrap this week: Vivo launches T5 Pro 5G, ASUS unveils Zenbook laptops and more",
-        "url": "https://www.cnbctv18.com/technology/tech-wrap-this-week-vivo-launches-t5-pro-5g-asus-unveils-zenbook-laptops-and-more-ws-l-19887295.htm",
-        "source": "CNBC TV18",
-        "image": "https://images.cnbctv18.com/uploads/2026/04/realme-narzo-100-lite-5g-2026-04-59e8e84954f191112ad70bc52c4bf691.jpg?im=FitAndFill,width=500,height=300",
-        "publishedAt": "2026-04-18T04:07:22Z",
+        "title": "Nano Banana Google Photos sparks powerful new privacy concerns",
+        "url": "https://punemirror.com/technology/ai/nano-banana-google-photos-privacy-shift/",
+        "source": "Pune Mirror",
+        "image": "https://punemirror.com/wp-content/uploads/2026/04/Nano-Banana-Google-Photos.jpg",
+        "publishedAt": "2026-04-18T10:19:02Z",
         "category": "technology",
-        "summary": "Vivo launched the T5 Pro 5G smartphone, while Realme introduced the Narzo 100 Lite 5G in India, featuring a MediaTek Dimensity 6300 processor and a 7000mAh battery. ASUS unveiled new Zenbook laptops, and other brands like OPPO, GoPro, and Xiaomi also announced significant product releases, including Mini LED TVs, marking a notable week in technology advancements.",
-        "wordCount": 56
+        "summary": "Google's Nano Banana now integrates with Google Photos through Gemini’s Personal Intelligence, prompting new privacy concerns. This development transforms users' photo libraries into resources for AI-generated images, raising questions about data usage, consent, and image safeguards. While it offers personalized creations, the implications for user privacy and data security are under increased scrutiny as AI technology evolves.",
+        "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "Shreyas Iyer's Boundary Rope Spectacular Draws Epic 200-Word Post From \"Grandfather of Fielding\" Jonty Rhodes",
-        "url": "https://sports.ndtv.com/ipl-2026/shreyas-iyers-boundary-rope-spectacular-draws-epic-200-word-post-from-grandfather-of-fielding-jonty-rhodes-11374679",
-        "source": "NDTV Sports",
-        "image": "https://c.ndtvimg.com/2026-04/nv3p36ak_shreyas-iyer-bcci_625x300_18_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-18T06:14:01Z",
+        "title": "IPL 2026: Match 29, PBKS vs LSG Match Prediction",
+        "url": "https://www.crictracker.com/cricket-match-predictions/ipl-2026-match-29-pbks-vs-lsg-match-prediction-who-will-win-todays-ipl-match-between-punjab-kings-vs-lucknow-super-giants-5031/",
+        "source": "CricTracker",
+        "image": "https://media.crictracker.com/media/attachments/1776494494351_FotoJet-(30).jpeg",
+        "publishedAt": "2026-04-18T12:30:00Z",
         "category": "sports",
-        "summary": "Shreyas Iyer, captain of Punjab Kings, impressed cricket legend Jonty Rhodes with a remarkable catch to dismiss Hardik Pandya during the IPL 2026 match against Mumbai Indians. Rhodes, known as the \"Grandfather of Fielding,\" praised Iyer's awareness and athleticism, highlighting the significance of the catch in contributing to PBKS's comfortable victory in the match.",
-        "wordCount": 54
+        "summary": "In Match 29 of IPL 2026, the Punjab Kings (PBKS) face the Lucknow Super Giants (LSG) at the Maharaja Yadavindra Singh International Cricket Stadium. Fans and analysts are eager to predict the outcome of this exciting match in the ongoing tournament. The match promises to be a competitive encounter as both teams aim for victory in the league.",
+        "wordCount": 58
       },
       {
-        "title": "Man United boss provides update on Rashford’s continuity at Barcelona",
-        "url": "https://barcauniversal.com/man-united-boss-provides-update-on-rashfords-continuity-at-barcelona/",
-        "source": "Barca Universal",
-        "image": "https://barcauniversal.com/wp-content/uploads/2026/04/manchester-united-v-leeds-united-premier-league-1000x600.jpg",
-        "publishedAt": "2026-04-18T06:04:46Z",
+        "title": "\"No Disrespect To Sanju Samson\": CSK Sent Blunt Message Over MS Dhoni's Selection",
+        "url": "https://sports.ndtv.com/ipl-2026/no-disrespect-to-sanju-samson-csk-sent-blunt-message-over-ms-dhonis-selection-11375458",
+        "source": "NDTV Sports",
+        "image": "https://c.ndtvimg.com/2026-04/1nqsfgvc_dhoni_625x300_18_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-18T12:03:05Z",
         "category": "sports",
-        "summary": "Marcus Rashford's future at Barcelona is increasingly uncertain as the summer transfer window approaches. Initially perceived as a straightforward deal, complications have arisen, leading to speculation from both parties. Currently on loan from Manchester United, Rashford's performance in Spain has been mixed, contributing to the ongoing discussions regarding his continuity with the club. Further developments are anticipated.",
+        "summary": "Chennai Super Kings are gearing up for an important match against Sunrisers Hyderabad. Former Mumbai cricketer Aditya Tare emphasized MS Dhoni's crucial role in the team's dynamics, highlighting his leadership and strategic insights as vital for navigating challenging situations. Tare clarified that his comments are not meant to undermine Sanju Samson, reinforcing Dhoni's significance in the squad.",
         "wordCount": 57
       },
       {
-        "title": "'I woke up and ... ': LizLaz breaks silence after Virat Kohli 'likes' then unlikes her pic",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/i-woke-up-and-lizlaz-breaks-silence-after-virat-kohli-likes-then-unlikes-her-pic/articleshow/130347797.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130347832,width-1280,height-720,imgsize-28664,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-18T05:48:00Z",
+        "title": "Jasprit Bumrah's \"Body Language\" For MI In IPL 2026 Raises Concern: \"Not The Same As In World Cup\"",
+        "url": "https://sports.ndtv.com/ipl-2026/jasprit-bumrahs-body-language-for-mi-in-ipl-2026-raises-concern-not-the-same-as-in-world-cup-11375915",
+        "source": "NDTV Sports",
+        "image": "https://c.ndtvimg.com/2026-04/hllcclrs_jasprit-bumrah-wicketless-pti_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-18T11:59:07Z",
         "category": "sports",
-        "summary": "Virat Kohli recently attracted attention after liking and then unliking a photo posted by influencer LizLaz on Instagram. LizLaz addressed the incident, stating, \"I woke up and saw it.\" Kohli, known for his cricketing skills, has often been in the news for his performances on the field, but this social media interaction has sparked public interest.",
-        "wordCount": 56
+        "summary": "Jasprit Bumrah has struggled in IPL 2026, recording zero wickets in five matches for Mumbai Indians. Despite not being overly expensive, his performance has raised concerns, especially compared to his high standards. Observers note a difference in his body language and effectiveness since the World Cup, prompting discussions about his current form and potential impact on the team's success.",
+        "wordCount": 59
       }
     ],
     "health": [
       {
-        "title": "World Liver Day: Care Health Insurance Sounds Alarm on India’s Liver Health",
-        "url": "https://theindianpractitioner.com/world-liver-day-care-health-insurance-sounds-alarm-on-indias-liver-health/",
-        "source": "The Indian Practitioner",
-        "image": "https://theindianpractitioner.com/wp-content/uploads/2026/04/World-Liver-Day-Care-Health-Insurance-Sounds-Alarm-on-Indias-Liver-Health-1.jpg",
-        "publishedAt": "2026-04-18T06:21:01Z",
+        "title": "Plastic Waste to Parkinson Drug Breakthrough",
+        "url": "https://www.usthadian.com/plastic-waste-to-parkinson-drug-breakthrough/",
+        "source": "usthadian.com",
+        "image": "https://www.usthadian.com/wp-content/uploads/2026/04/ca-images-9-8.jpg",
+        "publishedAt": "2026-04-18T12:16:30Z",
         "category": "health",
-        "summary": "India is experiencing a significant but overlooked liver health crisis, particularly highlighted on World Liver Day. The Ministry of Health and Family Welfare reports that Nonalcoholic Fatty Liver Disease affects 9% to 32% of the population, indicating that nearly one in three individuals may be impacted. Care Health Insurance has raised concerns regarding the urgency of addressing this health issue.",
-        "wordCount": 60
-      },
-      {
-        "title": "The Role of Fexofenadine-Pseudoephedrine Combinations in Pre-and Post-operative ENT Practice",
-        "url": "https://medicaldialogues.in/ent/news/the-role-of-fexofenadine-pseudoephedrine-combinations-in-pre-and-post-operative-ent-practice-168878",
-        "source": "Medical Dialogues",
-        "image": "https://medicaldialogues.in/h-upload/2026/04/17/342264-allergic-rhinitis-4jpg.jpg",
-        "publishedAt": "2026-04-18T06:11:59Z",
-        "category": "health",
-        "summary": "Fexofenadine-pseudoephedrine combinations are increasingly utilized in pre-and post-operative ENT practices. ENT disorders affect all age groups and represent over 20% of healthcare visits globally. This highlights their prevalence and the need for effective management strategies. Understanding the clinico-epidemiological profile of these disorders is essential for improving patient outcomes and addressing the significant public health challenges they present.",
+        "summary": "Scientists at a university have developed a method to convert plastic waste into levodopa, a crucial medication for treating Parkinson's disease. This breakthrough addresses two significant issues: the growing problem of plastic waste and the need for effective Parkinson's treatments. The innovative process could potentially lead to more sustainable drug production while reducing environmental pollution from plastics.",
         "wordCount": 57
       },
       {
-        "title": "New Blood Test MethylScan Promises Early Detection of Cancer and Organ Disorders",
-        "url": "https://theindianpractitioner.com/new-blood-test-methylscan-promises-early-detection-of-cancer-and-organ-disorders/",
-        "source": "The Indian Practitioner",
-        "image": "https://theindianpractitioner.com/wp-content/uploads/2026/04/New-Blood-Test-MethylScan-Promises-Early-Detection-of-Cancer-and-Organ-Disorders-1.jpg",
-        "publishedAt": "2026-04-18T06:07:34Z",
+        "title": "NTU Develops AI Biochip for 20-Minute Disease Biomarker Detection",
+        "url": "https://www.digitalhealthnews.com/ntu-develops-ai-biochip-to-detect-disease-biomarkers-in-20-minutes",
+        "source": "Digital Health News",
+        "image": "https://d33xmv9j3wn8v0.cloudfront.net/uploads/2026/04/ntu-s-ai-feature.jpg",
+        "publishedAt": "2026-04-18T11:49:00Z",
         "category": "health",
-        "summary": "Researchers at the University of California, Los Angeles have created MethylScan, an affordable blood test capable of simultaneously detecting various cancers, liver diseases, and organ disorders. The test works by analyzing circulating DNA fragments in the bloodstream, offering a promising method for early diagnosis. MethylScan aims to improve patient outcomes through timely identification of health issues.",
-        "wordCount": 56
+        "summary": "Researchers at Nanyang Technological University (NTU) Singapore have developed an AI-enabled biochip that detects microRNA biomarkers in just 20 minutes. This innovative system combines a nanophotonic chip with AI-based image analysis, allowing for the identification and classification of thousands of microRNA signals from a single biological sample, thus providing a faster and automated solution for disease screening.",
+        "wordCount": 57
+      },
+      {
+        "title": "Planning Your Baby's Diet? Nutritionist Shares Foods That Should Be Avoided In The First Year",
+        "url": "https://www.ndtv.com/health/planning-your-babys-diet-nutritionist-shares-foods-that-should-be-avoided-in-the-first-year-11375581",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-04/qrutj6n4_honey_625x300_18_April_26.png?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-18T10:44:13Z",
+        "category": "health",
+        "summary": "Nutritionist Nmami Agarwal advises parents on foods to avoid during a baby's first year to ensure healthy development. While breast milk or formula is essential, introducing solid foods requires caution. Certain foods can pose risks to infants, and careful planning is crucial for their safety and nutrition. Parents should prioritize guidance to support their baby's dietary needs effectively.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "Interstellar Comet 3I/ATLAS transforms near the Sun: Scientists reveal shocking chemical changes",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/interstellar-comet-3iatlas-transforms-near-the-sun-scientists-reveal-shocking-chemical-changes-article-13892581.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260418060040_science.png",
-        "publishedAt": "2026-04-18T06:02:18Z",
+        "title": "Small NASA Satellite Could Reveal How Lightning Impacts Space Weather",
+        "url": "https://www.gadgets360.com/science/news/nasa-launches-canvas-cubesat-to-study-space-weather-11371030",
+        "source": "Gadgets 360",
+        "image": "https://i.gadgets360cdn.com/large/waves__full_img_1776420393977.png",
+        "publishedAt": "2026-04-18T12:30:07Z",
         "category": "science",
-        "summary": "Interstellar comet 3I/ATLAS exhibited significant chemical changes as it approached the Sun, providing valuable information about its internal structure. These transformations offer insights into the processes involved in planet formation within distant star systems. Observations were made using the Subaru Telescope, highlighting the comet's unique characteristics and the implications for understanding the composition and evolution of celestial bodies.",
+        "summary": "NASA's CANVAS CubeSat mission aims to study very-low-frequency (VLF) radio waves generated by lightning and transmitters. Scheduled for launch on April 7, 2026, the mission seeks to enhance understanding of how lightning affects space weather, which in turn impacts satellites and astronauts. This research will contribute to knowledge of Earth-space interactions and their implications for technology in orbit.",
         "wordCount": 58
       },
       {
-        "title": "Indian scientists find data ‘fully consistent’ for dwarf galaxies to host black holes",
-        "url": "https://www.sentinelassam.com/more-news/national-news/indian-scientists-find-data-fully-consistent-for-dwarf-galaxies-to-host-black-holes",
-        "source": "The Sentinel - of this Land, for its People",
-        "image": "https://media.assettype.com/sentinelassam-english%2F2026-04-18%2Fa7rn713n%2Fblack-holes.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-04-18T05:23:27Z",
+        "title": "The Lyrid meteor shower is visible now and peaking soon here's how to spot it",
+        "url": "https://www.theweek.in/wire-updates/international/2026/04/18/the-lyrid-meteor-shower-is-visible-now-and-peaking-soon-heres-how-to-spot-it.html",
+        "source": "theweek.in",
+        "image": "https://www.theweek.in/content/dam/week/wire-updates/pti-preview-theweek.jpg",
+        "publishedAt": "2026-04-18T12:13:37Z",
         "category": "science",
-        "summary": "Indian scientists conducted a study examining dwarf spheroidal galaxies orbiting the Milky Way to determine if they host black holes. The findings revealed data that is “fully consistent with the presence of intermediate-mass black holes.” This research contributes to the understanding of black hole formation and the characteristics of these small galaxies, as stated in an official announcement.",
-        "wordCount": 58
+        "summary": "The Lyrid meteor shower is currently visible and is expected to peak on Tuesday night. Skywatchers can anticipate seeing 10 to 20 shooting stars per hour, aided by a dim crescent moon. NASA encourages observers to take advantage of the clear spring skies for optimal viewing conditions during this annual celestial event.",
+        "wordCount": 52
       },
       {
-        "title": "Scientists observe optical vortices exhibiting superluminal motion in light waves",
-        "url": "https://www.mid-day.com/news/world-news/article/scientists-observe-optical-vortices-exhibiting-superluminal-motion-in-light-waves-23626301",
-        "source": "Mid-day",
-        "image": "https://images.mid-day.com/images/images/2026/apr/Darkness-moves-1776463265741_d.png",
-        "publishedAt": "2026-04-18T05:00:00Z",
+        "title": "How old is the Grand Canyon? Scientists reveal age of the structure visible from space",
+        "url": "https://www.indiatoday.in/science/story/grand-canyon-age-how-old-colorado-river-formation-science-study-zircon-2898166-2026-04-18",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/the-grand-canyon-in-arizona-is-so-vast-it-can-be-seen-from-space-a-new-study-has-now-revealed-the-f-185125978-16x9_0.jpg?VersionId=P4RavPdmprPrE0AG7vKQAi7XUC3jidDI",
+        "publishedAt": "2026-04-18T11:04:42Z",
         "category": "science",
-        "summary": "Researchers have observed optical vortices, or \"dark points,\" in light waves that exhibit superluminal motion. This discovery provides the first direct experimental evidence supporting a theoretical prediction made decades ago. The findings suggest that under specific conditions, these vortices can move faster than light, advancing the understanding of light wave behavior and potentially influencing future optical technologies.",
-        "wordCount": 57
+        "summary": "A new study utilizing microscopic zircon crystals has determined the age of the Grand Canyon, revealing the timeline of its formation by the Colorado River. Researchers identified a long-lost lake, which played a crucial role in understanding the canyon's development over millions of years. This discovery sheds light on one of Earth's most recognizable geological features.",
+        "wordCount": 56
       }
     ],
     "entertainment": [
       {
-        "title": "Yash defends Ramayana's international canvas and style: 'We need to make it familiar to a Western audience'",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/yash-defends-ramayana-international-canvas-and-style-western-audience-ranbir-kapoor-nitesh-tiwari-namit-malhotra-101776490667365.html",
+        "title": "Ali Asgar says he quit playing ‘Dadi’ on Kapil Sharma's show after his kids were bullied in school",
+        "url": "https://www.hindustantimes.com/entertainment/tv/ali-asgar-says-he-quit-playing-dadi-on-kapil-sharma-show-after-his-kids-were-bullied-in-school-101776509813488.html",
         "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/18/550x309/5_pushpaka_vimanam_1775112622905_1776491645767.jpg",
-        "publishedAt": "2026-04-18T06:25:13Z",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/18/550x309/ali_asgar_1660711822053_1776510745570.jpg",
+        "publishedAt": "2026-04-18T11:52:43Z",
         "category": "entertainment",
-        "summary": "Yash, portraying Ravana in Nitesh Tiwari's Ramayana, defended the film's international appeal at CinemaCon. He emphasized the importance of making the story relatable to Western audiences. Yash mentioned his efforts to add depth to Ravana's character, aiming to present him as more human. He believes that understanding the essence of the character is crucial for global viewers.",
+        "summary": "Ali Asgar announced his departure from playing the character ‘Dadi’ on Kapil Sharma's show, citing concerns over his children's bullying at school. He expressed that he felt limited in his acting opportunities and was repeating himself. Asgar gained fame for his portrayal of ‘Dadi’ in Comedy Nights with Kapil, where he cross-dressed as both Dadi and Nani.",
         "wordCount": 57
       },
       {
-        "title": "On Husband KL Rahul's Birthday, Athiya Shetty Shares Unseen Pics From Wedding",
-        "url": "https://www.ndtv.com/entertainment/on-husband-kl-rahuls-birthday-athiya-shetty-shares-unseen-pics-from-wedding-11374613",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-04/upgfkg24_kl-rahul-and-athiya-shetty_625x300_18_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-18T06:18:15Z",
+        "title": "Priyanka Chopra gives peek into her India diaries: From eating at local dhaba to watching Sridevi, Salman Khan films",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/priyanka-chopra-gives-peek-into-her-india-diaries-from-eating-at-local-dhaba-to-watching-sridevi-salman-khan-films-101776508040465.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/18/550x309/WhatsApp_Image__1776509493023_1776509493168.jpeg",
+        "publishedAt": "2026-04-18T11:35:16Z",
         "category": "entertainment",
-        "summary": "On April 15, actress Athiya Shetty celebrated her husband KL Rahul's 34th birthday by sharing unseen wedding photos on Instagram. She expressed her affection in a heartfelt note, referring to him as “my person” and stating her love for him. The post highlighted their relationship and showcased intimate moments from their wedding, marking a special occasion for the couple.",
-        "wordCount": 59
+        "summary": "Priyanka Chopra shared a weekend photo dump on Instagram, showcasing her experiences in India. The posts included moments with family, visits to local dhabas, and references to classic Bollywood films featuring Sridevi and Salman Khan. The candid images offered fans a glimpse into her personal life, highlighting her connection to Indian culture and cinema.",
+        "wordCount": 54
       },
       {
-        "title": "Vijay Deverakonda joins hands with Hi Nanna director Shouryuv for an ambitious project",
-        "url": "https://www.123telugu.com/mnews/vijay-deverakonda-joins-hands-with-hi-nanna-director-shouryuv-for-an-ambitious-project-prp.html",
-        "source": "123Telugu.com",
-        "image": "https://cdn.123telugu.com/content/wp-content/uploads/2026/04/VD-x-Shouryuv-Shouryuv.webp",
-        "publishedAt": "2026-04-18T06:02:00Z",
+        "title": "Shah Rukh Khan's landlord is a fan of his humility, opens up on star staying in his flat during Mannat renovations",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/shah-rukh-khan-landlord-jackky-bhagnani-fan-of-his-humility-opens-up-on-star-staying-in-his-flat-for-mannat-renovations-101776511346320.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/18/550x309/Shah_Rukh_Khan_Eid_1774148616698_1774148643501_1776511467678.jpg",
+        "publishedAt": "2026-04-18T11:33:34Z",
         "category": "entertainment",
-        "summary": "Vijay Deverakonda has officially announced his collaboration with director Shouryuv, known for the film Hi Nanna. This partnership has been speculated for several months, and the confirmation comes via Deverakonda's social media profiles. Further details about the project, including its title and release date, have not yet been disclosed, but excitement is building within the Telugu cinema community.",
-        "wordCount": 58
+        "summary": "Shah Rukh Khan temporarily relocated from his iconic Bandra bungalow, Mannat, to two flats in a nearby apartment complex due to renovations. His landlord praised the actor's humility and expressed admiration for his respectful behavior during the stay. Shah Rukh purchased Mannat in the late 1990s, and the property is currently undergoing significant renovations.",
+        "wordCount": 54
       }
     ]
   }
