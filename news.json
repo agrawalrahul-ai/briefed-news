@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-04-21T18:31:34.803Z",
+  "updatedAt": "2026-04-22T00:31:01.399Z",
   "categories": {
     "world": [
       {
-        "title": "Iran executes man as January protest crackdown continues",
-        "url": "https://www.iranintl.com/en/202604217963",
-        "source": "ایران اینترنشنال",
-        "image": "https://i.iranintl.com/images/rdk9umy0/production/a4bd0e59e246e0ae5bcacac11b3e85da154c22e6-1200x800.png?rect=0,85,1200,630&w=1200&h=630&fit=max&auto=format",
-        "publishedAt": "2026-04-21T06:29:00Z",
+        "title": "The US Was Right: Iran Has A 'Nuclear' Weapon, But It's Not A Missile",
+        "url": "https://www.ndtv.com/world-news/iran-has-a-nuke-but-its-not-a-missile-strait-of-hormuz-oil-crisis-iran-war-impact-11388237",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-04/hto7niic_iran-strait-of-hormuz-nuclear-deterrent-copy-ai-image_625x300_21_April_26.jpeg?im=FaceCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-21T12:00:36Z",
         "category": "world",
-        "summary": "Iran executed a man on Tuesday for allegedly setting fire to a mosque and engaging in anti-security activities, linked to protests earlier this year. The judiciary announced the execution amid ongoing crackdowns on dissent. In related news, sections of the Bagh Rezvan cemetery in Rasht have been cemented over to create a uniform surface above the graves of slain protestors.",
-        "wordCount": 60
+        "summary": "The U.S. asserts that while Iran does not possess a nuclear weapon, it has significant strategic leverage by controlling the Strait of Hormuz, a crucial oil and gas shipping route. Iran reportedly has around 440 kg of 60% enriched uranium, which is below the 90% threshold for weaponization but could potentially be used to create multiple nuclear bombs.",
+        "wordCount": 58
       },
       {
-        "title": "Kirpans out, turbans tossed in air: Multiple injured in violent clash in Germany gurdwara",
-        "url": "https://indianexpress.com/article/world/germany-gurdwara-clash-moers-turban-kirpans-pepper-spray-10647518/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/04/germany-gurudwara-chaos.jpg",
-        "publishedAt": "2026-04-21T06:21:05Z",
+        "title": "US military intercepts sanctioned M/T Tifani ship linked to Iranian smuggling",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-893733",
+        "source": "The Jerusalem Post",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/717241",
+        "publishedAt": "2026-04-21T11:39:39Z",
         "category": "world",
-        "summary": "A violent clash at a gurdwara in Germany resulted in multiple injuries, prompting the deployment of nearly 100 police officers, including a Special Task Force and a helicopter for aerial monitoring. Witnesses reported the use of pepper spray and a firearm, along with knives. The incident occurred shortly before a prayer service, leaving attendees in shock.",
-        "wordCount": 56
+        "summary": "The US military intercepted the stateless M/T Tifani, linked to Iranian smuggling, as part of efforts to disrupt illicit maritime networks. The Pentagon confirmed the boarding took place during overnight hours under the jurisdiction of US INDOPACOM. This action is part of broader global maritime enforcement initiatives aimed at addressing sanctioned activities and enhancing security in international waters.",
+        "wordCount": 58
+      },
+      {
+        "title": "Disturbing video surfaces as Klaudia Zakrzewska hit by Gabrielle Carrington Mercedes after clash outside London nightclub",
+        "url": "https://timesofindia.indiatimes.com/world/us-streamers/disturbing-video-surfaces-as-klaudia-zakrzewska-hit-by-gabrielle-carrington-mercedes-after-clash-outside-london-nightclub/articleshow/130404827.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130404825,width-1280,height-720,imgsize-833261,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-21T11:20:00Z",
+        "category": "world",
+        "summary": "Klaudia Zakrzewska, known as Klaudia Glam, is in critical condition following a collision outside a London nightclub early Sunday. A video has emerged showing the incident involving Gabrielle Carrington's Mercedes. The clash occurred after an altercation, leading to Zakrzewska being struck by the vehicle. Authorities are investigating the circumstances surrounding the incident and its aftermath.",
+        "wordCount": 55
       }
     ],
     "business": [
       {
-        "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
-        "url": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
-        "source": "The Hacker News",
-        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjZ6Llk3l-F3OFNRpNKvTziH1GObU6niwTMke4hEeI5bVXCcILs3kb25Dehkk1VCBf8NzEEPMLxElgbqLzAq0I1GuFAsDojdbVw-R6CGW6-qMXPaeiKXzQqn9JUL-VoPCVMx8h7FrOXIovnLwLv7T-O2wLdc4kIDA0bftbBDp9kwoDmqq6iYYlaZF6Qaz/s1700-e365/cisa-kev.jpg",
-        "publishedAt": "2026-04-21T06:23:00Z",
+        "title": "Tim Cook called to 'kiss my a**': Trump's post on Apple CEO stepping down takes odd turn",
+        "url": "https://timesofindia.indiatimes.com/world/us/tim-cook-called-to-kiss-my-a-trumps-post-on-apple-ceo-stepping-down-takes-odd-turn/articleshow/130416758.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130416833,width-1280,height-720,imgsize-892940,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-21T11:51:00Z",
         "category": "business",
-        "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added eight exploited vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog. This includes three flaws affecting Cisco Catalyst SD-WAN Manager. CISA has set deadlines for federal agencies to address these vulnerabilities by April 23 and May 4, 2026, emphasizing the urgency for federal patching efforts.",
-        "wordCount": 54
+        "summary": "Donald Trump praised Tim Cook as an “incredible guy” and expressed his admiration for him following Apple’s announcement that Cook will transition to executive chairman and step down as CEO. In a post on Truth Social, Trump referred to himself as a “big fan” of Cook, highlighting a positive relationship despite previous tensions between Trump and Apple.",
+        "wordCount": 57
       },
       {
-        "title": "New Hyundai Ioniq 3 Debuts - 496 Kms Range, 4.1m Long, 400V Architecture",
-        "url": "https://www.rushlane.com/new-hyundai-ioniq-3-debuts-496-kms-range-4-1m-long-12544676.html",
-        "source": "RushLane",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/04/hyundai-ioniq3-debuts-8.jpeg",
-        "publishedAt": "2026-04-21T06:14:04Z",
+        "title": "NSE IPO DRHP filing moves closer! SEBI clears Rs 1,800 crore settlement path",
+        "url": "https://www.zeebiz.com/market-news/news-nse-ipo-drhp-filing-moves-closer-sebi-clears-rs-1800-crore-settlement-path-394023",
+        "source": "Zee Business",
+        "image": "https://cdn.zeebiz.com/sites/default/files/2026/04/21/404559-nse-ipo34.jpg",
+        "publishedAt": "2026-04-21T11:12:45Z",
         "category": "business",
-        "summary": "Hyundai has introduced the Ioniq 3 all-electric vehicle at Milan Design Week 2026. The Ioniq 3, measuring 4.1 meters in length, features a range of 496 kilometers and operates on a 400V architecture. Production will take place at Hyundai’s Izmit facility in Turkey, with plans for the vehicle to launch in European markets later this year.",
-        "wordCount": 56
+        "summary": "The National Stock Exchange (NSE) is closer to filing its Draft Red Herring Prospectus (DRHP) for an initial public offering (IPO) following a SEBI panel's approval of a settlement fee of approximately Rs 1,800 crore. This settlement pertains to ongoing investigations related to co-location and dark fibre cases, facilitating the NSE's IPO process.",
+        "wordCount": 53
       },
       {
-        "title": "Gold struggles near daily low on firmer USD, ahead of US",
-        "url": "https://www.fxstreet.com/news/gold-slides-back-closer-to-4-800-as-usd-edges-higher-ahead-of-us-iran-peace-talks-202604210328",
-        "source": "FXStreet",
-        "image": "https://editorial.fxsstatic.com/images/i/Commodities_Gold-1_Medium.jpg",
-        "publishedAt": "2026-04-21T06:06:28Z",
+        "title": "India should aim to achieve 100% ethanol blending: Nitin Gadkari",
+        "url": "https://www.thehindubusinessline.com/news/india-should-aim-to-achieve-100-ethanol-blending-nitin-gadkari/article70888218.ece",
+        "source": "BusinessLine",
+        "image": "https://bl-i.thgim.com/public/incoming/pgtnm5/article70847065.ece/alternates/LANDSCAPE_1200/PTI04_09_2026_000240B.jpg",
+        "publishedAt": "2026-04-21T11:10:24Z",
         "category": "business",
-        "summary": "Gold (XAU/USD) remains below the $4,800 mark during the early European session on Tuesday, despite being above a one-week low reached previously. The metal is facing intraday losses, influenced by a stronger US dollar. Investor sentiment is cautious regarding a potential agreement between the US and Iran amid ongoing tensions over the Strait of Hormuz.",
-        "wordCount": 55
+        "summary": "Road Transport and Highways Minister Nitin Gadkari emphasized that India should aim for 100% ethanol blending to enhance energy self-reliance. He highlighted the current energy crisis stemming from the West Asia conflict, underscoring the need for the country to reduce dependence on oil imports. Achieving this goal is seen as crucial for ensuring energy security in India.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "Apple names Johny Srouji hardware chief as John Ternus prepares to take over as CEO",
-        "url": "https://www.storyboard18.com/brand-makers/apple-names-johny-srouji-hardware-chief-as-john-ternus-prepares-to-take-over-as-ceo-95766.htm",
-        "source": "Storyboard18",
-        "image": "https://images.storyboard18.com/storyboard18/2026/04/Vis-2026-04-21T115855.507-2026-04-927dbb540c3b988604279cdce33775b3-1019x573.png",
-        "publishedAt": "2026-04-21T06:29:51Z",
+        "title": "gpt-image-2-OpenAI-Artificial intellligence-ChatGPT-AI - Technology",
+        "url": "https://www.etnownews.com/technology/gpt-image-2-line-between-ai-images-and-real-photos-is-about-to-disappear-check-openais-recent-picture-generation-tool-article-154127862",
+        "source": "ET Now",
+        "image": "https://images.etnownews.com/thumb/msid-154127862,updatedat-1776773859440,width-1280,height-720,resizemode-75/154127862.jpg",
+        "publishedAt": "2026-04-21T12:17:39Z",
         "category": "technology",
-        "summary": "Apple has appointed Johny Srouji as chief hardware officer, overseeing the company's hardware division. This change comes as John Ternus prepares to assume the role of chief executive officer later this year. Tim Cook praised Srouji for his influence on Apple's silicon strategy, while Ternus expressed intentions to collaborate closely with Srouji during the leadership transition.",
+        "summary": "OpenAI's upcoming tool, gpt-image-2, aims to transform AI image generation, making it challenging to differentiate between real and AI-created images. This advancement is expected to enhance the quality and realism of generated visuals significantly. Prabhat Shukla, a Senior Copy Editor at ET Now, has over 2.5 years of experience in reporting and holds degrees in Economics and Journalism.",
+        "wordCount": 58
+      },
+      {
+        "title": "5 Docker Best Practices for Faster Builds and Smaller Images",
+        "url": "https://www.kdnuggets.com/5-docker-best-practices-for-faster-builds-and-smaller-images",
+        "source": "KDnuggets",
+        "image": "https://www.kdnuggets.com/wp-content/uploads/bala-docker-smaller-images-faster-builds.png",
+        "publishedAt": "2026-04-21T12:05:16Z",
+        "category": "technology",
+        "summary": "Implementing effective Docker practices can enhance build speed and reduce image size. Key strategies include minimizing the number of layers, using multi-stage builds, optimizing caching, and cleaning up unnecessary files. These methods ensure images remain compact and production-ready, ultimately improving deployment efficiency. By following these best practices, developers can streamline their workflows and enhance overall performance in container management.",
+        "wordCount": 59
+      },
+      {
+        "title": "McDonald's MangoBurst is back for its third year and at this point, it's not a trend - it's a tradition | McDonald's India West & South",
+        "url": "https://hospibuz.com/restaurants-listicles/mcdonalds-mangoburst-is-back-for-its-third-year-and-at-this-point-its-not-a-trend-its-a-tradition-mcdonalds-india-west-south-11749665",
+        "source": "HospiBuz",
+        "image": "https://img-cdn.publive.online/fit-in/1200x675/hospibuz/media/media_files/2026/04/21/mcdonalds-x-westlife-1-2026-04-21-14-42-29.png",
+        "publishedAt": "2026-04-21T11:09:53Z",
+        "category": "technology",
+        "summary": "McDonald's India has reintroduced the MangoBurst McSwirl and McFlurry with Oreo for a limited time, marking its third consecutive year. The MangoBurst McSwirl features a creamy mango dip encased in a delicate shell, offering a satisfying dessert experience with a contrast of smoothness and crunch. This seasonal offering has become a tradition for customers during summer.",
         "wordCount": 56
-      },
-      {
-        "title": "Poco M8s 5G Launched With 7,000mAh Battery, 50-Megapixel Camera: Price, Specifications",
-        "url": "https://www.gadgets360.com/mobiles/news/poco-m8s-5g-price-launch-specifications-features-11386555",
-        "source": "Gadgets 360",
-        "image": "https://i.gadgets360cdn.com/large/poco_m8s_5g_launch_xiaomi_main_1776752745793.png",
-        "publishedAt": "2026-04-21T06:26:05Z",
-        "category": "technology",
-        "summary": "Poco M8s 5G has been launched globally, featuring a 7,000mAh battery and a 50-megapixel camera. This smartphone is part of Poco's budget M lineup and will be available for purchase through Xiaomi's website in select markets. The device aims to offer enhanced performance and features at an affordable price, catering to budget-conscious consumers.",
-        "wordCount": 53
-      },
-      {
-        "title": "Google Drive Desktop 2026: Ransomware Detection & Restore Explained",
-        "url": "https://www.guidingtech.com/google-drive-desktop-2026-ransomware-detection-restore-explained/",
-        "source": "Guiding Tech",
-        "image": "https://www.guidingtech.com/wp-content/uploads/google-drive-ransomware-detection.jpg",
-        "publishedAt": "2026-04-21T06:18:08Z",
-        "category": "technology",
-        "summary": "As of 2026, Google Drive Desktop introduces ransomware detection and file restoration features for subscribers. The ransomware detection actively scans files for encryption and pauses syncing if a threat is identified. Users can restore files to previous versions if they are affected by ransomware. These enhancements aim to improve data security and user confidence in file management on the platform.",
-        "wordCount": 60
       }
     ],
     "sports": [
       {
-        "title": "Cricket Fixing? Chilling Link Between Lawrence Bishnoi Gang And Canada's T20 World Cup Campaign",
-        "url": "https://sports.ndtv.com/cricket/lawrence-bishnoi-gang-linked-to-t20-world-cup-fixing-scandal-how-canada-cricket-was-infiltrated-11386529",
+        "title": "\"He And Ajinkya Rahane Are Fighting For Worst Batter's Tag\": World Cup Winner Kris Srikkanth Shows No Mercy On Two IPL Captains",
+        "url": "https://sports.ndtv.com/ipl-2026/he-and-ajinkya-rahane-are-fighting-for-worst-batters-tag-world-cup-winner-kris-srikkanth-shows-no-mercy-on-two-ipl-captains-11388424",
         "source": "NDTV Sports",
-        "image": "https://c.ndtvimg.com/2026-04/jv1f8b9_lawrence-bishnoi-and-dilpreet-bajwa-ians-getty_625x300_21_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-21T06:19:52Z",
+        "image": "https://c.ndtvimg.com/2026-04/kn1vuk7s_ajinkya-rahane_625x300_17_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+        "publishedAt": "2026-04-21T12:29:54Z",
         "category": "sports",
-        "summary": "The International Cricket Council (ICC) is investigating a fixing scandal linked to Canada’s T20 World Cup campaign. Allegations involve the team’s captain, Dilpreet Bajwa, and connections to the Lawrence Bishnoi gang. Reports indicate potential manipulation of matches during the tournament, raising concerns about the integrity of the sport. The investigation aims to uncover the extent of these allegations.",
-        "wordCount": 58
-      },
-      {
-        "title": "Mumbai Indians Called Out For \"Commercial\" Hardik Pandya Captaincy Call: \"Seniors Didn't Support Him\"",
-        "url": "https://sports.ndtv.com/ipl-2026/mumbai-indians-called-out-for-commercial-hardik-pandya-captaincy-call-seniors-didnt-support-him-11386415",
-        "source": "NDTV Sports",
-        "image": "https://c.ndtvimg.com/2026-04/1kppgkmc_hardik-pandya-bcci_625x300_21_April_26.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
-        "publishedAt": "2026-04-21T05:53:19Z",
-        "category": "sports",
-        "summary": "Hardik Pandya assumed captaincy of Mumbai Indians from Rohit Sharma in 2024, facing significant criticism. The team struggled initially, losing four of their first five matches. However, they achieved a decisive 99-run victory against Gujarat Titans in IPL 2026, alleviating some pressure. Concerns were raised about senior players not supporting Pandya during his challenging start as captain.",
+        "summary": "Krishnamachari Srikkanth has been vocal in his critiques during the IPL 2026 season, targeting players' performances. He specifically criticized Rajasthan Royals captain Sanju Samson and Chennai Super Kings captain Ajinkya Rahane, suggesting they are competing for the title of worst batter. Srikkanth's comments reflect his straightforward approach to analyzing the game and the players' contributions this season.",
         "wordCount": 57
       },
       {
-        "title": "Sanjay Manjrekar plays down hype around Hardik Pandya's captaincy: ‘He was only brilliant because he had Ashish Nehra’",
-        "url": "https://www.hindustantimes.com/cricket/sanjay-manjrekar-plays-down-hype-around-hardik-pandyas-captaincy-he-was-only-brilliant-because-he-had-ashish-nehra-101776733233972.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/21/550x309/PTI04-20-2026-000642B-0_1776733465057_1776733477282.jpg",
-        "publishedAt": "2026-04-21T05:15:40Z",
+        "title": "Marcus Rashford & Frenkie de Jong among FIVE Barcelona stars set to be moved on in summer transfer window",
+        "url": "https://www.goal.com/en/lists/marcus-rashford-and-frenkie-de-jong-among-five-barcelona-stars-set-to-be-moved-on-in-summer-transfer-window/blt6b394fcec816c145",
+        "source": "Goal.com",
+        "image": "https://assets.goal.com/images/v3/getty-2242424941/crop/MM5DIMRSGQ5DEMZXGY5G433XMU5DCOJ2HE2A====/GettyImages-2242424941.jpg",
+        "publishedAt": "2026-04-21T11:57:11Z",
         "category": "sports",
-        "summary": "Sanjay Manjrekar has downplayed the excitement surrounding Hardik Pandya's captaincy, suggesting that his success was largely due to the support of Ashish Nehra. He criticized the Mumbai Indians for appointing Pandya as captain without sufficient experience. In 2024, the team finished last, facing fan backlash, but improved in 2025 by reaching Qualifier 2 in the tournament.",
+        "summary": "Barcelona plans a major squad overhaul this summer, potentially moving on five key players, including Marcus Rashford and Frenkie de Jong. Hansi Flick and the Barcelona board have identified these players as having \"completed a cycle.\" The list reportedly includes high earners and those with expiring contracts, as the club aims to restructure its team for future success.",
+        "wordCount": 58
+      },
+      {
+        "title": "‘Tera Promotion Hua? Commissioner…’: Bumrah Complains DSP Siraj Doesn’t Send Police Vehicle | Watch",
+        "url": "https://www.news18.com/cricket/ipl-tera-promotion-hua-commissioner-bumrah-complains-dsp-siraj-doesnt-send-police-vehicle-watch-ws-l-10048010.html",
+        "source": "News18",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/04/Jasprit-Bumrah-pulls-Mohammed-Sirajs-leg-2026-04-7f6ff031d5ac858c785db09104815949.jpg",
+        "publishedAt": "2026-04-21T11:31:34Z",
+        "category": "sports",
+        "summary": "Tilak Varma scored his first IPL century as the Mumbai Indians defeated the Gujarat Titans by 99 runs in match 30 of IPL 2026. Following the match, Jasprit Bumrah and DSP Siraj engaged in playful banter about biryani and Siraj's role as a Deputy Superintendent of Police. The game showcased strong performances from the Mumbai team.",
         "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Moringa seeds can help remove microplastics from drinking water, says study",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/health-and-fitness/moringa-seeds-can-help-remove-microplastics-from-drinking-water-says-study-article-13894910.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260421060422_ww.jpg",
-        "publishedAt": "2026-04-21T06:07:47Z",
+        "title": "Weight loss drugs: Why experts worry about muscle loss instead of just fat",
+        "url": "https://indianexpress.com/article/lifestyle/health/weight-loss-medications-muscle-loss-risks-metabolic-health-body-composition-10647548/",
+        "source": "The Indian Express",
+        "image": "https://images.indianexpress.com/2026/04/Weight-loss-drugs-muscle.jpg",
+        "publishedAt": "2026-04-21T12:30:06Z",
         "category": "health",
-        "summary": "Scientists in Brazil discovered that moringa seeds can effectively remove microplastics from drinking water. The seeds cause the tiny plastic particles to clump together, facilitating their filtration. This method is cost-effective and utilizes a readily available natural resource, potentially offering a sustainable solution to address microplastic contamination in water sources. Further research may enhance its practical applications.",
-        "wordCount": 57
+        "summary": "Weight loss drugs are increasingly popular, raising concerns about potential muscle loss alongside fat reduction. Experts emphasize the importance of understanding how these medications affect body composition and long-term metabolic health. Factors such as diet, protein intake, and resistance training play crucial roles in preserving muscle mass during weight loss. Consulting health practitioners before starting any regimen is advised.",
+        "wordCount": 59
       },
       {
-        "title": "Personalised vaccine shows lasting promise against deadly pancreatic cancer",
-        "url": "https://www.indiatoday.in/health/story/personalised-mrna-vaccine-shows-promising-results-in-pancreatic-cancer-trial-2899309-2026-04-21",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/front-view-of-cropped-hands-wearing-surgical-gloves-and-holding-an-syringe-and-mrna-vaccine-multidos-21522890-16x9_0.jpg?VersionId=2z3v_wrE2SHYG9j4VwcEWRKUZJ0XX6.j",
-        "publishedAt": "2026-04-21T05:55:52Z",
+        "title": "CARE Hospitals Launches Headache Clinic in Visakhapatnam for Early Diagnosis",
+        "url": "https://www.digitalhealthnews.com/care-hospitals-launches-dedicated-headache-clinic-in-visakhapatnam-for-early-diagnosis-and-structured-care",
+        "source": "Digital Health News",
+        "image": "https://d33xmv9j3wn8v0.cloudfront.net/uploads/2026/04/care-hospitals-launches-feature-1.jpg",
+        "publishedAt": "2026-04-21T12:04:47Z",
         "category": "health",
-        "summary": "A Phase 1 trial of a personalised mRNA vaccine for early-stage pancreatic cancer involved 16 patients post-surgery. Results after six years indicated that nearly all patients who responded to the vaccine remain alive. This promising outcome suggests a potential new approach in treating pancreatic cancer, which is known for its high mortality rate and limited treatment options.",
-        "wordCount": 57
+        "summary": "CARE Hospitals in Visakhapatnam has launched a specialized headache clinic to enhance early diagnosis and evidence-based treatment for chronic and recurrent headache disorders. This initiative addresses the increasing prevalence of headache disorders, which are frequently underdiagnosed and often managed by patients themselves. The clinic aims to provide targeted care and improve overall management of these conditions.",
+        "wordCount": 56
       },
       {
-        "title": "Intermittent Fasting Can Boost Longer Life",
-        "url": "https://english.aawsat.com/varieties/5264775-intermittent-fasting-can-boost-longer-life",
-        "source": "Asharq Al-Awsat | Explore World News Today",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-04/1500802.jpeg.webp",
-        "publishedAt": "2026-04-21T05:53:10Z",
+        "title": "Addressing Discrimination and False Cures in Type 1 Diabetes: What we can learn from HIV Rights-based Response",
+        "url": "https://theleaflet.in/world-health-day-2026/addressing-discrimination-and-false-cures-in-type-1-diabetes-what-we-can-learn-from-hiv-rights-based-response",
+        "source": "The Leaflet",
+        "image": "https://media.assettype.com/theleaflet%2F2026-04-21%2Fajfehjv5%2Fdiabetes.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-04-21T11:55:01Z",
         "category": "health",
-        "summary": "A study in Nature Communications indicates that intermittent fasting may enhance longevity, based on research conducted on small worms. Scientists from the University of Texas Southwestern Medical Center compared normally fed worms to those subjected to a 24-hour fast in early adulthood. They assessed factors like stored fat, gene activity related to fat metabolism, and lifespan outcomes.",
-        "wordCount": 57
+        "summary": "India has a significant number of children with Type 1 diabetes, facing stigma and discrimination. The health ministry's efforts to provide equitable treatment access are lacking. The first Global Summit to End Diabetes Stigma highlighted the potential of applying human rights law to combat discrimination in healthcare, education, and employment, drawing parallels with the HIV/AIDS response for legal reform.",
+        "wordCount": 59
       }
     ],
     "science": [
       {
-        "title": "Neanderthal-Human hybrid theory debunked as suspect skull is reidentified",
-        "url": "https://news.az/news/neanderthal-human-hybrid-theory-debunked-as-suspect-skull-is-reidentified",
-        "source": "Latest news from Azerbaijan",
-        "image": "https://news.az/photos/2026/04/human-skull-bone-from-hahnofersand-l-1776751938.webp",
-        "publishedAt": "2026-04-21T06:17:16Z",
+        "title": "Microbial Survival Under Mars Like Conditions",
+        "url": "https://www.usthadian.com/microbial-survival-under-mars-like-conditions/",
+        "source": "usthadian.com",
+        "image": "https://www.usthadian.com/wp-content/uploads/2026/04/ca-images-29.jpg",
+        "publishedAt": "2026-04-21T11:56:29Z",
         "category": "science",
-        "summary": "A prehistoric skull fragment from Hahnöfersand, Germany, initially believed to be evidence of a Neanderthal-human hybrid, has been reidentified as a standard modern human. Discovered in 1973 and dated to approximately 36,000 years ago, the frontal bone's reclassification challenges previous theories regarding interbreeding between Neanderthals and Homo sapiens, altering the understanding of human evolution.",
-        "wordCount": 54
+        "summary": "Scientists conducted experiments to simulate Mars-like conditions in a laboratory to investigate microbial survival. The study, published in PNAS Nexus, aimed to determine if life could endure extreme environments similar to those found on Mars. Results indicated that certain microbes exhibited resilience, suggesting potential for life in extraterrestrial settings. The findings contribute to understanding life's adaptability in harsh conditions.",
+        "wordCount": 59
       },
       {
-        "title": "Bathtub ring on Mars hints at ancient ocean that covered one-third of Red Planet",
-        "url": "https://www.indiatoday.in/amp/science/story/bathtub-ring-on-mars-hints-at-ancient-ocean-that-covered-one-third-of-red-planet-2899310-2026-04-21",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/mars-ancient-ocean-21434174-16x9_1.jpg?VersionId=kQTYYxBd6G.ibUiRLcxBTOjpiIBIA6zg",
-        "publishedAt": "2026-04-21T05:49:08Z",
+        "title": "Chinese astronomers discover pulsar that should not exist",
+        "url": "https://www.news9live.com/science/chinese-astronomers-discover-pulsar-that-should-not-exist-2961183",
+        "source": "News9live",
+        "image": "https://images.news9live.com/wp-content/uploads/2026/04/Millisecond-Pulsar.jpg",
+        "publishedAt": "2026-04-21T11:05:20Z",
         "category": "science",
-        "summary": "Scientists from the California Institute of Technology have identified a geological feature on Mars, referred to as a \"bathtub ring,\" which suggests the presence of a vast, ancient ocean covering one-third of the planet. This discovery provides strong evidence that Mars once hosted long-lasting liquid water, contributing to the ongoing investigation of its geological history and potential habitability.",
-        "wordCount": 58
-      },
-      {
-        "title": "Bathtub ring on Mars hints at ancient ocean that covered one-third of Red Planet",
-        "url": "https://www.indiatoday.in/science/story/bathtub-ring-on-mars-hints-at-ancient-ocean-that-covered-one-third-of-red-planet-2899310-2026-04-21",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202604/mars-ancient-ocean-21434174-16x9_1.jpg?VersionId=kQTYYxBd6G.ibUiRLcxBTOjpiIBIA6zg",
-        "publishedAt": "2026-04-21T05:49:08Z",
-        "category": "science",
-        "summary": "Scientists from Caltech have identified a geological feature on Mars, termed a \"bathtub ring,\" suggesting the presence of a vast, ancient ocean that may have covered one-third of the planet. This discovery provides significant evidence that Mars once hosted long-lasting liquid water, moving beyond the previous understanding of only lakes and rivers existing on the Red Planet.",
+        "summary": "Chinese astronomers have identified a millisecond pulsar exhibiting an unusually high spin-down rate, strong magnetic field, and significant energy loss. This discovery challenges existing theories, as such a pulsar is not expected to form under conventional astrophysical models. The findings may prompt a reevaluation of current understanding regarding pulsar formation and characteristics in the field of astronomy.",
         "wordCount": 57
+      },
+      {
+        "title": "Two-sun planets keep disappearing: Here’s why scientists point to Einstein",
+        "url": "https://timesofindia.indiatimes.com/science/two-sun-planets-keep-disappearing-heres-why-scientists-point-to-einstein/articleshow/130414760.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130414844,width-1280,height-720,imgsize-2336783,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-21T11:00:00Z",
+        "category": "science",
+        "summary": "Astronomers have confirmed the existence of circumbinary planets, which orbit two suns. However, many of these planets are disappearing, prompting scientists to investigate the phenomenon. They point to Einstein's theories as a potential explanation for the loss of these celestial bodies. The concept of planets with dual suns has intrigued both scientists and the public, often featured in science fiction.",
+        "wordCount": 60
       }
     ],
     "entertainment": [
       {
-        "title": "Is Allu Arjun Moving to Mumbai from Hyderabad? Allu Aravind Reacts",
-        "url": "https://www.123telugu.com/mnews/is-allu-arjun-moving-to-mumbai-from-hyderabad-allu-aravind-reacts-hk.html",
-        "source": "123telugu.com",
-        "image": "https://cdn.123telugu.com/content/wp-content/uploads/2025/03/alluarjun-m.jpg",
-        "publishedAt": "2026-04-21T06:30:00Z",
+        "title": "Ranveer Singh starrer ‘Dhurandhar’ BTS documentary to release as a full feature film in theatres by late 2026 - Reports",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranveer-singh-starrer-dhurandhar-bts-documentary-to-release-as-a-full-feature-film-in-theatres-by-late-2026-reports/articleshow/130417880.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-130417880,width-1280,height-720,imgsize-52218,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-04-21T12:30:00Z",
         "category": "entertainment",
-        "summary": "Rumors have surfaced about Allu Arjun relocating from Hyderabad to Mumbai, with some reports suggesting that Sun Pictures declined to cover flight expenses, influencing this decision. Allu Aravind, Allu Arjun's father, has responded to these speculations, dismissing them as unfounded. The situation has sparked interest within the Telugu cinema community, but official confirmation regarding any move remains unannounced.",
+        "summary": "The making-of documentary for the film 'Dhurandhar,' featuring Ranveer Singh and Arjun Rampal, is set to be released as a full feature film in theaters by late 2026. This follows the success of the 'Dhurandhar' spy-thriller duology, which achieved significant box office records, with the sequel earning ₹1,100 crore domestically.",
+        "wordCount": 50
+      },
+      {
+        "title": "JD Chakravarthy Exposes Power Abuse Against Heroines in TFI",
+        "url": "https://www.m9.news/movienews/jd-chakravarthy-comments-industry-debate/",
+        "source": "M9.news",
+        "image": "https://www.m9.news/wp-content/uploads/2026/04/jd-chakravarthy-sparks-debate.jpg",
+        "publishedAt": "2026-04-21T12:23:38Z",
+        "category": "entertainment",
+        "summary": "Tollywood actor JD Chakravarthy has ignited a significant discussion regarding power abuse and exploitation in the film industry. He recounted a troubling incident from his early career, highlighting the pervasive issue of the casting couch that many actresses encounter. His remarks have prompted renewed scrutiny of the challenges faced by heroines in Tollywood, emphasizing the need for change.",
         "wordCount": 58
       },
       {
-        "title": "Riteish Deshmukh and Genelia Deshmukh's 10-year-old son Rahyl steals spotlight with his debut in ‘Raja Shivaji’ trailer - Watch",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/riteish-deshmukh-and-genelia-deshmukhs-10-year-old-son-rahyl-steals-spotlight-with-his-debut-in-raja-shivaji-trailer-watch/articleshow/130409112.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-130409112,width-1280,height-720,imgsize-30454,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-04-21T06:11:00Z",
+        "title": "Jailer 2: Vasanth Ravi’s presence at the wrap party raises questions",
+        "url": "https://www.123telugu.com/mnews/jailer-2-vasanth-ravis-presence-at-the-wrap-party-raises-questions-prp.html",
+        "source": "123telugu.com",
+        "image": "https://cdn.123telugu.com/content/wp-content/uploads/2026/04/Jailer-2-1.webp",
+        "publishedAt": "2026-04-21T12:22:00Z",
         "category": "entertainment",
-        "summary": "The trailer for 'Raja Shivaji' was launched in Mumbai, marking the debut of Riteish Deshmukh and Genelia Deshmukh's 10-year-old son, Rahyl, as young Shivaji Maharaj. The event was a family affair, featuring Genelia as Saibai, alongside a star-studded cast including Sanjay Dutt and Abhishek Bachchan. Riteish expressed gratitude during this emotional occasion.",
-        "wordCount": 52
-      },
-      {
-        "title": "Ayushmann Khurrana, Sharvari starrer Yeh Prem Mol Liya gets November 27, 2026 theatrical release",
-        "url": "https://www.bollywoodhungama.com/news/bollywood/ayushmann-khurrana-sharvari-starrer-yeh-prem-mol-liya-gets-november-27-2026-theatrical-release/",
-        "source": "Bollywood Hungama",
-        "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/04/Yeh-Prem-Mol-Liya-Release-Date.jpeg",
-        "publishedAt": "2026-04-21T06:09:52Z",
-        "category": "entertainment",
-        "summary": "Filmmaker Sooraj R. Barjatya has announced his upcoming film Yeh Prem Mol Liya, featuring Ayushmann Khurrana and Sharvari. The movie's theatrical release is scheduled for November 27, 2026. Produced by Rajshri Productions, this project marks Barjatya's return to direction. Further details about the film's plot and additional cast members have yet to be revealed.",
-        "wordCount": 54
+        "summary": "A recent photo from the wrap party of Rajinikanth’s Jailer 2 has sparked curiosity among fans due to the presence of Vasanth Ravi. His character was killed in the climax of the first film, leading to speculation about his role in the sequel. The image has generated discussions regarding potential plot developments in the upcoming movie.",
+        "wordCount": 56
       }
     ]
   }
