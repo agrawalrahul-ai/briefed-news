@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-07-09T08:51:40.038Z",
+  "updatedAt": "2026-07-10T07:33:53.749Z",
   "categories": {
     "world": [
       {
-        "title": "NATO summit: Trump declares Islamic Republic of Japan bombed US aircraft carrier",
-        "url": "https://www.indiatoday.in/world/story/donald-trump-nato-summit-gaffe-islamic-republic-of-japan-iran-remark-2943735-2026-07-09",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/donald-trump-080410872-16x9_0.jpg?VersionId=zCmRQ04FOgAlKG4WzDQCwn.HBmxohXh8",
-        "publishedAt": "2026-07-08T19:04:49Z",
+        "title": "US-Iran War: Supreme Leader Ayatollah Ali Khamenei to Be Buried Shortly at Imam Reza Shrine in Mashhad",
+        "url": "https://www.republicworld.com/world-news/us-iran-war-live-kuwait-intercepts-iranian-missiles-and-drones-trump-vows-harsher-retaliation-as-us-iran-trade-strikes-live-news-2026-07-09-131748",
+        "source": "Republic World",
+        "image": "https://img.republicworld.com/all_images/2026/06/us-iran-war-live-strait-of-hormuz-closed-to-all-vessels-says-iran-s-irgc-us-launches-additional-self-defence-strikes-on-iran-1781142394752-1280x720.webp",
+        "publishedAt": "2026-07-09T18:31:49Z",
         "category": "world",
-        "summary": "During a NATO summit, President Donald Trump mistakenly referred to Iran as the \"Islamic Republic of Japan\" while discussing military issues with Volodymyr Zelenskyy. The comment quickly gained attention online as Trump intensified his rhetoric regarding Tehran, renewing military threats. This incident added to Trump's history of verbal gaffes, drawing significant media coverage and public reaction.",
+        "summary": "Ayatollah Ali Khamenei's burial is set to occur at the Imam Reza Shrine in Mashhad, following large funeral processions in Iraq. Concurrently, Israeli airstrikes in Gaza and Lebanon have resulted in at least eight fatalities in Gaza and two in Lebanon. Air raid sirens have been activated in Bahrain, with Kuwait reporting missile and drone attacks.",
         "wordCount": 56
       },
       {
-        "title": "Indian techie kills wife in US four months after marriage, sends dead body's photograph to girlfriend; arrested",
-        "url": "https://www.hindustantimes.com/world-news/us-news/indian-techie-kills-wife-in-us-three-months-after-marriage-sends-dead-bodys-photograph-to-girlfriend-arrested-101783529021855.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/08/550x309/Screenshot_2026-07-08_223903_1783530591554_1783530598922_1e4f4613-842d-474c-a8c5-b4cdb08de71f.png",
-        "publishedAt": "2026-07-08T17:33:08Z",
-        "category": "world",
-        "summary": "Avinash Narne, a 30-year-old Indian engineer in the US, has been arrested for allegedly murdering his wife, Raajitha Sabbineni, 27, four months after their marriage. The incident occurred in June 2025, with Narne reportedly in a relationship with another woman. He allegedly sent a photograph of Sabbineni's body to his girlfriend. Charges of homicide have been filed against him.",
-        "wordCount": 59
-      },
-      {
-        "title": "'On every single one of their list': Trump claims Iran is plotting to assassinate him",
-        "url": "https://timesofindia.indiatimes.com/world/us/on-every-single-of-their-list-trump-claims-iran-is-plotting-to-assassinate-him/articleshow/132268061.cms",
+        "title": "'American jobs ought to go to American workers': JD Vance as US cracks down on H-1B fraud",
+        "url": "https://timesofindia.indiatimes.com/world/us/american-jobs-ought-to-go-to-american-workers-jd-vance-as-us-cracks-down-on-h-1b-fraud/articleshow/132295411.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132268069,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-08T16:26:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-132295611,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-09T17:48:00Z",
         "category": "world",
-        "summary": "US President Donald Trump stated on Wednesday that Iran is plotting to assassinate him, claiming he is \"on every single one of their list.\" He accused Tehran of wanting to target US leadership. Trump's remarks come amid heightened tensions between the US and Iran, reflecting ongoing concerns regarding security and potential threats from the Iranian government.",
-        "wordCount": 56
+        "summary": "US Vice President JD Vance announced a crackdown on alleged H-1B visa fraud, emphasizing that \"American jobs ought to go to American workers and not foreign fraudsters.\" This initiative aims to address misuse of the visa program. Vance's statement reflects a broader effort by the US government to prioritize domestic employment and ensure the integrity of immigration policies.",
+        "wordCount": 58
+      },
+      {
+        "title": "tinted glasses': Russia reacts to US Patriot missile licence for Ukraine",
+        "url": "https://timesofindia.indiatimes.com/defence/international/we-dont-wear-rose-tinted-glasses-russia-reacts-to-us-patriot-missile-licence-for-ukraine/articleshow/132289355.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132289409,width-1280,height-720,imgsize-155023,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-09T16:34:00Z",
+        "category": "world",
+        "summary": "Russia responded to the U.S. granting Ukraine a license to manufacture Patriot missile interceptors, stating it does not hold \"rose-tinted glasses\" regarding the situation. The Kremlin expressed that it is under \"no illusion\" about the implications of this decision. This reaction highlights ongoing tensions between Russia and the U.S. concerning military support for Ukraine amid the conflict.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "Anthropic hits back after China warns of Claude Code ‘backdoor’ risks",
-        "url": "https://www.scmp.com/news/china/article/3359901/anthropic-hits-back-after-china-warns-claude-code-backdoor-risks",
-        "source": "South China Morning Post",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/07/09/2a64e7a6-ec9b-4a59-9fa8-5d0b6636978e_bb4575ce.jpg?itok=Un3kGX7A&v=1783543314",
-        "publishedAt": "2026-07-08T20:41:55Z",
+        "title": "Stocks to Watch Today: TCS, IC Electricals, Anand Rathi Wealth, Dixon Tech, Vikram Solar, Havells, Pace Digitek, Power Grid in focus on 10 July",
+        "url": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-tcs-ic-electricals-anand-rathi-wealth-dixon-tech-vikram-solar-havells-pace-digitek-power-grid-in-focus-on-10-july-13970380.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260320075848_stocks2.jpg",
+        "publishedAt": "2026-07-09T19:29:58Z",
         "category": "business",
-        "summary": "Anthropic, a US AI firm, responded to China's warning about security risks in its Claude Code product, stating that users in China were never authorized to use it. Beijing had advised the uninstallation of Claude Code due to concerns over potential \"backdoor\" vulnerabilities in older versions. Anthropic clarified that the product was not intended for the Chinese market.",
-        "wordCount": 58
-      },
-      {
-        "title": "Forex Today: US Dollar struggles despite hawkish FOMC Minutes",
-        "url": "https://www.fxstreet.com/news/forex-today-us-dollar-struggles-despite-hawkish-fomc-minutes-202607082003",
-        "source": "FXStreet",
-        "image": "https://editorial.fxsstatic.com/images/i/KevinWarshFED4-14526_Medium.png",
-        "publishedAt": "2026-07-08T20:03:06Z",
-        "category": "business",
-        "summary": "The US Dollar Index (DXY) is trading around 101.00 as investors analyze the Federal Open Market Committee (FOMC) Minutes from the June 16-17 meeting, the first under Chair Kevin Warsh. Despite a hawkish tone in the minutes, the dollar struggles to gain traction. Market participants are closely monitoring economic indicators and potential impacts on monetary policy.",
+        "summary": "On July 10, several stocks will be in focus, including Tata Consultancy Services, Anand Rathi Wealth, Muthoot Microfin, Dixon Technologies, Vikram Solar, and Power Grid Corporation of India. Other notable mentions are Havells India, Torrent Pharmaceuticals, Container Corporation of India, GAIL India, Pace Digitek, Unichem Laboratories, Sunteck Realty, and IC Electricals Company, highlighting significant market activity.",
         "wordCount": 56
       },
       {
-        "title": "India’s $100 Billion Grid Bet Is Accelerating A Solar Manufacturing Boom",
-        "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Indias-100-Billion-Grid-Bet-Is-Accelerating-A-Solar-Manufacturing-Boom.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-08_el039tdfgd.jpg",
-        "publishedAt": "2026-07-08T20:00:00Z",
+        "title": "Apple's Mac sales grew while most PC makers saw drops in Q2",
+        "url": "https://www.gsmarena.com/apples_mac_sales_grew_while_most_pc_makers_saw_drops_in_q2-news-73651.php",
+        "source": "GSMArena.com",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/pc-market-q2-idc/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-07-09T16:14:02Z",
         "category": "business",
-        "summary": "India is experiencing a significant solar energy expansion, adding a record 44 GW in 2025/26. This shift marks a departure from its previous reliance on coal for industrialization. The government’s commitment to a $100 billion grid initiative is driving a boom in solar manufacturing, transforming the energy landscape and increasing the country’s capacity for renewable energy production.",
-        "wordCount": 57
+        "summary": "In the second quarter of this year, Apple was the only major computer manufacturer to increase sales, with Mac shipments rising by 10.1% compared to the previous year. This growth contrasts sharply with most other PC makers, which experienced declines in sales. According to IDC research, Apple's performance highlights its unique position in the current computer market landscape.",
+        "wordCount": 58
+      },
+      {
+        "title": "BSNL launches satellite phone priced at ₹1.34 lakh: Who can buy it and what makes it special?",
+        "url": "https://www.hindustantimes.com/india-news/bsnl-launches-satellite-phone-priced-at-1-34-lakh-who-can-buy-it-and-what-makes-it-special-101783611570926.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/09/550x309/photo-1708728428881-888b46603534_1783611875544_1783611897346_a0c1bb15-617f-4d4e-a619-b72fcd9aaa2d.jpg",
+        "publishedAt": "2026-07-09T16:10:12Z",
+        "category": "business",
+        "summary": "Bharat Sanchar Nigam Limited (BSNL) has introduced a satellite phone priced at ₹1.34 lakh, aimed at users in defence, maritime, and disaster response sectors. The device is designed for challenging environments, expanding BSNL's product offerings. The launch highlights BSNL's commitment to providing communication solutions in areas where traditional networks may be unavailable or unreliable.",
+        "wordCount": 54
       }
     ],
     "technology": [
       {
-        "title": "OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5",
-        "url": "https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/",
-        "source": "MarkTechPost",
-        "image": "https://www.marktechpost.com/wp-content/uploads/2026/07/high-level-description-a-chaotic-flat-ve_Yza4Pdu9WJWqVduzJShTGw_eMfPnAQJSpWhghP1c9OwbA-1024x768.png",
-        "publishedAt": "2026-07-08T18:08:21Z",
+        "title": "iQOO 16 may not launch in India due to rising memory prices",
+        "url": "https://www.moneycontrol.com/technology/iqoo-16-may-not-launch-in-india-due-to-rising-memory-prices-article-13970059.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251126112211_5.jpeg",
+        "publishedAt": "2026-07-09T16:14:49Z",
         "category": "technology",
-        "summary": "OpenAI has launched GPT-Live, a new family of full-duplex voice models that can listen and speak simultaneously while delegating deeper reasoning tasks to GPT-5.5. This technology enhances the ChatGPT Voice experience, aiming for more natural, real-time conversations with AI. The initial release includes two versions: GPT-Live-1 and GPT-Live-1 mini, designed for varied applications.",
-        "wordCount": 53
+        "summary": "iQOO 16 may not launch in India due to increasing memory hardware costs. The company is reportedly considering introducing a budget Z-series smartphone instead. The iQOO 16 had generated speculation about its release following its debut in China, but the rising prices of components could impact its availability in the Indian market this year.",
+        "wordCount": 54
       },
       {
-        "title": "Physical media is about to have its biggest boom in years",
-        "url": "https://www.pocket-lint.com/physical-media-about-to-have-a-big-boom/",
+        "title": "I was shocked by how much cheaper it is to buy discs over digital",
+        "url": "https://www.pocket-lint.com/digital-vs-physical-price/",
         "source": "Pocket-lint",
-        "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/07/blu-ray-collection1-cropped-1.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-07-08T16:14:27Z",
+        "image": "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/wm/2026/04/4k-ultra-hd-blu-ray-vs-blu-ray-2.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-07-09T16:06:25Z",
         "category": "technology",
-        "summary": "Sony has announced it will cease production of physical discs for PlayStation consoles starting January 2028. This decision is expected to significantly impact the video game industry, raising concerns about the future of physical media. As digital distribution becomes more prevalent, the shift may inadvertently lead to a resurgence in physical media, challenging the dominance of digital formats.",
-        "wordCount": 58
+        "summary": "A recent analysis highlights that purchasing physical video game discs is often significantly cheaper than buying digital versions. Despite the industry's shift towards digital media, particularly by companies like Sony, the price disparity remains notable. By 2028, Sony plans to cease disc releases for PlayStation, raising concerns about the future affordability of gaming for consumers.",
+        "wordCount": 55
       },
       {
-        "title": "Assassin’s Creed: Black Flag Resynced boasts unique ship combat in an unmatched world",
-        "url": "https://www.thehindu.com/sci-tech/technology/assassins-creed-black-flag-resynced-boasts-unique-ship-combat-in-an-unmatched-world/article71192343.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/news/cities/bangalore/y9rlyl/article71199271.ece/alternates/LANDSCAPE_1200/assets_2026_06_1780499129_ACBFR_Keyart_Cast_16x9_NoTitle.jpg",
-        "publishedAt": "2026-07-08T15:27:10Z",
+        "title": "Nothing Phone 4b RCB Edition Hits OLX at 2x Its Launch Price",
+        "url": "https://telecomtalk.info/nothing-phone-4b-rcb-edition-hits-olx/1009542/",
+        "source": "TelecomTalk",
+        "image": "https://telecomtalk.info/wp-content/uploads/2026/07/nothing-phone-4b-rcb-edition-hits-olx.jpg",
+        "publishedAt": "2026-07-09T14:41:37Z",
         "category": "technology",
-        "summary": "Assassin’s Creed: Black Flag Resynced returns with enhanced visuals and unique ship combat, inviting players to revisit its expansive world. Originally released in 2014, the game aims to compete with upcoming titles like Grand Theft Auto 6. Fans can expect familiar gameplay elements alongside improved graphics, rekindling the excitement of swashbuckling adventures on the high seas.",
-        "wordCount": 56
+        "summary": "The Nothing Phone 4b RCB Edition has been listed on OLX at double its launch price. Co-founder Carl Pei has responded to the listing. The special edition features a new color scheme inspired by the Royal Challengers Bangalore (RCB) but retains the same internal hardware and software as the standard model. This release coincides with Nothing's two-year anniversary.",
+        "wordCount": 58
       }
     ],
     "sports": [
       {
-        "title": "Norway manager reveals Martin Odegaard tactical tweak from Arteta's Arsenal system ahead of England World Cup clash",
-        "url": "https://www.thesun.co.uk/sport/39694009/norway-arsenal-martin-odegaard-tactical-arteta-england-world-cup/",
-        "source": "The Sun",
-        "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/crop-39694269.jpg?quality=90&strip=all&1783539820&w=1920&h=1080&crop=1",
-        "publishedAt": "2026-07-08T18:47:00Z",
+        "title": "India forced into changes for Bristol decider",
+        "url": "https://www.icc-cricket.com/news/india-forced-into-changes-for-bristol-decider",
+        "source": "ICC",
+        "image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/gs6zlqgjpd6nnbg217ml",
+        "publishedAt": "2026-07-09T16:49:14Z",
         "category": "sports",
-        "summary": "Norway manager discussed Martin Odegaard's tactical adjustments influenced by Mikel Arteta's Arsenal system ahead of the World Cup match against England. Odegaard noted a quieter atmosphere in the Arsenal WhatsApp group leading up to the game. He will captain the Norwegian team, continuing his role from the season, as they prepare for the significant clash on Saturday.",
-        "wordCount": 57
+        "summary": "India has made two changes for the final T20I against England in Bristol due to injuries to key bowlers. Fast bowler Harshit Rana and spinner Varun Chakravarthy will miss the remainder of the series. England aims for a historic series win, while India adjusts its lineup in response to these setbacks ahead of the decisive match.",
+        "wordCount": 56
       },
       {
-        "title": "OCI players are foreigners, Indian striker not mandatory, says AIFF",
-        "url": "https://timesofindia.indiatimes.com/city/goa/oci-players-are-foreigners-indian-striker-not-mandatory-says-aiff/articleshow/132271398.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132271394,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-08T18:46:00Z",
+        "title": "Harshit Rana, Varun Chakaravarthy ruled out of final two England T20Is with hamstring injuries",
+        "url": "https://www.cricbuzz.com/cricket-news/139496/harshit-rana-varun-chakaravarthy-ruled-out-of-final-two-england-t20is-with-hamstring-injuries",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1029716/both-players-suffered-hamstring-injuries.jpg",
+        "publishedAt": "2026-07-09T16:31:40Z",
         "category": "sports",
-        "summary": "The All India Football Federation (AIFF) has reversed its earlier decision requiring clubs to include an Indian striker in their starting lineup. The AIFF stated that the choice to field an Indian striker will now be left to the clubs, allowing them more flexibility in selecting their players. This decision marks a significant change in the federation's policy.",
+        "summary": "Harshit Rana and Varun Chakaravarthy have been ruled out of the final two T20Is against England due to hamstring injuries sustained during the third match at Trent Bridge. The Board of Control for Cricket in India (BCCI) confirmed the assessment by their medical team. Washington Sundar and Prasidh Krishna have been named as replacements for the fourth T20I.",
         "wordCount": 58
       },
       {
-        "title": "Bayern Munich star Michael Olise has overcome doubts about his mentality",
-        "url": "https://www.bavarianfootballworks.com/fifa-world-cup/227169/bayern-munich-michael-olise-has-overcome-doubts-about-his-mentality",
-        "source": "Bavarian Football Works",
-        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2284397329.jpg?quality=90&strip=all&crop=0%2C12.869964739823%2C100%2C74.260070520355&w=1200",
-        "publishedAt": "2026-07-08T18:30:00Z",
+        "title": "Muchova saves match point to beat Gauff, reach first Wimbledon final",
+        "url": "https://m.rediff.com/sports/report/muchova-saves-match-point-to-beat-gauff-reach-first-wimbledon-final/20260709.htm",
+        "source": "Rediff",
+        "image": "https://im.rediff.com/1200-630/sports/2026/jul/09muchova2.jpg",
+        "publishedAt": "2026-07-09T15:51:37Z",
         "category": "sports",
-        "summary": "Bayern Munich's Michael Olise has silenced early doubts regarding his mentality and potential. Sky Sports expert Don Goodman praised Olise's development, highlighting that his rise to stardom was not initially guaranteed. Goodman reflected on Olise's past struggles, emphasizing the player's growth and resilience, which have contributed to his current success with Bayern Munich and the French national team.",
-        "wordCount": 58
+        "summary": "Karolina Muchova defeated Coco Gauff in a thrilling Wimbledon semifinal, saving a match point to win 6-2, 1-6, 7-6 (12-10). This victory marks Muchova's first Grand Slam final appearance and keeps alive the possibility of an all-Czech final. Gauff's remarkable tournament run ended with this match, highlighting the competitive nature of the event.",
+        "wordCount": 53
       }
     ],
     "health": [
       {
-        "title": "E coli-produced HPV vaccine effective against cancer-causing strains of HPV",
-        "url": "https://www.cidrap.umn.edu/adult-non-flu-vaccines/e-coli-produced-hpv-vaccine-effective-against-cancer-causing-strains-hpv",
-        "source": "CIDRAP",
-        "image": "https://www.cidrap.umn.edu/themes/custom/cidrap_theme/images/cidrap-og-image.jpg",
-        "publishedAt": "2026-07-08T19:35:00Z",
+        "title": "Global cancer cases projected to reach nearly 35 million by 2050",
+        "url": "https://www.news-medical.net/news/20260709/Global-cancer-cases-projected-to-reach-nearly-35-million-by-2050.aspx",
+        "source": "News-Medical",
+        "image": "https://www.news-medical.net/image-handler/picture/2014/7/174318220-620x480.jpg",
+        "publishedAt": "2026-07-09T19:26:00Z",
         "category": "health",
-        "summary": "A new HPV vaccine produced using E. coli has shown effectiveness against cancer-causing strains of the virus. This vaccine is less expensive than existing options, potentially increasing vaccination rates among women globally. Additionally, a recent study published in Pediatrics confirms that the antiviral drug Paxlovid is safe for children aged 6 and older, combining nirmatrelvir and ritonavir.",
+        "summary": "The World Health Organization (WHO) reports that global cancer cases are projected to reach nearly 35 million by 2050. Currently, cancer claims over 26,000 lives daily, impacting millions physically, emotionally, and financially. The report highlights the growing burden of the disease, emphasizing the urgent need for effective prevention and treatment strategies to address this escalating health crisis.",
         "wordCount": 57
       },
       {
-        "title": "Gleneagles Hospital helps brain cancer patient to recover through indigenous CAR-T cell therapy",
-        "url": "https://www.thehindu.com/news/cities/chennai/gleneagles-hospital-helps-brain-cancer-patient-to-recover-through-indigenous-car-t-cell-therapy/article71197389.ece",
-        "source": "The Hindu",
-        "image": "https://www.thehindu.com/theme/images/og-image.png",
-        "publishedAt": "2026-07-08T19:25:11Z",
+        "title": "Cardiovascular-Kidney-Metabolic Syndrome: What To Know",
+        "url": "https://www.theflowspace.com/physical-health/heart/cardiovascular-kidney-metabolic-syndrome-3037597/",
+        "source": "Flow Space",
+        "image": "https://www.theflowspace.com/wp-content/uploads/2026/07/CKMSyndrome.jpg?w=650",
+        "publishedAt": "2026-07-09T17:40:24Z",
         "category": "health",
-        "summary": "Gleneagles Hospital Chennai has successfully treated a 49-year-old patient diagnosed with a rare and life-threatening form of brain lymphoma using indigenous CAR-T cell therapy. This advanced treatment led to the patient's full recovery. The hospital's clinical team, led by Senior Consultant V. Arun Ramanan, utilized innovative techniques to address the patient's condition effectively, marking a significant medical achievement.",
-        "wordCount": 58
+        "summary": "Cardiovascular-Kidney-Metabolic Syndrome affects midlife women, linking heart health, metabolism, and kidney function. Conditions such as diabetes, obesity, high blood pressure, and chronic kidney disease increase the risk of developing this syndrome. Understanding the interconnections between these organs is crucial for managing health and preventing complications. Awareness and proactive measures can help mitigate risks associated with this syndrome.",
+        "wordCount": 57
       },
       {
-        "title": "Bangladesh measles outbreak worsens with another three dead bringing total tally of confirmed and related deaths to 745",
-        "url": "http://www.uniindia.com/bangladesh-measles-outbreak-worsens-with-another-three-dead-bringing-total-tally-of-confirmed-and-related-deaths-to-745/world/news/3903395.html",
-        "source": "UNITED NEWS OF INDIA",
-        "image": "http://www.uniindia.com/cms/gall_content/LargePhoto//2026/7/2026_7$LargePhoto08_Jul_2026_08072026204209.jpg",
-        "publishedAt": "2026-07-08T17:29:00Z",
+        "title": "Weight-loss drugs are linked to a slew of health benefits - but may not make you happy, study finds",
+        "url": "https://www.yahoo.com/news/science/articles/weight-loss-drugs-linked-slew-171524947.html",
+        "source": "Yahoo",
+        "image": "https://s.yimg.com/lo/mysterio/api/0010aacf2dc5040b02983d029bd93cbad7239b1600720250ae155dbc32c90a85/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_635%2F49eda6be56850d73aefe9ca52a41a0b4",
+        "publishedAt": "2026-07-09T17:15:24Z",
         "category": "health",
-        "summary": "Bangladesh's measles outbreak has intensified, with three additional child fatalities reported in the last 24 hours, bringing the total number of confirmed and suspected measles-related deaths to 745. The situation highlights the ongoing public health crisis as authorities continue to address the rising incidence of measles-like symptoms among the population. Efforts to control the outbreak are ongoing.",
-        "wordCount": 57
+        "summary": "Research from the University of Chicago indicates that weight-loss drugs like Ozempic and Wegovy, while effective for weight reduction and linked to various health benefits, may not necessarily enhance happiness or mental well-being. The study followed thousands of users, revealing that despite physical improvements, the emotional impacts of these medications remain uncertain and warrant further investigation in this emerging field.",
+        "wordCount": 60
       }
     ],
     "science": [
       {
-        "title": "Artemis II astronauts reunite with their moonship 3 months after record-breaking flight",
-        "url": "https://www.moneycontrol.com/world/artemis-ii-astronauts-reunite-with-their-moonship-3-months-after-record-breaking-flight-article-13969389.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260406052145_Artemis-II.jpg",
-        "publishedAt": "2026-07-08T20:10:12Z",
+        "title": "Hummingbirds and pineapples: Why this ancient relationship hits the evolutionary sweetspot",
+        "url": "https://phys.org/news/2026-07-hummingbirds-pineapples-ancient-relationship-evolutionary.html",
+        "source": "Phys.org",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/hummingbird.jpg",
+        "publishedAt": "2026-07-09T19:00:11Z",
         "category": "science",
-        "summary": "The Artemis II astronauts, including three from NASA and one Canadian, reunited with their capsule three months after setting a record for distance traveled during a lunar fly-around, covering 252,756 miles (406,771 kilometers). This mission marked humanity's first trip to the moon in over 50 years, showcasing advancements in space exploration and international collaboration.",
-        "wordCount": 54
-      },
-      {
-        "title": "Artificial cloud brightening could tame El Nino, but with risks: Study",
-        "url": "https://www.newindianexpress.com/world/2026/Jul/08/artificial-cloud-brightening-could-tame-el-nino-but-with-risks-study",
-        "source": "The New Indian Express",
-        "image": "https://cf-images.assettype.com/newindianexpress%2F2025-07-29%2Fq8qe5xis%2FC_1_1_CH1332_111651727.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-07-08T18:51:34Z",
-        "category": "science",
-        "summary": "A study indicates that artificially brightening marine clouds in the Pacific may mitigate the effects of an impending \"Super\" El Niño, which is expected to cause global heat waves, floods, and droughts exacerbated by climate change. Researchers warn, however, that this technology carries potential risks and uncertainties, emphasizing the need for careful consideration before implementation.",
+        "summary": "Bromeliads, a unique plant family, create miniature ecosystems in rainforest canopies by forming tiny ponds in their leaves. These ponds host frogs, insects, microbes, and crustaceans. Bromeliads include air plants and the \"Queen of the Andes,\" a towering species. They also produce pineapples, highlighting the intricate relationships between plants and wildlife in these high-altitude environments.",
         "wordCount": 55
       },
       {
-        "title": "Ancient quasars deepen the mystery of supermassive black hole formation",
-        "url": "https://www.thehindubusinessline.com/news/science/ancient-quasars-deepen-a-major-unsolved-problem-in-astrophysics/article71199690.ece",
-        "source": "BusinessLine",
-        "image": "https://bl-i.thgim.com/public/incoming/mai6ou/article71199696.ece/alternates/LANDSCAPE_1200/2026-07-08T145843Z_685248236_RC2W8MAVM6RC_RTRMADP_3_SPACE-QUASARS.JPG",
-        "publishedAt": "2026-07-08T17:24:18Z",
+        "title": "Birdlike robot swims underwater, then flaps into flight without paddling",
+        "url": "https://techxplore.com/news/2026-07-birdlike-robot-underwater-flight.html",
+        "source": "Tech Xplore",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-flapping-robot-swi.jpg",
+        "publishedAt": "2026-07-09T18:00:12Z",
         "category": "science",
-        "summary": "The Euclid space telescope has identified 31 ancient quasars, including the earliest known, prompting new inquiries into the formation of supermassive black holes following the Big Bang. Quasars, among the universe's most luminous objects, represent supermassive black holes actively consuming matter at galaxy centers. These discoveries challenge existing theories about black hole growth in the early universe.",
-        "wordCount": 57
+        "summary": "Engineers have developed a birdlike robot capable of swimming underwater and transitioning to flight without paddling. Inspired by diving birds such as loons, gulls, puffins, and petrels, the robot mimics their ability to dive for prey and take off into the air. This innovation aims to enhance robotic mobility in both aquatic and aerial environments.",
+        "wordCount": 55
+      },
+      {
+        "title": "Why tissues refuse to move, and how that matters for healing & cancer",
+        "url": "https://timesofindia.indiatimes.com/city/bengaluru/why-tissues-refuse-to-move-and-how-that-matters-for-healing-cancer/articleshow/132294720.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132294719,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-09T17:19:00Z",
+        "category": "science",
+        "summary": "A study from IISc reveals that mechanochemical feedback among neighboring cells contributes to glass-like rigidity in epithelial tissues. This rigidity is crucial for coordinated cell movement during wound healing. Disruption of this coordination can facilitate cancer spread. The findings provide valuable insights into the processes of healing, cancer development, and embryonic tissue balance, highlighting the importance of cellular interactions.",
+        "wordCount": 59
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: Daily astrological predictions for July 9, 2026",
-        "url": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-9-2026/articleshow/132266675.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132266682,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-08T18:30:00Z",
-        "category": "entertainment",
-        "summary": "Daily horoscope predictions for July 9, 2026, are available, detailing astrological events and influences for each of the 12 zodiac signs. An astrologer has analyzed planetary movements and alignments to provide insights into how these factors may affect individuals. Readers can explore specific guidance tailored to their zodiac signs based on the current astrological landscape.",
-        "wordCount": 55
-      },
-      {
-        "title": "Dhamaal 4 Advance Booking: Ajay Devgn's comedy drama sells 8,000 tickets in National Chains, needs better momentum ahead",
-        "url": "https://www.pinkvilla.com/entertainment/box-office/dhamaal-4-advance-booking-ajay-devgns-comedy-drama-sells-8000-tickets-in-national-chains-needs-better-momentum-ahead-1404209",
+        "title": "Cocktail 2 Box Office: Shahid Kapoor, Kriti Sanon, and Rashmika Mandanna starrer adds Rs 4.50 crore in Week 3, nets Rs 84 crore in 21 days",
+        "url": "https://www.pinkvilla.com/entertainment/box-office/cocktail-2-box-office-shahid-kapoor-kriti-sanon-and-rashmika-mandanna-starrer-adds-rs-4-50-crore-in-week-3-nets-rs-84-crore-in-21-days-1404228",
         "source": "Pinkvilla",
-        "image": "https://www.pinkvilla.com/images/2026-07/1361103090_dhamaal-4.webp",
-        "publishedAt": "2026-07-08T18:26:55Z",
+        "image": "https://www.pinkvilla.com/images/2026-07/714802954_cocktail-2-_2_.webp",
+        "publishedAt": "2026-07-09T18:02:24Z",
         "category": "entertainment",
-        "summary": "Ajay Devgn's comedy drama Dhamaal 4, directed by Inder Kumar, has sold approximately 8,000 tickets in national chains since advance bookings opened on Wednesday. The film is set to release this weekend, and while the initial response is considered decent, there is a need for improved momentum in ticket sales as the release date approaches.",
-        "wordCount": 55
+        "summary": "Cocktail 2, featuring Shahid Kapoor, Kriti Sanon, and Rashmika Mandanna, has generated Rs 84 crore in 21 days, adding Rs 4.50 crore in its third week. The film's box office performance has significantly declined, with a 70 percent drop from the previous week. It is projected to conclude its run with a total of Rs 85-86 crore nett in India.",
+        "wordCount": 60
       },
       {
-        "title": "Bombay High Court Orders Removal Of Preity Zinta Deepfake Videos, Directs Meta, Google To Act",
-        "url": "https://lawbeat.in/news-updates/bombay-high-court-orders-removal-of-preity-zinta-deepfake-videos-directs-meta-google-to-act-1610456",
-        "source": "LawBeat",
-        "image": "https://lawbeat.in/h-upload/2026/07/08/2217525-bombay-high-court-preity-zinta-2026jpg.jpg",
-        "publishedAt": "2026-07-08T16:39:01Z",
+        "title": "Akshay Kumar expresses concern as Rajesh Sharma rushed to the hospital after insect bite on the set of Prabhas starrer 'Fauzi', prays for his recovery",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-expresses-concern-as-rajesh-sharma-rushed-to-the-hospital-after-insect-bite-on-the-set-of-prabhas-starrer-fauzi-prays-for-his-recovery/articleshow/132294225.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132294240,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-09T17:00:00Z",
         "category": "entertainment",
-        "summary": "The Bombay High Court ordered Meta, Google, and other platforms to remove AI-generated deepfake videos of actress Preity Zinta. The court found that the unauthorized use of her image violated her personality, publicity, and moral rights. Justice Madhav J. Jamdar noted Zinta established a prima facie case for interim protection against the creation and circulation of such content.",
-        "wordCount": 58
+        "summary": "Actor Akshay Kumar has voiced concern for veteran actor Rajesh Sharma, who was hospitalized after a suspected insect bite while filming Prabhas' movie 'Fauji' at Ramoji Film City in Hyderabad. Kumar expressed his worries on social media, sharing prayers for Sharma's swift recovery. The incident occurred during the shoot, prompting immediate medical attention for the affected actor.",
+        "wordCount": 57
       }
     ]
   }
