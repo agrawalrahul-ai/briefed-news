@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T10:40:34.944Z",
+  "updatedAt": "2026-07-14T10:43:14.870Z",
   "categories": {
     "world": [
       {
@@ -9,7 +9,7 @@
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202607/us-iran-war-131233607-16x9_0.jpg?VersionId=1v2bbMIJ1d7CMBs5E6WGpnbfPTsCTANU",
         "publishedAt": "2026-07-13T20:54:16Z",
         "category": "world",
-        "summary": "The US plans to enforce a maritime blockade on Iran starting Tuesday amid escalating tensions marked by missile and drone strikes. Iran has closed the Strait of Hormuz, while the US maintains it remains open for shipping. Recent attacks have affected multiple Gulf nations, disrupting energy corridors and raising oil prices. Diplomatic efforts are ongoing, but violence continues.",
+        "summary": "The US plans to enforce a maritime blockade on Iran starting Tuesday amid escalating tensions, with missile and drone strikes exchanged between both nations. Iran claims to have closed the Strait of Hormuz, while the US insists it remains open. The conflict has disrupted regional stability, affecting Gulf nations and raising oil prices, complicating diplomatic efforts for peace.",
         "wordCount": 58
       },
       {
@@ -19,8 +19,8 @@
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/donald-trump-130003577-16x9_0.jpg?VersionId=nHPHRkIxvUzcS7rJTwx60cMolYY.PXIt",
         "publishedAt": "2026-07-13T20:01:40Z",
         "category": "world",
-        "summary": "Former Iranian President Mahmoud Ahmadinejad is reportedly under house arrest following allegations of secret contacts with Israeli intelligence aimed at regime change in Iran. The New York Times claims these discussions took place in Hungary and involved a failed extraction plan. The allegations remain unverified, and there has been no official response from Ahmadinejad or Iranian authorities.",
-        "wordCount": 57
+        "summary": "Former Iranian President Mahmoud Ahmadinejad is reportedly under house arrest following allegations of secret contacts with Israeli intelligence regarding a regime-change plot. The New York Times claims these contacts involved meetings in Hungary and an unverified extraction plan. Ahmadinejad, known for his strong anti-Israel stance during his presidency, has not publicly responded to the allegations.",
+        "wordCount": 55
       },
       {
         "title": "Middle East crisis: US to resume naval blockade of Iranian ports, warns vessels of interception",
@@ -29,8 +29,8 @@
         "image": "https://static.toiimg.com/thumb/msid-132375926,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-13T19:32:00Z",
         "category": "world",
-        "summary": "The United States will reinstate a maritime blockade on Iran starting Tuesday, focusing on all vessels entering or leaving Iranian ports and coastal regions. This decision comes amid escalating tensions between Washington and Tehran. The U.S. has warned that vessels violating the blockade may face interception, signaling a significant increase in military presence in the region.",
-        "wordCount": 56
+        "summary": "The United States will reinstate a maritime blockade on Iran starting Tuesday, focusing on all vessels entering or leaving Iranian ports and coastal regions. This decision comes amid escalating tensions between Washington and Tehran. The U.S. has warned that it will intercept any vessels that violate the blockade, reflecting ongoing concerns regarding Iran's maritime activities.",
+        "wordCount": 55
       }
     ],
     "business": [
@@ -41,7 +41,7 @@
         "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
         "publishedAt": "2026-07-13T20:59:00Z",
         "category": "business",
-        "summary": "Satya Nadella has raised concerns regarding the potential risks of AI, particularly focusing on proprietary models sold by major AI labs. He warns that these companies may operate like Trojan horses, posing hidden dangers to those who adopt their technologies. This issue has sparked significant anxiety among AI enthusiasts in Silicon Valley, highlighting the ongoing debate about AI's implications.",
+        "summary": "Satya Nadella has raised concerns about the risks associated with AI, particularly regarding proprietary models sold by major AI labs. He warns that these companies may be acting like Trojan horses, potentially undermining trust and security in the technology. This issue has sparked significant debate among AI enthusiasts in Silicon Valley, highlighting the need for caution in AI deployment.",
         "wordCount": 59
       },
       {
@@ -51,7 +51,7 @@
         "image": "https://editorial.fxsstatic.com/images/i/gold-01_Medium.jpg",
         "publishedAt": "2026-07-13T17:35:07Z",
         "category": "business",
-        "summary": "Gold prices (XAU/USD) fell sharply on Monday, declining nearly 3% following comments from Federal Reserve Governor Christopher Waller. Waller indicated that if the Consumer Price Index (CPI) increases this week, the Fed may need to consider raising interest rates. This warning has heightened concerns about potential monetary policy changes, impacting investor sentiment and driving down gold prices.",
+        "summary": "Gold prices (XAU/USD) fell sharply on Monday, declining nearly 3% following comments from Federal Reserve Governor Christopher Waller. Waller indicated that if the Consumer Price Index (CPI) increases this week, the Federal Reserve may need to consider raising interest rates. This statement heightened concerns about potential monetary policy tightening, leading to the significant drop in gold prices.",
         "wordCount": 57
       },
       {
@@ -61,7 +61,7 @@
         "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260704033422_market_flat.jpg",
         "publishedAt": "2026-07-13T17:31:06Z",
         "category": "business",
-        "summary": "The Nifty 50 must break the 23,800-24,300 range to determine its direction. Sustaining above 24,300 may lead to an uptrend towards 24,400-24,500, while falling below 23,800 could result in consolidation. On July 13, the index rebounded from the 24,000 zone, closing flat with a positive bias, following several positive closes in previous sessions.",
+        "summary": "The Nifty 50 must break the 23,800-24,300 range to determine its direction. Sustaining above 24,300 may lead to an uptrend towards 24,400-24,500, while a drop below 23,800 could result in consolidation. On July 13, the index rebounded from the 24,000 level, closing flat with a positive bias, indicating cautious optimism among market participants.",
         "wordCount": 53
       }
     ],
@@ -73,8 +73,8 @@
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Apple-iOS27.jpg",
         "publishedAt": "2026-07-13T21:23:00Z",
         "category": "technology",
-        "summary": "Apple has released the public beta of iOS 27 for iPhone users, featuring new capabilities like Siri AI and performance enhancements of up to 80%. Users can also customize Liquid Glass. The final version is anticipated to launch in September or October. Siri AI combines elements of ChatGPT and OpenClaw, marking a significant update for the operating system.",
-        "wordCount": 58
+        "summary": "Apple has released the public beta of iOS 27 for iPhone users, featuring significant updates including Siri AI and performance enhancements of up to 80%. Users can also customize Liquid Glass. The final version of iOS 27 is anticipated to launch in September or October. Siri AI combines elements of ChatGPT and OpenClaw, enhancing user interaction.",
+        "wordCount": 56
       },
       {
         "title": "Apple iPhone Ultra and 2026 Foldable Launch Set for September 8",
@@ -83,8 +83,8 @@
         "image": "https://cdn.rswebsols.com/wp-content/uploads/2026/05/iPhone-Fold-Ultra.jpg",
         "publishedAt": "2026-07-13T20:00:00Z",
         "category": "technology",
-        "summary": "Apple is set to reveal the iPhone Ultra on September 8, with indications that a foldable model may launch in 2026. Code found in iOS 27 suggests features for adjusting folding angles, indicating Apple's preparation for this technology. The announcement is anticipated by tech enthusiasts, marking a significant event in Apple's product lineup.",
-        "wordCount": 53
+        "summary": "Apple is set to reveal the iPhone Ultra on September 8, with indications that a foldable variant may launch in 2026. Clues found in the iOS 27 code suggest a feature for adjusting folding angles, indicating Apple's careful preparation for this new technology. The upcoming event is anticipated to generate significant interest among tech enthusiasts.",
+        "wordCount": 55
       },
       {
         "title": "New CrashStealer malware poses as Apple crash reporting tool",
@@ -93,8 +93,8 @@
         "image": "https://www.bleepstatic.com/content/hl-images/2026/07/13/macos.jpg",
         "publishedAt": "2026-07-13T19:04:02Z",
         "category": "technology",
-        "summary": "A new macOS malware named CrashStealer disguises itself as Apple's crash-reporting tool. It targets users by stealing credentials, keychain data, and cryptocurrency wallets. Researchers began monitoring the malware in May, noting its deceptive tactics. The malware's emergence highlights ongoing cybersecurity threats, particularly for macOS users, as attackers increasingly employ sophisticated methods to compromise sensitive information.",
-        "wordCount": 55
+        "summary": "A new macOS malware named CrashStealer disguises itself as Apple's crash-reporting tool. It targets users by stealing credentials, keychain data, and cryptocurrency wallets. Researchers began monitoring CrashStealer in May, noting its deceptive tactics. This malware represents a growing threat to macOS users, highlighting the importance of vigilance against software that may appear legitimate but is designed to compromise security.",
+        "wordCount": 59
       }
     ],
     "sports": [
@@ -105,8 +105,8 @@
         "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/07/gettyimages-2284541614.jpg?quality=90&strip=all&crop=0%2C10.738377373225%2C100%2C78.52324525355&w=1200",
         "publishedAt": "2026-07-13T20:39:04Z",
         "category": "sports",
-        "summary": "Spain, Argentina, England, and France are the last four teams competing in the semi-finals of World Cup 2026. These matches will take place this week, determining which teams will advance to the final. SB Nation is conducting a poll to gauge fan support for the remaining teams, inviting readers to share their current favorites in the tournament.",
-        "wordCount": 57
+        "summary": "Spain, Argentina, England, and France are the last four teams competing in the semi-finals of World Cup 2026. These matches are set to take place this week. SB Nations Reacts is seeking input from fans about which team they are currently supporting as the tournament progresses towards its final stages. Excitement builds as the competition intensifies.",
+        "wordCount": 56
       },
       {
         "title": "FIDE Transforms 2027 World Cup Format",
@@ -115,8 +115,8 @@
         "image": "https://images.chesscomfiles.com/uploads/v1/news/2082723.aadbef83.5000x5000o.fe57163d615e.jpg",
         "publishedAt": "2026-07-13T19:37:00Z",
         "category": "sports",
-        "summary": "FIDE has announced a significant change to the format of the 2027 World Cup and Women's World Cup. Instead of large knockout tournaments featuring 206 and 107 players, the final stage will now consist of only 16 qualifiers competing in a knockout format. This adjustment aims to streamline the competition and enhance the overall tournament experience.",
-        "wordCount": 56
+        "summary": "FIDE has announced a significant change to the format of the 2027 World Cup and Women's World Cup. Instead of large knockout tournaments featuring 206 and 107 players, the final stage will now consist of only 16 qualifiers competing in a knockout format. This new structure aims to streamline the competition and enhance the overall experience for participants.",
+        "wordCount": 58
       },
       {
         "title": "Fleming exit may lead to wider CSK shake-up",
@@ -125,8 +125,8 @@
         "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1034691/a-bottom-placed-finish-for-texas-super-kings-in-the-mlc-may-have-proved-to-be-the-final-straw-for-stephen-fleming.jpg",
         "publishedAt": "2026-07-13T17:33:36Z",
         "category": "sports",
-        "summary": "Chennai Super Kings' long-serving head coach Stephen Fleming has departed, described by the management as a mutual parting of ways. This change may signal further adjustments within the coaching setup. The team is expected to evaluate its structure and personnel, potentially leading to additional modifications in response to performance and strategic goals for the upcoming seasons.",
-        "wordCount": 56
+        "summary": "Chennai Super Kings' long-serving head coach Stephen Fleming has departed in what the management termed a mutual parting of ways. His exit may signal further changes within the CSK coaching setup, suggesting a potential overhaul. The organization is evaluating its structure and strategy following this significant shift, indicating that Fleming's departure could be the precursor to additional adjustments.",
+        "wordCount": 58
       }
     ],
     "health": [
@@ -137,8 +137,8 @@
         "image": "https://www.raps.org/static/a7313e04-155a-4fa4-9d1921f568738b9c/opengraphimage_a162f340e24dc4d08dd7995529c01e82_4a7c7e45a350/APACRoundup440x248.jpg",
         "publishedAt": "2026-07-13T20:01:00Z",
         "category": "health",
-        "summary": "India's National Pharmaceutical Pricing Authority (NPPA) has implemented price cuts for over 30 drugs and biological products, following a revision to the country's drug pricing legislation. This move aims to enhance affordability and accessibility of essential medications for the population. The government's decision reflects ongoing efforts to regulate pharmaceutical pricing in the country, ensuring better healthcare access for citizens.",
-        "wordCount": 59
+        "summary": "India's National Pharmaceutical Pricing Authority (NPPA) has announced price cuts for over 30 drugs and biological products following a revision to the country's drug pricing legislation. This move aims to enhance affordability and accessibility of essential medications for the population. The government emphasizes its commitment to ensuring that critical healthcare products remain within financial reach for citizens.",
+        "wordCount": 57
       },
       {
         "title": "Gujarat govt confirms two more Chandipura deaths, awaits 8 lab reports",
@@ -147,8 +147,8 @@
         "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
         "publishedAt": "2026-07-13T19:32:00Z",
         "category": "health",
-        "summary": "The Gujarat government has confirmed two additional suspected deaths from the Chandipura virus, raising concerns as surveillance efforts increase. Out of 19 samples tested, seven have returned positive results, while eight lab reports are still pending. In response, the state has intensified fogging and sandfly control measures to mitigate the spread of the infection.",
-        "wordCount": 54
+        "summary": "The Gujarat government has confirmed two additional suspected deaths from the Chandipura virus, raising concerns as surveillance efforts increase. Out of 19 samples tested, seven returned positive, with eight lab results still pending. In response, authorities have intensified fogging and sandfly control measures to curb the spread of the virus while continuing to identify potential cases.",
+        "wordCount": 56
       },
       {
         "title": "Two suspected Chandipura deaths in Panchmahal, govt steps up surveillance",
@@ -157,8 +157,8 @@
         "image": "https://static.toiimg.com/thumb/msid-132375865,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-13T19:25:00Z",
         "category": "health",
-        "summary": "Two suspected deaths from the Chandipura virus were reported in Panchmahal district within 24 hours, leading the state government to enhance surveillance and expedite laboratory testing. Health officials are tracking 13 suspected cases as part of their response. The situation has raised concerns, prompting increased monitoring efforts to manage and contain the potential outbreak of the virus.",
-        "wordCount": 57
+        "summary": "Two suspected deaths from the Chandipura virus were reported in Panchmahal district within 24 hours, raising concerns among health officials. In response, the state government has increased surveillance efforts and expedited laboratory testing. Thirteen additional suspected cases are being monitored as authorities work to contain the situation and ensure public health safety in the affected areas.",
+        "wordCount": 56
       }
     ],
     "science": [
@@ -169,8 +169,8 @@
         "image": "https://kubrick.htvapps.com/htv-prod/images/a1a8527f-e360-49de-9d6e-0c3978f21679.jpg?resize=1200%3A*&crop=0.809xw%3A1.00xh%3B0.0962xw%2C0",
         "publishedAt": "2026-07-13T21:15:38Z",
         "category": "science",
-        "summary": "The U.S. has approved an experimental satellite project featuring a large mirror aimed at testing the concept of \"sunlight on demand.\" This satellite will reflect sunlight onto specific areas on Earth. The Federal Communications Commission issued a license for the project, which seeks to explore the feasibility of directing sunlight for various applications, potentially impacting energy and agriculture sectors.",
-        "wordCount": 59
+        "summary": "The U.S. has approved an experimental satellite project featuring a large mirror intended to test the feasibility of \"sunlight on demand.\" This satellite aims to reflect sunlight onto specific areas on Earth. The Federal Communications Commission issued a license for the project, which seeks to explore the potential applications of redirecting sunlight for various uses.",
+        "wordCount": 55
       },
       {
         "title": "Pluto has six confirmed landslides now, and their unusually long runouts are giving scientists a clue about how icy worlds move",
@@ -179,8 +179,8 @@
         "image": "https://static.toiimg.com/thumb/msid-132364269,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-13T20:30:00Z",
         "category": "science",
-        "summary": "Scientists have confirmed six landslides on Pluto, identified through images from NASA's New Horizons spacecraft. The landslides exhibit unusually long runouts, providing insights into the movement of icy worlds. Researchers combined four images from the Long Range Reconnaissance Imager with color data from the Ralph instrument to create an enhanced global view of Pluto, taken during the spacecraft's flyby.",
-        "wordCount": 59
+        "summary": "Scientists have confirmed six landslides on Pluto, identified through images from NASA's New Horizons spacecraft, which flew by the dwarf planet nearly 11 years ago. The enhanced color global view, created using data from the Long Range Reconnaissance Imager and Ralph instrument, reveals unusually long runouts of the landslides, providing insights into the movement of icy worlds.",
+        "wordCount": 57
       },
       {
         "title": "Atlantic expedition captures rare footage of a ghostly barreleye fish with a see-through head",
@@ -189,8 +189,8 @@
         "image": "https://www.thecooldown.com/wp-content/uploads/2026/07/barreleye.jpg",
         "publishedAt": "2026-07-13T19:40:00Z",
         "category": "science",
-        "summary": "Scientists have captured rare footage of a barreleye fish with a transparent dome-like head in the Atlantic Ocean, marking the first time this species has been filmed alive in its natural habitat. This discovery highlights the ongoing mysteries of the ocean, revealing that even in well-studied areas, unique and unusual marine life continues to exist.",
-        "wordCount": 55
+        "summary": "Scientists have captured rare footage of a barreleye fish with a transparent dome-like head in the Atlantic Ocean, marking the first time this species has been filmed alive in its natural habitat. This discovery highlights the ongoing mystery of marine life, revealing that even in well-explored waters, unusual creatures continue to inhabit the depths.",
+        "wordCount": 54
       }
     ],
     "entertainment": [
@@ -201,8 +201,8 @@
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/anupam-kher-131726231-16x9_0.jpg?VersionId=g_6u7cRfoKdfDbFqs6SZxjqa_0oH9mOG",
         "publishedAt": "2026-07-13T18:17:57Z",
         "category": "entertainment",
-        "summary": "Actor Anupam Kher addressed Naseeruddin Shah's resurfaced \"clown\" remark, emphasizing their mutual respect despite past differences. Kher stated that they have met and embraced, maintaining a cordial relationship. He suggested that the revival of the six-year-old video was intended to target him following his recent comments on the Ram Temple, indicating a possible motive behind the resurfacing.",
-        "wordCount": 57
+        "summary": "Actor Anupam Kher responded to Naseeruddin Shah's resurfaced \"clown\" remark, emphasizing their mutual respect despite past differences. Kher stated that they have met and embraced each other. He suggested that the revival of the six-year-old video was intended to target him following his recent comments about the Ram Temple, indicating a deliberate attempt to provoke controversy.",
+        "wordCount": 56
       },
       {
         "title": "Your Horoscope for the New Moon in Cancer",
@@ -211,8 +211,8 @@
         "image": "https://hips.hearstapps.com/hmg-prod/images/9a934d9a-8076-45c7-9eec-433b8c836482.jpg?crop=1xw:0.457xh;0xw,0.091xh&resize=1200:*",
         "publishedAt": "2026-07-13T17:49:02Z",
         "category": "entertainment",
-        "summary": "The New Moon in Cancer encourages self-acceptance and personal growth. It is a period for rejuvenation and manifestation, where individuals can address areas of lack in their lives. This time is ideal for welcoming new experiences, relationships, or possessions. Emphasizing the importance of making space for fresh beginnings, the New Moon invites individuals to embrace their authentic selves.",
-        "wordCount": 58
+        "summary": "The New Moon in Cancer encourages self-acceptance and personal growth. It signifies a period for rejuvenation and manifestation, prompting individuals to address areas of lack in their lives. This phase invites new experiences, relationships, or possessions. Emphasizing the importance of making space for fresh beginnings, it encourages embracing imperfections and taking bold steps towards personal development.",
+        "wordCount": 56
       },
       {
         "title": "Lock Upp 2: After announcing divorce from Gaurav Khanna, Akanksha Chamola opens up about becoming 'Asexual'",
@@ -221,7 +221,7 @@
         "image": "https://static.toiimg.com/thumb/msid-132373070,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-13T17:26:00Z",
         "category": "entertainment",
-        "summary": "Akanksha Chamola announced her separation from husband Gaurav Khanna during the premiere of Lock Upp season 2. In a subsequent episode, she revealed her asexuality. The discussion took place on the show Lock Upp Sach Ya Sazaa, where she shared her personal journey and feelings regarding her identity. This revelation follows her recent divorce announcement.",
+        "summary": "Akanksha Chamola announced her divorce from Gaurav Khanna during the premiere of Lock Upp season 2. In a subsequent episode, she revealed her identification as asexual. The discussion took place in the latest episode of Lock Upp Sach Ya Sazaa, where she shared insights about her personal journey and experiences following her separation from Khanna.",
         "wordCount": 55
       }
     ]
