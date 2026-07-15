@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-07-15T09:15:32.443Z",
+  "updatedAt": "2026-07-15T14:20:49.757Z",
   "categories": {
     "world": [
       {
-        "title": "US resumes Iran naval blockade, launches fourth straight day of strikes over Strait of Hormuz",
-        "url": "https://timesofindia.indiatimes.com/world/us/us-resumes-iran-naval-blockade-launches-fourth-straight-day-of-strikes-over-strait-of-hormuz/articleshow/132401002.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132401013,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-14T21:09:00Z",
+        "title": "China detains US nuclear expert on spying charge, his family says",
+        "url": "https://www.bbc.com/news/articles/cqx1xdn3g4eo",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg",
+        "publishedAt": "2026-07-15T02:14:37Z",
         "category": "world",
-        "summary": "The United States has resumed its naval blockade of Iranian ports and coastal areas, marking the fourth consecutive day of military strikes in the region. Central Command (Centcom) confirmed that American forces restarted the blockade following additional strikes against Iranian military targets. This escalation reflects ongoing tensions between the U.S. and Iran over activities in the Strait of Hormuz.",
-        "wordCount": 59
+        "summary": "China has detained US seismologist Chen Youlin, 54, on espionage charges for nearly two years, according to his family. Chen was arrested in November 2024 while visiting family in Beijing. His family claims he has been wrongfully detained. Advocacy group Global Hostage Advocacy Coalition is involved in raising awareness about his situation and seeking his release.",
+        "wordCount": 56
       },
       {
-        "title": "US eases Russia sanctions bill, cuts tariff threat on India and China from 500% to 100%",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/us-eases-russia-sanctions-bill-cuts-tariff-threat-on-india-and-china-from-500-to-100/articleshow/132400873.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132400877,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-14T20:29:00Z",
+        "title": "Explained: Who really controls the Strait of Hormuz?",
+        "url": "https://www.khaleejtimes.com/world/mena/explained-who-really-controls-the-strait-of-hormuz",
+        "source": "Khaleej Times",
+        "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-04-17/fqzzusyp/2026-04-13T112112Z515242033RC23BKA99PFNRTRMADP3IRAN-CRISIS-HORMUZ-UN.JPG?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=0,0,3500,2333",
+        "publishedAt": "2026-07-15T02:00:00Z",
         "category": "world",
-        "summary": "US senators introduced a revised Russia sanctions bill aimed at pressuring Moscow and its significant energy buyers, including India and China. The updated legislation reduces the proposed tariff threat on these countries from 500% to 100%. This change reflects a strategic adjustment in the US approach to sanctions while maintaining a focus on energy-related transactions with Russia.",
+        "summary": "The Strait of Hormuz, a crucial maritime corridor, has seen a significant decline in traffic due to escalating US-Israel-Iran tensions. Regional countries are exploring alternative trade routes amid concerns over security. The situation remains fluid, with ongoing developments following a 14-point deal signed on June 12, highlighting the complexities of control and access in this strategic waterway.",
         "wordCount": 57
       },
       {
-        "title": "Trump backs bill that could hit India with 500% tariffs over Russian oil trade",
-        "url": "https://www.indiatoday.in/world/story/trump-backs-sacntions-bill-that-could-hit-india-with-500-tariffs-over-russian-oil-trade-2948034-2026-07-14",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/donald-trump-134727999-16x9_1.jpg?VersionId=S..5Rv2YSe08FgpoIB53oxGCEGnzDibV",
-        "publishedAt": "2026-07-14T18:20:13Z",
+        "title": "US reimposes naval blockade as Trump threatens to ramp up strikes on Iran: 'You better make a deal'",
+        "url": "https://www.timesofisrael.com/us-reimposes-naval-blockade-as-trump-threatens-to-ramp-up-strikes-on-iran-you-better-make-a-deal/",
+        "source": "The Times of Israel",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/9799112.jpg",
+        "publishedAt": "2026-07-15T01:18:09Z",
         "category": "world",
-        "summary": "Donald Trump has endorsed a US sanctions bill that may impose tariffs of up to 500% on countries purchasing Russian oil, affecting nations like India and China. During a discussion, he acknowledged the need to evaluate the situation, stating, \"We have to look. That hasn't been discussed yet.\" This development could strain India’s trade relations with the United States.",
-        "wordCount": 59
+        "summary": "US President Donald Trump reinstated a naval blockade on Iranian ports and threatened to target power plants and bridges if Iran does not resume negotiations. He urged Iran to \"get to the table\" while claiming US negotiators communicated with Tehran. This escalation follows overnight attacks attributed to Iran on Jordan, Kuwait, and Bahrain amid a deteriorating ceasefire agreement.",
+        "wordCount": 58
       }
     ],
     "business": [
       {
-        "title": "Based On Tekton Launching Soon",
-        "url": "https://motoroctane.com/upcoming/317676-nissan-7-seater-based-on-tekton-launching-soon-what-to-expect",
-        "source": "MotorOctane",
-        "image": "https://motoroctane.com/wp-content/uploads/2026/07/Nissan-7-Seater-Based-On-Tekton-2.jpg",
-        "publishedAt": "2026-07-14T19:43:30Z",
+        "title": "Tata Elxsi PAT declines 23% QoQ to ₹171 crore in Q1 FY27, revenue jumps 3%; check numbers",
+        "url": "https://upstox.com/news/market-news/earnings/tata-elxsi-s-pat-declines-23-qo-q-to-171-crore-in-q1-fy-27-revenue-jumps-3/article-196920/",
+        "source": "Upstox",
+        "image": "https://assets.upstox.com/content/assets/images/news/tataelxsishareq1fy27.webp",
+        "publishedAt": "2026-07-15T02:09:25Z",
         "category": "business",
-        "summary": "Nissan plans to launch a new 7-seater vehicle based on the Tekton in the Indian market. The company has experienced significant ups and downs, with successes like the Micra, Sunny, and Terrano, contrasted by the failure of the Datsun brand. This upcoming model aims to revitalize Nissan's presence in India, moving forward from previous challenges.",
-        "wordCount": 55
+        "summary": "Tata Elxsi reported a 23% quarter-on-quarter decline in profit after tax (PAT) to ₹171 crore for Q1 FY27, while revenue increased by 14.46% year-on-year to ₹1,021.11 crore. The company attributed its performance to growth in two key verticals, strong deal execution, and ongoing momentum in large strategic engagements, despite the decline in PAT compared to the previous quarter.",
+        "wordCount": 58
       },
       {
-        "title": "Stocks to Watch Today: Ather Energy, Belrise Industries, PDS, Kirloskar Brothers, Kusumgar, IOL Chemicals, Delhivery, L&T Technology in focus on 15 July",
-        "url": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-ather-energy-belrise-industries-pds-kirloskar-brothers-kusumgar-iol-chemicals-delhivery-l-t-technology-in-focus-on-15-july-13974005.html",
+        "title": "India's food-delivery billionaire eyes health tech, aerospace",
+        "url": "https://www.moneycontrol.com/news/business/zomato-founder-deepinder-goyal-eyes-health-tech-aerospace-13974083.html",
         "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/01/20260103025340_stock1.jpg",
-        "publishedAt": "2026-07-14T19:21:46Z",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260629042544_qq.jpg",
+        "publishedAt": "2026-07-15T01:30:42Z",
         "category": "business",
-        "summary": "On July 15, 2026, several stocks will be in focus, including L&T Technology Services, Tata Elxsi, Anand Rathi Share and Stock Brokers, Ather Energy, Belrise Industries, PDS, Kirloskar Brothers, Easy Trip Planners, and IOL Chemicals and Pharmaceuticals. Investors are advised to monitor these companies for potential developments, including investments, deals, earnings, and acquisitions impacting their performance.",
-        "wordCount": 56
+        "summary": "Deepinder Goyal, former CEO of a major food delivery company in India, is venturing into health technology and aerospace. He plans to launch a device called Temple, which measures the body’s metabolic state in real time, within six months. Additionally, Goyal has invested $20 million in LAT Aerospace, marking his first significant investment after leaving his previous role.",
+        "wordCount": 58
       },
       {
-        "title": "Maharashtra FDA suspends licences of 3 Mumbai restaurants over hygiene lapses",
-        "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-fda-suspends-shalimar-noor-mohammadi-rahmania-hygiene-lapses-2948031-2026-07-14",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/noor-mohammadi-hotel-140301662-16x9_0.png?VersionId=S3yKEaE1IwgBa57VWAoffHVJJQ8vMlhf",
-        "publishedAt": "2026-07-14T18:10:48Z",
+        "title": "Fairfax to acquire IDBI Bank stake in $5.5 billion deal, biggest foreign investment in Indian bank",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fairfax-to-acquire-idbi-bank-stake-in-5-5-billion-deal-biggest-foreign-investment-in-indian-bank/articleshow/132400419.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-132400462,width-1200,height-630,imgsize-57454,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-15T00:00:00Z",
         "category": "business",
-        "summary": "The Maharashtra Food and Drug Administration (FDA) has suspended the licenses of three Mumbai restaurants due to hygiene violations. This action follows the recent closure of K Rustom ice cream parlour, which was found to have rats, flies, and expired flavoring agents during an inspection. The FDA continues to enforce food safety regulations in the region.",
-        "wordCount": 56
+        "summary": "Fairfax Holdings plans to acquire a significant stake in IDBI Bank for $5.5 billion, marking the largest foreign investment in an Indian bank. The deal involves collaboration with the government and LIC, expected to generate approximately 53,000 crore rupees from their combined stakes. This investment sets a new record for foreign capital influx into the Indian banking sector.",
+        "wordCount": 58
       }
     ],
     "technology": [
       {
-        "title": "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
-        "url": "https://www.theregister.com/security/2026/07/14/patchpocalypse-now-microsoft-tops-last-months-record-with-622-patch-tuesday-cves/5271434",
-        "source": "The Register",
-        "image": "https://image.theregister.com/5271456.jpg?imageId=5271456&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-        "publishedAt": "2026-07-14T20:49:40Z",
+        "title": "iPhone 18 Pro: Apple's next smartphone to debut in September; check leaked price, design, battery, camera upgrades and more",
+        "url": "https://www.etnownews.com/technology/iphone-18-pro-apples-next-smartphone-to-debut-in-september-check-leaked-price-design-battery-camera-upgrades-and-more-article-155101269",
+        "source": "ET Now",
+        "image": "https://images.etnownews.com/thumb/msid-155101269,updatedat-1784082018221,width-1280,height-720,resizemode-75/155101269.jpg",
+        "publishedAt": "2026-07-15T01:12:54Z",
         "category": "technology",
-        "summary": "Microsoft's recent Patch Tuesday surpassed last month's record by addressing 622 Common Vulnerabilities and Exposures (CVEs), a significant increase from the previous month's 206 CVEs. This surge highlights the growing number of security issues within Microsoft products, prompting the company to implement extensive patches to enhance system security and protect users from potential threats.",
-        "wordCount": 54
+        "summary": "Apple's iPhone 18 Pro is expected to debut in September, with leaked information suggesting various upgrades in design, battery, and camera features. Although Apple has not officially confirmed any specifications, early details indicate significant enhancements. The anticipation surrounding the new smartphone continues to grow as more information emerges from unofficial sources ahead of the anticipated launch.",
+        "wordCount": 56
       },
       {
-        "title": "Spotify brings chatbot-powered music discovery",
-        "url": "https://t2online.in/tech/tech-news/spotify-brings-chatbot-powered-music-discovery/2006500",
-        "source": "t2ONLINE",
-        "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/7618/1784051155513.jpg",
-        "publishedAt": "2026-07-14T17:43:00Z",
+        "title": "A forgotten immune organ in your chest may predict how long you live, with AI scans linking healthier thymuses to lower death, heart disease and cancer risks",
+        "url": "https://timesofindia.indiatimes.com/science/a-forgotten-immune-organ-in-your-chest-may-predict-how-long-you-live-with-ai-scans-linking-healthier-thymuses-to-lower-death-heart-disease-and-cancer-risks/articleshow/132391486.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132391532,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-14T23:30:00Z",
         "category": "technology",
-        "summary": "Spotify has introduced a new feature called Talk to Spotify, allowing Premium subscribers to engage with the platform using natural language conversations. This chatbot-powered music discovery tool leverages artificial intelligence to enhance user interaction, enabling personalized music recommendations and a more intuitive experience. The feature is currently in beta, aimed at improving how users explore and enjoy music.",
-        "wordCount": 58
+        "summary": "Researchers have found that the thymus, an often-overlooked immune organ, may play a significant role in predicting lifespan. AI scans indicate that a healthier thymus is associated with reduced risks of death, heart disease, and cancer. This discovery challenges previous beliefs about the thymus's function after childhood, suggesting it may have lasting impacts on overall health.",
+        "wordCount": 56
       },
       {
-        "title": "PlayStation's Social Feeds Are Still on Fire",
-        "url": "https://www.gadgetreview.com/playstations-social-feeds-are-still-on-fire-and-sony-isnt-answering",
-        "source": "Gadget Review",
-        "image": "https://www.gadgetreview.com/wp-content/uploads/Depositphotos_667762086_S.jpg",
-        "publishedAt": "2026-07-14T17:23:22Z",
+        "title": "Samsung details the secrets of foldable screen Flex Titanium tech",
+        "url": "https://www.androidauthority.com/samsung-flex-titanium-3687554/",
+        "source": "Android Authority",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-Fold-7-tent-mode-on-table-hero-image-scaled.jpg",
+        "publishedAt": "2026-07-14T23:00:00Z",
         "category": "technology",
-        "summary": "Sony's decision to discontinue physical disc production for PlayStation has sparked significant backlash on social media, with users expressing frustration over the move. Analysts suggest that the company's focus on digital profits makes a reversal of this decision unlikely. Developers utilizing PlayStation's promotional channels are facing challenges as their work is overshadowed by the ongoing disc-related complaints.",
-        "wordCount": 57
+        "summary": "Samsung has revealed its Flex Titanium technology, aimed at producing creaseless displays for upcoming foldable phones, including the Fold 8 and Flip 8. This innovation is expected to enhance the user experience by minimizing visible creases. The company is set to launch these devices soon, with anticipation surrounding their advanced display capabilities and overall design improvements.",
+        "wordCount": 56
       }
     ],
     "sports": [
       {
-        "title": "France vs Spain, FIFA World Cup semifinal LIVE: Porro scores as Spain goes 2-0 up",
-        "url": "https://www.thehindu.com/sport/football/france-vs-spain-fifa-world-cup-2026-semifinal-live-updates/article71222795.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/3ajhok/article71222979.ece/alternates/LANDSCAPE_1200/2286107459.jpg",
-        "publishedAt": "2026-07-14T19:37:04Z",
+        "title": "Road to South Africa up and running: Washington Sundar, Axar Patel deliver with bat and ball at Edgbaston",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/road-to-south-africa-up-and-running-washington-sundar-axar-patel-deliver-with-bat-and-ball-at-edgbaston/articleshow/132403791.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132403949,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-15T01:57:00Z",
         "category": "sports",
-        "summary": "Spain is currently leading France 2-0 in the FIFA World Cup semifinal at AT&T Stadium in Arlington on July 14, 2026. Porro scored one of the goals for Spain. France made tactical changes by recalling Bradley Barcola to the attack and Aurelien Tchouameni in midfield. The match is part of the ongoing World Cup tournament.",
+        "summary": "In the first ODI against England at Edgbaston, all-rounders Axar Patel and Washington Sundar played crucial roles, helping Team India achieve a 259-run target. The duo added an unbeaten 102 runs for the fifth wicket, showcasing their batting skills. Their performance contributed significantly to India's success in the match, marking a strong start in the series.",
+        "wordCount": 56
+      },
+      {
+        "title": "FIFA World Cup 2026 stats: Yamal 6 - 0 Mbappé; Spain, Simón set WC record with 6; France's 0.3 worst in 60 years",
+        "url": "https://www.espn.in/football/story/_/id/49363150/fifa-world-cup-2026-stats-lamine-yamal-6-0-kylian-mbappe-spain-unai-simon-set-wc-record-6-france-worst-60-years",
+        "source": "espn.in",
+        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689382_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-07-15T01:30:00Z",
+        "category": "sports",
+        "summary": "In the 2026 FIFA World Cup semifinals, Spain defeated France 2-0, with goals from Mikel Oyarzabal and Pedro Porro, securing a place in the final. This match highlighted notable statistics, including Yamal's 6-0 performance against Mbappé and Spain's record-setting six goals. France recorded its worst performance in 60 years, with a goal-scoring average of 0.3.",
         "wordCount": 55
       },
       {
-        "title": "Tottenham demand €50m for Romero, too expensive for Inter",
-        "url": "https://football-italia.net/tottenham-50m-romero-too-expensive-for-inter/",
-        "source": "Football Italia",
-        "image": "https://icdn.football-italia.net/wp-content/uploads/2026/07/Cristian-Romero-fed-up.jpg",
-        "publishedAt": "2026-07-14T19:08:12Z",
-        "category": "sports",
-        "summary": "Tottenham Hotspur are asking for €50 million to sell defender Cristian Romero, according to Sportitalia. This high price makes it unlikely that Inter Milan will secure his signature, especially as Barcelona is also interested in the player. The situation suggests that Inter may not be able to compete financially for Romero amid the ongoing transfer discussions.",
-        "wordCount": 56
-      },
-      {
-        "title": "Shubman Gill's 80, Axar-Washington stand give India 1-0 lead over England in ODI series",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/shubman-gills-80-axar-washington-stand-give-india-1-0-lead-over-england-in-odi-series/articleshow/132399254.cms",
+        "title": "Shubman Gill's India ends England's 12-year home stronghold at Edgbaston with six-wicket win",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/shubman-gills-india-ends-englands-12-year-home-stronghold-at-edgbaston-with-six-wicket-win/articleshow/132403623.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132399454,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-14T18:26:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-132403671,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-15T01:12:00Z",
         "category": "sports",
-        "summary": "Shubman Gill scored 80 runs as India secured a six-wicket victory over England in the first ODI at Edgbaston on Tuesday. This win gives India a 1-0 lead in the three-match series. Gill's performance continued his strong record at the venue, contributing significantly to India's successful chase. The match showcased India's batting strength and strategic gameplay.",
-        "wordCount": 56
+        "summary": "India ended England's 12-year unbeaten streak in Men's ODIs at Edgbaston, securing a six-wicket victory in the first ODI. This win marks a significant achievement for India, who entered the series following a disappointing performance. The match concluded with India successfully chasing down the target, highlighting their strong performance against the historically dominant England team at home.",
+        "wordCount": 57
       }
     ],
     "health": [
       {
-        "title": "IMA issues diectives on Chandipura virus in Gujarat",
-        "url": "https://timesofindia.indiatimes.com/city/ahmedabad/ima-issues-diectives-on-chandipura-virus-in-gujarat/articleshow/132400162.cms",
+        "title": "Trial of potential Ebola antiviral under way: WHO",
+        "url": "https://pharma.economictimes.indiatimes.com/news/research-and-development/trial-of-potential-ebola-antiviral-under-way-who/132403874",
+        "source": "ETPharma.com",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-132403874,imgsize-91082,width-1200,height=627,overlay-etpharma,resizemode-75/news/research-and-development/trial-of-potential-ebola-antiviral-under-way-who.jpg",
+        "publishedAt": "2026-07-15T02:02:45Z",
+        "category": "health",
+        "summary": "The World Health Organization has initiated the EBO-PEP trial to evaluate the antiviral obeldesivir's effectiveness as post-exposure prophylaxis for individuals who have come into contact with confirmed Bundibugyo Ebola cases. This clinical trial marks the first effort to test an antiviral drug's efficacy against the Ebola strain currently spreading in the Democratic Republic of Congo.",
+        "wordCount": 55
+      },
+      {
+        "title": "Over 700 dead in Ebola outbreak in DR Congo: First-ever human trial of Bundibugyo Ebola vaccine - when will it be ready?",
+        "url": "https://timesofindia.indiatimes.com/etimes/wellness/over-700-dead-in-ebola-outbreak-in-dr-congo-first-ever-human-trial-of-bundibugyo-ebola-vaccine-when-will-it-be-ready/articleshow/132403515.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132400161,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-14T18:50:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-132403618,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-15T01:00:00Z",
         "category": "health",
-        "summary": "The Gujarat State Branch of the Indian Medical Association (GSB-IMA) has issued an advisory regarding the Chandipura virus, urging pediatricians to assess children's medical histories and symptoms such as high fever and convulsions, following three reported deaths. The medical body emphasized the importance of strict preventive measures to curb the spread of this dangerous sandfly-borne virus.",
-        "wordCount": 56
-      },
-      {
-        "title": "3 children dead, 4 on life support as Chandipura virus outbreak hits Gujarat",
-        "url": "https://www.indiatoday.in/india/story/chandipura-virus-gujarat-32-suspected-cases-3-deaths-children-under-10-2948024-2026-07-14",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/three-children-have-died-so-far-in-gujarat-due-to-the-chandipura-virus-outbreak-140939521-16x9_0.png?VersionId=Wd5PYCoCgyNlhm5UJbD2c07UX1rZeGs0",
-        "publishedAt": "2026-07-14T18:15:54Z",
-        "category": "health",
-        "summary": "Gujarat has reported 32 suspected cases of the Chandipura virus since July 1, with seven confirmed infections among children. Three children have died, and four others are on life support. The outbreak has prompted the health department to enhance surveillance, treatment, and sandfly-control measures in response to the rising number of cases and fatalities.",
-        "wordCount": 54
-      },
-      {
-        "title": "FDA's Traceback Endeavor: Tackling Cyclosporiasis Outbreak",
-        "url": "https://www.devdiscourse.com/article/health/3950316-fdas-traceback-endeavor-tackling-cyclosporiasis-outbreak",
-        "source": "Devdiscourse",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_00_38_2827682.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-07-14T17:55:19Z",
-        "category": "health",
-        "summary": "The U.S. Food and Drug Administration (FDA) is investigating several produce items to determine the source of a cyclosporiasis outbreak. This intestinal infection is typically contracted through contaminated raw fruits and vegetables. The Centers for Disease Control and Prevention highlights the risks associated with consuming contaminated produce, prompting the FDA's traceback efforts to ensure food safety.",
-        "wordCount": 56
+        "summary": "More than 700 people have died in the ongoing Ebola outbreak in the Democratic Republic of the Congo, marking the worst outbreak in the country's history. Health officials have reported over 1,900 cases linked to the Bundibugyo strain of the virus. A human trial for a Bundibugyo Ebola vaccine is underway, but its availability timeline remains uncertain.",
+        "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "Scientists use sound waves to create protective crystal coatings on crops",
-        "url": "https://www.thebrighterside.news/post/scientists-use-sound-waves-to-create-protective-crystal-coatings-on-crops/",
-        "source": "The Brighter Side of News",
-        "image": "https://www.thebrighterside.news/uploads/2026/05/sn-1.jpg?auto=webp",
-        "publishedAt": "2026-07-14T20:07:00Z",
+        "title": "Right Turn: These ancient creatures were righties before hands evolved",
+        "url": "https://www.dtnext.in/edit/right-turn-these-ancient-creatures-were-righties-before-hands-evolved",
+        "source": "DT Next",
+        "image": "https://media.assettype.com/dt-next%2F2026-07-14%2Fivqxihcr%2Fright.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-07-15T01:30:00Z",
         "category": "science",
-        "summary": "Researchers at RMIT University have created a novel coating method using high-frequency sound waves to spray protective crystal films onto plant leaves. This innovative technique generates a fine mist that forms durable layers on delicate surfaces, enhancing crop protection. The method aims to improve agricultural practices by providing a safe and effective way to shield plants from environmental threats.",
-        "wordCount": 59
+        "summary": "Palaeontologists studied fossils of Spriggina, a thumb-sized, worm-like organism from the Ediacaran period, approximately 550 million years ago. Published in Scientific Reports, the research revealed that these ancient creatures exhibited a preference for right-sided movement, suggesting they were \"righties\" before the evolution of hands. This finding provides insights into the locomotion and behavior of early life forms.",
+        "wordCount": 57
       },
       {
-        "title": "Earliest galaxies were well organised less than a billion years after Big Bang, reveals IUCAA study",
-        "url": "https://timesofindia.indiatimes.com/city/pune/earliest-galaxies-were-well-organised-less-than-a-billion-years-after-big-bang-reveals-iucaa-study/articleshow/132400152.cms",
+        "title": "A forgotten immune organ in your chest may predict how long you live, with AI scans linking healthier thymuses to lower death, heart disease and cancer risks",
+        "url": "https://timesofindia.indiatimes.com/science/a-forgotten-immune-organ-in-your-chest-may-predict-how-long-you-live-with-ai-scans-linking-healthier-thymuses-to-lower-death-heart-disease-and-cancer-risks/articleshow/132391486.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132400151,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-14T18:48:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-132391532,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-14T23:30:00Z",
         "category": "science",
-        "summary": "A study by IUCAA utilizing the James Webb Space Telescope (JWST) has discovered spheroidal galaxies formed 400 to 900 million years after the Big Bang. These galaxies exhibit the Kormendy relation, indicating a level of organization previously thought to develop later in cosmic history. This finding suggests that early galaxies were more structured than previously understood.",
-        "wordCount": 56
+        "summary": "Researchers have found that the thymus, an often-overlooked immune organ, may play a significant role in predicting lifespan. AI scans indicate that a healthier thymus correlates with reduced risks of death, heart disease, and cancer. This discovery challenges previous beliefs about the thymus's function after childhood, suggesting it may have lasting impacts on overall health and longevity.",
+        "wordCount": 57
       },
       {
-        "title": "A new fabrication technique for the ultra-clean manufacturing of 2D heterostructures",
-        "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=69792.php",
-        "source": "Nanowerk",
-        "image": "https://www.nanowerk.com/nanotechnology-news3/id69792.jpg",
-        "publishedAt": "2026-07-14T18:13:02Z",
+        "title": "67-million-year-old T. rex fossil 'Gus' sold for record $50.1 million at Sotheby's auction, becomes world's most expensive dinosaur fossil",
+        "url": "https://timesofindia.indiatimes.com/science/67-million-year-old-t-rex-fossil-gus-sold-for-record-50-1-million-at-sothebys-auction-becomes-worlds-most-expensive-dinosaur-fossil/articleshow/132401242.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132401251,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-14T22:19:00Z",
         "category": "science",
-        "summary": "Researchers have introduced a novel fabrication technique for the ultra-clean manufacturing of 2D heterostructures. This method is anticipated to facilitate the development of next-generation devices, which could significantly advance research in quantum computing. The innovation aims to enhance the quality and performance of materials used in quantum technologies, potentially leading to breakthroughs in the field.",
-        "wordCount": 55
+        "summary": "A 67-million-year-old Tyrannosaurus rex fossil, nicknamed \"Gus,\" was sold for a record $50.1 million at a Sotheby's auction in New York. This sale marks Gus as the most expensive dinosaur fossil ever sold. The auction highlights the increasing interest and value in paleontological artifacts, reflecting both scientific significance and collector demand in the market.",
+        "wordCount": 54
       }
     ],
     "entertainment": [
       {
-        "title": "Aamir Khan faces fatwa after marrying Gauri Spratt; cleric objects to interfaith marriage: 'Gair Muslim se shaadi karna haraam hai'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/aamir-khan-faces-fatwa-after-marrying-gauri-spratt-cleric-objects-to-interfaith-marriage-gair-muslim-se-shaadi-karna-haraam-hai/articleshow/132400571.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132400693,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-14T19:37:00Z",
+        "title": "Ahn Bo Hyun And Jung Eun Chae Join Hands To Eradicate Crime In New Drama \"Flex X Cop 2\" Poster",
+        "url": "https://www.soompi.com/article/1854758wpp/ahn-bo-hyun-and-jung-eun-chae-join-hands-to-eradicate-crime-in-new-drama-flex-x-cop-2-poster",
+        "source": "Soompi",
+        "image": "https://0.soompi.io/wp-content/uploads/2026/07/14184604/flex-x-cop-2_6eb762.jpeg",
+        "publishedAt": "2026-07-15T01:55:18Z",
         "category": "entertainment",
-        "summary": "Aamir Khan is facing backlash following his marriage to Gauri Spratt, with a Muslim cleric objecting to their interfaith union. The cleric stated that marrying outside the faith is impermissible according to his interpretation of Islamic law. This controversy arises shortly after the couple's wedding, drawing attention to the challenges of interfaith relationships within certain religious communities.",
-        "wordCount": 57
+        "summary": "SBS has unveiled new posters for its upcoming Friday-Saturday drama \"Flex x Cop 2.\" Ahn Bo Hyun returns as Jin Yi Soo, a third-generation chaebol heir who leverages his wealth and connections in crime-fighting. Jung Eun Chae also stars, joining him in the effort to combat crime. The drama promises action and intrigue in its storyline.",
+        "wordCount": 56
       },
       {
-        "title": "Ayodhya priest's remark sparks uproar",
-        "url": "https://www.siasat.com/rs-5-crore-for-killing-aamir-khan-ayodhya-priests-remark-sparks-uproar-3507123/",
-        "source": "The Siasat Daily",
-        "image": "https://cdn.siasat.com/wp-content/uploads/2026/07/aamir-1-1.jpg",
-        "publishedAt": "2026-07-14T19:24:03Z",
+        "title": "Pregnant Samantha Ruth Prabhu says she has been waiting for this moment: ‘Always wanted to be a mother’",
+        "url": "https://www.hindustantimes.com/entertainment/telugu-cinema/pregnant-samantha-ruth-prabhu-says-she-has-been-waiting-for-motherhood-raj-nidimoru-101784027969547.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/14/550x309/Samantha_Ruth_Prabhu_bump_1784027944805_1784027963547_dbab5d42-4739-4142-ac47-362be9f43638.jpg",
+        "publishedAt": "2026-07-15T01:36:47Z",
         "category": "entertainment",
-        "summary": "A religious leader has offered a Rs 5 crore reward for the killing of actor Aamir Khan, following ongoing backlash related to his marriage to Gauri Spratt. The situation has escalated, with protests, effigy burnings, and allegations of \"love jihad\" from members of the Bajrang Dal. Khan has faced increasing hostility since the announcement of their marriage.",
-        "wordCount": 57
+        "summary": "Actor Samantha Ruth Prabhu announced she is expecting her first child with filmmaker Raj Nidimoru. The couple, married in December 2025, shared their pregnancy news in June. In a recent interview, Prabhu expressed her excitement about becoming a mother, stating she has always wanted to experience motherhood. The couple looks forward to this new chapter in their lives.",
+        "wordCount": 58
       },
       {
-        "title": "Horoscope Today: Daily astrological predictions for July 15, 2026",
-        "url": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-15-2026/articleshow/132370927.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132370908,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-14T18:30:00Z",
+        "title": "Christopher Nolan's The Odyssey is courting controversy. Here are 4 reasons why",
+        "url": "https://www.indiatoday.in/movies/hollywood/story/christopher-nolan-the-odyssey-controversy-4-reasons-why-2947657-2026-07-15",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/matt-damon-in-christopher-nolans-the-odyssey-144010786-16x9_0.png?VersionId=GKgqAK914ER5wS2MZI7xn3pXZ7RbBDmH",
+        "publishedAt": "2026-07-15T01:30:00Z",
         "category": "entertainment",
-        "summary": "Horoscope predictions for July 15, 2026, provide insights into the astrological influences affecting each of the 12 zodiac signs. The analysis includes the movements of planets and their alignments, offering guidance for individuals based on their signs. Readers can explore how these celestial events may impact their daily lives and decisions, enhancing their understanding of personal astrology.",
-        "wordCount": 57
+        "summary": "Christopher Nolan's upcoming film, The Odyssey, has sparked controversy regarding its casting, dialogue, filming, and design choices. The backlash has intensified ahead of its release on July 17, 2026. Known for creating successful films, Nolan's previous work, Oppenheimer, also generated significant debate. The controversies surrounding The Odyssey have emerged even before the historical epic reaches theaters.",
+        "wordCount": 56
       }
     ]
   }
