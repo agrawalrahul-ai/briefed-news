@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T08:45:47.154Z",
+  "updatedAt": "2026-07-15T09:07:17.872Z",
   "categories": {
     "world": [
       {
@@ -9,8 +9,8 @@
         "image": "https://static.toiimg.com/thumb/msid-132400877,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-14T20:29:00Z",
         "category": "world",
-        "summary": "US senators introduced a revised Russia sanctions bill aimed at pressuring Moscow and its significant energy buyers, including India and China. The updated legislation reduces the proposed tariff threat on these countries from 500% to 100%. The changes reflect a strategic adjustment in the US approach to sanctions while maintaining pressure on Russia's energy sector.",
-        "wordCount": 55
+        "summary": "US senators introduced a revised Russia sanctions bill aimed at pressuring Moscow and its significant energy buyers, including India and China. The updated legislation reduces the proposed tariff threat on these countries from 500% to 100%. The changes reflect a strategic adjustment in the US approach to sanctions while maintaining focus on energy-related transactions with Russia.",
+        "wordCount": 56
       },
       {
         "title": "Trump backs bill that could hit India with 500% tariffs over Russian oil trade",
@@ -19,8 +19,8 @@
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/donald-trump-134727999-16x9_1.jpg?VersionId=S..5Rv2YSe08FgpoIB53oxGCEGnzDibV",
         "publishedAt": "2026-07-14T18:20:13Z",
         "category": "world",
-        "summary": "Donald Trump has endorsed a US sanctions bill that may impose tariffs of up to 500% on countries purchasing Russian oil, potentially affecting India and China. During a discussion on the matter, Trump stated, \"We have to look. That hasn't been discussed yet.\" This development could strain India's trade relations with the United States amid ongoing geopolitical tensions.",
-        "wordCount": 58
+        "summary": "Donald Trump has endorsed a US sanctions bill that may impose tariffs of up to 500% on countries purchasing Russian oil, targeting nations like India and China. During a discussion on the matter, Trump remarked that the issue had not yet been fully addressed. This development could strain India's trade relations with the United States significantly.",
+        "wordCount": 56
       },
       {
         "title": "US, Russian astronauts launch into orbit for joint space mission",
@@ -29,7 +29,7 @@
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a5668121e006-1784047634.jpg?resize=1920%2C1440",
         "publishedAt": "2026-07-14T18:08:12Z",
         "category": "world",
-        "summary": "A joint US-Russian space mission launched from Kazakhstan to the International Space Station (ISS), emphasizing collaboration amid geopolitical tensions. NASA chief Jared Isaacman attended the launch at the Baikonur Cosmodrome, marking a significant moment in space cooperation. The Soyuz MS-29 spacecraft carries Russian astronauts and a NASA astronaut, showcasing continued partnership despite ongoing conflicts between the nations.",
+        "summary": "A joint US-Russian space mission launched from Kazakhstan to the International Space Station (ISS), emphasizing collaboration amid geopolitical tensions. NASA chief Jared Isaacman attended the launch at the Baikonur Cosmodrome. The Soyuz MS-29 spacecraft is carrying Russian astronauts and a NASA astronaut, marking a significant partnership in space exploration despite ongoing conflicts related to the Ukraine war.",
         "wordCount": 57
       }
     ],
@@ -41,8 +41,8 @@
         "image": "https://motoroctane.com/wp-content/uploads/2026/07/Nissan-7-Seater-Based-On-Tekton-2.jpg",
         "publishedAt": "2026-07-14T19:43:30Z",
         "category": "business",
-        "summary": "Nissan is set to launch a new 7-seater vehicle based on the Tekton in the Indian market. The company has experienced significant ups and downs, with past successes including the Micra, Sunny, and Terrano, contrasted by the unsuccessful Datsun initiative. This upcoming model aims to revitalize Nissan's presence in India, moving forward from previous challenges.",
-        "wordCount": 55
+        "summary": "Nissan is set to launch a new 7-seater vehicle based on the Tekton in the Indian market. The automaker has experienced significant ups and downs in India, with past successes including the Micra, Sunny, and Terrano, contrasted by the unsuccessful Datsun line. This upcoming model aims to revitalize Nissan's presence in the competitive Indian automotive landscape.",
+        "wordCount": 56
       },
       {
         "title": "Stocks to Watch Today: Ather Energy, Belrise Industries, PDS, Kirloskar Brothers, Kusumgar, IOL Chemicals, Delhivery, L&T Technology in focus on 15 July",
@@ -51,11 +51,31 @@
         "image": "https://images.moneycontrol.com/static-mcnews/2026/01/20260103025340_stock1.jpg",
         "publishedAt": "2026-07-14T19:21:46Z",
         "category": "business",
-        "summary": "On July 15, 2026, several stocks will be in focus, including L&T Technology Services, Tata Elxsi, Anand Rathi Share and Stock Brokers, Ather Energy, Belrise Industries, PDS, Kirloskar Brothers, Easy Trip Planners, and IOL Chemicals and Pharmaceuticals. Investors are encouraged to monitor these companies for potential significant developments, including investments, deals, quarterly earnings, and acquisitions.",
-        "wordCount": 55
+        "summary": "On July 15, 2026, several stocks will be in focus, including Ather Energy, Belrise Industries, PDS, Kirloskar Brothers, Kusumgar, IOL Chemicals, Delhivery, and L&T Technology Services. Other notable mentions are Tata Elxsi and Anand Rathi Share and Stock Brokers. Investors are advised to monitor these companies for significant developments and potential market movements.",
+        "wordCount": 53
+      },
+      {
+        "title": "Maharashtra FDA suspends licences of 3 Mumbai restaurants over hygiene lapses",
+        "url": "https://www.indiatoday.in/cities/mumbai/story/mumbai-fda-suspends-shalimar-noor-mohammadi-rahmania-hygiene-lapses-2948031-2026-07-14",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/noor-mohammadi-hotel-140301662-16x9_0.png?VersionId=S3yKEaE1IwgBa57VWAoffHVJJQ8vMlhf",
+        "publishedAt": "2026-07-14T18:10:48Z",
+        "category": "business",
+        "summary": "The Maharashtra Food and Drug Administration (FDA) has suspended the licenses of three Mumbai restaurants due to hygiene violations. This action follows the recent closure of the K Rustom ice cream parlour, where inspections revealed the presence of rats, flies, and expired flavoring agents. The FDA's enforcement aims to ensure food safety and hygiene standards in the region.",
+        "wordCount": 58
       }
     ],
     "technology": [
+      {
+        "title": "Patchpocalypse Now: Microsoft tops last month's record with 622 Patch Tuesday CVEs",
+        "url": "https://www.theregister.com/security/2026/07/14/patchpocalypse-now-microsoft-tops-last-months-record-with-622-patch-tuesday-cves/5271434",
+        "source": "The Register",
+        "image": "https://image.theregister.com/5271456.jpg?imageId=5271456&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-07-14T20:49:40Z",
+        "category": "technology",
+        "summary": "Microsoft's recent Patch Tuesday surpassed last month's record, addressing 622 Common Vulnerabilities and Exposures (CVEs) in its products. This significant increase follows last month's 206 CVEs, marking a notable rise in security updates. The latest patches aim to enhance system security and address various vulnerabilities, reflecting the ongoing efforts to safeguard users against potential threats and exploits.",
+        "wordCount": 57
+      },
       {
         "title": "Spotify brings chatbot-powered music discovery",
         "url": "https://t2online.in/tech/tech-news/spotify-brings-chatbot-powered-music-discovery/2006500",
@@ -63,8 +83,8 @@
         "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/7618/1784051155513.jpg",
         "publishedAt": "2026-07-14T17:43:00Z",
         "category": "technology",
-        "summary": "Spotify has introduced a new feature called \"Talk to Spotify,\" allowing Premium subscribers to discover music through conversational interactions. This beta feature utilizes artificial intelligence to enhance user experience, enabling natural dialogue with the streaming service. The initiative aims to improve music discovery, making it more intuitive and personalized for users seeking new tracks and artists.",
-        "wordCount": 56
+        "summary": "Spotify has introduced a new feature called \"Talk to Spotify,\" allowing Premium subscribers to engage with the platform through conversational interactions. This chatbot-powered music discovery tool utilizes artificial intelligence to enhance user experience, enabling personalized music recommendations and easier navigation. Currently in beta testing, the feature aims to streamline how users find and enjoy music on the service.",
+        "wordCount": 58
       },
       {
         "title": "PlayStation's Social Feeds Are Still on Fire",
@@ -73,18 +93,8 @@
         "image": "https://www.gadgetreview.com/wp-content/uploads/Depositphotos_667762086_S.jpg",
         "publishedAt": "2026-07-14T17:23:22Z",
         "category": "technology",
-        "summary": "Sony's decision to discontinue physical disc production for PlayStation has sparked significant backlash on social media, continuing weeks after the announcement. Developers utilizing PlayStation's promotional channels are overwhelmed by negative comments regarding Blu-ray discs. Analysts suggest that the company's digital profits make a reversal of this decision unlikely, indicating a shift towards a fully digital gaming future.",
-        "wordCount": 57
-      },
-      {
-        "title": "PlayStation's FlexStrike Wireless Fight Stick Postponed Due to \"Unexpected Production Delays\"",
-        "url": "https://in.ign.com/playstation-5-1/266145/playstations-flexstrike-wireless-fight-stick-postponed-due-to-unexpected-production-delays",
-        "source": "IGN India",
-        "image": "https://sm.ign.com/t/ign_in/news/p/playstatio/playstations-flexstrike-wireless-fight-stick-postponed-due-t_9zx1.1200.jpg",
-        "publishedAt": "2026-07-14T17:17:45Z",
-        "category": "technology",
-        "summary": "PlayStation has delayed the launch of its FlexStrike wireless fight stick due to unforeseen production issues. The announcement was made on July 14, 2026, through an official blog post. The new release date has not yet been determined. The company cited unexpected production delays as the reason for the postponement, impacting the anticipated availability of the product.",
-        "wordCount": 57
+        "summary": "PlayStation's discontinuation of physical disc production has sparked significant backlash on Sony's social media, continuing two weeks after the announcement. Developers are struggling to promote their work amid overwhelming negative comments regarding Blu-ray discs. Analysts suggest that the profitability of digital sales makes it unlikely for Sony to reverse its decision on disc production, despite the ongoing criticism.",
+        "wordCount": 58
       }
     ],
     "sports": [
@@ -95,8 +105,8 @@
         "image": "https://th-i.thgim.com/public/incoming/3ajhok/article71222979.ece/alternates/LANDSCAPE_1200/2286107459.jpg",
         "publishedAt": "2026-07-14T19:37:04Z",
         "category": "sports",
-        "summary": "Spain is currently leading France 2-0 in the FIFA World Cup semifinal at AT&T Stadium in Arlington on July 14, 2026. Porro scored one of the goals for Spain. France made changes to their lineup, recalling Bradley Barcola in attack and Aurelien Tchouameni in midfield. The match continues with live coverage available from various sources.",
-        "wordCount": 55
+        "summary": "Spain is leading France 2-0 in the FIFA World Cup semifinal at AT&T Stadium in Arlington on July 14, 2026. Porro scored one of the goals for Spain. France made tactical changes by recalling Bradley Barcola to the attack and Aurelien Tchouameni to midfield. Spain's coach, Luis de la Fuente, has also made strategic selections for the match.",
+        "wordCount": 58
       },
       {
         "title": "Tottenham demand €50m for Romero, too expensive for Inter",
@@ -105,8 +115,8 @@
         "image": "https://icdn.football-italia.net/wp-content/uploads/2026/07/Cristian-Romero-fed-up.jpg",
         "publishedAt": "2026-07-14T19:08:12Z",
         "category": "sports",
-        "summary": "Tottenham Hotspur are asking for €50 million to sell defender Cristian Romero, according to Sportitalia. This high price tag makes it unlikely that Inter Milan will secure his transfer, as they face competition from Barcelona. The situation was further reported by Fabrizio Romano on his YouTube channel, highlighting the challenges Inter faces in acquiring the player.",
-        "wordCount": 56
+        "summary": "Tottenham Hotspur are asking for €50 million to sell defender Cristian Romero, according to Sportitalia. This high price makes it unlikely that Inter Milan will secure his transfer, especially as Barcelona is also interested in the player. The situation suggests that Inter may not be able to compete financially for Romero's signature amid the ongoing transfer discussions.",
+        "wordCount": 57
       },
       {
         "title": "Shubman Gill's 80, Axar-Washington stand give India 1-0 lead over England in ODI series",
@@ -127,7 +137,7 @@
         "image": "https://static.toiimg.com/thumb/msid-132400161,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-14T18:50:00Z",
         "category": "health",
-        "summary": "The Gujarat State Branch of the Indian Medical Association (GSB-IMA) has issued an advisory regarding the Chandipura virus, urging pediatricians to assess children's medical history and symptoms, including high fever and convulsions, following three reported deaths. The organization emphasized the importance of strict preventive measures to curb the spread of this dangerous sandfly-borne virus in the region.",
+        "summary": "The Gujarat State Branch of the Indian Medical Association (GSB-IMA) has issued an advisory regarding the Chandipura virus, urging pediatricians to assess children's medical history and symptoms, including high fever and convulsions, following three reported deaths. The organization emphasized the importance of strict preventive measures to control the spread of this dangerous sandfly-borne virus in the region.",
         "wordCount": 57
       },
       {
@@ -137,8 +147,8 @@
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/three-children-have-died-so-far-in-gujarat-due-to-the-chandipura-virus-outbreak-140939521-16x9_0.png?VersionId=Wd5PYCoCgyNlhm5UJbD2c07UX1rZeGs0",
         "publishedAt": "2026-07-14T18:15:54Z",
         "category": "health",
-        "summary": "Gujarat has reported 32 suspected cases of the Chandipura virus since July 1, with seven confirmed infections among children. The outbreak has resulted in the deaths of three children, while four others remain on life support. In response, the health department has heightened surveillance, treatment efforts, and sandfly-control measures to manage the situation effectively.",
-        "wordCount": 54
+        "summary": "Gujarat has reported 32 suspected cases of the Chandipura virus since July 1, with seven confirmed infections among children. Three children have died, and four others are on life support. The outbreak has prompted heightened alert from the health department, leading to intensified surveillance, treatment efforts, and sandfly-control measures to contain the spread of the virus.",
+        "wordCount": 56
       },
       {
         "title": "FDA's Traceback Endeavor: Tackling Cyclosporiasis Outbreak",
@@ -147,7 +157,7 @@
         "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/03_03_2020_19_00_38_2827682.jpg&width=920&format=jpeg",
         "publishedAt": "2026-07-14T17:55:19Z",
         "category": "health",
-        "summary": "The U.S. Food and Drug Administration (FDA) is investigating multiple produce items to trace the source of a cyclosporiasis outbreak. This intestinal infection is typically contracted through contaminated raw fruits and vegetables. The Centers for Disease Control and Prevention highlights the risks associated with consuming such contaminated produce, prompting the FDA's efforts to ensure food safety.",
+        "summary": "The U.S. Food and Drug Administration (FDA) is investigating various produce items to determine the source of a cyclosporiasis outbreak. This intestinal infection is typically contracted through contaminated raw fruits and vegetables. The Centers for Disease Control and Prevention highlights the risks associated with consuming contaminated produce, prompting the FDA's traceback efforts to ensure food safety.",
         "wordCount": 56
       }
     ],
@@ -159,8 +169,8 @@
         "image": "https://www.thebrighterside.news/uploads/2026/05/sn-1.jpg?auto=webp",
         "publishedAt": "2026-07-14T20:07:00Z",
         "category": "science",
-        "summary": "Researchers at RMIT University have developed a novel method using high-frequency sound waves to apply protective crystal coatings on plant leaves. This innovative technique creates a fine mist that forms crystal layers, enhancing crop protection without harming the plants. The system aims to improve agricultural practices by providing a safe and effective way to shield crops from environmental threats.",
-        "wordCount": 59
+        "summary": "Researchers at RMIT University have created a novel coating method using high-frequency sound waves to spray protective crystal films onto living plant leaves. This innovative technique produces a fine mist that forms durable layers on delicate surfaces, enhancing crop protection. The method aims to improve agricultural practices by providing a safe and effective way to shield plants from environmental threats.",
+        "wordCount": 60
       },
       {
         "title": "Earliest galaxies were well organised less than a billion years after Big Bang, reveals IUCAA study",
@@ -169,8 +179,8 @@
         "image": "https://static.toiimg.com/thumb/msid-132400151,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-14T18:48:00Z",
         "category": "science",
-        "summary": "A study by IUCAA utilizing the James Webb Space Telescope (JWST) has discovered spheroidal galaxies formed 400–900 million years after the Big Bang. These galaxies exhibit the Kormendy relation, indicating a level of organization previously thought to develop later in cosmic history. This finding suggests that early galaxies were more structured than previously understood.",
-        "wordCount": 54
+        "summary": "A study by IUCAA, utilizing the James Webb Space Telescope, has discovered that spheroidal galaxies formed 400–900 million years after the Big Bang exhibit the Kormendy relation, indicating a level of organization previously unrecognized in early galaxies. This research suggests that the structure of galaxies was established much earlier in cosmic history than previously thought.",
+        "wordCount": 55
       },
       {
         "title": "A new fabrication technique for the ultra-clean manufacturing of 2D heterostructures",
@@ -179,8 +189,8 @@
         "image": "https://www.nanowerk.com/nanotechnology-news3/id69792.jpg",
         "publishedAt": "2026-07-14T18:13:02Z",
         "category": "science",
-        "summary": "Researchers have developed a new fabrication technique for the ultra-clean manufacturing of 2D heterostructures. This innovative method is expected to facilitate the creation of next-generation devices, which could significantly advance research in quantum computing. The technique aims to improve the quality and performance of materials used in various applications, potentially impacting the future of technological development.",
-        "wordCount": 56
+        "summary": "Researchers have introduced a novel fabrication technique for the ultra-clean production of 2D heterostructures. This method is anticipated to facilitate the development of next-generation devices that could significantly advance research in quantum computing. The innovation aims to enhance the manufacturing process, potentially leading to improved performance and efficiency in quantum technologies, according to findings reported by Nanowerk News.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
@@ -191,8 +201,8 @@
         "image": "https://static.toiimg.com/thumb/msid-132400693,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-14T19:37:00Z",
         "category": "entertainment",
-        "summary": "Aamir Khan is facing backlash after marrying Gauri Spratt, with a Muslim cleric objecting to their interfaith union. The cleric declared the marriage impermissible under his interpretation of Islamic law, stating that marrying a non-Muslim is forbidden. This controversy arises shortly after the couple's wedding, drawing attention to issues surrounding interfaith relationships within the Muslim community.",
-        "wordCount": 56
+        "summary": "Aamir Khan is facing backlash after marrying Gauri Spratt, as a Muslim cleric has issued a fatwa against their interfaith union. The cleric claims that marrying outside the faith is forbidden according to his interpretation of Islamic law. This controversy has arisen shortly after the couple's marriage, drawing attention to the challenges of interfaith relationships in certain communities.",
+        "wordCount": 58
       },
       {
         "title": "Ayodhya priest's remark sparks uproar",
@@ -201,7 +211,7 @@
         "image": "https://cdn.siasat.com/wp-content/uploads/2026/07/aamir-1-1.jpg",
         "publishedAt": "2026-07-14T19:24:03Z",
         "category": "entertainment",
-        "summary": "A religious leader has offered a Rs 5 crore reward for the killing of actor Aamir Khan, amid escalating backlash over his marriage to Gauri Spratt. The situation has intensified with protests, effigy burnings, and allegations of “love jihad” from members of the Bajrang Dal. Khan's personal life has become a focal point for ongoing controversy and threats.",
+        "summary": "A religious leader has offered a Rs 5 crore reward for the killing of actor Aamir Khan, following backlash over his marriage to Gauri Spratt. The situation escalated with protests, effigy burnings, and accusations of \"love jihad\" from members of the Bajrang Dal. Khan has faced increasing scrutiny and attacks related to his personal life since the marriage.",
         "wordCount": 58
       },
       {
@@ -211,8 +221,8 @@
         "image": "https://static.toiimg.com/thumb/msid-132370908,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-14T18:30:00Z",
         "category": "entertainment",
-        "summary": "Horoscope predictions for July 15, 2026, provide insights into astrological events affecting all 12 zodiac signs. The analysis includes the movements of planets and their alignments, offering guidance on how these celestial influences may impact individuals. Readers can explore personalized forecasts to understand potential challenges and opportunities based on their zodiac sign for the day ahead.",
-        "wordCount": 56
+        "summary": "Horoscope predictions for July 15, 2026, are available, detailing astrological events and influences affecting each of the 12 zodiac signs. An astrologer has analyzed planetary movements and alignments to provide insights. Readers can learn how these celestial factors may impact their day-to-day lives and decisions, offering guidance based on their specific zodiac sign for the day ahead.",
+        "wordCount": 57
       }
     ]
   }
