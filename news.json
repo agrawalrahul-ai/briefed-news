@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-07-15T14:20:49.757Z",
+  "updatedAt": "2026-07-16T07:11:15.592Z",
   "categories": {
     "world": [
       {
-        "title": "China detains US nuclear expert on spying charge, his family says",
-        "url": "https://www.bbc.com/news/articles/cqx1xdn3g4eo",
-        "source": "BBC",
-        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b742/live/a647fbd0-7ff0-11f1-b7c7-fd8fa12609bd.jpg",
-        "publishedAt": "2026-07-15T02:14:37Z",
+        "title": "Argentine VP calls England ‘pirates’ ahead of World Cup semifinal clash",
+        "url": "https://www.aljazeera.com/sports/2026/7/15/argentine-vp-calls-england-pirates-ahead-of-world-cup-semifinal-clash",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2024-09-16T000430Z_1600263837_RC2B1AAO4BKS_RTRMADP_3_ARGENTINA-POLITICS-1784133277.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-07-15T16:59:48Z",
         "category": "world",
-        "summary": "China has detained US seismologist Chen Youlin, 54, on espionage charges for nearly two years, according to his family. Chen was arrested in November 2024 while visiting family in Beijing. His family claims he has been wrongfully detained. Advocacy group Global Hostage Advocacy Coalition is involved in raising awareness about his situation and seeking his release.",
-        "wordCount": 56
-      },
-      {
-        "title": "Explained: Who really controls the Strait of Hormuz?",
-        "url": "https://www.khaleejtimes.com/world/mena/explained-who-really-controls-the-strait-of-hormuz",
-        "source": "Khaleej Times",
-        "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-04-17/fqzzusyp/2026-04-13T112112Z515242033RC23BKA99PFNRTRMADP3IRAN-CRISIS-HORMUZ-UN.JPG?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=0,0,3500,2333",
-        "publishedAt": "2026-07-15T02:00:00Z",
-        "category": "world",
-        "summary": "The Strait of Hormuz, a crucial maritime corridor, has seen a significant decline in traffic due to escalating US-Israel-Iran tensions. Regional countries are exploring alternative trade routes amid concerns over security. The situation remains fluid, with ongoing developments following a 14-point deal signed on June 12, highlighting the complexities of control and access in this strategic waterway.",
+        "summary": "Argentina's Vice President Victoria Villarruel referred to England as \"usurping pirates\" in a statement before the World Cup semifinal match between the two nations. Her comments highlight ongoing tensions related to sovereignty disputes. Villarruel emphasized the significance of the game, stating, “We play against the usurping pirates. It’s not just another match,” in a post on X.",
         "wordCount": 57
       },
       {
-        "title": "US reimposes naval blockade as Trump threatens to ramp up strikes on Iran: 'You better make a deal'",
-        "url": "https://www.timesofisrael.com/us-reimposes-naval-blockade-as-trump-threatens-to-ramp-up-strikes-on-iran-you-better-make-a-deal/",
-        "source": "The Times of Israel",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/9799112.jpg",
-        "publishedAt": "2026-07-15T01:18:09Z",
+        "title": "British Sikh woman stabbed to death in London, 44-year-old suspect arrested",
+        "url": "https://www.hindustantimes.com/world-news/british-sikh-woman-stabbed-to-death-in-london-hayes-44-year-old-suspect-arrested-101784125556135.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/15/550x309/London_Police_1699716362815_1784126787263_79982422-4526-420b-b613-a86cee43732b.jpg",
+        "publishedAt": "2026-07-15T16:24:12Z",
         "category": "world",
-        "summary": "US President Donald Trump reinstated a naval blockade on Iranian ports and threatened to target power plants and bridges if Iran does not resume negotiations. He urged Iran to \"get to the table\" while claiming US negotiators communicated with Tehran. This escalation follows overnight attacks attributed to Iran on Jordan, Kuwait, and Bahrain amid a deteriorating ceasefire agreement.",
+        "summary": "Kirandeep Kaur, a 24-year-old British Sikh woman, was fatally stabbed in Hayes, west London. A man in his 20s sustained injuries during the incident. The Metropolitan Police responded alongside the London Ambulance Service. Daniel Sean James, a 44-year-old suspect, has been arrested and faces multiple charges related to the stabbing. Investigations are ongoing.",
+        "wordCount": 53
+      },
+      {
+        "title": "'No plans for talks with US right now': Iran shuts door on immediate negotiations after fresh American strikes",
+        "url": "https://www.moneycontrol.com/world/no-plans-for-talks-with-us-right-now-iran-shuts-door-on-immediate-negotiations-after-fresh-american-strikes-article-13974993.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260715162151_Iran-New-6.jpg",
+        "publishedAt": "2026-07-15T16:22:04Z",
+        "category": "world",
+        "summary": "Iran has announced it has no plans for immediate negotiations with the United States amid escalating tensions and fighting between the two nations. Tehran accuses Washington of violating a recent interim agreement. The Iranian government emphasized that its primary focus is on national defense, indicating a firm stance against engaging in talks with the US at this time.",
         "wordCount": 58
       }
     ],
     "business": [
       {
-        "title": "Tata Elxsi PAT declines 23% QoQ to ₹171 crore in Q1 FY27, revenue jumps 3%; check numbers",
-        "url": "https://upstox.com/news/market-news/earnings/tata-elxsi-s-pat-declines-23-qo-q-to-171-crore-in-q1-fy-27-revenue-jumps-3/article-196920/",
-        "source": "Upstox",
-        "image": "https://assets.upstox.com/content/assets/images/news/tataelxsishareq1fy27.webp",
-        "publishedAt": "2026-07-15T02:09:25Z",
+        "title": "Flights Cancelled Sweeping Saudi Arabia As Riyadh, Jeddah, Abha, Gizan, And Sharurah Cancel 208 And Delay 150 Flights, Grounding Saudia, Etihad, And Others",
+        "url": "https://www.travelandtourworld.com/news/article/kkham06t3kfr/",
+        "source": "Travel And Tour World",
+        "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/ai-139.jpg",
+        "publishedAt": "2026-07-15T19:06:27Z",
         "category": "business",
-        "summary": "Tata Elxsi reported a 23% quarter-on-quarter decline in profit after tax (PAT) to ₹171 crore for Q1 FY27, while revenue increased by 14.46% year-on-year to ₹1,021.11 crore. The company attributed its performance to growth in two key verticals, strong deal execution, and ongoing momentum in large strategic engagements, despite the decline in PAT compared to the previous quarter.",
-        "wordCount": 58
+        "summary": "Flight disruptions in Saudi Arabia affected thousands as over 350 flights were canceled or delayed, primarily in Riyadh, Jeddah, Abha, Gizan, and Sharurah. A total of 208 flights were canceled and 150 delayed due to heightened security concerns in the southern region. Abha Airport faced the most significant impact, grounding major airlines including Saudia and Etihad.",
+        "wordCount": 56
       },
       {
-        "title": "India's food-delivery billionaire eyes health tech, aerospace",
-        "url": "https://www.moneycontrol.com/news/business/zomato-founder-deepinder-goyal-eyes-health-tech-aerospace-13974083.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260629042544_qq.jpg",
-        "publishedAt": "2026-07-15T01:30:42Z",
+        "title": "Russia seeks more petrol from India as Ukrainian strikes cripple oil refineries",
+        "url": "https://www.indiatoday.in/world/story/russia-seeks-more-petrol-from-india-after-ukrainian-attacks-on-refineries-reuters-2948834-2026-07-15",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/us-sanctions-of-russia-oil-153239922-16x9_1.png?VersionId=7C4OmRVAHok5Q1TMbY9WjMHWmUvkaajl",
+        "publishedAt": "2026-07-15T18:10:27Z",
         "category": "business",
-        "summary": "Deepinder Goyal, former CEO of a major food delivery company in India, is venturing into health technology and aerospace. He plans to launch a device called Temple, which measures the body’s metabolic state in real time, within six months. Additionally, Goyal has invested $20 million in LAT Aerospace, marking his first significant investment after leaving his previous role.",
-        "wordCount": 58
+        "summary": "Russia has sought increased petrol supplies from Indian refiners, including discussions with companies like Rosneft, Gazprom Neft, and Lukoil. This request follows significant disruptions to Russia's oil refining capabilities due to recent Ukrainian strikes. The outreach signifies a notable shift in the energy relationship between Russia and India, involving both private and government-owned refiners in the discussions.",
+        "wordCount": 57
       },
       {
-        "title": "Fairfax to acquire IDBI Bank stake in $5.5 billion deal, biggest foreign investment in Indian bank",
-        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/fairfax-to-acquire-idbi-bank-stake-in-5-5-billion-deal-biggest-foreign-investment-in-indian-bank/articleshow/132400419.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-132400462,width-1200,height-630,imgsize-57454,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-15T00:00:00Z",
+        "title": "EPFO interest credit begins: How members can check if the amount is credited to their accounts",
+        "url": "https://www.livemint.com/money/personal-finance/epfo-interest-credit-begins-how-members-can-check-if-the-amount-is-credited-to-their-accounts-11784134127769.html",
+        "source": "livemint.com",
+        "image": "https://www.livemint.com/lm-img/img/2026/07/15/1600x900/logo/3-0-100372714-newru1-khwD--621x414-LiveMint-0_1679853997899_1784136455611_519c9eed-c181-40a5-b624-53c4e370d40f.jpg",
+        "publishedAt": "2026-07-15T17:30:21Z",
         "category": "business",
-        "summary": "Fairfax Holdings plans to acquire a significant stake in IDBI Bank for $5.5 billion, marking the largest foreign investment in an Indian bank. The deal involves collaboration with the government and LIC, expected to generate approximately 53,000 crore rupees from their combined stakes. This investment sets a new record for foreign capital influx into the Indian banking sector.",
-        "wordCount": 58
+        "summary": "EPFO members can check their accounts for the annual interest of 8.25% for FY2025-26 starting July 15. The retirement fund body has begun crediting this interest to members' provident fund accounts. To verify the credited amount, members can access their PF balance online through the EPFO portal or mobile app, ensuring they stay informed about their savings.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "iPhone 18 Pro: Apple's next smartphone to debut in September; check leaked price, design, battery, camera upgrades and more",
-        "url": "https://www.etnownews.com/technology/iphone-18-pro-apples-next-smartphone-to-debut-in-september-check-leaked-price-design-battery-camera-upgrades-and-more-article-155101269",
-        "source": "ET Now",
-        "image": "https://images.etnownews.com/thumb/msid-155101269,updatedat-1784082018221,width-1280,height-720,resizemode-75/155101269.jpg",
-        "publishedAt": "2026-07-15T01:12:54Z",
+        "title": "Lomography's New Half Frame Camera Promises 'Double the Fun, Twice the Photos'",
+        "url": "https://petapixel.com/2026/07/15/lomographys-new-half-frame-camera-promises-double-the-fun-twice-the-photos/",
+        "source": "PetaPixel",
+        "image": "https://petapixel.com/assets/uploads/2026/07/2026-06-13__VIE__antonia-klengel__staff__half-frame_simple-use-camera-classicolor-200-135-film029-2_1.jpg",
+        "publishedAt": "2026-07-15T19:06:06Z",
         "category": "technology",
-        "summary": "Apple's iPhone 18 Pro is expected to debut in September, with leaked information suggesting various upgrades in design, battery, and camera features. Although Apple has not officially confirmed any specifications, early details indicate significant enhancements. The anticipation surrounding the new smartphone continues to grow as more information emerges from unofficial sources ahead of the anticipated launch.",
+        "summary": "Lomography has introduced the Simple Use Reloadable Film Camera Half Frame, designed to take half-frame photos, effectively doubling the number of shots per 35mm film roll. This new camera offers a more economical option compared to traditional models, appealing to both casual and serious photographers. The product aims to enhance the film photography experience by maximizing shooting potential.",
+        "wordCount": 58
+      },
+      {
+        "title": "Google vs. Epic is finally over, and third-party app stores are coming",
+        "url": "https://www.makeuseof.com/google-vs-epic-is-finally-over-and-third-party-app-stores-are-coming/",
+        "source": "MakeUseOf",
+        "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/wm/2026/06/safehaven-store-google-play-alternative.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-07-15T18:48:07Z",
+        "category": "technology",
+        "summary": "Starting July 22, third-party app stores will be allowed within Google Play in the US, enabling users to download them like regular apps. These stores will feature pre-stocked listings from Google Play unless developers choose to opt out. This change is limited to the US, as third-party app stores will still face restrictions outside the country.",
         "wordCount": 56
       },
       {
-        "title": "A forgotten immune organ in your chest may predict how long you live, with AI scans linking healthier thymuses to lower death, heart disease and cancer risks",
-        "url": "https://timesofindia.indiatimes.com/science/a-forgotten-immune-organ-in-your-chest-may-predict-how-long-you-live-with-ai-scans-linking-healthier-thymuses-to-lower-death-heart-disease-and-cancer-risks/articleshow/132391486.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132391532,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-14T23:30:00Z",
+        "title": "Third-party app stores will soon be available through the Google Play Store in the US",
+        "url": "https://www.gsmarena.com/starting_next_week_thirdparty_app_stores_will_be_available_through_the_google_play_store_in_the_us-news-73735.php",
+        "source": "GSMArena.com",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/google-epic-app-store-decision/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-07-15T18:00:02Z",
         "category": "technology",
-        "summary": "Researchers have found that the thymus, an often-overlooked immune organ, may play a significant role in predicting lifespan. AI scans indicate that a healthier thymus is associated with reduced risks of death, heart disease, and cancer. This discovery challenges previous beliefs about the thymus's function after childhood, suggesting it may have lasting impacts on overall health.",
-        "wordCount": 56
-      },
-      {
-        "title": "Samsung details the secrets of foldable screen Flex Titanium tech",
-        "url": "https://www.androidauthority.com/samsung-flex-titanium-3687554/",
-        "source": "Android Authority",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2025/07/Galaxy-Z-Fold-7-tent-mode-on-table-hero-image-scaled.jpg",
-        "publishedAt": "2026-07-14T23:00:00Z",
-        "category": "technology",
-        "summary": "Samsung has revealed its Flex Titanium technology, aimed at producing creaseless displays for upcoming foldable phones, including the Fold 8 and Flip 8. This innovation is expected to enhance the user experience by minimizing visible creases. The company is set to launch these devices soon, with anticipation surrounding their advanced display capabilities and overall design improvements.",
-        "wordCount": 56
+        "summary": "Google will soon allow third-party app stores through the Google Play Store in the US, following a legal resolution with Epic Games. For other regions, Google is introducing its Registered App Store program. This move reflects the company's shift in policy regarding app distribution, acknowledging the profitability of app stores while adapting to legal and market pressures.",
+        "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "Road to South Africa up and running: Washington Sundar, Axar Patel deliver with bat and ball at Edgbaston",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/road-to-south-africa-up-and-running-washington-sundar-axar-patel-deliver-with-bat-and-ball-at-edgbaston/articleshow/132403791.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132403949,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-15T01:57:00Z",
+        "title": "England vs Argentina, FIFA World Cup LIVE updates: Gordon breaks deadlock with long-awaited goal",
+        "url": "https://www.thehindu.com/sport/football/england-vs-argentina-fifa-world-cup-2026-semifinal-live-updates/article71227180.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/683jkt/article71227322.ece/alternates/LANDSCAPE_1200/2286269522.jpg",
+        "publishedAt": "2026-07-15T18:39:57Z",
         "category": "sports",
-        "summary": "In the first ODI against England at Edgbaston, all-rounders Axar Patel and Washington Sundar played crucial roles, helping Team India achieve a 259-run target. The duo added an unbeaten 102 runs for the fifth wicket, showcasing their batting skills. Their performance contributed significantly to India's success in the match, marking a strong start in the series.",
+        "summary": "In the FIFA World Cup 2026 semifinal between England and Argentina, Anthony Gordon scored the opening goal, breaking the deadlock. The match featured several substitutions, including Nicolás Otamendi and Gonzalo Montiel for Argentina, and Ezri Konsa for England. Live updates are being provided by The Hindu as the teams compete for a place in the final.",
         "wordCount": 56
       },
       {
-        "title": "FIFA World Cup 2026 stats: Yamal 6 - 0 Mbappé; Spain, Simón set WC record with 6; France's 0.3 worst in 60 years",
-        "url": "https://www.espn.in/football/story/_/id/49363150/fifa-world-cup-2026-stats-lamine-yamal-6-0-kylian-mbappe-spain-unai-simon-set-wc-record-6-france-worst-60-years",
-        "source": "espn.in",
-        "image": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0715%2Fr1689382_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-07-15T01:30:00Z",
+        "title": "ICC unveils new formats for Men's ODI and T20 World Cup",
+        "url": "https://www.cricbuzz.com/cricket-news/139552/icc-unveils-new-formats-for-mens-odi-and-t20-world-cup-cricbuzzcom",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1036064/the-next-odi-world-cup-is-scheduled-to-be-held-next-year-in-october-november.jpg",
+        "publishedAt": "2026-07-15T17:56:01Z",
         "category": "sports",
-        "summary": "In the 2026 FIFA World Cup semifinals, Spain defeated France 2-0, with goals from Mikel Oyarzabal and Pedro Porro, securing a place in the final. This match highlighted notable statistics, including Yamal's 6-0 performance against Mbappé and Spain's record-setting six goals. France recorded its worst performance in 60 years, with a goal-scoring average of 0.3.",
-        "wordCount": 55
+        "summary": "The ICC has announced significant changes to the formats of the Men's ODI and T20 World Cups. The new structure includes two groups of six teams, with the top three from each group and one additional team advancing to a round-robin Super 7 stage. This aims to enhance the number of meaningful matches in these prestigious tournaments.",
+        "wordCount": 57
       },
       {
-        "title": "Shubman Gill's India ends England's 12-year home stronghold at Edgbaston with six-wicket win",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/shubman-gills-india-ends-englands-12-year-home-stronghold-at-edgbaston-with-six-wicket-win/articleshow/132403623.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132403671,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-15T01:12:00Z",
+        "title": "Michael Olise wants Real Madrid! Bayern Munich star ready to push for big transfer to unite with France co-star Kylian Mbappe",
+        "url": "https://www.goal.com/en-gb/lists/michael-olise-wants-real-madrid-bayern-munich-star-ready-push-big-transfer-unite-france-co-star-kylian-mbappe/bltcebd61977b76b1e1",
+        "source": "Goal.com",
+        "image": "https://assets.goal.com/images/v3/bltef4dfa00b8805fdb/1600.jpg",
+        "publishedAt": "2026-07-15T17:49:57Z",
         "category": "sports",
-        "summary": "India ended England's 12-year unbeaten streak in Men's ODIs at Edgbaston, securing a six-wicket victory in the first ODI. This win marks a significant achievement for India, who entered the series following a disappointing performance. The match concluded with India successfully chasing down the target, highlighting their strong performance against the historically dominant England team at home.",
+        "summary": "Michael Olise, currently a winger at Bayern Munich, is eager to join Real Madrid this summer, aiming to reunite with France teammate Kylian Mbappe. Despite a hefty €200 million asking price, Real Madrid manager Jose Mourinho has expressed strong interest in acquiring Olise. Reports indicate that Olise is actively pushing for the transfer during the current window.",
         "wordCount": 57
       }
     ],
     "health": [
       {
-        "title": "Trial of potential Ebola antiviral under way: WHO",
-        "url": "https://pharma.economictimes.indiatimes.com/news/research-and-development/trial-of-potential-ebola-antiviral-under-way-who/132403874",
-        "source": "ETPharma.com",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-132403874,imgsize-91082,width-1200,height=627,overlay-etpharma,resizemode-75/news/research-and-development/trial-of-potential-ebola-antiviral-under-way-who.jpg",
-        "publishedAt": "2026-07-15T02:02:45Z",
+        "title": "NPPA Caps Retail Price of Calcium and Vitamin D3 Tablets at Rs 8.93",
+        "url": "https://medicaldialogues.in/news/industry/pharma/nppa-caps-retail-price-of-calcium-and-vitamin-d3-tablets-at-rs-893-175097",
+        "source": "Medical Dialogues",
+        "image": "https://medicaldialogues.in/h-upload/2024/06/07/240438-nppa-3.jpg",
+        "publishedAt": "2026-07-15T17:11:56Z",
         "category": "health",
-        "summary": "The World Health Organization has initiated the EBO-PEP trial to evaluate the antiviral obeldesivir's effectiveness as post-exposure prophylaxis for individuals who have come into contact with confirmed Bundibugyo Ebola cases. This clinical trial marks the first effort to test an antiviral drug's efficacy against the Ebola strain currently spreading in the Democratic Republic of Congo.",
-        "wordCount": 55
+        "summary": "The National Pharmaceutical Pricing Authority (NPPA) has set the retail price of Calcium and Vitamin D3 Tablets IP at Rs 8.93. This decision is in accordance with the Drugs (Prices Control) Order (DPCO), 2013. The price adjustment aims to regulate the cost of these essential supplements, ensuring affordability for consumers while adhering to government pricing regulations.",
+        "wordCount": 56
       },
       {
-        "title": "Over 700 dead in Ebola outbreak in DR Congo: First-ever human trial of Bundibugyo Ebola vaccine - when will it be ready?",
-        "url": "https://timesofindia.indiatimes.com/etimes/wellness/over-700-dead-in-ebola-outbreak-in-dr-congo-first-ever-human-trial-of-bundibugyo-ebola-vaccine-when-will-it-be-ready/articleshow/132403515.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132403618,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-15T01:00:00Z",
+        "title": "Before you scratch that mosquito bite, try this warm spoon method",
+        "url": "https://economictimes.indiatimes.com/news/international/us/before-you-scratch-that-mosquito-bite-try-this-warm-spoon-method/articleshow/132416729.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-132417011,width-1200,height-630,imgsize-1726210,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-15T16:18:16Z",
         "category": "health",
-        "summary": "More than 700 people have died in the ongoing Ebola outbreak in the Democratic Republic of the Congo, marking the worst outbreak in the country's history. Health officials have reported over 1,900 cases linked to the Bundibugyo strain of the virus. A human trial for a Bundibugyo Ebola vaccine is underway, but its availability timeline remains uncertain.",
+        "summary": "A viral remedy for mosquito bites involves using a warm spoon to provide temporary itch relief. Dermatologists suggest that controlled heat can calm the nerves that trigger itching, offering comfort for some bites. However, this method is not a cure, and excessive heat can lead to skin burns. Caution is advised when using this technique for relief.",
+        "wordCount": 57
+      },
+      {
+        "title": "WHO Begins Clinical Trial of Gilead's Obeldesivir Against Bundibugyo Ebola",
+        "url": "https://medicaldialogues.in/news/industry/pharma/who-begins-clinical-trial-of-gileads-obeldesivir-against-bundibugyo-ebola-175092",
+        "source": "Medical Dialogues",
+        "image": "https://medicaldialogues.in/h-upload/2024/02/08/231808-gilead-sciences-50.jpg",
+        "publishedAt": "2026-07-15T16:05:34Z",
+        "category": "health",
+        "summary": "The World Health Organization has initiated a clinical trial to evaluate the antiviral drug obeldesivir against the Bundibugyo Ebola strain in the Democratic Republic of Congo. Named EBO-PEP, the trial focuses on post-exposure prophylaxis for individuals who have been in contact with confirmed Ebola cases. The oral medication aims to determine its effectiveness in preventing the disease.",
         "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "Right Turn: These ancient creatures were righties before hands evolved",
-        "url": "https://www.dtnext.in/edit/right-turn-these-ancient-creatures-were-righties-before-hands-evolved",
-        "source": "DT Next",
-        "image": "https://media.assettype.com/dt-next%2F2026-07-14%2Fivqxihcr%2Fright.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-07-15T01:30:00Z",
+        "title": "Breakthrough Study Uncovers New Evidence Connecting “Hidden\" Dimensions to Mystery of Dark Matter",
+        "url": "https://thedebrief.org/breakthrough-study-uncovers-new-evidence-connecting-hidden-dimensions-to-mystery-of-dark-matter/",
+        "source": "The Debrief",
+        "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/07/Dark-Matter.jpg",
+        "publishedAt": "2026-07-15T18:53:59Z",
         "category": "science",
-        "summary": "Palaeontologists studied fossils of Spriggina, a thumb-sized, worm-like organism from the Ediacaran period, approximately 550 million years ago. Published in Scientific Reports, the research revealed that these ancient creatures exhibited a preference for right-sided movement, suggesting they were \"righties\" before the evolution of hands. This finding provides insights into the locomotion and behavior of early life forms.",
-        "wordCount": 57
+        "summary": "New research suggests connections between dark matter and a potential hidden fifth dimension, addressing one of the universe's enduring mysteries. Dark matter, a crucial component in several cosmological theories, remains largely undetectable. This study aims to deepen understanding of dark matter's properties and its relationship with dimensions beyond the familiar four, potentially reshaping current astrophysical models.",
+        "wordCount": 56
       },
       {
-        "title": "A forgotten immune organ in your chest may predict how long you live, with AI scans linking healthier thymuses to lower death, heart disease and cancer risks",
-        "url": "https://timesofindia.indiatimes.com/science/a-forgotten-immune-organ-in-your-chest-may-predict-how-long-you-live-with-ai-scans-linking-healthier-thymuses-to-lower-death-heart-disease-and-cancer-risks/articleshow/132391486.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132391532,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-14T23:30:00Z",
+        "title": "Tectonic forces may explain why Antarctica is covered in ice",
+        "url": "https://www.earth.com/news/ancient-tectonic-forces-may-explain-why-antarctica-is-covered-in-ice/",
+        "source": "Earth.com",
+        "image": "https://cff2.earth.com/uploads/2026/07/15135241/Antarctica-ice-sheet.jpg",
+        "publishedAt": "2026-07-15T17:38:48Z",
         "category": "science",
-        "summary": "Researchers have found that the thymus, an often-overlooked immune organ, may play a significant role in predicting lifespan. AI scans indicate that a healthier thymus correlates with reduced risks of death, heart disease, and cancer. This discovery challenges previous beliefs about the thymus's function after childhood, suggesting it may have lasting impacts on overall health and longevity.",
-        "wordCount": 57
+        "summary": "Scientists have discovered that ancient tectonic activity significantly altered Antarctica's landscape, contributing to the formation of its vast ice sheet millions of years later. Originally, Antarctica was a warm, humid region teeming with life. Approximately 34 million years ago, tectonic changes initiated a dramatic climate shift, leading to the onset of glaciation and the icy conditions observed today.",
+        "wordCount": 58
       },
       {
-        "title": "67-million-year-old T. rex fossil 'Gus' sold for record $50.1 million at Sotheby's auction, becomes world's most expensive dinosaur fossil",
-        "url": "https://timesofindia.indiatimes.com/science/67-million-year-old-t-rex-fossil-gus-sold-for-record-50-1-million-at-sothebys-auction-becomes-worlds-most-expensive-dinosaur-fossil/articleshow/132401242.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132401251,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-14T22:19:00Z",
+        "title": "Raspberry sugar spotted in interstellar space, a sweet discovery that could reveal clues about life's origins",
+        "url": "https://www.space.com/astronomy/raspberry-sugar-spotted-in-interstellar-space-a-sweet-discovery-that-could-reveal-clues-about-lifes-origins",
+        "source": "Space",
+        "image": "https://cdn.mos.cms.futurecdn.net/n9GnL4gPVcwfwgcFmDAtVS-2000-80.png",
+        "publishedAt": "2026-07-15T17:09:32Z",
         "category": "science",
-        "summary": "A 67-million-year-old Tyrannosaurus rex fossil, nicknamed \"Gus,\" was sold for a record $50.1 million at a Sotheby's auction in New York. This sale marks Gus as the most expensive dinosaur fossil ever sold. The auction highlights the increasing interest and value in paleontological artifacts, reflecting both scientific significance and collector demand in the market.",
-        "wordCount": 54
+        "summary": "Astronomers have discovered a sugar compound called erythrulose in interstellar space, specifically near the center of the Milky Way galaxy. This sugar is chemically similar to that found in raspberries. The discovery may provide insights into the origins of life, as it suggests that complex organic molecules can form in space, potentially contributing to the building blocks of life.",
+        "wordCount": 59
       }
     ],
     "entertainment": [
       {
-        "title": "Ahn Bo Hyun And Jung Eun Chae Join Hands To Eradicate Crime In New Drama \"Flex X Cop 2\" Poster",
-        "url": "https://www.soompi.com/article/1854758wpp/ahn-bo-hyun-and-jung-eun-chae-join-hands-to-eradicate-crime-in-new-drama-flex-x-cop-2-poster",
-        "source": "Soompi",
-        "image": "https://0.soompi.io/wp-content/uploads/2026/07/14184604/flex-x-cop-2_6eb762.jpeg",
-        "publishedAt": "2026-07-15T01:55:18Z",
+        "title": "BREAKING: 4-minute-15-second-long trailer of Ramayana passed by CBFC with a ‘U’ certificate",
+        "url": "https://www.bollywoodhungama.com/news/bollywood/breaking-4-minute-15-second-long-trailer-of-ramayana-passed-by-cbfc-with-a-u-certificate/",
+        "source": "Bollywood Hungama",
+        "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/07/BREAKING-4-minute-15-second-long-trailer-of-Ramayana-passed-by-CBFC-with-a-‘U-certificate.jpeg",
+        "publishedAt": "2026-07-15T19:02:11Z",
         "category": "entertainment",
-        "summary": "SBS has unveiled new posters for its upcoming Friday-Saturday drama \"Flex x Cop 2.\" Ahn Bo Hyun returns as Jin Yi Soo, a third-generation chaebol heir who leverages his wealth and connections in crime-fighting. Jung Eun Chae also stars, joining him in the effort to combat crime. The drama promises action and intrigue in its storyline.",
-        "wordCount": 56
+        "summary": "The Central Board of Film Certification (CBFC) has approved a 4-minute-15-second trailer for the upcoming film \"Ramayana,\" granting it a 'U' certificate. This certification indicates the trailer is suitable for all audiences. The release of the trailer is highly anticipated, generating significant excitement among fans and the Bollywood community ahead of its debut.",
+        "wordCount": 53
       },
       {
-        "title": "Pregnant Samantha Ruth Prabhu says she has been waiting for this moment: ‘Always wanted to be a mother’",
-        "url": "https://www.hindustantimes.com/entertainment/telugu-cinema/pregnant-samantha-ruth-prabhu-says-she-has-been-waiting-for-motherhood-raj-nidimoru-101784027969547.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/14/550x309/Samantha_Ruth_Prabhu_bump_1784027944805_1784027963547_dbab5d42-4739-4142-ac47-362be9f43638.jpg",
-        "publishedAt": "2026-07-15T01:36:47Z",
+        "title": "Shilpa Shinde reveals she faced harassment after quitting Bhabi Ji Ghar Par Hain, was threatened with a fake MMS; 'Bhabhiji Ka MMS Out'",
+        "url": "https://timesofindia.indiatimes.com/tv/news/hindi/shilpa-shinde-reveals-she-faced-harassment-after-quitting-bhabi-ji-ghar-par-hain-was-threatened-with-a-fake-mmsbhabhiji-ka-mms-out/articleshow/132424072.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132424149,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-15T18:59:00Z",
         "category": "entertainment",
-        "summary": "Actor Samantha Ruth Prabhu announced she is expecting her first child with filmmaker Raj Nidimoru. The couple, married in December 2025, shared their pregnancy news in June. In a recent interview, Prabhu expressed her excitement about becoming a mother, stating she has always wanted to experience motherhood. The couple looks forward to this new chapter in their lives.",
+        "summary": "Shilpa Shinde, a participant in the reality show Lock Upp: Sach Yaa Sazaa, revealed she experienced harassment after leaving Bhabi Ji Ghar Par Hain. She reported being threatened with a fake MMS, which added to her distress. Shinde discussed these challenges during a conversation with fellow contestant Varun Yadav, highlighting the difficulties she faced post-departure from the show.",
         "wordCount": 58
       },
       {
-        "title": "Christopher Nolan's The Odyssey is courting controversy. Here are 4 reasons why",
-        "url": "https://www.indiatoday.in/movies/hollywood/story/christopher-nolan-the-odyssey-controversy-4-reasons-why-2947657-2026-07-15",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/matt-damon-in-christopher-nolans-the-odyssey-144010786-16x9_0.png?VersionId=GKgqAK914ER5wS2MZI7xn3pXZ7RbBDmH",
-        "publishedAt": "2026-07-15T01:30:00Z",
+        "title": "Horoscope Today: Daily astrological predictions for July 16, 2026",
+        "url": "https://timesofindia.indiatimes.com/astrology/horoscope/horoscope-today-daily-astrological-predictions-for-july-16-2026/articleshow/132419230.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132419200,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-15T18:30:00Z",
         "category": "entertainment",
-        "summary": "Christopher Nolan's upcoming film, The Odyssey, has sparked controversy regarding its casting, dialogue, filming, and design choices. The backlash has intensified ahead of its release on July 17, 2026. Known for creating successful films, Nolan's previous work, Oppenheimer, also generated significant debate. The controversies surrounding The Odyssey have emerged even before the historical epic reaches theaters.",
-        "wordCount": 56
+        "summary": "Daily horoscope predictions for July 16, 2026, are available, detailing astrological events and influences affecting each of the 12 zodiac signs. An astrologer has analyzed planetary movements and alignments to provide insights into how these celestial factors may impact individuals. Readers can explore personalized forecasts based on their zodiac signs to understand potential influences on their day.",
+        "wordCount": 57
       }
     ]
   }
