@@ -1,217 +1,227 @@
 {
-  "updatedAt": "2026-07-16T13:06:23.675Z",
+  "updatedAt": "2026-07-17T15:50:13.198Z",
   "categories": {
     "world": [
       {
-        "title": "Argentina players brandish political Falklands flag after England match",
-        "url": "https://www.aljazeera.com/sports/2026/7/15/argentina-players-brandish-political-falklands-flag-after-england-match",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a58094a1f53b-1784154442.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-07-15T23:36:28Z",
+        "title": "West Asia war LIVE: China, Pakistan call on U.S. and Iran to resume talks",
+        "url": "https://www.thehindu.com/news/international/west-asia-war-us-iran-conflict-washington-strikes-tehran-donald-trump-strait-of-hormuz-live-updates-july-17-2026/article71232634.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/hindi/editorial/uf9nnx/article71232842.ece/alternates/LANDSCAPE_1200/HNYg08XWwAEBInp.jpg",
+        "publishedAt": "2026-07-17T03:35:35Z",
         "category": "world",
-        "summary": "Argentina players Lisandro Martinez and Giovani Lo Celso displayed a political banner reading “Las Malvinas Son Argentinas” after their 2-1 World Cup semifinal win against England. This act is seen as a violation of FIFA’s Stadium Code of Conduct, which prohibits political statements in stadiums. The incident highlights ongoing tensions regarding the sovereignty of the Falkland Islands.",
-        "wordCount": 57
+        "summary": "China and Pakistan have urged the U.S. and Iran to resume diplomatic talks amid escalating tensions in West Asia. Recent U.S. airstrikes targeted Iranian positions on Qeshm Island and near Bandar Abbas, impacting shipping activity. On July 16, only three vessels transited the Strait of Hormuz, the lowest daily count since May, following Iranian attacks on maritime targets.",
+        "wordCount": 58
       },
       {
-        "title": "‘Really big news’: What to know about Trump’s primetime speech on Thursday",
-        "url": "https://www.aljazeera.com/news/2026/7/15/really-big-news-what-to-know-about-trumps-primetime-speech-on-thursday",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/epa_6a57dd111691-1784143121.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-07-15T23:07:30Z",
+        "title": "US-Iran news LIVE: Sirens go off in Qatar after US targets Iranian bridges; White House says Tehran still wants deal",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-news-live-updates-attacks-bridges-railway-station-airport-qatar-kuwait-bahrain-trump-araghchi-hormuz-strait-101784252701374.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/17/550x309/IRAN-US-ISRAEL-WAR-9_1784253749132_1784253754771_efd2f9f2-4bbc-4007-a795-34cef4dbda30.jpg",
+        "publishedAt": "2026-07-17T02:03:21Z",
         "category": "world",
-        "summary": "President Donald Trump will deliver a rare primetime address on Thursday, teasing \"really big news.\" The announcement, made on Tuesday, comes amid renewed scrutiny from the White House regarding the 2020 election and ongoing discussions about new voting restrictions. Details of the speech remain unclear, as Trump has not disclosed the specific topics he intends to address.",
-        "wordCount": 57
-      },
-      {
-        "title": "As Ukraine Cripples Russian Refining, Global Diesel Markets Pay the Price",
-        "url": "https://oilprice.com/Energy/Crude-Oil/As-Ukraine-Cripples-Russian-Refining-Global-Diesel-Markets-Pay-the-Price.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-15_v896y4l3sf.jpg",
-        "publishedAt": "2026-07-15T23:00:00Z",
-        "category": "world",
-        "summary": "Ukraine's actions have severely impacted Russia's refining capabilities, reducing crude processing to a 21-year low. In response, Russia has imposed export bans on gasoline, jet fuel, and diesel, while increasing fuel imports to satisfy domestic demand. These developments have led to fuel shortages in global markets, affecting availability and prices of diesel and other refined products.",
+        "summary": "Sirens were activated in Qatar following US airstrikes targeting Iranian bridges and a railway station, as reported by Fars News Agency. Additionally, power lines in Bandar Abbas and nearby villages suffered damage. In response, Iran launched attacks on American bases in the Gulf region. The White House stated that Tehran remains interested in pursuing a deal.",
         "wordCount": 56
+      },
+      {
+        "title": "Trump says US 'winning big' in Iran, cites Venezuela as blueprint for strategy: 'Will see fruits very shortly'",
+        "url": "https://www.moneycontrol.com/world/trump-says-us-winning-big-in-iran-cites-venezuela-as-blueprint-for-strategy-will-see-fruits-very-shortly-article-13976162.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260706143751_Trump-Crypto.jpg",
+        "publishedAt": "2026-07-17T01:51:33Z",
+        "category": "world",
+        "summary": "US President Donald Trump stated that the US is \"winning big\" in Iran, drawing parallels to its strategy in Venezuela. He claimed Venezuela is collaborating with the US to produce millions of barrels of oil. Trump's comments come amid escalating tensions in the US-Iran conflict, suggesting that positive outcomes from these strategies will be seen \"very shortly.\"",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "New technology helps EPFO clear claims faster",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/new-technology-helps-epfo-clear-claims-faster/articleshow/132427315.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132427322,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-16T00:43:00Z",
-        "category": "business",
-        "summary": "The Employees' Provident Fund Organisation (EPFO) in India is utilizing new technology to expedite the settlement of claims and reduce backlog. This advancement also facilitates quicker deposits of interest income into subscriber accounts. The implementation of this technology aims to enhance efficiency and improve service delivery for EPFO members, ensuring timely access to their funds and benefits.",
-        "wordCount": 57
-      },
-      {
-        "title": "MFs buy financials, IT, FMCG stocks as FIIs remain sellers in June",
-        "url": "https://www.moneycontrol.com/news/business/mutual-funds/mfs-buy-financials-it-fmcg-stocks-as-fiis-remain-sellers-in-june-13974711.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260627025033_stocks5.jpg",
-        "publishedAt": "2026-07-15T23:30:51Z",
-        "category": "business",
-        "summary": "Domestic mutual funds increased their investments in financials, IT, FMCG, and healthcare sectors in June, countering significant selling by foreign institutional investors (FIIs). Data from AMFI and NSDL indicates that mutual funds were net buyers in these areas, highlighting a shift in market dynamics as local investors capitalized on opportunities despite the ongoing foreign sell-off.",
-        "wordCount": 55
-      },
-      {
-        "title": "L&T Realty buys land in Central Delhi for Rs 200 crore",
-        "url": "https://economictimes.indiatimes.com/industry/services/property-/-cstruction/lt-realty-buys-land-in-central-delhi-for-rs-200-crore/articleshow/132424702.cms?from=mdr",
+        "title": "JPMorgan says 100+ MNCs are exploring GIFT City operations",
+        "url": "https://economictimes.indiatimes.com/news/economy/finance/jpmorgan-says-100-mncs-are-exploring-gift-city-operations/articleshow/132451805.cms?from=mdr",
         "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-132424800,width-1200,height-630,imgsize-44986,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-15T20:16:55Z",
+        "image": "https://img.etimg.com/thumb/msid-132451880,width-1200,height-630,imgsize-97796,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-17T03:45:45Z",
         "category": "business",
-        "summary": "L&T Realty Developers has purchased a 2.5-acre land parcel in central Delhi for approximately ₹200 crore. The company intends to build a boutique luxury residential project on the site. This acquisition follows L&T Realty Properties' earlier stake purchase in Gurugram. The existing L&T office structure on the land will be demolished to facilitate the new development.",
+        "summary": "JPMorgan reports that over 100 multinational companies are considering operations in GIFT City, attracted by its banking and payment solutions for corporate treasury functions. The city offers tax incentives, a single regulatory framework, and foreign currency capabilities, enhancing its appeal. These factors are positioning GIFT City as a potential global financial hub for multinational treasury centers in India.",
+        "wordCount": 58
+      },
+      {
+        "title": "New Toyota Hilux Teased Ahead Of India Launch On 28th July",
+        "url": "https://www.rushlane.com/new-toyota-hilux-teased-ahead-of-india-launch-on-28th-july-12551148.html",
+        "source": "RushLane",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/07/new-toyota-hilux-india-launch-teaser-1.jpeg",
+        "publishedAt": "2026-07-17T03:30:54Z",
+        "category": "business",
+        "summary": "Toyota is set to launch the new 9th-generation Hilux in India on July 28. While the global model features mild-hybrid and battery electric vehicle (BEV) options, the India-specific version is anticipated to maintain the current 2.8-litre turbo diesel engine. The company is preparing for the introduction of this updated model in the Indian market.",
+        "wordCount": 54
+      },
+      {
+        "title": "Govt weighs lower than 0.5% MDR on UPI transactions for large merchants",
+        "url": "https://www.moneycontrol.com/news/business/government-weighs-upi-merchant-fee-for-large-businesses-on-payments-above-rs-2-000-13976276.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2025/12/20251208113303_UPI42.jpg",
+        "publishedAt": "2026-07-17T03:29:30Z",
+        "category": "business",
+        "summary": "The government is contemplating a merchant discount rate (MDR) for UPI transactions involving large merchants, potentially set below 0.5 percent. This fee would be applicable solely to merchants and not to consumers. The move aims to regulate transaction costs for larger businesses utilizing the Unified Payments Interface, although specific details and implementation timelines remain under discussion.",
         "wordCount": 56
       }
     ],
     "technology": [
       {
-        "title": "Skullcandy's new Crusher 1080 ANC packs Bose tech you can't get anywhere else",
-        "url": "https://www.soundguys.com/skullcandy-crusher-1080-anc-launch-160164/",
-        "source": "SoundGuys",
-        "image": "https://www.soundguys.com/wp-content/uploads/2026/07/Skullcandy_Crusher_1080_ANC_Family_Press_Images_9645-1-scaled.jpg",
-        "publishedAt": "2026-07-16T00:00:00Z",
+        "title": "Apple iPhone 18 Pro Max: Will it cross Rs 1.50 lakh in India? Reports reveal expected price",
+        "url": "https://www.etnownews.com/technology/apple-iphone-18-pro-max-will-it-cross-rs-1-50-lakh-in-india-reports-reveal-expected-price-article-155114080",
+        "source": "ET Now",
+        "image": "https://images.etnownews.com/thumb/msid-155114080,updatedat-1784263277751,width-1280,height-720,resizemode-75/155114080.jpg",
+        "publishedAt": "2026-07-17T03:41:57Z",
         "category": "technology",
-        "summary": "Skullcandy has introduced the Crusher 1080 ANC headphones, priced at $279.99. These headphones feature adjustable sensory bass and incorporate three exclusive Bose technologies: Bose QuietControl adaptive active noise cancellation, Bose TrueSpatial audio, and Bose CustomTune. This marks the first instance of Bose technology being used in non-Bose headphones, enhancing the audio experience for users.",
-        "wordCount": 54
+        "summary": "Reports suggest that the Apple iPhone 18 Pro Max may exceed Rs 1.50 lakh in India. Counterpoint Research estimates the bill of materials (BOM) for the 1TB variant at approximately USD 900, which is USD 350 higher than the iPhone 17 Pro Max’s estimated BOM of USD 550. Pricing details remain speculative as the launch approaches.",
+        "wordCount": 56
       },
       {
-        "title": "1 New PS Plus Extra Game Available to Download Now",
-        "url": "https://www.pushsquare.com/news/2026/07/1-new-ps-plus-extra-game-available-to-download-now",
-        "source": "Push Square",
-        "image": "https://images.pushsquare.com/a775f831c531b/large.jpg",
-        "publishedAt": "2026-07-15T23:30:00Z",
+        "title": "EU orders Google to share search data with rivals, broaden Android feature access",
+        "url": "https://siliconangle.com/2026/07/16/eu-orders-google-share-search-data-rivals-broaden-android-feature-access/",
+        "source": "SiliconANGLE",
+        "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Google.png",
+        "publishedAt": "2026-07-17T00:35:17Z",
         "category": "technology",
-        "summary": "Sony has updated its PS Plus Extra schedule, making a newly announced game available for download in the US, UK, and Japan. Players have begun sharing their experiences, noting the game's decent graphics and gameplay. Some comparisons have been made to \"Ghost of Yōtei,\" suggesting a similar aesthetic. The game is now accessible to subscribers of the service.",
+        "summary": "The European Union has mandated Google LLC to modify its business practices in search and mobile markets. This directive includes sharing search data with competitors and expanding access to Android features. The changes are detailed in two binding specification measures issued by the European Commission, aimed at fostering competition and ensuring a fairer digital marketplace for all stakeholders.",
         "wordCount": 58
       },
       {
-        "title": "More details about OpenAI's smart speaker surface",
-        "url": "https://www.gsmarena.com/more_details_about_openais_smart_speaker_surface-news-73736.php",
-        "source": "GSMArena.com",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/openai-smart-speaker-new-details/-952x498w6/gsmarena_000.jpg",
-        "publishedAt": "2026-07-15T21:00:02Z",
+        "title": "EU Commission sets binding rules for Google on Android AI interoperability and Search data sharing",
+        "url": "https://ieu-monitoring.com/editorial/eu-commission-sets-binding-rules-for-google-on-android-ai-interoperability-and-search-data-sharing/1245838?utm_source=ieu-portal",
+        "source": "INSIGHT EU MONITORING",
+        "image": "https://ieu-monitoring.com/wp-content/uploads//2023/11/ieu-logo-neu-150x150.png",
+        "publishedAt": "2026-07-16T16:04:44Z",
         "category": "technology",
-        "summary": "OpenAI is developing its first physical product, a screen-less smart speaker, as reported by Bloomberg's Mark Gurman. The device is intended for home use and is designed for portability, featuring a rechargeable battery. This marks OpenAI's entry into hardware, expanding its offerings beyond software and artificial intelligence applications. Further details about functionality and release date remain undisclosed.",
+        "summary": "The European Commission has introduced binding rules for Google regarding Android AI interoperability and search data sharing, as part of the Digital Markets Act. These measures aim to promote competition by ensuring that competitors' AI systems can interact effectively with Google's platforms and that data sharing practices are transparent and fair, enhancing the overall digital market landscape.",
         "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "Argentina vs Spain: The dream World Cup 2026 Final for Barcelona fans",
-        "url": "https://www.barcablaugranes.com/world-cup-2026/126724/argentina-vs-spain-the-dream-world-cup-2026-final-for-barcelona-fans",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/05/gettyimages-2238285390.jpg?quality=90&strip=all&crop=0%2C10.75214828329%2C100%2C78.49570343342&w=1200",
-        "publishedAt": "2026-07-16T01:00:00Z",
+        "title": "Rohit too good a player to feel pressure: Sitanshu Kotak",
+        "url": "https://www.cricbuzz.com/cricket-news/139567/rohit-too-good-a-player-to-feel-pressure-sitanshu-kotak",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1038090/rohit-sharma-has-had-two-quiet-knocks-in-the-series-with-just-the-lords-game-to-go.jpg",
+        "publishedAt": "2026-07-17T02:44:37Z",
         "category": "sports",
-        "summary": "Argentina triumphed over England 2-1 in the World Cup 2026 semi-finals, advancing to face Spain in the final. Despite trailing 1-0 due to a goal from FC Barcelona's Anthony Gordon, Argentina rallied to secure their victory. The matchup will feature Lionel Messi and Lamine Yamal, creating a highly anticipated showdown for Barcelona fans on the world stage.",
-        "wordCount": 57
+        "summary": "Indian batting coach Sitanshu Kotak expressed confidence in Rohit Sharma's abilities despite his poor performance in the second ODI against England, where India lost by four wickets. Kotak emphasized that Rohit is too skilled to feel pressure and believes he will perform well in the upcoming ODI at Lord's. The series is currently tied at one match each.",
+        "wordCount": 58
       },
       {
-        "title": "Argentina risk FIFA punishment after Falkland Islands banner during England win celebrations",
-        "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/argentina-risk-fifa-punishment-after-falkland-islands-banner-during-england-win-celebrations/articleshow/132427331.cms",
+        "title": "'Nothing was handed to Argentina': Lionel Messi unloads on favouritism claims",
+        "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/nothing-was-handed-to-argentina-lionel-messi-unloads-on-favouritism-claims/articleshow/132450886.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132427348,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-16T00:58:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-132450950,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-17T02:37:00Z",
         "category": "sports",
-        "summary": "Argentina may face FIFA disciplinary action following its players' celebration of their World Cup 2026 semi-final victory over England, during which they displayed a banner asserting the country's claim to the Falkland Islands. The incident has raised concerns regarding potential violations of FIFA regulations, as the governing body addresses political statements made during football events.",
+        "summary": "Lionel Messi has responded to critics alleging favoritism in Argentina's journey to the FIFA World Cup final. He emphasized that the defending champions have rightfully earned their place through their performances, rejecting claims of favorable officiating or external influences. Messi's comments highlight the team's dedication and hard work, asserting that their success is a result of their own efforts.",
+        "wordCount": 59
+      },
+      {
+        "title": "Where's the hitman? Rohit Sharma's form a growing concern for India's ODI World Cup plans",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-tour-of-england/wheres-the-hitman-rohit-sharmas-form-a-growing-concern-for-indias-odi-world-cup-plans/articleshow/132450450.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132450468,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-17T01:35:00Z",
+        "category": "sports",
+        "summary": "Rohit Sharma's performance in the ODI series against England raises concerns for India's World Cup plans. He scored only 37 runs across two matches, with a 21-ball 11 at Edgbaston and a 47-ball 26 at Sophia Gardens. His struggle to find form may impact India's strategy as they prepare for the upcoming World Cup tournament.",
         "wordCount": 55
       }
     ],
     "health": [
       {
-        "title": "Doctor Explains Why Type 1 Diabetes Patients Cannot Switch to Pills",
-        "url": "https://indianexpress.com/article/lifestyle/health/type-1-diabetes-stopping-insulin-affects-diabetic-ketoacidosis-10778576/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/07/insulin-feature.png",
-        "publishedAt": "2026-07-16T00:30:31Z",
+        "title": "Beyond MBBS: Why health literacy challenge needs more than doctors",
+        "url": "https://www.thehindu.com/education/beyond-mbbs-why-health-literacy-challenge-needs-more-than-doctors/article71229268.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/education/lck8ov/article71229308.ece/alternates/LANDSCAPE_1200/iStock-1496640787.jpg",
+        "publishedAt": "2026-07-17T03:30:00Z",
         "category": "health",
-        "summary": "A 26-year-old with Type 1 diabetes died after substituting insulin with diabetes pills. Experts, including Dr. Rajiv Kovil, emphasize that insulin is essential for Type 1 patients, as it regulates blood sugar levels. They also highlight the dangers of diabetic ketoacidosis (DKA) and the critical warning signs to monitor. Patients are advised to consult healthcare professionals for proper management.",
-        "wordCount": 59
+        "summary": "In India, healthcare trust is increasingly shifting from doctors to online sources, underscoring a critical need for enhanced health literacy. As urban migration has distanced individuals from traditional family doctors, many now seek medical information online. This change highlights the importance of improving public understanding of health issues, ensuring that individuals can make informed decisions about their healthcare.",
+        "wordCount": 58
       },
       {
-        "title": "Omic Biomarker Approach for Ovarian Cancer Detection",
-        "url": "https://clpmag.com/disease-states/cancer/multiomic-molecular-marker-approach-ovarian-cancer-detection-study/",
-        "source": "Clinical Lab Products",
-        "image": "https://clpmag.com/wp-content/uploads/2026/07/ovarian-cancer.jpg",
-        "publishedAt": "2026-07-15T20:43:55Z",
+        "title": "WHO gets less than half funding to fight Ebola in DRC",
+        "url": "https://medicalbuyer.co.in/who-gets-less-than-half-funding-to-fight-ebola-in-drc/",
+        "source": "Medical Buyer",
+        "image": "https://medicalbuyer.co.in/wp-content/uploads/2026/07/WHO-gets-less-than-half-funding-to-fight-Ebola-in-DRC.jpg",
+        "publishedAt": "2026-07-17T02:37:26Z",
         "category": "health",
-        "summary": "A peer-reviewed study published in a diagnostic journal validates AOA Dx's multi-omic approach for detecting ovarian cancer. Researchers analyzed serum from 503 symptomatic patients, identifying coordinated lipid, metabolite, and protein signatures. This study supports the use of a multi-omic strategy, potentially enabling earlier detection of ovarian cancer, which could improve patient outcomes and treatment options.",
-        "wordCount": 55
+        "summary": "The World Health Organization has received only 40% of the $115 million needed to combat the Ebola outbreak in eastern Democratic Republic of Congo. A WHO official emphasized the urgency of the situation, urging donors to continue their support during this critical phase of the epidemic. The lack of funding poses significant challenges to effective response efforts.",
+        "wordCount": 57
       },
       {
-        "title": "New drug candidate improves Parkinson's treatment in animal models",
-        "url": "https://www.news-medical.net/news/20260715/New-drug-candidate-improves-Parkinsons-treatment-in-animal-models.aspx",
-        "source": "News-Medical",
-        "image": "https://www.news-medical.net/image-handler/picture/2015/7/image_28620e4b6b0047f7ab9154b41d739db1-620x480.jpg",
-        "publishedAt": "2026-07-15T20:10:00Z",
+        "title": "Can't stop sneezing this monsoon? Doctor says it could be more than an allergy, and these warning signs should never be ignored",
+        "url": "https://timesofindia.indiatimes.com/health/cant-stop-sneezing-this-monsoon-doctor-says-it-could-be-more-than-an-allergy-and-these-warning-signs-should-never-be-ignored/photostory/132441569.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132441617,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-17T02:30:00Z",
         "category": "health",
-        "summary": "A new drug candidate has shown promise in improving Parkinson's disease treatment in animal models. Parkinson's affects movement, causing symptoms like tremors, muscle stiffness, and balance issues. Current treatments primarily include L-dopa, but the new candidate may enhance therapeutic outcomes. Researchers are optimistic about its potential to address the limitations of existing therapies, paving the way for future clinical trials.",
-        "wordCount": 60
+        "summary": "During the monsoon, persistent sneezing may indicate more than seasonal allergies. While many attribute symptoms like a runny nose to allergies, they can also stem from viral infections, sinus issues, or asthma-related inflammation. Misdiagnosing these conditions can lead to ineffective treatments. It is crucial to recognize when sneezing warrants further medical attention to address the underlying cause effectively.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "Exploring the Cosmos: Global Science Collaborations Push Boundaries",
-        "url": "https://www.devdiscourse.com/article/science-environment/3950950-exploring-the-cosmos-global-science-collaborations-push-boundaries",
-        "source": "Devdiscourse",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_05_2026_08_34_59_12309.jpg&width=920&format=jpeg",
-        "publishedAt": "2026-07-15T20:58:17Z",
+        "title": "Could we create a black hole in a laboratory on Earth?",
+        "url": "https://www.rocketstem.org/2026/07/16/could-we-create-a-black-hole-in-a-laboratory-on-earth/",
+        "source": "RocketSTEM",
+        "image": "https://www.rocketstem.org/wp-content/uploads/2026/07/eso0903a-cropped-scaled.jpg",
+        "publishedAt": "2026-07-16T19:40:33Z",
         "category": "science",
-        "summary": "Russia launched an American astronaut and two cosmonauts to the International Space Station, marking a significant collaboration with NASA. The mission took place from Kazakhstan's Baikonur Cosmodrome. Additionally, the Vera Rubin Observatory in Chile has initiated a decade-long project to capture the universe on film. Scientists are also set to study the effects of Greenland's glacier melt.",
+        "summary": "Creating a black hole in a laboratory could provide valuable insights into the universe's workings. Currently, all observed black holes are natural phenomena located far from Earth. Researchers, including astronomers, are exploring the feasibility of laboratory-created black holes to study their interactions with surrounding matter. This endeavor could enhance our understanding of fundamental astrophysical processes.",
+        "wordCount": 55
+      },
+      {
+        "title": "How a hidden shift in the Atlantic could rewire the seasons",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/how-a-hidden-shift-in-the-atlantic-could-rewire-the-seasons/articleshow/132447633.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132447765,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-16T19:39:00Z",
+        "category": "science",
+        "summary": "A human-sized, uncrewed probe is currently drifting in the deep waters off Greenland, analyzing underwater conditions. Equipped with advanced sensors, the probe aims to gather crucial data that may reveal significant changes in the Atlantic Ocean's currents. These findings could potentially alter seasonal weather patterns, highlighting the importance of understanding ocean dynamics in relation to climate change.",
         "wordCount": 57
       },
       {
-        "title": "Scientists develop ultrathin skin sensors for seamless health tracking",
-        "url": "https://www.news-medical.net/news/20260715/Scientists-develop-ultrathin-skin-sensors-for-seamless-health-tracking.aspx",
-        "source": "News-Medical",
-        "image": "https://www.news-medical.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg",
-        "publishedAt": "2026-07-15T20:15:00Z",
-        "category": "science",
-        "summary": "Scientists have developed ultrathin skin sensors designed for seamless health tracking. Unlike traditional wearable health devices, which can be uncomfortable and draw attention, these new sensors adhere closely to the skin, minimizing visibility and self-consciousness. This innovation aims to enhance user experience while providing accurate health monitoring, potentially transforming how individuals track their health and wellness.",
-        "wordCount": 56
-      },
-      {
-        "title": "Breakthrough Study Uncovers New Evidence Connecting “Hidden\" Dimensions to Mystery of Dark Matter",
-        "url": "https://thedebrief.org/breakthrough-study-uncovers-new-evidence-connecting-hidden-dimensions-to-mystery-of-dark-matter/",
+        "title": "An ‘Asteroid’ Tracked Since 1998 Made an Unexplained Orbital Shift-Now Astronomers Say It’s Something Far More Mysterious",
+        "url": "https://thedebrief.org/an-asteroid-tracked-since-1998-made-an-unexplained-orbital-shift-now-astronomers-say-its-something-far-more-mysterious/",
         "source": "The Debrief",
-        "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/07/Dark-Matter.jpg",
-        "publishedAt": "2026-07-15T18:53:59Z",
+        "image": "https://thedebrief.b-cdn.net/wp-content/uploads/2026/07/1998-SH2.jpg",
+        "publishedAt": "2026-07-16T18:01:17Z",
         "category": "science",
-        "summary": "New research has identified potential connections between dark matter, a significant cosmic mystery, and a hypothesized hidden fifth dimension. This study aims to deepen understanding of dark matter, which is widely accepted in cosmological theories but remains elusive. The findings could provide new insights into the fundamental structure of the universe and the forces that shape it.",
-        "wordCount": 57
+        "summary": "Astronomers have reported an unexplained orbital shift of a space object tracked since 1998, initially believed to be an asteroid. Last summer, during its near approach, the object did not appear where predicted, leading researchers to reconsider its classification. This unexpected behavior has prompted further investigation into the object's nature, suggesting it may be something more mysterious than previously thought.",
+        "wordCount": 60
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: July 16, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-july-16-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-07-16T00:30:00Z",
+        "title": "Aamir Khan says 3 Idiots wasn't inspired by Sonam Wangchuk, expresses concern over his health: ‘Hope he ends his fast’",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/aamir-khan-says-3-idiots-wasnt-inspired-by-sonam-wangchuk-expresses-concern-over-health-hunger-strike-jantar-mantar-101784253000809.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/17/550x309/Aamir_Khan_Sonam_Wangchuk_1784252996388_1784252996504_1d9642c3-d689-4496-8967-64a46f729cb9.jpg",
+        "publishedAt": "2026-07-17T02:29:30Z",
         "category": "entertainment",
-        "summary": "On July 16, 2026, Taurus is encouraged to explore creative solutions to challenges. Adapting alternate routes and approaches can help manage a busy schedule. It’s essential for Taurus to refocus on priorities to navigate the demands ahead. The horoscope suggests that staying proactive and flexible will be beneficial in overcoming obstacles and achieving goals.",
-        "wordCount": 54
+        "summary": "Aamir Khan addressed rumors regarding his character Rancho in \"3 Idiots,\" stating it was not inspired by activist Sonam Wangchuk. He expressed concern for Wangchuk's health amid his ongoing indefinite hunger strike, hoping for a resolution. Khan made these remarks during a special appearance at the London Indian Film Festival, coinciding with the screening of \"Lagaan.\"",
+        "wordCount": 56
       },
       {
-        "title": "Pisces Horoscope Today: July 16, 2026",
-        "url": "https://www.vogue.in/content/pisces-horoscope-today-july-16-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
-        "publishedAt": "2026-07-16T00:20:00Z",
+        "title": "Why Nolan’s vision for 'The Odyssey' doesn't fit on India’s screens",
+        "url": "https://indianexpress.com/article/explained/why-nolans-vision-for-imax-odyssey-doesnt-fit-on-indias-screens-10789863/",
+        "source": "The Indian Express",
+        "image": "https://images.indianexpress.com/2026/07/ex-nolanImaxcamera-5col.jpg.jpeg",
+        "publishedAt": "2026-07-17T01:00:30Z",
         "category": "entertainment",
-        "summary": "Pisces individuals may feel uncertain about upcoming opportunities, experiencing a sense of being trapped. This feeling is described as illusionary and temporary. To alleviate this, it is recommended to engage in physical activity, such as walking or running, while disconnecting from digital distractions. Embracing these moments can help clear the mind and foster a better perspective on challenges ahead.",
-        "wordCount": 59
+        "summary": "Only 41 theatres worldwide can project 'The Odyssey' in its original 15/70mm format, with India lacking any commercial venue for this. Consequently, Indian audiences will only see digital versions of the film. The limitations stem from architectural and economic factors affecting multiplex operators, influencing the post-production process and the ability to showcase the film as intended.",
+        "wordCount": 56
       },
       {
-        "title": "Scorpio Horoscope Today: July 16, 2026",
-        "url": "https://www.vogue.in/content/scorpio-horoscope-today-july-16-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e052102d2f4db9b8e92b/16:9/w_1280,c_limit/9-Scorpio_16;9.png",
-        "publishedAt": "2026-07-16T00:20:00Z",
+        "title": "'I used full body makeup to match the colour of my face with my body': Sameera Reddy reveals on being made ‘two to three shades lighter’ in her debut film 'Maine Dil Tujhko Diya' with Sohail Khan",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-used-full-body-makeup-to-match-the-colour-of-my-face-with-my-body-sameera-reddy-reveals-on-being-made-two-to-three-shades-lighter-in-her-debut-film-maine-dil-tujhko-diya-with-sohail-khan/articleshow/132450279.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132450279,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-17T00:40:00Z",
         "category": "entertainment",
-        "summary": "Scorpio horoscope for July 16, 2026, emphasizes the importance of addressing underlying issues in teamwork and collaboration. Despite feeling burdened by external pressures, it's advised not to dwell on matters beyond one's control. The focus should be on recognizing personal boundaries and not losing sleep over situations that are not one's fault, allowing for a more balanced perspective.",
+        "summary": "Sameera Reddy disclosed that during her debut film 'Maine Dil Tujhko Diya', she was made two to three shades lighter using makeup, and wore padded bras and bum pads. She also used colored lenses. Reddy, who returned to Hindi cinema after 14 years in 'Aakhri', shared her struggles with body image and skin color insecurities until her 40s.",
         "wordCount": 58
       }
     ]
