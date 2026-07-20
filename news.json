@@ -1,228 +1,228 @@
 {
-  "updatedAt": "2026-07-19T14:54:02.920Z",
+  "updatedAt": "2026-07-20T08:37:14.864Z",
   "categories": {
     "world": [
       {
-        "title": "Death to the compromiser: Iran hardliners turn on leadership over US deal",
-        "url": "https://www.indiatoday.in/world/story/iran-soft-coup-allegations-us-deal-mojtaba-khamenei-absence-2951089-2026-07-19",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/death-to-the-compromiser-iran-hardliners-turn-on-leadership-over-us-deal-191522235-16x9_0.jpeg?VersionId=DIGD1vYCcTzgGpk4qD7c3MxlQ3VHlKde",
-        "publishedAt": "2026-07-19T02:16:48Z",
+        "title": "US-Iran war LIVE: US service member killed in Iraq; missiles hit Abadan as war escalates",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-strikes-tehran-kuwait-bahrain-uae-strait-of-hormuz-trump-mojtaba-brent-crude-price-news-july-19-101784424546450.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/19/550x309/TOPSHOT-IRAN-US-ISRAEL-WAR-0_1784449525705_1784449541772_6894aff1-f286-48eb-bf96-30aa8eadad56.jpg",
+        "publishedAt": "2026-07-19T20:31:40Z",
         "category": "world",
-        "summary": "Hardline factions in Iran are criticizing senior leaders for allegedly orchestrating a \"soft coup\" following a recent agreement with the United States. This accusation has intensified existing internal divisions within the political establishment. Notably, Mojtaba Khamenei, the Supreme Leader's son, has remained out of public view during this period of heightened tension among Iran's leadership.",
+        "summary": "Two US soldiers were killed and four injured in Iranian fire in Jordan, escalating tensions in the ongoing US-Iran conflict. In response, the US military conducted airstrikes against Iran on Sunday, targeting the Revolutionary Guard to \"swiftly punish\" them for the casualties. Meanwhile, missiles struck Abadan, further intensifying the situation. The conflict continues to evolve with significant military actions.",
+        "wordCount": 59
+      },
+      {
+        "title": "Watch: Donald Trump makes dramatic Marine One arrival at Argentina vs Spain FIFA World Cup final",
+        "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-donald-trump-makes-dramatic-marine-one-arrival-at-argentina-vs-spain-fifa-world-cup-final/articleshow/132501186.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132501212,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-19T19:44:00Z",
+        "category": "world",
+        "summary": "United States President Donald Trump made a notable entrance at the FIFA World Cup 2026 final held at MetLife Stadium. Arriving aboard Marine One, he captured attention before the match between Argentina and Spain commenced. His dramatic arrival highlighted his presence at the high-profile event, setting the stage for the final showdown in international football.",
         "wordCount": 55
       },
       {
-        "title": "Tate brothers arrested in Miami as UK adds rape, trafficking charges",
-        "url": "https://www.aljazeera.com/news/2026/7/19/tate-brothers-arrested-in-miami-as-uk-adds-rape-trafficking-charges",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a5c17d44e-1784420308.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-07-19T02:08:39Z",
+        "title": "Donald Trump and Shakira make their World Cup final predictions",
+        "url": "https://gulfnews.com/sport/football/world-cup/donald-trump-and-shakira-make-their-world-cup-final-predictions-1.500613389",
+        "source": "Gulf News",
+        "image": "https://media.assettype.com/gulfnews%2F2026-07-19%2Fnmsb6cwg%2FTrump-and-Shakira?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-07-19T18:50:31Z",
         "category": "world",
-        "summary": "Andrew and Tristan Tate were arrested in Miami, Florida, on a sealed warrant, according to the United States Marshals Service. The UK government is pursuing their extradition to face charges of rape and sex trafficking. The arrest occurred on Saturday, and the authorities are coordinating efforts to address the legal proceedings related to the allegations against the brothers.",
-        "wordCount": 58
-      },
-      {
-        "title": "U.S. military launches new airstrikes to ‘swiftly punish’ Iran for deaths of U.S. troops",
-        "url": "https://www.thehindu.com/news/international/us-military-launches-new-airstrikes-to-swiftly-punish-iran-for-deaths-of-us-troops/article71240534.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/c2disl/article71240543.ece/alternates/LANDSCAPE_1200/AFP_C2JR9DW.jpg",
-        "publishedAt": "2026-07-19T01:53:39Z",
-        "category": "world",
-        "summary": "The U.S. military conducted airstrikes against Iran on July 19, 2026, in response to attacks that resulted in the deaths of two American troops and left one missing. The strikes targeted oil traffic control linked to Iran's Revolutionary Guard. This action aims to “swiftly punish” Iran for its involvement in the attacks on U.S. service members in Jordan.",
-        "wordCount": 58
+        "summary": "Donald Trump and Shakira have made predictions for the FIFA World Cup 2026 final between Spain and Argentina, highlighting Lionel Messi's potential to secure back-to-back titles. Trump praised Messi's skills, particularly a decisive pass he made, emphasizing the importance of teamwork in achieving success. Both celebrities expressed confidence in Messi's abilities as a key player in the upcoming match.",
+        "wordCount": 59
       }
     ],
     "business": [
       {
-        "title": "Man quits Rs 38,000-a-month job, starts tea shop, now earns Rs 1.8 lakh every month",
-        "url": "https://www.moneycontrol.com/news/trends/man-quits-rs-38-000-a-month-job-starts-tea-shop-now-earns-rs-1-8-lakh-every-month-13977615.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260719025056_Tea-Shop.png",
-        "publishedAt": "2026-07-19T02:52:05Z",
+        "title": "Gold (XAUUSD) Price Forecast: Gold Consolidates as Oil Clouds Fed Outlook",
+        "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-price-forecast-gold-consolidates-as-oil-clouds-fed-outlook-1611389",
+        "source": "FXEmpire",
+        "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/3Gold-Coins-1.jpg?func=cover&q=70&width=1201",
+        "publishedAt": "2026-07-19T20:17:00Z",
         "category": "business",
-        "summary": "A former Teleperformance employee left his Rs 38,000-a-month job to open a tea shop, investing Rs 2 lakh. He now reportedly earns Rs 1.8 lakh monthly, with nearly Rs 1 lakh in profit. The story has gone viral on social media, prompting discussions about entrepreneurship and the risks involved in leaving traditional employment for business opportunities.",
-        "wordCount": 56
-      },
-      {
-        "title": "US judge to Meta's laid off employees: Cannot stop the company from job cuts, but can reconsider if you can provide how ...",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-judge-to-metas-laid-off-employees-cannot-stop-the-company-from-job-cuts-but-can-reconsider-if-you-can-provide-how-/articleshow/132489332.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132489333,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-19T02:51:00Z",
-        "category": "business",
-        "summary": "A US judge has ruled that Meta Platforms can proceed with its planned layoffs of 26 employees who filed a lawsuit against the company. The judge stated that while the layoffs cannot be halted, the employees may have the opportunity to reconsider their position if they can provide additional information. This decision allows Meta to continue its restructuring efforts.",
+        "summary": "Gold prices are consolidating as traders evaluate the impact of rising oil prices on inflation and Federal Reserve policy. The market is focusing on inflation concerns stemming from increasing crude oil costs rather than geopolitical conflicts. This situation has led traders to adjust their expectations regarding gold's potential breakout, reflecting the ongoing interplay between oil prices and inflation dynamics.",
         "wordCount": 59
       },
       {
-        "title": "India's IT model is out of date. Can the industry reinvent itself?",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/indias-it-model-is-out-of-date-can-the-industry-reinvent-itself/articleshow/132489178.cms?from=mdr",
+        "title": "Ethanol could soon make its way to Indian kitchens",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ethanol-could-soon-make-its-way-to-indian-kitchens/articleshow/132500993.cms?from=mdr",
         "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-132489238,width-1200,height-630,imgsize-204664,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-19T02:45:13Z",
+        "image": "https://img.etimg.com/thumb/msid-132505127,width-1200,height-630,imgsize-133684,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-19T19:39:54Z",
         "category": "business",
-        "summary": "Indian IT companies have historically adapted to technological changes, but the rise of AI poses a significant challenge to their traditional pyramid model, which relies on a large workforce handling repetitive tasks. This shift raises critical questions about the future direction of the industry and how it can reinvent itself to remain competitive in an evolving technological landscape.",
-        "wordCount": 58
+        "summary": "India's petroleum ministry is creating a policy to promote ethanol as a primary cooking fuel, aiming to decrease reliance on imported liquefied petroleum gas. The government may offer subsidies to facilitate this transition and develop necessary infrastructure. With a significant surplus in ethanol production, oil companies are also exploring ethanol-based stoves and dispensing systems for households.",
+        "wordCount": 56
+      },
+      {
+        "title": "RBI asks banks to clear old trade and payment mismatches",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-asks-banks-to-clear-old-trade-and-payment-mismatches/articleshow/132501120.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-132501138,width-1200,height-630,imgsize-101716,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-19T19:34:05Z",
+        "category": "business",
+        "summary": "The RBI has instructed banks to address longstanding mismatches in trade and payment records amounting to thousands of crores. Banks are required to verify documents and transactions to regularize legitimate export-import cases. Resolving outdated EDPMS and IDPMS entries is expected to enhance compliance, prevent businesses from being flagged, and ensure more accurate trade data moving forward.",
+        "wordCount": 56
       }
     ],
     "technology": [
       {
-        "title": "iPhone 15 now available at its lowest price: Check the offer",
-        "url": "https://www.indiatoday.in/visualstories/technology/iphone-15-now-available-at-its-lowest-price-check-the-offer-283488-19-07-2026",
-        "source": "India Today",
-        "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/07/imageITG-1784420567229.png",
-        "publishedAt": "2026-07-19T00:24:00Z",
+        "title": "First HyperOS 4 Screenshot Appears on Xiaomi 18 Series Flagship",
+        "url": "https://ximitime.com/first-hyperos-4-screenshot-appears-on-xiaomi-18-series-flagship-98849/",
+        "source": "ximitime.com",
+        "image": "https://ximitime.com/wp-content/uploads/2026/07/HyperOS-4-1.jpg",
+        "publishedAt": "2026-07-19T17:51:30Z",
         "category": "technology",
-        "summary": "The iPhone 15 is now available at a reduced price on Flipkart, with the 128GB model priced at Rs 58,900. This offer represents one of the lowest prices for the device to date and is available for a limited time. Customers are encouraged to check additional offers, including bank benefits, before making their purchase.",
+        "summary": "A screenshot of Xiaomi's HyperOS 4 has surfaced on Weibo, showcasing a redesigned home screen for the Xiaomi 18 series flagship. Key features include a new vertical widget slider, updated system icons with enhanced shadows, and the Xiaomi Game Center icon depicted as a white controller against a gradient background. The image hints at additional functionalities yet to be revealed.",
+        "wordCount": 60
+      },
+      {
+        "title": "Apple hikes Apple Music prices: Here are the new prices in India",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-hikes-apple-music-prices-here-are-the-new-prices-in-india/articleshow/132498310.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132498398,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-19T17:23:00Z",
+        "category": "technology",
+        "summary": "Apple has increased the prices of Apple Music and select Apple One bundles in India, following a recent hike in AppleCare+ charges for Macs and iPads. This price adjustment affects multiple markets, including the US, UK, Europe, and others. The new pricing reflects Apple's ongoing strategy to adjust subscription costs across its services globally.",
         "wordCount": 54
       },
       {
-        "title": "Why Are Nothing's New 'B' Series Phones So Much Cheaper?",
-        "url": "https://www.bgr.com/2215230/why-nothing-b-series-so-much-cheaper/",
-        "source": "bgr.com",
-        "image": "https://www.bgr.com/img/gallery/why-are-nothings-new-b-series-phones-so-much-cheaper/l-intro-1784061907.jpg",
-        "publishedAt": "2026-07-19T00:21:40Z",
+        "title": "Google Play Opens to Third-Party App Stores Following Court Order",
+        "url": "https://www.thehansindia.com/tech/google-play-opens-to-third-party-app-stores-following-court-order-1099182",
+        "source": "The Hans India",
+        "image": "https://assets.thehansindia.com/h-upload/2026/07/19/1679197-playstore.jpg",
+        "publishedAt": "2026-07-19T16:56:56Z",
         "category": "technology",
-        "summary": "Nothing recently launched the Phone 4(b), part of its new b-series of smartphones, which is priced lower than the Phone 4(a). The reduction in cost is attributed to several downgrades, including a plastic back. Despite these changes, the Phone 4(b) retains the distinctive design characteristic of Nothing's previous models, maintaining brand identity while offering a more affordable option.",
+        "summary": "Google Play will allow third-party app stores to be downloaded directly from its platform, starting July 22, 2026, following a court order. This change aims to enhance competition in Android app distribution. Rival stores will also be permitted to distribute apps sourced from Google Play. This marks a significant shift in how apps are accessed on Android devices.",
         "wordCount": 58
-      },
-      {
-        "title": "Serious WordPress Vulnerability Allows Remote Code Execution",
-        "url": "https://www.rswebsols.com/news/serious-vulnerability-in-wordpress-core-allows-anonymous-hackers-to-achieve-remote-code-execution/",
-        "source": "RS Web Solutions",
-        "image": "https://cdn.rswebsols.com/wp-content/uploads/2022/03/hacker-anonymous-cybersecurity-criminal-illegal-data-password-protection.jpg",
-        "publishedAt": "2026-07-19T00:00:00Z",
-        "category": "technology",
-        "summary": "A critical vulnerability in WordPress, termed “wp2shell,” allows anonymous hackers to execute remote code without authentication, affecting millions of standard installations without plugins. This pre-authentication remote code execution (RCE) flaw poses significant risks to website security. Site owners are urged to take immediate protective measures to safeguard their platforms against potential exploitation by malicious actors.",
-        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "‘Messi is going to score’: Kylian Mbappe eclipses him, but admits he would swap record for a World Cup final place",
-        "url": "https://www.hindustantimes.com/sports/football/messi-is-going-to-score-kylian-mbappe-eclipses-him-but-admits-he-would-swap-record-for-a-world-cup-final-place-101784424436895.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/19/550x309/England-France-WCup-Soccer-295_1784424739193_1784424765406_2a45c0df-06cd-4daa-bd15-9f3e1b4e34ab.jpg",
-        "publishedAt": "2026-07-19T01:48:46Z",
+        "title": "Argentina lose Martínez, Romero to injury in World Cup final vs. Spain",
+        "url": "https://www.espn.in/football/story/_/id/49402754/argentina-lisandro-martinez-forced-injured-world-cup-final-vs-spain",
+        "source": "espn.in",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0719%2Fr1691390_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-07-19T20:00:00Z",
         "category": "sports",
-        "summary": "Kylian Mbappé became the FIFA World Cup's all-time top scorer, surpassing Lionel Messi, but expressed that he would exchange this record for a chance to compete in the final. France's campaign ended with a defeat to England, despite Mbappé scoring twice. He acknowledged that personal achievements are less meaningful without team success in the tournament.",
-        "wordCount": 55
+        "summary": "Argentina's World Cup final against Spain was marred by injuries to center backs Lisandro Martínez and Cristian Romero. Martínez, a Manchester United defender, indicated a thigh issue during the match, while Romero also faced injury challenges. Their absence significantly impacted Argentina's defensive lineup as they aimed for victory in the crucial tournament match.",
+        "wordCount": 53
       },
       {
-        "title": "Kylian Mbappe passes Lionel Messi for career World Cup scoring record with 22 goals",
-        "url": "https://www.thehindu.com/sport/football/kylian-mbappe-passes-lionel-messi-for-career-world-cup-scoring-record-with-22-goals/article71240524.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/ltb73f/article71240526.ece/alternates/LANDSCAPE_1200/2026-07-18T230817Z_1717525208_UP1EM7I1S9SQH_RTRMADP_3_SOCCER-WORLDCUP-FRA-ENG.JPG",
-        "publishedAt": "2026-07-19T01:22:18Z",
-        "category": "sports",
-        "summary": "Kylian Mbappe surpassed Lionel Messi for the career World Cup scoring record on July 18, 2026, by scoring twice in the third-place match against England, bringing his total to 22 goals. This achievement places him at the top of the tournament's scoring race, with 10 goals in the current World Cup, two more than Messi.",
-        "wordCount": 55
-      },
-      {
-        "title": "Beyond Tiki-Taka: The tactical evolution that has Spain one win from FIFA World Cup glory",
-        "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/beyond-tiki-taka-the-tactical-evolution-that-has-spain-one-win-from-fifa-world-cup-glory/articleshow/132488893.cms",
+        "title": "Watch: Donald Trump makes dramatic Marine One arrival at Argentina vs Spain FIFA World Cup final",
+        "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-donald-trump-makes-dramatic-marine-one-arrival-at-argentina-vs-spain-fifa-world-cup-final/articleshow/132501186.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132488926,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-19T01:11:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-132501212,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-19T19:44:00Z",
         "category": "sports",
-        "summary": "Spain, initially overlooked as a World Cup favorite, has evolved tactically beyond its traditional tiki-taka style. As the tournament progressed, they demonstrated adaptability and strategic depth, positioning themselves for a potential championship victory. With one win needed to secure the title, Spain's performance has garnered attention, shifting focus from other pre-tournament favorites like France and Argentina.",
-        "wordCount": 56
+        "summary": "United States President Donald Trump made a notable entrance at the FIFA World Cup 2026 final before the match between Argentina and Spain began. Arriving at MetLife Stadium aboard Marine One, Trump captured attention as he stepped onto the field. His arrival occurred prior to the kickoff, highlighting his presence at the high-profile sporting event.",
+        "wordCount": 55
+      },
+      {
+        "title": "ENG vs IND 3rd ODI, Highlights: All-round England seals series with 27-run win",
+        "url": "https://sportstar.thehindu.com/cricket/england-vs-india-3rd-odi-gill-kolhi-rohit-century-curran-eng-v-ind-lords-score-live-updates-highlights/article71241005.ece",
+        "source": "Sportstar",
+        "image": "https://ss-i.thgim.com/public/incoming/d3fk1m/article71242156.ece/alternates/LANDSCAPE_1200/2026-07-19T145909Z_1942264690_UP1EM7J15MK6R_RTRMADP_3_CRICKET-ODI-ENG-IND.JPG",
+        "publishedAt": "2026-07-19T19:30:39Z",
+        "category": "sports",
+        "summary": "England secured a 27-run victory over India in the third ODI at Lord’s on July 19, 2026, clinching the series 2-1. Despite a strong performance from Rohit Sharma during the second innings, England's all-round effort proved decisive. The match showcased competitive play, with England ultimately prevailing to conclude the series on a high note.",
+        "wordCount": 54
       }
     ],
     "health": [
       {
-        "title": "The vibration plate boom: Separating fitness fact from Instagram fiction",
-        "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/the-vibration-plate-boom-separating-fitness-fact-from-instagram-fiction/articleshow/132489254.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-132489316,width-1200,height-630,imgsize-62934,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-19T02:49:18Z",
+        "title": "Anaemia, alcohol major risk factors behind brain clots, finds ICMR study",
+        "url": "https://www.tribuneindia.com/news/india/anaemia-alcohol-major-risk-factors-behind-brain-clots-finds-icmr-study/",
+        "source": "The Tribune",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdmY2YxN2YwLTgzYWYtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+        "publishedAt": "2026-07-19T20:21:59Z",
         "category": "health",
-        "summary": "Vibration plates are gaining popularity as fitness gadgets promising quick results. Experts warn these devices provide limited benefits and should not replace traditional exercise. Research indicates their effectiveness in rehabilitation and for older adults. However, claims of significant fat loss and body sculpting lack scientific evidence. Vibration plates are best used to complement, rather than substitute, conventional fitness and nutrition.",
+        "summary": "A study by the Indian Council of Medical Research (ICMR) identifies anaemia and alcohol consumption as major risk factors for cerebral venous thrombosis (CVT), differing from Western findings that emphasize hormonal and genetic factors. Common symptoms include headache, motor impairment, and seizures. Experts warn that CVT can become life-threatening if patients seek medical help too late.",
+        "wordCount": 56
+      },
+      {
+        "title": "Viral Cases Make Up Three in 10 OPD Visits",
+        "url": "https://timesofindia.indiatimes.com/city/bhopal/viral-cases-make-up-three-in-10-opd-visits/articleshow/132500845.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132500844,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-19T19:07:00Z",
+        "category": "health",
+        "summary": "Bhopal hospitals report a significant increase in viral illnesses, with approximately 30% of outpatient department (OPD) visits attributed to these cases. The rise includes higher fevers, post-viral bronchitis, and an increase in child diarrhea cases. This surge occurs as the monsoon season begins, indicating early health concerns related to viral infections before consistent rainfall has started.",
+        "wordCount": 56
+      },
+      {
+        "title": "You don't have to drink alcohol to damage your liver: Doctor reveals 9 unexpected factors that could be putting it at risk",
+        "url": "https://timesofindia.indiatimes.com/health/you-dont-have-to-drink-alcohol-to-damage-your-liver-doctor-reveals-9-unexpected-factors-that-could-be-putting-it-at-risk/photostory/132499824.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132500602,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-19T18:25:33Z",
+        "category": "health",
+        "summary": "Liver health is often associated with alcohol consumption, but various lifestyle factors can also contribute to damage. Dr. Pramod Kumar D A highlights that unhealthy diets, poor sleep, unnecessary supplements, environmental toxins, and common medications can stress the liver. Damage may occur silently, with significant function loss before symptoms appear, emphasizing the importance of consistent healthy choices for liver protection.",
         "wordCount": 60
-      },
-      {
-        "title": "Chennai: Garbage chokes Virugambakkam canal; it stinks, lament residents",
-        "url": "https://www.dtnext.in/news/chennai/chennai-garbage-chokes-virugambakkam-canal-it-stinks-lament-residents",
-        "source": "DT Next",
-        "image": "https://media.assettype.com/dt-next%2F2026-07-18%2Fgx14p1ii%2FVirugambakkam-1.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-07-19T02:28:35Z",
-        "category": "health",
-        "summary": "Residents of Virugambakkam, Chennai, report that garbage accumulation in the canal is worsening due to low clearance under the Tamilar Street bridge. The canal, which connects to the Cooum River, is filled with plastic waste, thermocol, and wooden debris. Locals express concern over the unpleasant odor and the environmental impact of the trapped waste.",
-        "wordCount": 54
-      },
-      {
-        "title": "Kerala reports sharp rise in viral fevers, dengue, waterborne diseases during monsoon",
-        "url": "https://www.uniindia.com/kerala-reports-sharp-rise-in-viral-fevers-dengue-waterborne-diseases-during-monsoon/south/news/3914511.html",
-        "source": "UNITED NEWS OF INDIA",
-        "image": "http://www.uniindia.com/cms/gall_content/LargePhoto//2026/7/2026_7$LargePhoto18_Jul_2026_18072026202754.jpg",
-        "publishedAt": "2026-07-19T01:32:00Z",
-        "category": "health",
-        "summary": "Kerala has reported a notable increase in viral fevers, mosquito-borne diseases, and waterborne infections since the monsoon began. Public health experts indicate that viral fever cases have risen by 19 percent compared to the same period last year. The surge in these illnesses highlights ongoing public health concerns as the state navigates the challenges posed by the rainy season.",
-        "wordCount": 59
       }
     ],
     "science": [
       {
-        "title": "Why Venus is hotter than Mercury?",
-        "url": "https://theshillongtimes.com/2026/07/19/why-venus-is-hotter-than-mercury/",
-        "source": "The Shillong Times",
-        "image": "https://theshillongtimes.com/wp-content/uploads/2026/03/download-4.jpeg",
-        "publishedAt": "2026-07-19T00:37:30Z",
+        "title": "Pit found by Quebecer confirmed to be a 390-million-years-old meteorite impact crater",
+        "url": "https://www.cp24.com/news/canada/2026/07/19/pit-found-by-quebecer-confirmed-to-be-a-390-million-years-old-meteorite-impact-crater/",
+        "source": "CP24",
+        "image": "https://www.cp24.com/resizer/v2/O6BAD2URYWT5DEOXDEA2VLZT4U.jpg?smart=true&auth=13ef74d4a50949e6802bcb498977b9889660a03911eb05d7fb7b14e3c1053238&width=1200&height=630",
+        "publishedAt": "2026-07-19T20:14:05Z",
         "category": "science",
-        "summary": "Venus, once a tropical paradise with oceans and clouds, became hotter than Mercury due to the Sun's increasing brightness. As the solar system formed 4.5 billion years ago, conditions on Venus changed dramatically, leading to a thick atmosphere that traps heat. In contrast, Mercury, despite being closest to the Sun, lacks this greenhouse effect, resulting in lower temperatures.",
+        "summary": "Amateur astronomer Joël Lapointe discovered a circular pit while using Google Maps to plan a road trip near Magpie, Quebec. Researchers have confirmed the pit is a 390-million-year-old meteorite impact crater. This significant finding highlights the potential for amateur discoveries in geology and astronomy, as Lapointe initially doubted the importance of his chance observation.",
+        "wordCount": 54
+      },
+      {
+        "title": "Scientists studied how animals survive winter and found fruit flies rebuild their biological clock into a separate seasonal mode",
+        "url": "https://timesofindia.indiatimes.com/science/scientists-studied-how-animals-survive-winter-and-found-fruit-flies-rebuild-their-biological-clock-into-a-separate-seasonal-mode/articleshow/132496782.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132497888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-19T17:00:00Z",
+        "category": "science",
+        "summary": "Scientists have found that fruit flies adapt to winter by completely rebuilding their internal biological clocks, enabling them to enter a distinct seasonal mode. This research sheds light on how various animals survive harsh winter conditions, highlighting the role of a seasonal gene switch that locks fruit flies into this winter mode, enhancing their resilience during colder months.",
         "wordCount": 58
       },
       {
-        "title": "Scientists fitted homing pigeons with tiny backpacks and cameras to discover how their eyes really work in flight",
-        "url": "https://timesofindia.indiatimes.com/science/scientists-fitted-homing-pigeons-with-tiny-backpacks-and-cameras-to-discover-how-their-eyes-really-work-in-flight/articleshow/132479833.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132479881,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-18T12:07:00Z",
+        "title": "FCC approves giant space mirror as astronomers warn of risks to the night sky",
+        "url": "https://www.thebrighterside.news/post/fcc-approves-giant-space-mirror-as-astronomers-warn-of-risks-to-the-night-sky/",
+        "source": "The Brighter Side of News",
+        "image": "https://www.thebrighterside.news/uploads/2026/07/orbital-1.jpg?auto=webp",
+        "publishedAt": "2026-07-19T16:00:00Z",
         "category": "science",
-        "summary": "Scientists equipped homing pigeons with tiny backpacks and cameras to study their vision during flight. The innovative setup included hand-stitched hoods inspired by falconry. This research aims to enhance understanding of avian eyesight and how pigeons navigate. The project, conducted by the University of British Columbia, highlights the intersection of technology and animal behavior in scientific exploration.",
+        "summary": "The FCC has approved Reflect Orbital's Eärendil-1 satellite, which will test a giant space mirror designed to reflect sunlight back to Earth. This technology aims to create artificial sunlight but has raised concerns among astronomers regarding its potential impact on night sky visibility and safety. Critics warn that it could disrupt astronomical observations and alter natural darkness.",
         "wordCount": 57
-      },
-      {
-        "title": "Iceland Braces for Total Solar Eclipse Tourism Boom as Hotels Sell Out and Travel Prices Surge Ahead of August 12, 2026: Is This Europe’s Biggest Celestial Travel Event Yet?",
-        "url": "https://www.travelandtourworld.com/news/article/e735crucbsh9/",
-        "source": "Travel And Tour World",
-        "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/07/spl.jpg",
-        "publishedAt": "2026-07-18T09:33:13Z",
-        "category": "science",
-        "summary": "Iceland is preparing for a significant influx of tourists for the total solar eclipse on August 12, 2026. Hotels are selling out rapidly, and travel prices are increasing as visitors flock to the island for the event. This eclipse is expected to be one of Europe’s most notable celestial attractions, drawing attention from around the globe.",
-        "wordCount": 56
       }
     ],
     "entertainment": [
       {
-        "title": "The Odyssey box office collection day 2: Christopher Nolan film sees strong growth, earns over ₹39 crore",
-        "url": "https://www.hindustantimes.com/entertainment/hollywood/the-odyssey-box-office-collection-day-2-christopher-nolan-film-sees-strong-growth-earns-over-39-crore-matt-damon-101784427311398.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/19/550x309/ODYSSEY_1751443079215_1751443088054_1784427308664_ded49138-1fcb-4707-86f8-7856dcf2ff2a.jpg",
-        "publishedAt": "2026-07-19T02:36:25Z",
+        "title": "New match official for WWE SummerSlam following 7/18 SNME",
+        "url": "https://www.wrestleview.com/featured-top-story/388324-new-match-official-for-wwe-summerslam-following-7-18-snme/",
+        "source": "Wrestleview.com",
+        "image": "https://www.wrestleview.com/wp-content/uploads/2026/07/GuntherAldis-1.jpg",
+        "publishedAt": "2026-07-19T19:07:56Z",
         "category": "entertainment",
-        "summary": "The Odyssey, directed by Christopher Nolan, earned over ₹39 crore in its second day at the box office, marking a 26.4% increase from its opening day collection of ₹17.40 crore. This growth indicates strong audience interest and positive word of mouth. The film is Nolan's first feature after Oppenheimer, which won seven Academy Awards.",
+        "summary": "Triple H has officially announced a match between Gunther and Nick Aldis for WWE SummerSlam. The confirmation occurred during the Fanatics Fest WWE SummerSlam Kickoff show in New York. Gunther had previously confronted Triple H about Aldis at Saturday Night’s Main Event, leading to the decision to schedule this matchup for the upcoming event.",
         "wordCount": 54
       },
       {
-        "title": "Weekly Tarot Forecast for all Sun Signs from July 20 to July 26 : See what this week holds for you",
-        "url": "https://www.indiatoday.in/horoscopes/tarot-card-reading/story/weekly-tarot-forecast-for-all-sun-signs-from-july-20-to-july-26-see-what-this-week-holds-for-you-2950114-2026-07-19",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/tarot-cards-013901844-16x9.jpg?VersionId=AqM52MnSaLp7DXFnyiJlS4ivyfv7htzi",
-        "publishedAt": "2026-07-19T02:30:00Z",
+        "title": "July 20, 2026: Check horoscope for all sun signs",
+        "url": "https://www.deccanherald.com/astrology/todays-horoscope-july-20-2026-check-horoscope-for-all-sun-signs-4079685",
+        "source": "Deccan Herald",
+        "image": "https://media.assettype.com/deccanherald%2F2026-05-30%2Fqwkoee7b%2FiStock-1372910783.jpg?rect=0%2C0%2C3870%2C2032&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+        "publishedAt": "2026-07-19T18:47:22Z",
         "category": "entertainment",
-        "summary": "The weekly tarot forecast for all sun signs from July 20 to July 26 highlights themes of change, caution, and self-awareness. Each sign receives guidance on work, money, relationships, and health. The forecast emphasizes the importance of adaptability and openness to new experiences, suggesting that abundance and acclaim are possible if individuals embrace these qualities.",
-        "wordCount": 55
+        "summary": "On July 20, 2026, daily horoscopes are available for all sun signs, offering predictions related to love, career, money, health, and relationships. The forecasts cover Aries through Pisces, providing insights for each zodiac sign. The article emphasizes the importance of checking these predictions to guide daily decisions and interactions. Published on July 19, 2026, at 18:47 IST.",
+        "wordCount": 57
       },
       {
-        "title": "Jyotika reacts to Rajkummar Rao's 'Srikanth' winning National Award: 'It battled situations...'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/jyotika-reacts-to-rajkummar-raos-srikanth-winning-national-award-it-battled-situations-/articleshow/132489016.cms",
+        "title": "Amaal Mallik reacts to Tanishk Bagchi's Rs 8 lakh royalty for 'Saiyaara': 'Javed Akhtar sahab fought very hard for it, I get salary of Rs 75,000 to Rs 1.5 lakh after doing one song'",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amaal-mallik-reacts-to-tanishk-bagchis-rs-8-lakh-royalty-for-saiyaara-javed-akhtar-sahab-fought-very-hard-for-it-i-get-salary-of-rs-75000-to-rs-1-5-lakh-after-doing-one-song/articleshow/132499195.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132489016,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-19T01:43:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-132500415,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-19T18:43:00Z",
         "category": "entertainment",
-        "summary": "Rajkummar Rao's film 'Srikanth' won the Best Hindi Feature Film award at the 72nd National Film Awards. Jyotika praised the film as an emotional victory, commending both Rao and director Tushar Hiranandani. Additionally, 'Article 370' received the Best Film award, while Yami Gautam Dhar was honored with the Best Actress title for her performance.",
-        "wordCount": 54
+        "summary": "Amaal Mallik responded to Tanishk Bagchi's claim of receiving Rs 8 lakh in royalties for the song \"Saiyaara.\" He acknowledged the efforts of Javed Akhtar in advocating for fair compensation in the music industry. Mallik noted that his earnings for a song typically range from Rs 75,000 to Rs 1.5 lakh, highlighting the disparities in royalty payments.",
+        "wordCount": 57
       }
     ]
   }
