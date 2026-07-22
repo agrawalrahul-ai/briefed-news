@@ -1,7 +1,27 @@
 {
-  "updatedAt": "2026-07-22T16:19:46.907Z",
+  "updatedAt": "2026-07-22T17:51:45.380Z",
   "categories": {
     "world": [
+      {
+        "title": "U.S. And Saudi Arabia Reportedly Agree To Nuclear Enrichment Deal",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/07/22/trump-administration-reportedly-clears-landmark-nuclear-deal-with-saudi-arabia/",
+        "source": "Forbes",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a6056d3a75817e726776739/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-07-22T05:38:48Z",
+        "category": "world",
+        "summary": "The Trump administration has reportedly finalized a nuclear enrichment deal with Saudi Arabia, permitting the country to enrich fuel for its civilian nuclear program. This agreement is anticipated to benefit American companies financially. However, it raises significant concerns regarding nuclear proliferation in the Middle East, as the potential for misuse of enriched materials could heighten regional tensions and security issues.",
+        "wordCount": 60
+      },
+      {
+        "title": "59 India-Bound Vessels Transited Hormuz Since War",
+        "url": "https://m.rediff.com/news/report/59-india-bound-vessels-transited-hormuz-since-war/20260722.htm",
+        "source": "Rediff",
+        "image": "https://im.rediff.com/1200-630/news/2026/jul/22oil-vessel-hormuz.jpg",
+        "publishedAt": "2026-07-22T05:15:59Z",
+        "category": "world",
+        "summary": "India has evacuated 59 vessels from the Strait of Hormuz since March 1, 2026, amid escalating conflict and reduced shipping traffic. This includes 23 Indian-flagged and 36 foreign-flagged ships carrying cargo for India, as reported by Shipping Minister Sarbananda Sonowal in the Rajya Sabha. Exporters express concerns over a potential complete maritime shutdown due to ongoing tensions.",
+        "wordCount": 57
+      },
       {
         "title": "Pakistan asks US for $10bn lifeline to shore up struggling economy: Report",
         "url": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-asks-us-for-10bn-lifeline-to-shore-up-struggling-economy-report/articleshow/132550698.cms",
@@ -9,63 +29,53 @@
         "image": "https://static.toiimg.com/thumb/msid-132550745,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-22T04:01:00Z",
         "category": "world",
-        "summary": "Pakistan has requested a $10 billion exchange stabilization facility from the United States to support its struggling economy. This initiative aims to bolster the country's foreign exchange reserves amid ongoing economic challenges. A source familiar with the matter confirmed the request, highlighting the urgency of Pakistan's financial situation as it seeks assistance to stabilize its economic conditions.",
-        "wordCount": 57
-      },
-      {
-        "title": "More than 140 dead, missing on refugee boat stranded off Mauritania",
-        "url": "https://www.aljazeera.com/news/2026/7/22/more-than-140-dead-missing-on-refugee-boat-stranded-off-mauritania",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/ap_6a6032b887f1e-1784689336.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-07-22T03:51:21Z",
-        "category": "world",
-        "summary": "A boat carrying migrants and refugees from Africa has run out of fuel off the coast of Mauritania, resulting in at least 143 individuals dead or missing. The United Nations refugee agency, UNHCR, reported that 38 people were rescued from the tragedy. The agency expressed deep sadness over the incident, highlighting the ongoing risks faced by migrants.",
-        "wordCount": 57
-      },
-      {
-        "title": "Trump says US has no interest in Iran talks as cost of war increases",
-        "url": "https://www.euronews.com/2026/07/22/trump-says-us-has-no-interest-in-iran-talks-as-cost-of-war-increases",
-        "source": "Euronews.com",
-        "image": "https://images.euronews.com/articles/stories/09/84/62/80/1200x675_cmsv2_5ed21932-709a-5c03-b70a-0518310964fd-9846280.jpg",
-        "publishedAt": "2026-07-22T03:45:38Z",
-        "category": "world",
-        "summary": "The United States conducted its 11th consecutive night of strikes on Iran, as Tehran intensified its offensive against Gulf states. In response to the escalating conflict, Pakistan increased diplomatic efforts to revive the collapsed interim agreement between the two nations. Despite the ongoing hostilities, Trump stated that the US has no interest in engaging in talks with Iran.",
+        "summary": "Pakistan has requested a $10 billion exchange stabilization facility from the United States to support its struggling economy. This initiative aims to bolster the country's foreign exchange reserves amid ongoing economic challenges. The request highlights Pakistan's urgent need for financial assistance to stabilize its economic situation, as officials seek to address the vulnerabilities affecting the nation's financial health.",
         "wordCount": 58
       }
     ],
     "business": [
       {
-        "title": "Bandhan Bank shares tumble 15% post Q1 results; here’s why the stock crashed despite healthy earnings",
-        "url": "https://upstox.com/news/market-news/stocks/bandhan-bank-shares-tumble-10-post-q1-results-here-s-why-the-stock-crashed-despite-healthy-earnings/article-197334/",
-        "source": "Upstox",
-        "image": "https://assets.upstox.com/content/assets/images/news/bandhanbankq4shares.webp",
-        "publishedAt": "2026-07-22T04:06:13Z",
-        "category": "business",
-        "summary": "Bandhan Bank shares fell 15% on July 22, driven by investor concerns over the management's conservative outlook and margin issues, despite reporting healthy earnings for the April to June quarter. The decline occurred during early market hours as stakeholders reacted to the cautious guidance provided by the bank's leadership, overshadowing the positive financial results.",
-        "wordCount": 54
-      },
-      {
-        "title": "Bira 91 founder Ankur Jain exits after settlement with lenders; says company needs fresh capital",
-        "url": "https://entrackr.com/news/bira-91-founder-ankur-jain-steps-down-after-settlement-with-lenders-investors-12186404",
-        "source": "Entrackr",
-        "image": "https://img-cdn.publive.online/fit-in/1200x675/entrackr/media/media_files/2026/07/22/bira91-founder-2026-07-22-09-30-50.webp",
-        "publishedAt": "2026-07-22T04:04:42Z",
-        "category": "business",
-        "summary": "Ankur Jain, founder of Bira 91's parent company B9 Beverages, has resigned from his board and executive positions following a settlement with lenders and investors. This decision aims to facilitate the company's restructuring and secure new capital. Bira 91 faced financial difficulties and disputes with creditors, which led to proceedings before the National Company Law Tribunal (NCLT).",
-        "wordCount": 57
-      },
-      {
-        "title": "Sensex falls 700 pts, Nifty below 24,000: Higher crude prices among key factors behind market decline",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/sensex-falls-500-pts-nifty-at-24-050-higher-crude-prices-among-key-factors-behind-market-decline-13980129.html",
+        "title": "Nestle India Q1 results: Consolidated net profit jumps 48% to Rs 959 crore; stock gains over 3% post earnings",
+        "url": "https://www.moneycontrol.com/news/business/earnings/nestle-india-q1-profit-jumps-48-to-rs-959-crore-stock-rises-4-after-earnings-13980190.html",
         "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260711043222_Nifty_sensex.jpg",
-        "publishedAt": "2026-07-22T04:01:50Z",
+        "image": "https://images.moneycontrol.com/static-mcnews/2021/06/Nestle-1.jpg",
+        "publishedAt": "2026-07-22T05:46:41Z",
         "category": "business",
-        "summary": "The Sensex dropped 700 points, while the Nifty fell below 24,000, reflecting a significant market decline. This downturn is attributed to rising Brent crude prices, which reached their highest levels since June 11. The increase in crude prices is linked to escalating tensions in West Asia, contributing to investor concerns and impacting market performance.",
+        "summary": "Nestle India Ltd reported a 48% increase in consolidated net profit for the first quarter, reaching Rs 958.7 crore compared to the previous year. This growth was attributed to strong revenue performance, particularly in e-commerce, which continues to show significant momentum. Following the earnings announcement, Nestle India's stock rose over 3%, reflecting positive market sentiment.",
+        "wordCount": 55
+      },
+      {
+        "title": "Days after world’s biggest AI models repository Hugging Face announced that it has been hacked, OpenAI admits its AI Agents are behind the hacking attack; says: We consider this to be …",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-worlds-biggest-ai-models-repository-hugging-face-announced-that-it-has-been-hacked-openai-admits-its-ai-agents-are-behind-the-hacking-attack-says-we-consider-this-to-be-/articleshow/132551852.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132551849,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-22T05:46:00Z",
+        "category": "business",
+        "summary": "OpenAI has confirmed that its AI models were involved in a hacking attempt against the AI platform Hugging Face, which was announced as hacked days earlier. The incident has raised concerns regarding the security of AI technologies. OpenAI's statement did not provide detailed information about the nature of the attack or the extent of the breach.",
+        "wordCount": 56
+      },
+      {
+        "title": "Gold and silver price today, July 22: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other cities",
+        "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-july-22-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-13980203.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260722045925_Gold-and-silver-price-on-July-22.png",
+        "publishedAt": "2026-07-22T04:59:38Z",
+        "category": "business",
+        "summary": "On July 22, gold and silver prices rose significantly due to increased safe-haven buying amid ongoing US-Iran geopolitical tensions. International spot gold increased by 1.34% to $4,131 per ounce, while silver saw a 1.32% rise, reaching $59.89 per ounce. The surge in bullion prices reflects market reactions to current geopolitical uncertainties affecting investor sentiment.",
         "wordCount": 54
       }
     ],
     "technology": [
+      {
+        "title": "Garmin launches its first screenless fitness band",
+        "url": "https://www.gadgetmatch.com/garmin-cirqa-smart-band-launch/",
+        "source": "GadgetMatch",
+        "image": "https://www.gadgetmatch.com/wp-content/uploads/2026/07/Garmin-Cirqa-Smart-Band-1000x600.jpg",
+        "publishedAt": "2026-07-22T04:43:28Z",
+        "category": "technology",
+        "summary": "Garmin has introduced the Cirqa Smart Band, marking its entry into the screenless fitness band market. Designed with input from world-renowned marathon runner Eliud Kipchoge, the band focuses on fitness tracking without a display. This launch aims to cater to users seeking a lightweight, streamlined option for monitoring their activities while maintaining Garmin's reputation for quality in fitness technology.",
+        "wordCount": 59
+      },
       {
         "title": "NASA estimates nuclear Mars mission at $2.1B",
         "url": "https://www.azernews.az/region/261385.html",
@@ -73,8 +83,8 @@
         "image": "https://www.azernews.az/media/2026/07/21/398474.jpg",
         "publishedAt": "2026-07-22T04:00:00Z",
         "category": "technology",
-        "summary": "NASA's planned nuclear-powered mission to Mars is estimated to cost around $2.1 billion, according to a report by Politico. This figure does not include the expenses related to the scientific project that will be sent to the planet. The mission aims to advance exploration efforts and enhance understanding of Mars, marking a significant investment in space exploration.",
-        "wordCount": 57
+        "summary": "NASA's planned nuclear-powered mission to Mars is estimated to cost around $2.1 billion, according to a report by Politico. This figure does not include the expenses related to the scientific project that will be sent to the planet. The mission aims to advance exploration and research on Mars, marking a significant investment in space technology.",
+        "wordCount": 55
       },
       {
         "title": "Google Pixel 11 India Launch: Leaked Specs, Expected Price, and Everything We Know",
@@ -83,53 +93,53 @@
         "image": "https://www.gogi.in/wp-content/uploads/2026/07/Google-Pixel-11-India-Launch-scaled.png",
         "publishedAt": "2026-07-22T02:57:33Z",
         "category": "technology",
-        "summary": "Google will launch the Pixel 11 series in India on August 12, 2026. Leaked specifications include detailed information about chip codenames and other features. The upcoming flagship is generating significant anticipation as more details emerge ahead of its release. Pricing information remains unconfirmed, but expectations are building as the launch date approaches.",
-        "wordCount": 52
-      },
-      {
-        "title": "Apple Upgrade program is coming next week with up to 36-month payment plans",
-        "url": "https://www.gsmarena.com/apple_upgrade_program_is_coming_next_week_with_up_to_36month_payment_plans-news-73820.php",
-        "source": "GSMArena.com",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/apple-upgrade-program-rumor/-952x498w6/gsmarena_000.jpg",
-        "publishedAt": "2026-07-21T21:41:02Z",
-        "category": "technology",
-        "summary": "Apple is set to launch the Apple Upgrade program next week, offering device leasing options with payment plans of up to 36 months. This new program, developed in partnership with Klarna, will replace the existing iPhone Upgrade Program. A soft credit check will be required for participants, and the program is designed to function like a subscription service.",
-        "wordCount": 58
+        "summary": "Google will launch the Pixel 11 series in India on August 12, 2026. Leaked specifications include detailed information about chip codenames and other features. The upcoming flagship is generating significant anticipation as more details emerge ahead of the release date. Pricing information is also expected, but specifics remain unconfirmed. The countdown to the launch has officially begun.",
+        "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "Rohit Sharma Still Has Unfinished Business",
-        "url": "https://m.rediff.com/cricket/special/rohit-sharma-still-has-unfinished-business/20260722.htm",
-        "source": "Rediff",
-        "image": "https://im.rediff.com/1200-630/cricket/2026/jul/21rohit1.jpg",
-        "publishedAt": "2026-07-22T03:38:32Z",
+        "title": "David Warner admits to drunk-driving charge",
+        "url": "https://www.cricbuzz.com/cricket-news/139615/former-australia-opener-david-warner-admits-to-drunk-driving-charge",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1041506/david-warner-has-admitted-to-a-mid-range-drunk-driving-charge-levied-on-him-back-in-april.jpg",
+        "publishedAt": "2026-07-22T05:43:56Z",
         "category": "sports",
-        "summary": "Rohit Sharma, known as \"The Hitman,\" reflects on his missed opportunity for World Cup glory in 2011. As he approaches the ODI World Cup, there is a sense that his illustrious career deserves a final celebration. While many anticipate his last performance at Lord's, Sharma remains focused on achieving success in the upcoming tournament, seeking redemption.",
-        "wordCount": 56
-      },
-      {
-        "title": "Spain's World Cup dynasty begins? Early look at the favourites, challengers and biggest questions for 2030",
-        "url": "https://www.hindustantimes.com/sports/football/spains-world-cup-dynasty-begins-early-look-at-the-favourites-challengers-and-biggest-questions-for-2030-101784686227655.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/22/550x309/AP07-21-2026-000002B-0_1784686344589_1784686363180_a2285ee7-64e3-405e-adeb-233b9f4ef2ad.jpg",
-        "publishedAt": "2026-07-22T03:26:05Z",
-        "category": "sports",
-        "summary": "As discussions about the 2030 World Cup begin, Spain emerges as a leading contender following their recent successes. While the 2026 tournament has just concluded, analysts are already evaluating favorites, challengers, and key questions for the upcoming event. The anticipation surrounding Spain's potential dominance highlights the excitement and unpredictability inherent in international football competitions.",
+        "summary": "David Warner has admitted to a mid-range drunk-driving charge from April, as confirmed by his lawyer, Bobby Hill. He was not required to appear in Waverley Local Court. This incident may jeopardize Warner's captaincy at Sydney Thunder. The Australian cricketer had returned a positive result for alcohol, raising concerns about his future leadership role.",
         "wordCount": 54
       },
       {
-        "title": "Is Rodri The Man Real Madrid Need?",
-        "url": "https://www.managingmadrid.com/kiyans-observations/110280/is-rodri-the-man-real-madrid-need",
-        "source": "Managing Madrid",
-        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/07/gettyimages-2286825681.jpg?quality=90&strip=all&crop=0%2C29.540971428522%2C100%2C40.918057142956&w=1200",
-        "publishedAt": "2026-07-22T03:12:00Z",
+        "title": "Rohit Sharma proves Rohit Sharma isn't India's ODI problem",
+        "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-lords-odi-2027-world-cup-selection-analysis-2953403-2026-07-22",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/rohit-sharma-205715302-16x9.png?VersionId=3klV3Jch2g.wWDMdB_iz9HdHsu_3yPmT",
+        "publishedAt": "2026-07-22T05:39:03Z",
         "category": "sports",
-        "summary": "Real Madrid is considering Rodri as a potential addition to their squad following his impressive performance as Spain's captain in the World Cup final against Argentina. Despite skepticism surrounding his fit within the team, many believe Rodri's skills could significantly enhance Real Madrid's midfield. The club's decision will depend on various factors, including team dynamics and financial considerations.",
+        "summary": "Rohit Sharma demonstrated his value during a recent match at Lord's, addressing concerns about his performance. However, India's challenges extend beyond him, focusing on a bowling attack reliant on one player's fitness, the exclusion of a potential lead spinner, and the need for a strategic approach in finding all-rounders. These issues require more in-depth solutions for the team.",
         "wordCount": 58
+      },
+      {
+        "title": "Traffic jam! BCCI CoE braces for an influx of contracted, targeted India players",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/traffic-jam-bcci-coe-braces-for-an-influx-of-contracted-targeted-india-players/articleshow/132551214.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132551456,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-22T05:13:00Z",
+        "category": "sports",
+        "summary": "The Board of Control for Cricket in India's Centre of Excellence (CoE) in Bengaluru is experiencing heightened activity as contracted and targeted players prepare for upcoming events. Notable players such as Varun Chakravarthy, Akash Deep, and Nitish Kumar Reddy are currently present at the facility. The influx of players is expected to continue as preparations intensify.",
+        "wordCount": 56
       }
     ],
     "health": [
+      {
+        "title": "Your second brain is in your gut: This World Brain Day, neurologist explains the hidden connection",
+        "url": "https://timesofindia.indiatimes.com/health/your-second-brain-is-in-your-gut-this-world-brain-day-neurologist-explains-the-hidden-connection/articleshow/132551616.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132551647,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-22T05:30:00Z",
+        "category": "health",
+        "summary": "On World Brain Day, a neurologist highlights the significant connection between the brain and gut health. Traditionally viewed as the body's control center, recent research suggests that the gut plays a crucial role in influencing mood, memory, and movement. This emerging understanding emphasizes the importance of gut health in addressing neurological conditions and mental health issues, challenging previous medical perspectives.",
+        "wordCount": 60
+      },
       {
         "title": "CDSCO Approves India's First Dengue Vaccine For People Aged 4 To 60",
         "url": "https://www.bwhealthcareworld.com/article/cdsco-approves-india-s-first-dengue-vaccine-for-people-aged-4-to-60-615913",
@@ -137,8 +147,8 @@
         "image": "https://static.businessworld.in/imresizer-pexels-thirdman-5921919_20260722090449_ogImage_15.jpg",
         "publishedAt": "2026-07-22T03:50:21Z",
         "category": "health",
-        "summary": "The Central Drugs Standard Control Organisation (CDSCO) has approved Takeda's Qdenga, marking India's first dengue vaccine. The vaccine is authorized for use in individuals aged 4 to 60 years, aiming to enhance dengue prevention and control efforts in the country. This approval represents a significant advancement in public health measures against dengue fever in India.",
-        "wordCount": 55
+        "summary": "The Central Drugs Standard Control Organisation (CDSCO) has approved Takeda's Qdenga as India's first dengue vaccine. This vaccine is authorized for use in individuals aged 4 to 60 years, marking a significant advancement in the country's efforts to prevent and control dengue. The approval aims to enhance public health measures against this mosquito-borne disease in India.",
+        "wordCount": 56
       },
       {
         "title": "Quality sleep key to protecting brain health amid rising screen time, say neurologists",
@@ -147,82 +157,72 @@
         "image": "https://th-i.thgim.com/public/incoming/xs2alr/article71250275.ece/alternates/LANDSCAPE_1200/IMG_iStock-1782147220_2_1_F4E888M9.jpg",
         "publishedAt": "2026-07-22T03:39:35Z",
         "category": "health",
-        "summary": "Neurologists emphasize that quality sleep is crucial for brain health, particularly as screen time rises. They warn that chronic stress and irregular sleep patterns can lead to cognitive decline and increase the risk of neurological disorders. Prioritizing good sleep hygiene may help mitigate these risks and support overall cognitive function in an increasingly digital world.",
-        "wordCount": 55
-      },
-      {
-        "title": "6 dementia symptoms that can show up years before diagnosis: Early warning signs you shouldn't ignore",
-        "url": "https://timesofindia.indiatimes.com/etimes/wellness/6-dementia-symptoms-that-can-show-up-years-before-diagnosis-early-warning-signs-you-shouldnt-ignore/photostory/132549860.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132549867,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-22T02:30:10Z",
-        "category": "health",
-        "summary": "Dementia symptoms can appear years before a formal diagnosis, often starting with emotional, sensory, or physical changes rather than memory loss. Experts highlight signs like mood swings, sleep issues, altered walking, unusual smell changes, or behavioral shifts. While having one symptom doesn’t guarantee dementia, persistent signs, especially with risk factors, warrant attention for early intervention and management.",
+        "summary": "Neurologists emphasize the importance of quality sleep for brain health, highlighting its role in preventing cognitive decline. They warn that rising screen time, chronic stress, and irregular sleep patterns are detrimental, increasing the risk of neurological disorders. Prioritizing good sleep habits is essential to mitigate these risks and support overall cognitive function in an increasingly digital world.",
         "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "NASA estimates nuclear Mars mission at $2.1B",
-        "url": "https://www.azernews.az/region/261385.html",
-        "source": "AzerNews",
-        "image": "https://www.azernews.az/media/2026/07/21/398474.jpg",
-        "publishedAt": "2026-07-22T04:00:00Z",
+        "title": "NASA's IXPE maps hidden magnetic fields around the 'Lighthouse pulsar' for the first time",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/nasa-s-ixpe-maps-hidden-magnetic-fields-around-the-lighthouse-pulsar-for-the-first-time-article-13980242.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260722054710_Light-pulsar.png",
+        "publishedAt": "2026-07-22T05:49:49Z",
         "category": "science",
-        "summary": "NASA's planned nuclear-powered mission to Mars is estimated to cost around $2.1 billion, according to a report by Politico. This figure does not include the expenses associated with the scientific project that will be sent to the planet. The mission aims to advance exploration and research on Mars, highlighting NASA's ongoing commitment to space exploration initiatives.",
+        "summary": "NASA's Imaging X-ray Polarimetry Explorer (IXPE) has produced the first map of the hidden magnetic fields around the Lighthouse Pulsar. This groundbreaking achievement enhances understanding of how high-energy particles move through space. The findings provide new insights into the pulsar's environment and contribute to the broader study of cosmic phenomena, marking a significant advancement in astrophysics research.",
+        "wordCount": 57
+      },
+      {
+        "title": "Two engineers want to touch Saturn's rings. Nasa thinks their plan could work",
+        "url": "https://www.indiatoday.in/science/story/two-scientists-want-to-touch-saturns-rings-nasa-thinks-their-plan-praxis-could-work-2953401-2026-07-22",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/saturns-rings-22315589-16x9_0.jpg?VersionId=je2PBU5ypcIFm5VjhONsT2CKr6OtBIeQ",
+        "publishedAt": "2026-07-22T05:35:00Z",
+        "category": "science",
+        "summary": "NASA is considering two engineering concepts designed to sample Saturn's rings and deploy tiny probes within them. These proposals aim to explore the rings' origin, age, and structure, addressing longstanding scientific questions. Despite the challenges posed by the dangerous environment, the initiatives represent a significant step toward understanding one of the Solar System's most captivating features.",
         "wordCount": 56
       },
       {
-        "title": "Rare pair of improbably light ‘super-puff’ planets is discovered",
-        "url": "https://www.dtnext.in/edit/rare-pair-of-improbably-light-super-puff-planets-is-discovered",
-        "source": "DT Next",
-        "image": "https://media.assettype.com/dt-next%2F2026-07-21%2Fg8wrk9xl%2FUntitled-design-27.jpg?rect=0%2C30%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-07-22T01:00:00Z",
+        "title": "NASA Is Not Preparing to Put Astronauts Into Hibernation for Mars Missions",
+        "url": "https://srilanka.factcrescendo.com/english/nasa-not-preparing-astronaut-hibernation-mars-missions/",
+        "source": "srilanka.factcrescendo.com",
+        "image": "https://srilanka.factcrescendo.com/english/wp-content/uploads/2026/07/15-2607-cover.png",
+        "publishedAt": "2026-07-22T05:15:04Z",
         "category": "science",
-        "summary": "Astrophysicists have discovered two rare gas giants, termed \"super-puff\" planets, which possess a density lower than cotton candy. This finding aims to enhance understanding of the extreme and unusual processes involved in planet formation. Researchers emphasize the importance of grasping the complete narrative of planet formation and evolution to further comprehend the complexities of planetary systems in the universe.",
-        "wordCount": 59
-      },
-      {
-        "title": "New study into humans' closest ape relatives suggests physical touch can promote social harmony",
-        "url": "https://phys.org/news/2026-07-humans-closest-ape-physical-social.html",
-        "source": "Phys.org",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/try-a-little-tendernes.jpg",
-        "publishedAt": "2026-07-21T23:10:02Z",
-        "category": "science",
-        "summary": "A study by Durham University suggests that physical touch plays a significant role in promoting social harmony among humans and their closest ape relatives, bonobos and chimpanzees. The research indicates that touch may serve as an evolutionary tool to manage social tension and maintain peace within groups, highlighting its importance in social interactions among these species.",
-        "wordCount": 56
+        "summary": "NASA has clarified that it is not preparing to put astronauts into hibernation for Mars missions, contrary to a viral post suggesting otherwise. The post claimed that NASA-backed researchers are testing synthetic torpor, a hibernation-like state, on rodents aboard the International Space Station. NASA has not confirmed any plans involving this concept for future manned missions to Mars.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "Aamir Khan's stepbrother Hyder Ali Khan struggles even for food and lives in chawl, reveals his ex-wife Eva Grover",
-        "url": "https://www.hindustantimes.com/entertainment/tv/aamir-khan-stepbrother-hyder-ali-khan-struggles-even-for-food-and-lives-in-chawl-reveals-his-ex-wife-eva-grover-101784691933111.html",
+        "title": "Shashi Tharoor shares Amitabh Bachchan's 2012 police action tweet amid CJP protest",
+        "url": "https://www.indiatoday.in/india/story/neet-protest-row-shashi-tharoor-revives-amitabh-bachchan-2012-delhi-police-post-2953377-2026-07-22",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/tharoors-repost-appeared-to-be-a-subtle-reminder-of-amitabh-bachchans-2012-remarks--while-highligh-225432439-16x9_0.png?VersionId=19acXPhKUMmtwteaHZYA1011NvXI1a4f",
+        "publishedAt": "2026-07-22T05:36:43Z",
+        "category": "entertainment",
+        "summary": "Shashi Tharoor reposted Amitabh Bachchan's 2012 tweet, which criticized police action against protesters in Delhi, amid ongoing protests related to the NEET paper leak. This action has sparked renewed discussion regarding Bollywood's response to current social issues. The political controversy surrounding the police crackdown on students continues, highlighting the tensions between authorities and demonstrators.",
+        "wordCount": 54
+      },
+      {
+        "title": "Katrina Kaif faces backlash over silence on CJP protests as fan page with 70K followers shuts down",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/katrina-kaif-faces-backlash-over-silence-on-cjp-protests-as-fan-page-with-70k-followers-shuts-down/articleshow/132551593.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132551589,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-22T05:26:00Z",
+        "category": "entertainment",
+        "summary": "Katrina Kaif is facing criticism on social media following the shutdown of a popular fan page with 70,000 followers. The closure was attributed to her silence regarding the ongoing Cockroach Janta Party (CJP)-led student protests related to the NEET examination. The situation has sparked discussions among fans and the public about her engagement with social issues.",
+        "wordCount": 56
+      },
+      {
+        "title": "‘Gusse se khaul raha hoon’: Naseeruddin Shah calls Delhi Police 'gundas' for lathicharging students",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/naseeruddin-shah-calls-delhi-police-gundas-for-lathicharging-students-at-cjp-protest-jantar-mantar-neet-101784691212715.html",
         "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/22/550x309/aAMIR_EVA_1784692451861_1784692463414_cf5e38ff-84e9-430e-bfed-23a1364f2241.jpg",
-        "publishedAt": "2026-07-22T04:02:08Z",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/22/550x309/PTI02-05-2026-000461B-0_1770558324479_1770558491319_1784691411492_c43beeec-119d-4e76-bca2-6cba35ebf913.jpg",
+        "publishedAt": "2026-07-22T05:11:53Z",
         "category": "entertainment",
-        "summary": "Eva Grover, the ex-wife of Hyder Ali Khan, Aamir Khan's stepbrother, disclosed their troubled marriage, alleging physical abuse. She recounted an incident where Hyder assaulted her just three days after their wedding, leaving her bruised and traumatized. Grover also mentioned that Hyder's increasing jealousy led to further complications in their relationship, impacting their lives significantly.",
-        "wordCount": 55
-      },
-      {
-        "title": "Brand New Day' Final Trailer Shows Tom Holland Swinging With Zendaya & Closer Look At Mark Ruffalo's Hulk",
-        "url": "https://deadline.com/2026/07/spider-man-brand-new-day-final-trailer-tom-holland-zendaya-hulk-1236999940/",
-        "source": "Deadline",
-        "image": "https://deadline.com/wp-content/uploads/2026/07/zendaya-spider-man-hulk.jpg?w=1024",
-        "publishedAt": "2026-07-22T03:48:00Z",
-        "category": "entertainment",
-        "summary": "The final trailer for \"Spider-Man: Brand New Day\" has been released, showcasing action-packed scenes. Tom Holland's Peter Parker takes center stage, highlighting his journey. The trailer also features Zendaya and offers a closer look at Mark Ruffalo's Hulk character. Fans can expect an exciting cinematic experience as the film approaches its release date.",
-        "wordCount": 53
-      },
-      {
-        "title": "SCOOP: Aamir Khan opts out of Ashneer Grover biopic over creative differences; Rahul Mody and Shraddha Kapoor on hunt for a new actor",
-        "url": "https://www.bollywoodhungama.com/news/bollywood/scoop-aamir-khan-opts-out-of-ashneer-grover-biopic-over-creative-differences-rahul-mody-and-shraddha-kapoor-on-hunt-for-a-new-actor/",
-        "source": "Bollywood Hungama",
-        "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/07/SCOOP-Aamir-Khan.jpeg",
-        "publishedAt": "2026-07-22T03:30:45Z",
-        "category": "entertainment",
-        "summary": "Aamir Khan has decided to withdraw from the biopic of Ashneer Grover due to creative differences. The film, directed by debutant Rahul Mody, was anticipated to explore Grover's controversial life as a start-up entrepreneur. Following Khan's exit, Mody and producer Shraddha Kapoor are now searching for a new actor to take on the lead role in the project.",
-        "wordCount": 58
+        "summary": "Naseeruddin Shah criticized the Delhi Police for their lathicharge on student protesters in an emotional video. He expressed his anger and sorrow over the treatment of students, describing the police as \"gundas\" and condemning the violence against young people. Shah's remarks highlight his concern for the welfare of students and the state of law enforcement in Delhi.",
+        "wordCount": 57
       }
     ]
   }
