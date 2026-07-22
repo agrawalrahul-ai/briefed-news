@@ -1,0 +1,682 @@
+{
+  "name": "NewsSummary",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {},
+            {
+              "field": "cronExpression",
+              "expression": "=0 6 * * *"
+            },
+            {
+              "field": "cronExpression",
+              "expression": "=0 18 * * *"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        0,
+        0
+      ],
+      "id": "723f68ad-8280-485d-970b-094e40eaa9ea",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "0081934e-3da6-4daf-ad43-8945f8909dfc",
+              "name": "categories",
+              "value": "[\"world\",\"business\",\"technology\",\"sports\",\"health\",\"science\",\"entertainment\"]",
+              "type": "array"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        208,
+        0
+      ],
+      "id": "76fbfef1-e5da-4377-814a-6c1572a1d529",
+      "name": "Set Config"
+    },
+    {
+      "parameters": {
+        "fieldToSplitOut": "categories",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.splitOut",
+      "typeVersion": 1,
+      "position": [
+        400,
+        0
+      ],
+      "id": "71538f02-7e99-454f-9807-498d7acd56e0",
+      "name": "Split Categories"
+    },
+    {
+      "parameters": {
+        "url": "=https://gnews.io/api/v4/top-headlines",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {
+              "name": "apikey",
+              "value": "9e0f5f6ebc7248cf690e90aff72411eb"
+            },
+            {
+              "name": "topic",
+              "value": "={{ $json.categories }}"
+            },
+            {
+              "name": "lang",
+              "value": "en"
+            },
+            {
+              "name": "max",
+              "value": "3"
+            },
+            {
+              "name": "country",
+              "value": "in"
+            }
+          ]
+        },
+        "options": {
+          "response": {
+            "response": {
+              "fullResponse": true,
+              "responseFormat": "json"
+            }
+          }
+        }
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        880,
+        96
+      ],
+      "id": "b78697ea-1997-49a1-a734-721b32f4d2bb",
+      "name": "HTTP Request (fetch news)",
+      "notesInFlow": false,
+      "executeOnce": false
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "6f19c1a7-fc55-428d-bc8c-da5f30e9a741",
+              "leftValue": "={{ $json.title }}",
+              "rightValue": "[Removed]",
+              "operator": {
+                "type": "string",
+                "operation": "notEquals"
+              }
+            },
+            {
+              "id": "1a798b32-2bc3-4800-bf5f-beb0e183bb9c",
+              "leftValue": "={{ $json.description }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "notEmpty",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2.3,
+      "position": [
+        1664,
+        0
+      ],
+      "id": "6e5b0415-055a-4c1f-b082-c3edc56704af",
+      "name": "Filter (remove bad articles)",
+      "disabled": true
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "gpt-4o-mini",
+          "mode": "list",
+          "cachedResultName": "GPT-4O-MINI"
+        },
+        "responses": {
+          "values": [
+            {
+              "role": "system",
+              "content": " You are a concise news summariser. Write clear, neutral, factual summaries of exactly 60 words. No opinion. No hype. Output only the summary — no labels, no preamble."
+            },
+            {
+              "content": "=Summarise this news article in EXACTLY 60 words.\n\n     Headline: {{ $json.title }}\n     Description: {{ $json.description }}\n     Content: {{ $json.content }}\n\n     Return only the 60-word summary. Nothing else."
+            }
+          ]
+        },
+        "builtInTools": {},
+        "options": {
+          "maxTokens": 500,
+          "temperature": 0.3
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 2.1,
+      "position": [
+        1872,
+        0
+      ],
+      "id": "45f87ddf-566b-4ab0-ba5a-d41456dbd168",
+      "name": "LLM Sumamrizer",
+      "credentials": {
+        "openAiApi": {
+          "id": "SFQXwlOWx2MZ9w5o",
+          "name": "OpenAI account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "b0b61756-c56a-412c-9ca3-94dc24e6aa50",
+              "leftValue": "={{ Number($json.wordCount) }}",
+              "rightValue": 60,
+              "operator": {
+                "type": "number",
+                "operation": "lte"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2.3,
+      "position": [
+        2432,
+        0
+      ],
+      "id": "645496d6-179c-4667-ab42-fe66ac8bcdd6",
+      "name": "Validate Word Count"
+    },
+    {
+      "parameters": {
+        "aggregate": "aggregateAllItemData",
+        "destinationFieldName": "articles",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.aggregate",
+      "typeVersion": 1,
+      "position": [
+        2640,
+        0
+      ],
+      "id": "1fbf71ef-eb11-40c0-9947-6d99b0f6abe2",
+      "name": "Aggregate"
+    },
+    {
+      "parameters": {
+        "jsCode": "const articles = $input.first().json.articles;\nconst grouped = {};\n\nfor (const a of articles) {\n  const cat = a.category || 'general';\n  if (!grouped[cat]) grouped[cat] = [];\n  grouped[cat].push(a);\n}\n\nreturn [{\n  json: {\n    updatedAt: new Date().toISOString(),\n    categories: grouped\n  }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2848,
+        0
+      ],
+      "id": "e88b727a-2459-4806-b473-bcdf3eaaaae5",
+      "name": "Group by Category"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "65d46f90-819a-46e0-b532-1f613448a0fb",
+              "name": "jsonContent",
+              "value": "={{ JSON.stringify({ updatedAt: $('Group by Category').item.json.updatedAt, categories: $('Group by Category').item.json.categories }, null, 2) }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        3056,
+        0
+      ],
+      "id": "977755ad-316b-4d9c-a548-9be97e1ee2b2",
+      "name": "Prepare JSON File"
+    },
+    {
+      "parameters": {
+        "amount": 2
+      },
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [
+        1280,
+        144
+      ],
+      "id": "b9571a62-5d00-4486-b99c-4f8b37bdcda7",
+      "name": "Wait",
+      "webhookId": "c9ae4797-9758-46bb-a7aa-3cd4a32a355b"
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = [];\n\nfor (const item of $input.all()) {\n  const body = JSON.parse(item.json.body);\n  const articles = body.articles;\n  const category = item.json.category;\n  \n  for (const article of articles) {\n    items.push({\n      json: {\n        title: article.title,\n        description: article.description,\n        content: article.content,\n        url: article.url,\n        image: article.image,\n        publishedAt: article.publishedAt,\n        source: article.source.name,\n        category: category\n      }\n    });\n  }\n}\n\nreturn items;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        1440,
+        0
+      ],
+      "id": "ad5e748e-5800-454b-955d-eee737dc9788",
+      "name": "Code (unpack articles)"
+    },
+    {
+      "parameters": {
+        "url": "https://api.github.com/repos/agrawalrahul-ai/briefed-news/contents/news.json",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Accept",
+              "value": "application/vnd.github.v3+json"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        3472,
+        0
+      ],
+      "id": "1769acc7-7a16-48ca-901f-29e512258190",
+      "name": "Get File SHA",
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "jDMNWpvyzglDot09",
+          "name": "Header Auth account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "method": "PUT",
+        "url": "https://api.github.com/repos/agrawalrahul-ai/briefed-news/contents/news.json",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "message",
+              "value": "chore: update news"
+            },
+            {
+              "name": "content",
+              "value": "={{ $('Base64 Encode').item.json.base64Content }}"
+            },
+            {
+              "name": "sha",
+              "value": "={{ $('Get File SHA').item.json.sha }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.4,
+      "position": [
+        3680,
+        0
+      ],
+      "id": "84eddad2-3ec0-460d-b866-6ecebaf7b985",
+      "name": "Commit to GitHub",
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "jDMNWpvyzglDot09",
+          "name": "Header Auth account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = [];\nconst llmItems = $input.all();\nconst articleItems = $('Code (unpack articles)').all();\nfor (let i = 0; i < llmItems.length; i++) {\n  const summary = llmItems[i].json.output[0].content[0].text.trim();\n  const article = articleItems[i].json;\n  items.push({\n    json: {\n      title: article.title,\n      url: article.url,\n      source: article.source,\n      image: article.image,\n      publishedAt: article.publishedAt,\n      category: article.category,\n      summary: summary,\n      wordCount: Number(summary.split(' ').length)\n    }\n  });\n}\nreturn items;"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        2224,
+        0
+      ],
+      "id": "85fafe47-94c3-4901-8dbc-31fd2ec1a47d",
+      "name": "Shape Article Object"
+    },
+    {
+      "parameters": {
+        "jsCode": "const jsonContent = $input.first().json.jsonContent;\nconst base64 = Buffer.from(jsonContent, 'utf8').toString('base64');\n\nreturn [{\n  json: {\n    jsonContent: jsonContent,\n    base64Content: base64\n  }\n}];"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        3264,
+        0
+      ],
+      "id": "93ff3366-a090-43c3-b12b-86ec800821f3",
+      "name": "Base64 Encode"
+    },
+    {
+      "parameters": {
+        "options": {
+          "reset": false
+        }
+      },
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [
+        656,
+        0
+      ],
+      "id": "d5d6c13a-ed64-4d5c-b842-c7a6e1b66bef",
+      "name": "Loop Over Items"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "7414c1ab-22e4-44a2-91af-5bce627e89ff",
+              "name": "body",
+              "value": "={{ $json.body }}",
+              "type": "string"
+            },
+            {
+              "id": "8dd0cea4-1888-44b3-beb2-6aa1b8c8b965",
+              "name": "category",
+              "value": "={{ $('Split Categories').item.json.categories }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        1088,
+        96
+      ],
+      "id": "dbefeb23-bb8d-4677-9032-09b291c3bee1",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        48,
+        -144
+      ],
+      "id": "109b6292-db2e-4162-a096-8e8470567fad",
+      "name": "When clicking ‘Execute workflow’"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "Set Config",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Set Config": {
+      "main": [
+        [
+          {
+            "node": "Split Categories",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Split Categories": {
+      "main": [
+        [
+          {
+            "node": "Loop Over Items",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request (fetch news)": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter (remove bad articles)": {
+      "main": [
+        [
+          {
+            "node": "LLM Sumamrizer",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "LLM Sumamrizer": {
+      "main": [
+        [
+          {
+            "node": "Shape Article Object",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Validate Word Count": {
+      "main": [
+        [
+          {
+            "node": "Aggregate",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Aggregate": {
+      "main": [
+        [
+          {
+            "node": "Group by Category",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Group by Category": {
+      "main": [
+        [
+          {
+            "node": "Prepare JSON File",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Prepare JSON File": {
+      "main": [
+        [
+          {
+            "node": "Base64 Encode",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Wait": {
+      "main": [
+        [
+          {
+            "node": "Loop Over Items",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code (unpack articles)": {
+      "main": [
+        [
+          {
+            "node": "Filter (remove bad articles)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get File SHA": {
+      "main": [
+        [
+          {
+            "node": "Commit to GitHub",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Shape Article Object": {
+      "main": [
+        [
+          {
+            "node": "Validate Word Count",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Base64 Encode": {
+      "main": [
+        [
+          {
+            "node": "Get File SHA",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Loop Over Items": {
+      "main": [
+        [
+          {
+            "node": "Code (unpack articles)",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "HTTP Request (fetch news)",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "Wait",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When clicking ‘Execute workflow’": {
+      "main": [
+        [
+          {
+            "node": "Set Config",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "b6de7959-dffd-4b17-aadf-1b3e98d43c8b",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "9dc6fdb4c82fcb588d3cc5a7fa6e0126af965b5119c172a99c3dd64c6abcfd07"
+  },
+  "id": "McQTIjdkA8grGL8g",
+  "tags": []
+}
