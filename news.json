@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T12:35:54.605Z",
+  "updatedAt": "2026-07-24T13:04:30.285Z",
   "categories": {
     "world": [
       {
@@ -9,8 +9,8 @@
         "image": "https://i.insider.com/6a575398eae3978eb7e5e177?width=1200&format=jpeg",
         "publishedAt": "2026-07-24T00:15:08Z",
         "category": "world",
-        "summary": "Mohamed Zeeshan, a 32-year-old Indian national residing in Arlington, Virginia, shares his perspective on moving to the US on a green card. He emphasizes that economic upliftment was not his primary motivation for applying for the green card. This narrative reflects his personal journey and experiences as an immigrant, highlighting his thoughts on the immigration process.",
-        "wordCount": 56
+        "summary": "Mohamed Zeeshan, a 32-year-old Indian national residing in Arlington, Virginia, shares his experience of moving to the US on a green card. He emphasizes that his decision was not driven by economic upliftment. The narrative, based on a conversation with him, highlights his perspective on immigration and the differences between obtaining a green card versus an H-1B visa.",
+        "wordCount": 58
       },
       {
         "title": "Why US hospitals are outsourcing more work to India-and 2 stocks are riding the trend",
@@ -19,7 +19,7 @@
         "image": "https://images.financialexpressdigital.com/2026/07/hospital-su.jpg",
         "publishedAt": "2026-07-24T00:00:00Z",
         "category": "world",
-        "summary": "US hospitals are increasingly outsourcing administrative tasks to Indian companies due to a structural shift in the healthcare system. This trend presents new opportunities for investors, as hundreds of billions are spent on processing healthcare transactions. The move aims to reduce costs and improve efficiency, highlighting the growing role of Indian firms in the US healthcare landscape.",
+        "summary": "US hospitals are increasingly outsourcing administrative tasks to Indian companies, driven by a structural shift in healthcare spending. This trend presents new investment opportunities as hundreds of billions are allocated to manage healthcare transactions. Investors are advised to monitor this emerging theme, as it could significantly impact the financial landscape of both US and Indian healthcare sectors.",
         "wordCount": 57
       },
       {
@@ -41,8 +41,18 @@
         "image": "https://images.moneycontrol.com/static-mcnews/2017/05/img_95795_kalyan_krishnamurthy-1.jpg",
         "publishedAt": "2026-07-24T00:25:53Z",
         "category": "business",
-        "summary": "Flipkart, the Walmart-owned e-commerce platform, is set to launch a food delivery service in the coming weeks. This initiative will be in collaboration with the government-backed Open Network for Digital Commerce (ONDC). The announcement was made by Group CEO Kalyan Krishnamurthy, as the company aims to expand its offerings in the competitive food delivery market.",
-        "wordCount": 55
+        "summary": "Flipkart, the Walmart-owned e-commerce platform, plans to launch a food delivery service in the coming weeks. This initiative will be in collaboration with the government-backed Open Network for Digital Commerce (ONDC). The announcement was made by Group CEO Kalyan Krishnamurthy, as the company aims to expand its offerings in the competitive food delivery market.",
+        "wordCount": 54
+      },
+      {
+        "title": "Quick Commerce just another category for Flipkart; see no merit in having 6-7 players: Group CEO Kalyan Krishnamurthy",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/startup/quick-commerce-just-another-category-for-flipkart-see-no-merit-in-having-6-7-players-group-ceo-kalyan-krishnamurthy-13982192.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260723174337_KK.jpeg",
+        "publishedAt": "2026-07-24T00:25:14Z",
+        "category": "business",
+        "summary": "Flipkart's Group CEO Kalyan Krishnamurthy stated that its quick commerce service, Minutes, is merely \"just another category\" for the company. He expressed skepticism about the viability of having multiple players in the quick commerce space, which includes competitors like Amazon, Blinkit, Instamart, and Zepto, who are focusing on rapid delivery services.",
+        "wordCount": 51
       },
       {
         "title": "Off: Dow Jones falls 500 points after crude rally; Alphabet, Tesla drag Nasdaq",
@@ -51,8 +61,8 @@
         "image": "https://images.cnbctv18.com/uploads/2026/07/chatgpt-image-jul-24-2026-04-50-40-am-1-2026-07-9ae6a814e65e5e0957a3c5b6c0b7758e.jpg?im=FitAndFill,width=1200,height=675",
         "publishedAt": "2026-07-23T23:22:02Z",
         "category": "business",
-        "summary": "The Dow Jones Industrial Average dropped 500 points, with a low of over 650 points during the day. The S&P 500 declined by 1.2%, and the Nasdaq Composite fell 2.1%. Major contributors to the Nasdaq's decline included Tesla, which fell 14.5% to its lowest since March 2025, and Alphabet, which decreased by 7%.",
-        "wordCount": 53
+        "summary": "The Dow Jones Industrial Average dropped 500 points, reaching a low of over 650 points during the day. The S&P 500 decreased by 1.2%, while the Nasdaq Composite fell by 2.1%. Significant declines in tech stocks Tesla and Alphabet contributed to the Nasdaq's downturn, with Tesla shares falling 14.5% and Alphabet declining by 7%.",
+        "wordCount": 54
       }
     ],
     "technology": [
@@ -63,8 +73,8 @@
         "image": "http://cybersecuritynews.com/wp-content/uploads/2026/07/Chaos-Ransomware-Turns-Your-Chrome-and-Edge-Web-Browser-Into-an-Invisible-Malware-Command-Channel.webp",
         "publishedAt": "2026-07-23T18:05:07Z",
         "category": "technology",
-        "summary": "Chaos ransomware has developed a method to conceal its activities within Chrome and Edge browsers using the msaRAT remote-access tool. This allows attackers to stealthily receive commands and exfiltrate data, turning these commonly used browsers into hidden channels for malicious operations. The technique enhances the ransomware's ability to operate undetected during web browsing sessions, posing significant security risks.",
-        "wordCount": 58
+        "summary": "Chaos ransomware has developed a method to conceal its operations within Chrome and Edge browsers using the msaRAT remote-access tool. This technique allows attackers to stealthily execute commands and exfiltrate data while users browse the internet. By transforming these popular browsers into covert communication channels, the ransomware enhances its ability to operate undetected, posing significant security risks.",
+        "wordCount": 57
       },
       {
         "title": "T-Mobile and AT&T offer the Galaxy Z Fold8 for free, Z Fold8 Ultra for $200",
@@ -73,8 +83,8 @@
         "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-z8-us-carrier-deals/-952x498w6/gsmarena_000.jpg",
         "publishedAt": "2026-07-23T17:01:02Z",
         "category": "technology",
-        "summary": "T-Mobile and AT&T are offering the Galaxy Z Fold8 for free and the Z Fold8 Ultra for $200. Additionally, there are promotions for the Galaxy Z Flip8 and the new Galaxy Watch9 and Watch Ultra2. The Galaxy Z Flip8 and Z Fold8 Ultra are priced $100 higher than previous models, with Samsung providing pre-order discounts.",
-        "wordCount": 55
+        "summary": "T-Mobile and AT&T are offering the Galaxy Z Fold8 for free and the Galaxy Z Fold8 Ultra for $200. Additionally, promotions are available for the Galaxy Z Flip8 and the new Galaxy Watch9 and Watch Ultra2. The Galaxy Z Flip8 and Z Fold8 Ultra are priced $100 higher than previous models, with Samsung providing pre-order discounts.",
+        "wordCount": 56
       },
       {
         "title": "MacBook Neo 2 Reportedly Getting 12GB RAM and New Colors",
@@ -83,11 +93,21 @@
         "image": "https://www.gadgetreview.com/wp-content/uploads/Apple-prepares-new-MacBook-Neo-with-more-RAM.jpg",
         "publishedAt": "2026-07-23T16:01:57Z",
         "category": "technology",
-        "summary": "The MacBook Neo 2 is expected to feature 12GB of RAM and an A19 Pro chip, with a release targeted for the first half of 2027. New color options are also anticipated, although no pricing information has been confirmed. The upgrade aims to address previous concerns regarding RAM capacity in comparison to other laptops on the market.",
-        "wordCount": 57
+        "summary": "The MacBook Neo 2 is expected to feature 12GB of RAM and an A19 Pro chip, with a release targeted for the first half of 2027. The device will also introduce new color options. As of now, there is no confirmed pricing. This upgrade addresses previous criticisms regarding RAM capacity in the earlier model.",
+        "wordCount": 54
       }
     ],
     "sports": [
+      {
+        "title": "'Where is Rajat Patidar?' - Former India batter questions selectors over Zimbabwe T20I squad",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-zimbabwe/where-is-rajat-patidar-former-india-batter-questions-selectors-over-zimbabwe-t20i-squad/articleshow/132594236.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132594244,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-24T00:53:00Z",
+        "category": "sports",
+        "summary": "Former India batter Hanuma Vihari has questioned the selectors regarding Rajat Patidar's exclusion from India's T20I squad for the upcoming series against Zimbabwe. Vihari expressed his belief that Patidar deserved a spot on the team, highlighting his performance and contributions. The criticism reflects ongoing discussions about player selections and the criteria used by the team management.",
+        "wordCount": 56
+      },
       {
         "title": "Captaincy weighed him down, freedom set him free: The remarkable second act of Joe Root",
         "url": "https://timesofindia.indiatimes.com/sports/cricket/news/captaincy-weighed-him-down-freedom-set-him-free-the-remarkable-second-act-of-joe-root/articleshow/132579947.cms",
@@ -95,8 +115,8 @@
         "image": "https://static.toiimg.com/thumb/msid-132580093,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-24T00:30:00Z",
         "category": "sports",
-        "summary": "Joe Root concluded the ODI series against India unbeaten, amassing 249 runs across three innings, leading England to a 2-1 series victory. At 36 years old, Root's performance highlights his resurgence after stepping down from captaincy, allowing him to play with greater freedom. His achievements contrast with many peers who have retired, showcasing his enduring talent in cricket.",
-        "wordCount": 58
+        "summary": "Joe Root concluded the ODI series against India unbeaten, amassing 249 runs across three innings, leading England to a 2-1 series victory. At 36 years old, he continues to perform at a high level, contrasting with many peers who have retired. Root's recent success marks a significant resurgence in his cricket career following his captaincy tenure.",
+        "wordCount": 56
       },
       {
         "title": "GAW vs SFU Today Match Prediction and Betting Tips, Odds and Live Score",
@@ -105,18 +125,8 @@
         "image": "https://api.thetopbk.com/storage/cricket/teams/gaw/5zg3aehh8Itu4xRSvhcqNFo55ihGcCUDwVUsFbRC.webp",
         "publishedAt": "2026-07-23T22:44:53Z",
         "category": "sports",
-        "summary": "The Guyana Amazon Warriors (GAW) will play against the San Francisco Unicorns (SFU) in the second match of the Global Super League 2026. The match is scheduled for July 24, 2026, at 04:30 IST, taking place at Providence Stadium in Guyana. GAW enters the match as the defending champions, aiming to secure a victory against SFU.",
-        "wordCount": 56
-      },
-      {
-        "title": "Shakira, BTS Outfits, Game Ball",
-        "url": "https://www.forbes.com/sites/jeffbenjamin/2026/07/23/world-cup-final-game-ball-bts-and-shakira-items-featured-in-christies-global-citizen-auction/",
-        "source": "Forbes",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a5d41a14b69ca7dd66f74d5/0x0.jpg?format=jpg&crop=3472,1952,x73,y167,safe&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-07-23T22:05:43Z",
-        "category": "sports",
-        "summary": "Christie's is hosting a charity auction, \"One Goal,\" to benefit the FIFA Global Citizen Education Fund. The auction features USA World Cup merchandise and items worn by celebrities including Lionel Messi, Shakira, BTS, and Justin Bieber. This event comes as fans petition FIFA to replay the 2026 World Cup final match, offering a chance to own memorabilia.",
-        "wordCount": 57
+        "summary": "Guyana Amazon Warriors (GAW) will play against San Francisco Unicorns (SFU) in the second match of the Global Super League 2026. The match is scheduled for July 24, 2026, at 04:30 IST, taking place at Providence Stadium in Guyana. GAW enters the match as the defending champions, while SFU aims to secure a strong start in the tournament.",
+        "wordCount": 58
       }
     ],
     "health": [
@@ -127,8 +137,8 @@
         "image": "https://images.nomadlawyer.org/images/blog/travel-alert/2026/07/summer-travel-food-safety-alert-foodborne-illness-2026.jpg",
         "publishedAt": "2026-07-24T00:17:27Z",
         "category": "health",
-        "summary": "Health experts have issued a summer travel food safety alert due to heightened risks of foodborne illnesses from extreme heat, flight delays, and compromised hotel buffets. Record-breaking temperatures and transportation disruptions are contributing factors. Travelers are advised to take precautions when consuming food during trips to mitigate potential health risks associated with inadequate food storage and handling.",
-        "wordCount": 57
+        "summary": "Health experts have issued a summer travel food safety alert, highlighting increased risks of foodborne illnesses due to extreme heatwaves, flight delays, and compromised hotel buffet lines. The warning emphasizes the importance of food safety during travel as soaring temperatures and disruptions in transportation can lead to unsafe food handling and storage conditions, raising health concerns for travelers.",
+        "wordCount": 58
       },
       {
         "title": "Beyond the Fog",
@@ -137,8 +147,8 @@
         "image": "https://staticimg.publishstory.co/thumb/132589451.cms?imgsize=119712&width=1280&height=720&resizemode=8",
         "publishedAt": "2026-07-23T22:30:00Z",
         "category": "health",
-        "summary": "Experts indicate that non-cognitive symptoms such as changes in mood, sleep, smell, and movement may appear years or even decades before dementia is diagnosed. While impaired memory and thinking are commonly recognized symptoms, these early indicators can provide critical insights into an individual's cognitive health. Awareness of these signs may aid in earlier detection and intervention strategies for dementia.",
-        "wordCount": 59
+        "summary": "Experts indicate that non-cognitive symptoms such as alterations in mood, sleep, smell, and movement may manifest years or even decades prior to a dementia diagnosis. While impaired memory and thinking are widely recognized as primary symptoms of dementia, these early indicators could provide crucial insights for early intervention and management of the condition, potentially improving patient outcomes.",
+        "wordCount": 57
       },
       {
         "title": "Study Maps Motor Abnormalities Across Mental Health Spectrums",
@@ -147,8 +157,8 @@
         "image": "https://neurosciencenews.com/files/2026/07/motor-function-mental-health-neuroscience.jpg",
         "publishedAt": "2026-07-23T21:27:43Z",
         "category": "health",
-        "summary": "A recent study employed the Hierarchical Taxonomy of Psychopathology (HiToP) to investigate motor symptoms linked to various mental health spectrums and psychosis risk. Analyzing data from nearly 3,500 participants without formal diagnoses, researchers assessed self-reported motor functions and psychological dimensions, revealing significant correlations that could enhance understanding of the relationship between motor abnormalities and mental health conditions.",
-        "wordCount": 57
+        "summary": "A new study employed the Hierarchical Taxonomy of Psychopathology (HiToP) framework to investigate motor symptoms linked to mental health spectrums and psychosis risk. Analyzing data from nearly 3,500 participants without formal diagnoses, researchers assessed self-reported motor functions and psychological dimensions. The findings aim to enhance understanding of the relationship between motor abnormalities and mental health conditions.",
+        "wordCount": 56
       }
     ],
     "science": [
@@ -159,8 +169,8 @@
         "image": "https://scitechdaily.com/images/UV-and-X-Ray-Probing-of-3-Fluoropyridine-scaled.jpg",
         "publishedAt": "2026-07-24T00:27:37Z",
         "category": "science",
-        "summary": "Scientists have developed a new method to observe electronic and vibrational dynamics in real time, allowing them to track molecular changes within trillionths of a second after light absorption. This technique reveals how molecules bend, shift electrons, and convert electronic energy into vibrations, providing insights into fundamental chemical processes and potentially advancing fields such as materials science and photochemistry.",
-        "wordCount": 59
+        "summary": "Scientists have developed a new method to observe electronic and vibrational dynamics in real time, allowing them to track molecular changes after light absorption. Within trillionths of a second, molecules can bend, shift electrons, and convert electronic energy into vibrations. This advancement enhances understanding of chemical processes at the atomic level, potentially impacting various scientific fields.",
+        "wordCount": 56
       },
       {
         "title": "Integrated experimental and computational characterization of bioactive metabolites from Streptomyces paradoxus GH53 with antimicrobial, antioxidant, and antitumor activities",
@@ -169,8 +179,8 @@
         "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-62673-2/MediaObjects/41598_2026_62673_Fig1_HTML.png",
         "publishedAt": "2026-07-23T23:40:29Z",
         "category": "science",
-        "summary": "Streptomyces paradoxus GH53 was identified and characterized for its bioactive metabolites with antimicrobial, antioxidant, and antitumor activities. Fermentation conditions were optimized, and the crude extract analyzed via GC-MS, FT-IR, and UV-Vis spectroscopy. The extract showed significant cytotoxicity against HePG-2 and MCF-7 cell lines. Molecular docking indicated favorable interactions with relevant protein targets, though some metabolites showed potential toxicity concerns.",
-        "wordCount": 59
+        "summary": "Streptomyces paradoxus GH53 was identified and optimized for metabolite production. The crude extract was characterized using various spectroscopic methods, revealing a complex mixture. It exhibited antimicrobial, antioxidant, and antitumor activities, with specific IC₅₀ values for radical scavenging and cytotoxicity against cancer cell lines. Molecular docking and dynamics simulations suggested favorable interactions, though some metabolites showed potential drug-likeness limitations.",
+        "wordCount": 58
       },
       {
         "title": "Sperm whales blow bubbles to achieve restful, vertical sleep",
@@ -179,8 +189,8 @@
         "image": "https://scx2.b-cdn.net/gfx/news/2026/sperm-whales-blow-bubb.jpg",
         "publishedAt": "2026-07-23T22:00:04Z",
         "category": "science",
-        "summary": "Research from the University of St Andrews and Université de Neuchâtel reveals how sperm whales can sleep vertically just below the ocean surface. This unique sleeping position is facilitated by the whales blowing bubbles, which helps them maintain stability while resting. Sperm whales are the only known whale species to adopt this vertical sleeping posture.",
-        "wordCount": 55
+        "summary": "Research from the University of St Andrews and Université de Neuchâtel reveals that sperm whales can sleep vertically just beneath the ocean surface. This unique sleeping position is facilitated by a mechanism involving bubble-blowing, allowing them to rest while remaining partially submerged. Sperm whales are the only known whales to adopt this distinctive vertical sleeping posture.",
+        "wordCount": 56
       }
     ],
     "entertainment": [
@@ -191,8 +201,8 @@
         "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
         "publishedAt": "2026-07-24T00:30:00Z",
         "category": "entertainment",
-        "summary": "Horoscope for July 24, 2026, advises Leo to make a decisive exit from current situations. Despite feeling overwhelmed, the stars suggest taking a moment to reflect and observe surroundings. There are underlying dynamics at play that may not be immediately apparent. Guidance from guardians encourages a pause to gain clarity amidst the chaos and regain focus.",
-        "wordCount": 56
+        "summary": "On July 24, 2026, Leos are advised to make a significant exit, as the current circumstances are no longer favorable. Despite feeling overwhelmed, they are encouraged to take a moment to pause and reflect. The stars suggest that there are underlying factors at play, urging individuals to look beyond the surface and gain clarity in their situation.",
+        "wordCount": 57
       },
       {
         "title": "Sagittarius Horoscope Today: July 24, 2026",
@@ -201,8 +211,8 @@
         "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
         "publishedAt": "2026-07-24T00:20:00Z",
         "category": "entertainment",
-        "summary": "Sagittarius individuals are advised to adopt a more organized approach to their finances and life. Scattered energy can be draining, making it essential to establish a clearer plan for future goals. Additionally, taking time to recognize personal achievements and progress is encouraged, fostering a more thoughtful mindset. This guidance aims to enhance overall well-being and direction.",
-        "wordCount": 56
+        "summary": "Sagittarius individuals are advised to adopt a more organized approach to their finances and life. Scattered energy can be draining, so a clearer plan for future goals is essential. Additionally, it is important to take time for self-reflection and recognize personal achievements. Focusing on these aspects will help enhance overall well-being and direction in life.",
+        "wordCount": 55
       },
       {
         "title": "Pisces Horoscope Today: July 24, 2026",
@@ -211,8 +221,8 @@
         "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
         "publishedAt": "2026-07-24T00:20:00Z",
         "category": "entertainment",
-        "summary": "Today, July 24, 2026, Pisces is advised to conclude a lingering challenge. The focus shifts to moving forward, emphasizing the importance of retaining only what is beneficial. The horoscope encourages letting go of past grievances, suggesting that dwelling on them is no longer productive. Embrace change and prioritize personal growth as you navigate this transitional phase.",
-        "wordCount": 56
+        "summary": "Today, July 24, 2026, Pisces faces the conclusion of a challenging period. It is time to move on from past difficulties and focus on what is beneficial. The horoscope encourages letting go of regrets and not allowing minor setbacks to overshadow progress. Embrace the opportunity to rebuild and prioritize personal growth as you transition into a new phase.",
+        "wordCount": 58
       }
     ]
   }
