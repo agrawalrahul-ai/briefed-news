@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-07-20T08:37:14.864Z",
+  "updatedAt": "2026-07-24T12:30:02.428Z",
   "categories": {
     "world": [
       {
-        "title": "US-Iran war LIVE: US service member killed in Iraq; missiles hit Abadan as war escalates",
-        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-strikes-tehran-kuwait-bahrain-uae-strait-of-hormuz-trump-mojtaba-brent-crude-price-news-july-19-101784424546450.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/19/550x309/TOPSHOT-IRAN-US-ISRAEL-WAR-0_1784449525705_1784449541772_6894aff1-f286-48eb-bf96-30aa8eadad56.jpg",
-        "publishedAt": "2026-07-19T20:31:40Z",
+        "title": "He Moved to the US on a Green Card and Wouldn't Do the Same on an H-1B",
+        "url": "https://www.businessinsider.com/moved-to-america-green-card-h-1b-visa-ivy-league-2026-7",
+        "source": "Business Insider",
+        "image": "https://i.insider.com/6a575398eae3978eb7e5e177?width=1200&format=jpeg",
+        "publishedAt": "2026-07-24T00:15:08Z",
         "category": "world",
-        "summary": "Two US soldiers were killed and four injured in Iranian fire in Jordan, escalating tensions in the ongoing US-Iran conflict. In response, the US military conducted airstrikes against Iran on Sunday, targeting the Revolutionary Guard to \"swiftly punish\" them for the casualties. Meanwhile, missiles struck Abadan, further intensifying the situation. The conflict continues to evolve with significant military actions.",
+        "summary": "Mohamed Zeeshan, a 32-year-old Indian national residing in Arlington, Virginia, shares his experience of moving to the US on a green card. He clarifies that his motivation was not economic upliftment. The essay, based on a conversation with him, highlights his perspective on immigration and the differences between green card and H-1B visa applications.",
+        "wordCount": 54
+      },
+      {
+        "title": "Why US hospitals are outsourcing more work to India-and 2 stocks are riding the trend",
+        "url": "https://www.financialexpress.com/market/stock-insights/why-us-hospitals-are-outsourcing-more-work-to-indiaand-2-stocks-are-riding-the-trend/4300788/",
+        "source": "financialexpress.com",
+        "image": "https://images.financialexpressdigital.com/2026/07/hospital-su.jpg",
+        "publishedAt": "2026-07-24T00:00:00Z",
+        "category": "world",
+        "summary": "US hospitals are increasingly outsourcing administrative tasks to Indian companies, driven by a structural shift in the healthcare sector. This trend presents new opportunities for investors as healthcare spending expands beyond direct medical care to include significant administrative costs. As a result, certain stocks are benefiting from this emerging theme, highlighting the growing role of outsourcing in healthcare operations.",
         "wordCount": 59
       },
       {
-        "title": "Watch: Donald Trump makes dramatic Marine One arrival at Argentina vs Spain FIFA World Cup final",
-        "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-donald-trump-makes-dramatic-marine-one-arrival-at-argentina-vs-spain-fifa-world-cup-final/articleshow/132501186.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132501212,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-19T19:44:00Z",
+        "title": "U.S. slaps 10% tariffs on goods imported from India over issue forced labour",
+        "url": "https://www.thehindu.com/news/national/us-tarifs-on-goods-imported-from-india/article71259860.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/yzfcmu/article71259863.ece/alternates/LANDSCAPE_1200/2026-07-23T205955Z_1910357374_RC2WJMAQWY12_RTRMADP_3_USA-TRUMP.JPG",
+        "publishedAt": "2026-07-23T23:09:40Z",
         "category": "world",
-        "summary": "United States President Donald Trump made a notable entrance at the FIFA World Cup 2026 final held at MetLife Stadium. Arriving aboard Marine One, he captured attention before the match between Argentina and Spain commenced. His dramatic arrival highlighted his presence at the high-profile event, setting the stage for the final showdown in international football.",
-        "wordCount": 55
-      },
-      {
-        "title": "Donald Trump and Shakira make their World Cup final predictions",
-        "url": "https://gulfnews.com/sport/football/world-cup/donald-trump-and-shakira-make-their-world-cup-final-predictions-1.500613389",
-        "source": "Gulf News",
-        "image": "https://media.assettype.com/gulfnews%2F2026-07-19%2Fnmsb6cwg%2FTrump-and-Shakira?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-07-19T18:50:31Z",
-        "category": "world",
-        "summary": "Donald Trump and Shakira have made predictions for the FIFA World Cup 2026 final between Spain and Argentina, highlighting Lionel Messi's potential to secure back-to-back titles. Trump praised Messi's skills, particularly a decisive pass he made, emphasizing the importance of teamwork in achieving success. Both celebrities expressed confidence in Messi's abilities as a key player in the upcoming match.",
-        "wordCount": 59
+        "summary": "The U.S. has imposed 10% tariffs on goods imported from India and 16 other countries due to concerns over forced labor in production processes. This decision affects a total of 60 countries and was announced by U.S. Trade Representative Jamieson Greer. The tariffs aim to address human rights violations linked to labor practices in various industries.",
+        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "Gold (XAUUSD) Price Forecast: Gold Consolidates as Oil Clouds Fed Outlook",
-        "url": "https://www.fxempire.com/forecasts/article/gold-xauusd-price-forecast-gold-consolidates-as-oil-clouds-fed-outlook-1611389",
-        "source": "FXEmpire",
-        "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/07/3Gold-Coins-1.jpg?func=cover&q=70&width=1201",
-        "publishedAt": "2026-07-19T20:17:00Z",
+        "title": "Flipkart to launch food delivery over the coming weeks: Group CEO Kalyan Krishnamurthy",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/startup/flipkart-to-launch-food-delivery-over-the-coming-weeks-group-ceo-kalyan-krishnamurthy-13982183.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2017/05/img_95795_kalyan_krishnamurthy-1.jpg",
+        "publishedAt": "2026-07-24T00:25:53Z",
         "category": "business",
-        "summary": "Gold prices are consolidating as traders evaluate the impact of rising oil prices on inflation and Federal Reserve policy. The market is focusing on inflation concerns stemming from increasing crude oil costs rather than geopolitical conflicts. This situation has led traders to adjust their expectations regarding gold's potential breakout, reflecting the ongoing interplay between oil prices and inflation dynamics.",
-        "wordCount": 59
+        "summary": "Flipkart, the Walmart-owned e-commerce platform, is set to launch a food delivery service in the coming weeks. This initiative will be in collaboration with the government-backed Open Network for Digital Commerce (ONDC). The announcement was made by Group CEO Kalyan Krishnamurthy, highlighting Flipkart's expansion into the food delivery sector as part of its growth strategy.",
+        "wordCount": 55
       },
       {
-        "title": "Ethanol could soon make its way to Indian kitchens",
-        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ethanol-could-soon-make-its-way-to-indian-kitchens/articleshow/132500993.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-132505127,width-1200,height-630,imgsize-133684,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-19T19:39:54Z",
+        "title": "Quick Commerce just another category for Flipkart; see no merit in having 6-7 players: Group CEO Kalyan Krishnamurthy",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/startup/quick-commerce-just-another-category-for-flipkart-see-no-merit-in-having-6-7-players-group-ceo-kalyan-krishnamurthy-13982192.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260723174337_KK.jpeg",
+        "publishedAt": "2026-07-24T00:25:14Z",
         "category": "business",
-        "summary": "India's petroleum ministry is creating a policy to promote ethanol as a primary cooking fuel, aiming to decrease reliance on imported liquefied petroleum gas. The government may offer subsidies to facilitate this transition and develop necessary infrastructure. With a significant surplus in ethanol production, oil companies are also exploring ethanol-based stoves and dispensing systems for households.",
-        "wordCount": 56
+        "summary": "Flipkart's Group CEO Kalyan Krishnamurthy stated that the company's quick commerce service, Minutes, is merely \"just another category\" for the platform. He expressed skepticism about the viability of having multiple players in the quick commerce space, particularly as competitors like Amazon, Blinkit, Instamart, and Zepto focus on rapid delivery. Krishnamurthy sees no merit in sustaining 6-7 players in this market.",
+        "wordCount": 60
       },
       {
-        "title": "RBI asks banks to clear old trade and payment mismatches",
-        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-asks-banks-to-clear-old-trade-and-payment-mismatches/articleshow/132501120.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-132501138,width-1200,height-630,imgsize-101716,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-19T19:34:05Z",
+        "title": "Off: Dow Jones falls 500 points after crude rally; Alphabet, Tesla drag Nasdaq",
+        "url": "https://www.cnbctv18.com/market/us-market-sell-off-dow-jones-snp-500-nasdaq-alphabet-tesla-amazon-crude-bond-yields-trump-19952819.htm",
+        "source": "CNBC TV18",
+        "image": "https://images.cnbctv18.com/uploads/2026/07/chatgpt-image-jul-24-2026-04-50-40-am-1-2026-07-9ae6a814e65e5e0957a3c5b6c0b7758e.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-07-23T23:22:02Z",
         "category": "business",
-        "summary": "The RBI has instructed banks to address longstanding mismatches in trade and payment records amounting to thousands of crores. Banks are required to verify documents and transactions to regularize legitimate export-import cases. Resolving outdated EDPMS and IDPMS entries is expected to enhance compliance, prevent businesses from being flagged, and ensure more accurate trade data moving forward.",
-        "wordCount": 56
+        "summary": "The Dow Jones Industrial Average dropped 500 points, with a low of over 650 points during the day. The S&P 500 decreased by 1.2%, while the Nasdaq Composite fell 2.1%. Tesla shares plummeted 14.5%, reaching their lowest since March 2025, and Alphabet's stock declined by 7%, contributing to the tech-heavy indices' downturn amid a crude oil rally.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "First HyperOS 4 Screenshot Appears on Xiaomi 18 Series Flagship",
-        "url": "https://ximitime.com/first-hyperos-4-screenshot-appears-on-xiaomi-18-series-flagship-98849/",
-        "source": "ximitime.com",
-        "image": "https://ximitime.com/wp-content/uploads/2026/07/HyperOS-4-1.jpg",
-        "publishedAt": "2026-07-19T17:51:30Z",
+        "title": "Chaos Ransomware Turns Your Chrome and Edge Web Browser Into an Invisible Malware Command Channel",
+        "url": "https://cybersecuritynews.com/chaos-ransomware-turns-chrome-malware/",
+        "source": "CyberSecurityNews",
+        "image": "http://cybersecuritynews.com/wp-content/uploads/2026/07/Chaos-Ransomware-Turns-Your-Chrome-and-Edge-Web-Browser-Into-an-Invisible-Malware-Command-Channel.webp",
+        "publishedAt": "2026-07-23T18:05:07Z",
         "category": "technology",
-        "summary": "A screenshot of Xiaomi's HyperOS 4 has surfaced on Weibo, showcasing a redesigned home screen for the Xiaomi 18 series flagship. Key features include a new vertical widget slider, updated system icons with enhanced shadows, and the Xiaomi Game Center icon depicted as a white controller against a gradient background. The image hints at additional functionalities yet to be revealed.",
-        "wordCount": 60
+        "summary": "Chaos ransomware has developed a method to conceal its operations within Chrome and Edge browsers using the msaRAT remote-access tool. This technique allows attackers to stealthily receive commands and exfiltrate data while users browse the web. By integrating with these commonly used browsers, Chaos ransomware enhances its ability to operate undetected, posing significant risks to user security and privacy.",
+        "wordCount": 59
       },
       {
-        "title": "Apple hikes Apple Music prices: Here are the new prices in India",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-hikes-apple-music-prices-here-are-the-new-prices-in-india/articleshow/132498310.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132498398,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-19T17:23:00Z",
+        "title": "T-Mobile and AT&T offer the Galaxy Z Fold8 for free, Z Fold8 Ultra for $200",
+        "url": "https://www.gsmarena.com/tmobile_and_at_t_offer_the_galaxy_z_fold8_for_free_z_fold8_ultra_for_200-news-73840.php",
+        "source": "GSMArena.com",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/07/galaxy-z8-us-carrier-deals/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-07-23T17:01:02Z",
         "category": "technology",
-        "summary": "Apple has increased the prices of Apple Music and select Apple One bundles in India, following a recent hike in AppleCare+ charges for Macs and iPads. This price adjustment affects multiple markets, including the US, UK, Europe, and others. The new pricing reflects Apple's ongoing strategy to adjust subscription costs across its services globally.",
-        "wordCount": 54
-      },
-      {
-        "title": "Google Play Opens to Third-Party App Stores Following Court Order",
-        "url": "https://www.thehansindia.com/tech/google-play-opens-to-third-party-app-stores-following-court-order-1099182",
-        "source": "The Hans India",
-        "image": "https://assets.thehansindia.com/h-upload/2026/07/19/1679197-playstore.jpg",
-        "publishedAt": "2026-07-19T16:56:56Z",
-        "category": "technology",
-        "summary": "Google Play will allow third-party app stores to be downloaded directly from its platform, starting July 22, 2026, following a court order. This change aims to enhance competition in Android app distribution. Rival stores will also be permitted to distribute apps sourced from Google Play. This marks a significant shift in how apps are accessed on Android devices.",
+        "summary": "T-Mobile and AT&T are offering the Galaxy Z Fold8 for free and the Z Fold8 Ultra for $200. Additional promotions include discounts on the Galaxy Z Flip8, Galaxy Watch9, and Watch Ultra2. The new Galaxy Z Flip8 and Z Fold8 Ultra are priced $100 higher than previous models, with Samsung providing pre-order discounts of $150 and $200, respectively.",
         "wordCount": 58
+      },
+      {
+        "title": "MacBook Neo 2 Reportedly Getting 12GB RAM and New Colors",
+        "url": "https://www.gadgetreview.com/macbook-neo-2-reportedly-getting-12gb-ram-and-new-colors",
+        "source": "Gadget Review",
+        "image": "https://www.gadgetreview.com/wp-content/uploads/Apple-prepares-new-MacBook-Neo-with-more-RAM.jpg",
+        "publishedAt": "2026-07-23T16:01:57Z",
+        "category": "technology",
+        "summary": "The MacBook Neo 2 is expected to feature 12GB RAM and an A19 Pro chip, with a release planned for the first half of 2027. The device will also introduce new color options. Currently, there is no confirmed pricing. The upgrade aims to address concerns regarding the previous model's RAM capacity compared to competitors in the market.",
+        "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "Argentina lose Martínez, Romero to injury in World Cup final vs. Spain",
-        "url": "https://www.espn.in/football/story/_/id/49402754/argentina-lisandro-martinez-forced-injured-world-cup-final-vs-spain",
-        "source": "espn.in",
-        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0719%2Fr1691390_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-07-19T20:00:00Z",
+        "title": "GAW vs SFU Today Match Prediction and Betting Tips, Odds and Live Score",
+        "url": "https://www.thetopbookies.com/betting-tips/cricket/gaw-vs-sfu-24-Jul-2026",
+        "source": "TheTopBookies",
+        "image": "https://api.thetopbk.com/storage/cricket/teams/gaw/5zg3aehh8Itu4xRSvhcqNFo55ihGcCUDwVUsFbRC.webp",
+        "publishedAt": "2026-07-23T22:44:53Z",
         "category": "sports",
-        "summary": "Argentina's World Cup final against Spain was marred by injuries to center backs Lisandro Martínez and Cristian Romero. Martínez, a Manchester United defender, indicated a thigh issue during the match, while Romero also faced injury challenges. Their absence significantly impacted Argentina's defensive lineup as they aimed for victory in the crucial tournament match.",
-        "wordCount": 53
+        "summary": "Guyana Amazon Warriors (GAW) will compete against San Francisco Unicorns (SFU) in the second match of the Global Super League 2026. The match is scheduled for July 24, 2026, at 04:30 IST, taking place at Providence Stadium in Guyana. GAW enters the match as the defending champions, while SFU aims to secure a strong start in the tournament.",
+        "wordCount": 58
       },
       {
-        "title": "Watch: Donald Trump makes dramatic Marine One arrival at Argentina vs Spain FIFA World Cup final",
-        "url": "https://timesofindia.indiatimes.com/sports/football/fifa-world-cup/watch-donald-trump-makes-dramatic-marine-one-arrival-at-argentina-vs-spain-fifa-world-cup-final/articleshow/132501186.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132501212,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-19T19:44:00Z",
+        "title": "Shakira, BTS Outfits, Game Ball",
+        "url": "https://www.forbes.com/sites/jeffbenjamin/2026/07/23/world-cup-final-game-ball-bts-and-shakira-items-featured-in-christies-global-citizen-auction/",
+        "source": "Forbes",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a5d41a14b69ca7dd66f74d5/0x0.jpg?format=jpg&crop=3472,1952,x73,y167,safe&height=900&width=1600&fit=bounds",
+        "publishedAt": "2026-07-23T22:05:43Z",
         "category": "sports",
-        "summary": "United States President Donald Trump made a notable entrance at the FIFA World Cup 2026 final before the match between Argentina and Spain began. Arriving at MetLife Stadium aboard Marine One, Trump captured attention as he stepped onto the field. His arrival occurred prior to the kickoff, highlighting his presence at the high-profile sporting event.",
-        "wordCount": 55
+        "summary": "Christie's is hosting an auction titled \"One Goal\" to benefit the FIFA Global Citizen Education Fund, featuring items from the 2026 World Cup. Auction items include merchandise from the USA World Cup, as well as outfits worn by celebrities like Lionel Messi, Shakira, BTS, and Justin Bieber. This event comes amid fan petitions for a replay of the final match.",
+        "wordCount": 60
       },
       {
-        "title": "ENG vs IND 3rd ODI, Highlights: All-round England seals series with 27-run win",
-        "url": "https://sportstar.thehindu.com/cricket/england-vs-india-3rd-odi-gill-kolhi-rohit-century-curran-eng-v-ind-lords-score-live-updates-highlights/article71241005.ece",
-        "source": "Sportstar",
-        "image": "https://ss-i.thgim.com/public/incoming/d3fk1m/article71242156.ece/alternates/LANDSCAPE_1200/2026-07-19T145909Z_1942264690_UP1EM7J15MK6R_RTRMADP_3_CRICKET-ODI-ENG-IND.JPG",
-        "publishedAt": "2026-07-19T19:30:39Z",
+        "title": "ATP Kitzbuhel Semifinal Predictions",
+        "url": "https://lastwordonsports.com/tennis/2026/07/23/atp-kitzbuhel-semifinal-predictions-bublik-vs-etcheverry/",
+        "source": "Last Word On Sports",
+        "image": "https://lastwordonsports.com/tennis/wp-content/uploads/sites/17/2023/10/USATSI_21291780_168400550_lowres.jpg",
+        "publishedAt": "2026-07-23T21:31:30Z",
         "category": "sports",
-        "summary": "England secured a 27-run victory over India in the third ODI at Lord’s on July 19, 2026, clinching the series 2-1. Despite a strong performance from Rohit Sharma during the second innings, England's all-round effort proved decisive. The match showcased competitive play, with England ultimately prevailing to conclude the series on a high note.",
-        "wordCount": 54
+        "summary": "Friday marks semifinal day at the ATP Kitzbuhel Open in Austria, featuring a mix of top-seeded players in the top half and lower-ranked competitors in the bottom half, none of whom have secured an ATP Tour title. Predictions for the match outcomes are being shared, as fans anticipate an exciting day of tennis in the mountainous setting.",
+        "wordCount": 57
       }
     ],
     "health": [
       {
-        "title": "Anaemia, alcohol major risk factors behind brain clots, finds ICMR study",
-        "url": "https://www.tribuneindia.com/news/india/anaemia-alcohol-major-risk-factors-behind-brain-clots-finds-icmr-study/",
-        "source": "The Tribune",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdmY2YxN2YwLTgzYWYtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-        "publishedAt": "2026-07-19T20:21:59Z",
+        "title": "Beyond the Fog",
+        "url": "https://mumbaimirror.indiatimes.com/news/world/beyond-the-fog/articleshow/132589452.html",
+        "source": "Mumbai Mirror",
+        "image": "https://staticimg.publishstory.co/thumb/132589451.cms?imgsize=119712&width=1280&height=720&resizemode=8",
+        "publishedAt": "2026-07-23T22:30:00Z",
         "category": "health",
-        "summary": "A study by the Indian Council of Medical Research (ICMR) identifies anaemia and alcohol consumption as major risk factors for cerebral venous thrombosis (CVT), differing from Western findings that emphasize hormonal and genetic factors. Common symptoms include headache, motor impairment, and seizures. Experts warn that CVT can become life-threatening if patients seek medical help too late.",
-        "wordCount": 56
+        "summary": "Experts indicate that non-cognitive symptoms such as changes in mood, sleep, smell, and movement may manifest years or even decades prior to a dementia diagnosis. While impaired memory and thinking are commonly recognized symptoms, these early indicators can provide crucial insights into an individual's cognitive health, potentially allowing for earlier intervention and management strategies.",
+        "wordCount": 54
       },
       {
-        "title": "Viral Cases Make Up Three in 10 OPD Visits",
-        "url": "https://timesofindia.indiatimes.com/city/bhopal/viral-cases-make-up-three-in-10-opd-visits/articleshow/132500845.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132500844,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-19T19:07:00Z",
+        "title": "Study Maps Motor Abnormalities Across Mental Health Spectrums",
+        "url": "https://neurosciencenews.com/moto-abnormalities-mental-health-31119/",
+        "source": "Neuroscience News",
+        "image": "https://neurosciencenews.com/files/2026/07/motor-function-mental-health-neuroscience.jpg",
+        "publishedAt": "2026-07-23T21:27:43Z",
         "category": "health",
-        "summary": "Bhopal hospitals report a significant increase in viral illnesses, with approximately 30% of outpatient department (OPD) visits attributed to these cases. The rise includes higher fevers, post-viral bronchitis, and an increase in child diarrhea cases. This surge occurs as the monsoon season begins, indicating early health concerns related to viral infections before consistent rainfall has started.",
-        "wordCount": 56
-      },
-      {
-        "title": "You don't have to drink alcohol to damage your liver: Doctor reveals 9 unexpected factors that could be putting it at risk",
-        "url": "https://timesofindia.indiatimes.com/health/you-dont-have-to-drink-alcohol-to-damage-your-liver-doctor-reveals-9-unexpected-factors-that-could-be-putting-it-at-risk/photostory/132499824.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132500602,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-19T18:25:33Z",
-        "category": "health",
-        "summary": "Liver health is often associated with alcohol consumption, but various lifestyle factors can also contribute to damage. Dr. Pramod Kumar D A highlights that unhealthy diets, poor sleep, unnecessary supplements, environmental toxins, and common medications can stress the liver. Damage may occur silently, with significant function loss before symptoms appear, emphasizing the importance of consistent healthy choices for liver protection.",
-        "wordCount": 60
+        "summary": "A recent study employed the Hierarchical Taxonomy of Psychopathology (HiToP) to correlate motor symptoms with mental health spectrums and psychosis risk. Analyzing data from nearly 3,500 participants lacking formal diagnoses, researchers focused on self-reported motor functions and psychological dimensions. The findings aim to enhance understanding of how motor abnormalities relate to various mental health conditions and their risks.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "Pit found by Quebecer confirmed to be a 390-million-years-old meteorite impact crater",
-        "url": "https://www.cp24.com/news/canada/2026/07/19/pit-found-by-quebecer-confirmed-to-be-a-390-million-years-old-meteorite-impact-crater/",
-        "source": "CP24",
-        "image": "https://www.cp24.com/resizer/v2/O6BAD2URYWT5DEOXDEA2VLZT4U.jpg?smart=true&auth=13ef74d4a50949e6802bcb498977b9889660a03911eb05d7fb7b14e3c1053238&width=1200&height=630",
-        "publishedAt": "2026-07-19T20:14:05Z",
+        "title": "Scientists Watch Chemistry Unfold Atom by Atom",
+        "url": "https://scitechdaily.com/scientists-watch-chemistry-unfold-atom-by-atom/",
+        "source": "SciTechDaily",
+        "image": "https://scitechdaily.com/images/UV-and-X-Ray-Probing-of-3-Fluoropyridine-scaled.jpg",
+        "publishedAt": "2026-07-24T00:27:37Z",
         "category": "science",
-        "summary": "Amateur astronomer Joël Lapointe discovered a circular pit while using Google Maps to plan a road trip near Magpie, Quebec. Researchers have confirmed the pit is a 390-million-year-old meteorite impact crater. This significant finding highlights the potential for amateur discoveries in geology and astronomy, as Lapointe initially doubted the importance of his chance observation.",
-        "wordCount": 54
+        "summary": "Scientists have developed a new method to observe electronic and vibrational dynamics in real time. The study reveals that within trillionths of a second after light absorption, molecules undergo shape changes, electron shifts, and energy conversions into vibrations. This advancement enhances understanding of molecular behavior and could have implications for various fields, including chemistry and materials science.",
+        "wordCount": 57
       },
       {
-        "title": "Scientists studied how animals survive winter and found fruit flies rebuild their biological clock into a separate seasonal mode",
-        "url": "https://timesofindia.indiatimes.com/science/scientists-studied-how-animals-survive-winter-and-found-fruit-flies-rebuild-their-biological-clock-into-a-separate-seasonal-mode/articleshow/132496782.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132497888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-19T17:00:00Z",
+        "title": "Integrated experimental and computational characterization of bioactive metabolites from Streptomyces paradoxus GH53 with antimicrobial, antioxidant, and antitumor activities",
+        "url": "https://www.nature.com/articles/s41598-026-62673-2?error=cookies_not_supported&code=00a3c22b-6dc1-4809-9d92-5eac535e95a0",
+        "source": "Nature",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-026-62673-2/MediaObjects/41598_2026_62673_Fig1_HTML.png",
+        "publishedAt": "2026-07-23T23:40:29Z",
         "category": "science",
-        "summary": "Scientists have found that fruit flies adapt to winter by completely rebuilding their internal biological clocks, enabling them to enter a distinct seasonal mode. This research sheds light on how various animals survive harsh winter conditions, highlighting the role of a seasonal gene switch that locks fruit flies into this winter mode, enhancing their resilience during colder months.",
-        "wordCount": 58
+        "summary": "The study identified Streptomyces paradoxus GH53, optimizing fermentation for bioactive metabolite production. Chemical characterization revealed a complex mixture with antimicrobial, antioxidant, and antitumor activities. The crude extract exhibited significant cytotoxicity against HePG-2 and MCF-7 cell lines. Molecular docking and dynamics simulations indicated favorable interactions with target proteins, though some metabolites showed potential drug-likeness and solubility limitations.",
+        "wordCount": 56
       },
       {
-        "title": "FCC approves giant space mirror as astronomers warn of risks to the night sky",
-        "url": "https://www.thebrighterside.news/post/fcc-approves-giant-space-mirror-as-astronomers-warn-of-risks-to-the-night-sky/",
-        "source": "The Brighter Side of News",
-        "image": "https://www.thebrighterside.news/uploads/2026/07/orbital-1.jpg?auto=webp",
-        "publishedAt": "2026-07-19T16:00:00Z",
+        "title": "Sperm whales blow bubbles to achieve restful, vertical sleep",
+        "url": "https://phys.org/news/2026-07-sperm-whales-restful-vertical.html",
+        "source": "Phys.org",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/sperm-whales-blow-bubb.jpg",
+        "publishedAt": "2026-07-23T22:00:04Z",
         "category": "science",
-        "summary": "The FCC has approved Reflect Orbital's Eärendil-1 satellite, which will test a giant space mirror designed to reflect sunlight back to Earth. This technology aims to create artificial sunlight but has raised concerns among astronomers regarding its potential impact on night sky visibility and safety. Critics warn that it could disrupt astronomical observations and alter natural darkness.",
+        "summary": "Research from the University of St Andrews and Université de Neuchâtel reveals that sperm whales can sleep vertically just beneath the ocean surface. This unique sleeping position is facilitated by a mechanism involving bubble-blowing, which helps them achieve restful sleep while maintaining buoyancy. Sperm whales are the only known whale species to adopt this vertical resting posture.",
         "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "New match official for WWE SummerSlam following 7/18 SNME",
-        "url": "https://www.wrestleview.com/featured-top-story/388324-new-match-official-for-wwe-summerslam-following-7-18-snme/",
-        "source": "Wrestleview.com",
-        "image": "https://www.wrestleview.com/wp-content/uploads/2026/07/GuntherAldis-1.jpg",
-        "publishedAt": "2026-07-19T19:07:56Z",
+        "title": "Sagittarius Horoscope Today: July 24, 2026",
+        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-july-24-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
+        "publishedAt": "2026-07-24T00:20:00Z",
         "category": "entertainment",
-        "summary": "Triple H has officially announced a match between Gunther and Nick Aldis for WWE SummerSlam. The confirmation occurred during the Fanatics Fest WWE SummerSlam Kickoff show in New York. Gunther had previously confronted Triple H about Aldis at Saturday Night’s Main Event, leading to the decision to schedule this matchup for the upcoming event.",
-        "wordCount": 54
+        "summary": "Sagittarius individuals are advised to adopt a more organized approach to their finances and life. Scattered energy can lead to depletion, making it essential to create a clearer plan for future goals. Additionally, taking time to recognize personal achievements is encouraged, as it can provide motivation and clarity. Overall, focus on structure and reflection is emphasized for personal growth.",
+        "wordCount": 59
       },
       {
-        "title": "July 20, 2026: Check horoscope for all sun signs",
-        "url": "https://www.deccanherald.com/astrology/todays-horoscope-july-20-2026-check-horoscope-for-all-sun-signs-4079685",
-        "source": "Deccan Herald",
-        "image": "https://media.assettype.com/deccanherald%2F2026-05-30%2Fqwkoee7b%2FiStock-1372910783.jpg?rect=0%2C0%2C3870%2C2032&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-        "publishedAt": "2026-07-19T18:47:22Z",
+        "title": "Pisces Horoscope Today: July 24, 2026",
+        "url": "https://www.vogue.in/content/pisces-horoscope-today-july-24-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
+        "publishedAt": "2026-07-24T00:20:00Z",
         "category": "entertainment",
-        "summary": "On July 20, 2026, daily horoscopes are available for all sun signs, offering predictions related to love, career, money, health, and relationships. The forecasts cover Aries through Pisces, providing insights for each zodiac sign. The article emphasizes the importance of checking these predictions to guide daily decisions and interactions. Published on July 19, 2026, at 18:47 IST.",
-        "wordCount": 57
+        "summary": "Today, July 24, 2026, Pisces is advised to move on from a lingering challenge. The horoscope suggests that it is time to focus on recovery and to retain only what is beneficial. By letting go of past grievances, Pisces can embrace a more positive outlook, recognizing that setbacks do not define their future. Change is imminent.",
+        "wordCount": 56
       },
       {
-        "title": "Amaal Mallik reacts to Tanishk Bagchi's Rs 8 lakh royalty for 'Saiyaara': 'Javed Akhtar sahab fought very hard for it, I get salary of Rs 75,000 to Rs 1.5 lakh after doing one song'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amaal-mallik-reacts-to-tanishk-bagchis-rs-8-lakh-royalty-for-saiyaara-javed-akhtar-sahab-fought-very-hard-for-it-i-get-salary-of-rs-75000-to-rs-1-5-lakh-after-doing-one-song/articleshow/132499195.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132500415,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-19T18:43:00Z",
+        "title": "Virgo Horoscope Today: July 24, 2026",
+        "url": "https://www.vogue.in/content/virgo-horoscope-today-july-24-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
+        "publishedAt": "2026-07-24T00:20:00Z",
         "category": "entertainment",
-        "summary": "Amaal Mallik responded to Tanishk Bagchi's claim of receiving Rs 8 lakh in royalties for the song \"Saiyaara.\" He acknowledged the efforts of Javed Akhtar in advocating for fair compensation in the music industry. Mallik noted that his earnings for a song typically range from Rs 75,000 to Rs 1.5 lakh, highlighting the disparities in royalty payments.",
-        "wordCount": 57
+        "summary": "On July 24, 2026, Virgos may feel a sense of nostalgia, as past experiences seem distant yet impactful. This reflection has fostered a renewed perspective and clarity. With a fresh outlook, Virgos are encouraged to embrace their fertile minds, allowing them to approach life with creativity and openness. This shift in perception can lead to new opportunities and insights.",
+        "wordCount": 59
       }
     ]
   }
