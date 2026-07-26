@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-07-25T13:08:56.089Z",
+  "updatedAt": "2026-07-26T13:20:53.291Z",
   "categories": {
     "world": [
       {
-        "title": "India lands at 10% under US forced-labour tariff, escapes steeper 12.5%",
-        "url": "https://www.hindustantimes.com/india-news/india-lands-at-10-under-us-forced-labour-tariff-escapes-steeper-125-101784940355023.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/25/550x309/Donald_Trump_1744269295426_1784941247958_d6985559-733c-4a39-998c-fbeec6a881f1.jpg",
-        "publishedAt": "2026-07-25T00:45:54Z",
-        "category": "world",
-        "summary": "India will face a 10% tariff on most exports to the US starting Friday, following the Trump administration's implementation of a Section 301 duty. This new tariff replaces a temporary duty that expired on July 24. India secured this rate by tightening regulations against forced-labour imports, avoiding a higher tariff rate of 12.5%.",
-        "wordCount": 53
-      },
-      {
-        "title": "Setback for Trump: US appeals court refuses to revive $100,000 H-1B visa fee",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/setback-for-trump-us-appeals-court-refuses-to-revive-100000-h-1b-visa-fee/articleshow/132617133.cms",
+        "title": "Ukraine killed 11 in tourist camp: Russia",
+        "url": "https://timesofindia.indiatimes.com/world/europe/ukraine-killed-11-in-tourist-camp-russia/articleshow/132635188.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132617143,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-24T23:47:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-132635192,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-25T23:14:00Z",
         "category": "world",
-        "summary": "A US federal appeals court denied the Trump administration's request to reinstate a $100,000 fee on new H-1B visas. This ruling upholds a previous decision that blocks the government from implementing the fee. The setback reflects ongoing legal challenges faced by the administration regarding immigration policies and their financial implications for foreign workers seeking employment in the United States.",
-        "wordCount": 59
+        "summary": "Russian authorities reported that an overnight attack by Ukraine on a holiday camp in a Russian-held area of Zaporizhzhia resulted in the deaths of 11 individuals, including four children. The incident has heightened tensions between the two countries, with Russia accusing Ukraine of targeting civilians. No further details regarding the attack or its circumstances have been disclosed.",
+        "wordCount": 57
       },
       {
-        "title": "Commercial vessel attacked in Black Sea, Indian killed",
-        "url": "https://indianexpress.com/article/india/commercial-vessel-attacked-in-black-sea-indian-killed-10802474/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/07/Hormuz-ship-1_20260724234400.jpg",
-        "publishedAt": "2026-07-24T23:45:19Z",
+        "title": "Iran says it sold $18 bn of oil during war, ceasefire",
+        "url": "https://en.royanews.tv/news/72052/Iran-says-it-sold-%2418-bn-of-oil-during-war%2C-ceasefire",
+        "source": "Roya News",
+        "image": "https://backend.royanews.tv/imageserv/Size728Q70/english/news/20260726/6a65243b068161785013307.jpg",
+        "publishedAt": "2026-07-25T21:49:05Z",
         "category": "world",
-        "summary": "A commercial vessel was attacked in the Black Sea, resulting in the death of one Indian national. This incident follows a previous attack on July 19, where four Indians were among ten fatalities. The Ministry of External Affairs expressed condolences to the deceased's family and confirmed that the other two Indian nationals aboard are safe.",
-        "wordCount": 55
+        "summary": "Iran's oil ministry reported selling $18 billion worth of oil during the war and subsequent ceasefire with the United States. The breakdown includes $11.5 billion during the war and $6.5 billion during the ceasefire, which ended earlier this month. This amount represents over 60% of the projected oil revenues for the year, despite previous claims of export challenges.",
+        "wordCount": 58
+      },
+      {
+        "title": "Ukraine moves to aid US in Iran war after striking Tehran-Moscow supply link",
+        "url": "https://www.iranintl.com/en/202607251446",
+        "source": "ایران اینترنشنال",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/af85a18eb76434542e1ee612fef8b4f748f60c02-3112x2312.jpg?rect=0,339,3112,1634&w=1200&h=630&q=66&fit=max&auto=format",
+        "publishedAt": "2026-07-25T21:25:00Z",
+        "category": "world",
+        "summary": "Ukraine is increasing its involvement in the Iran war by offering to share intelligence on Russian support to Tehran. President Volodymyr Zelenskyy announced plans for Ukrainian intelligence to inform partner nations about Russia's role in preparing Iranian strikes against U.S. military facilities. Additionally, Ukraine has targeted vessels linked to the military supply network between Iran and Moscow.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "SpaceX launches major starship test in post-IPO spotlight",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/spacex-launches-major-starship-test-in-post-ipo-spotlight-article-13983210.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260724235747_Starlink-launch.jpg",
-        "publishedAt": "2026-07-24T23:58:33Z",
+        "title": "‘Cities prioritise people, not cars’: Indian man in Germany explains why Europe’s quality of life feels different",
+        "url": "https://www.hindustantimes.com/trending/cities-prioritise-people-not-cars-indian-man-in-germany-explains-why-europe-s-quality-of-life-feels-different-101785027884937.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/26/550x309/vdbvfxxvdvdccd_1785028412198_1785028420293_bad6792c-98e9-45bb-b0eb-146d5fe80915.jpg",
+        "publishedAt": "2026-07-26T01:18:26Z",
         "category": "business",
-        "summary": "SpaceX has launched a significant test of its Starship rocket, which is carrying upgraded Starlink satellites. The mission, lasting approximately one hour, aims for the satellites to burn up in the atmosphere after deployment. This launch occurs in the context of heightened attention following SpaceX's recent initial public offering (IPO), marking a notable moment for the company.",
+        "summary": "An Indian man residing in Germany highlighted differences in quality of life between Europe and India, emphasizing that factors like safer roads, wider pavements, and cleaner parks contribute significantly. He argued that Europe's quality of life transcends mere economic indicators such as salaries, technology, or healthcare, suggesting that urban design prioritizing people over cars enhances daily living experiences.",
+        "wordCount": 58
+      },
+      {
+        "title": "Q1 Results in Coming Week: From ITC to Adani Enterprises - Check full list of companies announcing June quarter results",
+        "url": "https://www.etnownews.com/markets/q1-results-in-coming-week-from-itc-to-adani-enterprises-check-full-list-of-companies-announcing-june-quarter-results-article-155179516",
+        "source": "ET Now",
+        "image": "https://images.etnownews.com/thumb/msid-155179516,updatedat-1785028309858,width-1280,height-720,resizemode-75/155179516.jpg",
+        "publishedAt": "2026-07-26T01:11:49Z",
+        "category": "business",
+        "summary": "Major companies, including Hindustan Unilever (HUL), L&T, Adani Enterprises, ITC, Maruti Suzuki, and Bajaj Finance, are set to announce their Q1 FY27 results between July 27 and August 2. This upcoming earnings season is anticipated to keep investors attentive as they await insights into the financial performance of these significant players in various sectors.",
+        "wordCount": 54
+      },
+      {
+        "title": "India’s hotel boom is changing—and these 3 stocks are built for what’s next",
+        "url": "https://www.financialexpress.com/market/stock-insights/indias-hotel-boom-is-changingand-these-3-stocks-are-built-for-whats-next/4302429/",
+        "source": "financialexpress.com",
+        "image": "https://images.financialexpressdigital.com/2026/07/hotell.jpg",
+        "publishedAt": "2026-07-26T00:00:00Z",
+        "category": "business",
+        "summary": "India's hotel industry is evolving, focusing on capital efficiency alongside occupancy and room rates. This shift has led to significant operating improvements in hotels, with occupancy levels exceeding 70%. Three hotel stocks are highlighted for their strong return on capital employed (ROCE) and return on equity (ROE), positioning them well for the industry's next phase of growth.",
         "wordCount": 57
-      },
-      {
-        "title": "Starship 13th flight concludes as megarocket splashes down in Indian Ocean",
-        "url": "https://www.indiatoday.in/science/story/musks-starship-launched-all-eyes-on-starlink-deployment-2955765-2026-07-25",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/starship-launched-all-eyes-on-starlink-deployment--indian-ocean-crash-245519183-16x9_0.png?VersionId=pCiA0y9kKuMRK6_eag3x2TmlgMN46jab",
-        "publishedAt": "2026-07-24T22:52:14Z",
-        "category": "business",
-        "summary": "SpaceX's Starship completed its 13th flight, launching from Boca Chica, Texas, at 4:21 am IST on July 25. The mission concluded with a splashdown in the Indian Ocean. This flight marks a significant milestone in SpaceX's goal to develop a fully reusable rocket, with future tests anticipated to influence space travel to the Moon and Mars.",
-        "wordCount": 56
-      },
-      {
-        "title": "Adani shows interest to start airline in letter; denies plans in stock exchange filing",
-        "url": "https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/adani-says-want-to-start-airline-shows-letter-denies-plans-in-stock-exchange-filing/articleshow/132613680.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-132613707,width-1200,height-630,imgsize-747120,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-24T19:00:37Z",
-        "category": "business",
-        "summary": "Adani Airports has expressed interest in starting an airline to enhance connectivity in smaller cities, seeking a waiver to operate alongside its airport holdings. This initiative aims to mitigate risks from a concentrated airline market. However, existing airlines have raised concerns about potential conflicts of interest and consumer impact, while Adani's strategy includes plans for an aircraft manufacturing facility.",
-        "wordCount": 59
       }
     ],
     "technology": [
       {
-        "title": "Bank holiday today: Are SBI, HDFC, ICICI and other banks open or closed on Saturday, July 25, 2026? Check RBI calendar here",
-        "url": "https://www.etnownews.com/personal-finance/bank-holiday-today-are-sbi-hdfc-icici-and-other-banks-open-or-closed-on-saturday-july-25-2026-check-rbi-calendar-here-article-155174276",
-        "source": "ET Now",
-        "image": "https://images.etnownews.com/thumb/msid-155174276,updatedat-1784953007001,width-1280,height-720,resizemode-75/155174276.jpg",
-        "publishedAt": "2026-07-25T00:37:01Z",
+        "title": "Someone polled 4K Blu-ray player owners about the reliability of different models over time, and there's a clear winner",
+        "url": "https://www.techradar.com/televisions/blu-ray/someone-polled-4k-blu-ray-player-owners-about-the-reliability-of-different-models-over-time-and-theres-a-clear-winner",
+        "source": "TechRadar",
+        "image": "https://cdn.mos.cms.futurecdn.net/yATwNBxTYZqZHcYCn2TTjT-2560-80.jpg",
+        "publishedAt": "2026-07-26T01:01:41Z",
         "category": "technology",
-        "summary": "On Saturday, July 25, 2026, many banks, including SBI, HDFC, and ICICI, will be closed due to a bank holiday. However, digital banking services will remain fully operational, allowing customers to utilize internet and mobile banking, withdraw cash from ATMs, and make payments via UPI without interruption. Daily digital transactions will continue seamlessly despite branch closures.",
-        "wordCount": 56
+        "summary": "A poll of nearly 400 4K Blu-ray player owners revealed significant differences in reliability among various models. Panasonic emerged as the most reliable brand, while Sony received less favorable feedback. Participants shared their real-world experiences, highlighting a clear distinction between the best and worst performers in the market, providing valuable insights for potential buyers.",
+        "wordCount": 54
       },
       {
-        "title": "Google launches selfie video sign-in for account recovery",
-        "url": "https://t2online.in/tech/tech-news/google-launches-selfie-video-sign-in-for-account-recovery/2006741",
-        "source": "t2ONLINE",
-        "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/7879/1784929548524.png",
-        "publishedAt": "2026-07-24T21:43:00Z",
+        "title": "Everything Rockstar Still Has Not Shown About GTA 6",
+        "url": "https://www.gtaboom.com/everything-rockstar-still-has-not-shown-about-gta-6-c9f0",
+        "source": "GTA BOOM",
+        "image": "https://media.gtaboom.com/variants/1920/media/images/e8/48/everything-rockstar-still-has-not-shown-about-gta-6.jpg",
+        "publishedAt": "2026-07-26T00:39:06Z",
         "category": "technology",
-        "summary": "Google has launched a new account recovery feature that enables users to verify their identity using a saved selfie video. This option is designed for individuals who cannot access their usual devices or credentials, thereby expanding the available sign-in methods. The initiative aims to enhance security and ease of access for users facing account recovery challenges.",
-        "wordCount": 56
-      },
-      {
-        "title": "Nothing rejects exit rumours, says restructuring will drive next growth phase",
-        "url": "https://t2online.in/tech/tech-news/nothing-rejects-exit-rumours--says-restructuring-will-drive-next-growth-phase/2006739",
-        "source": "t2ONLINE",
-        "image": "https://images.t2online.in/cdn-cgi/image/width=1200,fit=crop,gravity=auto,quality=70/https://apis.t2online.in/getImageStream/7877/1784926332525.jpg",
-        "publishedAt": "2026-07-24T20:51:00Z",
-        "category": "technology",
-        "summary": "Nothing has dismissed rumors of exiting several international markets, clarifying that it is undergoing an organizational restructuring. The company stated that this restructuring is intended to facilitate its next growth phase. This response follows a report from Digit India suggesting potential market withdrawals. Nothing emphasizes its commitment to expanding and evolving within its current operational framework.",
-        "wordCount": 56
+        "summary": "Rockstar is approximately four months away from the launch of GTA 6, with pre-orders available for about a month. The game’s cover art has been revealed, along with around 60 screenshots. Pricing has been established in major markets, and Take-Two Interactive has linked its financial outlook to the game's performance, highlighting its significance to the company's future.",
+        "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "'That's the world we live in': Travis Head breaks silence on wife's online abuse after Virat Kohli handshake row",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/thats-the-world-we-live-in-travis-head-breaks-silence-on-wifes-online-abuse-after-virat-kohli-handshake-row/articleshow/132617345.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132617359,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-25T01:07:00Z",
+        "title": "Ishan Kishan reveals Team India's plan to protect Vaibhav Sooryavanshi: 'We just make sure...'",
+        "url": "https://www.hindustantimes.com/cricket/ishan-kishan-reveals-team-indias-plan-to-protect-vaibhav-sooryavanshi-we-just-make-sure-101785005205426.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/25/550x309/CRICKET-ZIM-IND-T20-20_1785005769691_1785005776956_f278f82a-2d13-41e2-9bbc-0bee4a8b07af.jpg",
+        "publishedAt": "2026-07-26T00:47:39Z",
         "category": "sports",
-        "summary": "Australia batter Travis Head addressed the online abuse directed at his wife following the handshake incident with Virat Kohli during the IPL 2026 match. He expressed concern over the negative impact of such controversies on personal lives. Head emphasized that this reflects the current state of the world, highlighting the challenges faced by public figures and their families.",
-        "wordCount": 58
+        "summary": "Ishan Kishan discussed Team India's strategy to support young batter Vaibhav Sooryavanshi following the second T20I against Zimbabwe. He emphasized the importance of shielding Sooryavanshi from distractions, noting that senior players are actively helping him stay focused. Kishan praised the teenager's understanding of his game and the conduct expected of him as part of the team.",
+        "wordCount": 56
       },
       {
-        "title": "Phoenix's power-packed batting trumps Banton's late blitz in high-scoring thriller",
-        "url": "https://www.cricbuzz.com/cricket-news/139650/mens-hundred-2026-birmingham-phoenix-top-order-blitz-trumps-tom-bantons-late-assault-cricbuzzcom",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1042319/joe-clarke-smashed-68-off-33-and-added-104-off-49-with-will-smeed.jpg",
-        "publishedAt": "2026-07-25T01:03:58Z",
+        "title": "Bavarian Football Works",
+        "url": "https://www.bavarianfootballworks.com/bayern-munich-friendlies/235492/match-awards-from-bayern-munichs-1-2-preseason-friendly-loss-to-wehen-wiesbaden",
+        "source": "Bavarian Football Works",
+        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2286936122.jpg?quality=90&strip=all&crop=0%2C6.67651411745%2C100%2C78.576479538943&w=1200",
+        "publishedAt": "2026-07-25T23:30:00Z",
         "category": "sports",
-        "summary": "Birmingham Phoenix secured a 10-run victory over Trent Rockets in a high-scoring match at Edgbaston. The Phoenix batters delivered a record-equalling performance, hitting 29 sixes throughout the game. Despite a late surge from Tom Banton, aided by Tariq's effective bowling and Currie's crucial wickets, the Phoenix managed to hold off the Rockets' chase in a thrilling encounter.",
-        "wordCount": 57
+        "summary": "Bayern Munich participated in a preseason friendly against Wehen Wiesbaden, celebrating the club's 100th anniversary. The match ended in a 1-2 loss for Bayern, who fielded a predominantly young team. This game marked Bayern's first friendly of the 2026/27 season. Despite the defeat, the event highlighted Wiesbaden's milestone and provided valuable experience for the younger players.",
+        "wordCount": 56
       },
       {
-        "title": "Phoenix's power-packed batting trumps Banton's late blitz in high-scoring thriller",
-        "url": "https://www.cricbuzz.com/cricket-news/139650/phoenixs-power-packed-batting-trumps-bantons-late-blitz-in-high-scoring-thriller",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1042319/joe-clarke-smashed-68-off-33-and-added-104-off-49-with-will-smeed.jpg",
-        "publishedAt": "2026-07-25T01:03:58Z",
+        "title": "GAW vs DV Today Match Prediction and Betting Tips, Odds and Live Score",
+        "url": "https://www.thetopbookies.com/betting-tips/cricket/gaw-vs-dv-26-Jul-2026",
+        "source": "TheTopBookies",
+        "image": "https://api.thetopbk.com/storage/cricket/teams/gaw/5zg3aehh8Itu4xRSvhcqNFo55ihGcCUDwVUsFbRC.webp",
+        "publishedAt": "2026-07-25T20:37:43Z",
         "category": "sports",
-        "summary": "Birmingham Phoenix secured a 10-run victory over Trent Rockets in a high-scoring match at Edgbaston. The Phoenix batters showcased a record-equalling performance, hitting 29 sixes in total. Despite a late surge from Tom Banton, aided by Tariq's effective bowling and Currie's crucial wickets, the Phoenix's strong start proved decisive in this thrilling encounter.",
-        "wordCount": 53
+        "summary": "The Guyana Amazon Warriors (GAW) will face the Desert Vipers (DV) in the fourth match of the Global Super League 2026. Scheduled for July 26, 2026, at 04:30 IST, GAW seeks to secure their second consecutive win. The match is part of an intensifying competition, highlighting the teams' strategies and performance predictions ahead of the encounter.",
+        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Ebola fuels mental health crisis in eastern DR Congo",
-        "url": "https://www.chinadaily.com.cn/a/202607/25/WS6a63f8b1a310986e2b467358.html",
-        "source": "China Daily",
-        "image": "http://img2.chinadaily.com.cn/images/202607/25/6a63f8b1a310986e101a444b.png",
-        "publishedAt": "2026-07-24T23:43:41Z",
+        "title": "Global overuse of antibiotics fuels rising ‘superbug’ threat",
+        "url": "https://theshillongtimes.com/2026/07/26/global-overuse-of-antibiotics-fuels-rising-superbug-threat/",
+        "source": "The Shillong Times",
+        "image": "https://theshillongtimes.com/wp-content/uploads/2026/03/download-4.jpeg",
+        "publishedAt": "2026-07-26T00:39:18Z",
         "category": "health",
-        "summary": "International humanitarian organizations have reported that children in eastern Democratic Republic of Congo are disproportionately affected by the Ebola outbreak. They emphasize the need for increased international support to enhance protection and mental health services for these children. The ongoing crisis has raised concerns about the long-term psychological impact on young populations in the affected regions.",
-        "wordCount": 56
+        "summary": "A study reveals that nearly all countries are overusing 'watch' antibiotics, which significantly contribute to antibiotic resistance. These stronger drugs are intended for use only when simpler antibiotics are ineffective. The findings highlight the urgent need for better antibiotic stewardship globally to combat the rising threat of 'superbugs' and preserve the effectiveness of essential medications.",
+        "wordCount": 55
       },
       {
-        "title": "Researchers unveil a compound that can boost ageing muscle repair",
-        "url": "https://www.aninews.in/news/health/researchers-unveil-a-compound-that-can-boost-ageing-muscle-repair20260724235734/",
-        "source": "ANI News",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260724181502-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-07-24T18:27:00Z",
+        "title": "More health workers strike as Ebola cases near 3,000",
+        "url": "https://www.arabnews.com/node/2652299/world",
+        "source": "Arab News",
+        "image": "https://www.arabnews.com/sites/default/files/styles/watermark_670x423/public/main-image/2026/07/25/4734845-1793153100.jpg?itok=yYzoi6tD",
+        "publishedAt": "2026-07-25T19:30:38Z",
         "category": "health",
-        "summary": "Researchers have identified a sulfur-based compound named LASSS that enhances the function of a crucial protein responsible for muscle repair. This discovery may pave the way for innovative approaches to mitigate muscle loss and maintain strength in aging individuals. The findings were announced on July 24 in Washington, D.C., highlighting potential advancements in age-related muscle health.",
-        "wordCount": 56
+        "summary": "Health workers at an Ebola treatment center in eastern Congo initiated a strike on Saturday due to payment disputes, impacting patient care amid a significant outbreak. As of Friday, confirmed Ebola cases in Congo reached 2,973, with 1,309 fatalities reported. Authorities are concerned about the escalating situation as the strike disrupts efforts to manage the epidemic effectively.",
+        "wordCount": 57
       },
       {
-        "title": "Scientists rank the disorders that age the brain the fastest",
-        "url": "https://www.earth.com/news/scientists-rank-the-disorders-that-age-the-brain-the-fastest/",
-        "source": "Earth.com",
-        "image": "https://cff2.earth.com/uploads/2026/07/24124223/Brain-aging-disorders.jpg",
-        "publishedAt": "2026-07-24T17:20:10Z",
+        "title": "The Coffee Debate: Superfood or Hidden Health Problem?",
+        "url": "https://www.yahoo.com/lifestyle/videos/coffee-debate-superfood-hidden-health-184727271.html",
+        "source": "Yahoo",
+        "image": "https://s.yimg.com/lo/mysterio/api/3413e728b9b19b99133d67d8f55565f1662594ae03c0c148ef4ad928a47bb387/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fjulie_s_cafe_video_140%2F4be831152ff92e5c51e27f0ac35e3a5f",
+        "publishedAt": "2026-07-25T18:47:27Z",
         "category": "health",
-        "summary": "A new study ranks brain disorders by their impact on brain aging, identifying Alzheimer's disease as the most significant accelerant. Following closely are alcohol and tobacco dependence, which outpace conditions like schizophrenia, bipolar disorder, and depression. The findings highlight the varying effects of different disorders on cognitive decline, emphasizing the need for targeted interventions and awareness regarding lifestyle factors.",
-        "wordCount": 59
+        "summary": "Research spanning decades highlights the mixed health signals of coffee, emphasizing the importance of preparation and consumption methods for consumers. A 2026 Center for Health Research study involving 131,000 participants found associations between heavier caffeine intake and various health outcomes. These findings contribute to the ongoing debate about coffee being a superfood or a potential health concern.",
+        "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "Cosmic eye: NASA’s Roman telescope set to solve deep space secrets",
-        "url": "https://www.dtnext.in/edit/cosmic-eye-nasas-roman-telescope-set-to-solve-deep-space-secrets",
-        "source": "DT Next",
-        "image": "https://media.assettype.com/dt-next%2F2026-07-24%2Fecotae0o%2FUntitled-design-8.jpg?rect=0%2C30%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-07-25T01:00:00Z",
+        "title": "What happens to astronauts' bodies on the ISS? A look at how space affects bone, blood and eyes",
+        "url": "https://starlust.org/what-happens-to-astronauts-bodies-on-the-iss-a-look-at-how-space-affects-bone-blood-and-eyes/",
+        "source": "starlust.org",
+        "image": "https://d3hedi16gruj5j.cloudfront.net/811447/uploads/4a058180-8734-11f1-825a-89595cf51fc1_1200_630.png",
+        "publishedAt": "2026-07-25T17:00:18Z",
         "category": "science",
-        "summary": "NASA's Nancy Grace Roman space telescope aims to explore the universe's origins, composition, and evolution. Named after the agency's first female executive and chief of astronomy, the mission honors her contributions to stellar physics. The telescope is expected to provide insights into deep space mysteries, enhancing our understanding of cosmic phenomena and the universe's development over time.",
-        "wordCount": 57
+        "summary": "Astronauts on the International Space Station (ISS) experience adaptations due to microgravity. While they appear to float, gravity is still present; the ISS and its occupants are in continuous freefall. This environment affects various bodily systems, including bone density, blood circulation, and vision. Research continues to understand these changes and their implications for long-term space travel and health.",
+        "wordCount": 58
       },
       {
-        "title": "Human Impacts Rewrite The Rules Of Island Diodiversity Around The Globe",
-        "url": "https://www.eurasiareview.com/24072026-human-impacts-rewrite-the-rules-of-island-diodiversity-around-the-globe/",
-        "source": "Eurasia Review",
-        "image": "https://www.eurasiareview.com/wp-content/uploads/2026/07/a-205.jpg",
-        "publishedAt": "2026-07-24T21:15:14Z",
-        "category": "science",
-        "summary": "A recent study highlights that human activities have significantly altered biodiversity on islands worldwide. Island endemic species represent approximately 75% of global human-driven extinctions. Additionally, many islands have seen an influx of introduced species, often matching or surpassing the number of native species. This research underscores the profound impact of human actions on island ecosystems and their unique biodiversity.",
-        "wordCount": 59
-      },
-      {
-        "title": "From Mars to your bicycle: NASA's puncture-proof tyre, built for Mars rovers, could replace rubber tyres",
-        "url": "https://timesofindia.indiatimes.com/science/from-mars-to-your-bicycle-nasas-puncture-proof-tyre-built-for-mars-rovers-could-replace-rubber-tyres/articleshow/132607578.cms",
+        "title": "Scientists thought insects could never survive the deep ocean because their air-filled bodies would implode, but lake fly larvae in Africa's Lake Malawi are proving them wrong",
+        "url": "https://timesofindia.indiatimes.com/science/scientists-thought-insects-could-never-survive-the-deep-ocean-because-their-air-filled-bodies-would-implode-but-lake-fly-larvae-in-africas-lake-malawi-are-proving-them-wrong/articleshow/132628150.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132607885,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-24T19:02:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-132628232,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-25T14:15:00Z",
         "category": "science",
-        "summary": "NASA has developed a puncture-proof tyre designed for Mars rovers that could potentially replace traditional rubber tyres. Unlike air-powered tyres, which are susceptible to damage from sharp objects and air leaks, this innovative solution offers enhanced durability and reliability. The technology aims to improve performance in various applications, including bicycles, by eliminating the common vulnerabilities associated with conventional tyres.",
-        "wordCount": 59
+        "summary": "Scientists have long thought that insects could not survive in deep ocean environments due to their air-filled bodies collapsing under pressure. However, research on lake fly larvae from Africa's Lake Malawi challenges this belief, demonstrating that these larvae can withstand extreme conditions. This discovery may reshape understanding of insect adaptability and survival in various aquatic ecosystems.",
+        "wordCount": 56
+      },
+      {
+        "title": "5 amazing facts about Saturn's largest moon Titan that you probably didn't know",
+        "url": "https://starlust.org/gallery/these-5-facts-about-saturn-s-largest-moon-titan-would-leave-you-shocked-mru5oehm/",
+        "source": "starlust.org",
+        "image": "https://media.pubninja.com/galleries/brand-7/these-5-facts-about-saturn-s-largest-moon-titan-would-leave-you-shocked-mru5oehm/thumbnail/poster.webp?v=1784636501474",
+        "publishedAt": "2026-07-25T11:37:57Z",
+        "category": "science",
+        "summary": "Titan, Saturn's largest moon, is notable for its thick atmosphere, making it unique among over 200 known moons in the solar system. It features a golden hazy atmosphere similar to Earth's, and is considered one of the strongest candidates for supporting life. Titan's intriguing characteristics continue to captivate scientists and researchers exploring its potential for habitability.",
+        "wordCount": 56
       }
     ],
     "entertainment": [
       {
-        "title": "Love Horoscopes For Each Zodiac Sign On Saturday, July 25, 2026",
-        "url": "https://www.yourtango.com/2026399344/love-horoscope-saturday-july-25-2026",
-        "source": "YourTango",
-        "image": "https://www.yourtango.com/sites/default/files/image_blog/2026-07/love-horoscopes-saturday-july-25-2026.png",
-        "publishedAt": "2026-07-25T01:03:37Z",
+        "title": "Shagufta Ali recalls hiding stage 3 breast cancer, says fear of losing work kept her silent: ‘My savings ran out too’",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/shagufta-ali-recalls-hiding-stage-3-breast-cancer-says-fear-of-losing-work-kept-her-silent-my-savings-ran-out-too-101784989342085.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/25/550x309/Shagufta_Ali_1784990367115_1784990367228_804b3088-9bcd-4638-b0f3-177e9c825195.jpg",
+        "publishedAt": "2026-07-26T00:35:46Z",
         "category": "entertainment",
-        "summary": "On July 25, 2026, each zodiac sign's love horoscope highlights the influence of Saturn's retrograde. This phase is expected to bring karmic lessons that promote healing and personal growth. Saturn, associated with karma, offers opportunities for reflection and understanding in relationships. The retrograde period encourages individuals to address past issues and enhance their emotional connections.",
-        "wordCount": 55
-      },
-      {
-        "title": "Horoscope Today: July 25, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-july-25-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-07-25T00:30:00Z",
-        "category": "entertainment",
-        "summary": "On July 25, 2026, Taurus is encouraged to shed old ties and embrace new patterns. A fresh perspective allows for objective evaluation and the opportunity to clear surrounding clutter. The horoscope suggests that it may be time for Taurus to take decisive action rather than remaining indecisive, indicating a significant shift in personal narrative and growth.",
+        "summary": "Shagufta Ali disclosed that she kept her stage 3 breast cancer diagnosis a secret due to fears it would jeopardize her career. She mentioned societal pressures at the time discouraged open discussion about such illnesses, leading her to remain silent. Ali also expressed concerns about financial stability, stating her savings had depleted during her health struggles.",
         "wordCount": 56
       },
       {
-        "title": "'Jana Nayagan' box office collections day 2: Thalapathy Vijay, Pooja Hegde and Mamitha Baiju's film drops 50.5%; action flick earns Rs 112.5 Cr worldwide",
-        "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-box-office-collections-day-2-vijays-film-drops-50-5-earns-rs-112-5-cr-worldwide/articleshow/132617263.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132617270,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-25T00:28:00Z",
+        "title": "Sagittarius Horoscope Today: July 26, 2026",
+        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-july-26-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
+        "publishedAt": "2026-07-26T00:20:00Z",
         "category": "entertainment",
-        "summary": "Thalapathy Vijay's film 'Jana Nayagan' experienced a significant 50.5% drop in box office collections on its second day, following a strong opening. The action movie has earned a total of Rs 112.5 crore worldwide. Despite the decline, the film continues to perform well in theaters, attracting audiences with its star cast, including Pooja Hegde and Mamitha Baiju.",
-        "wordCount": 57
+        "summary": "Sagittarius individuals are experiencing a conflict between nostalgia and the desire for progress. The horoscope advises making a decisive move, emphasizing the importance of letting go of the past to embrace new opportunities. Remaining in familiar patterns may hinder growth, and while the transition may be challenging, it is essential for personal development. Now is the time to act.",
+        "wordCount": 59
+      },
+      {
+        "title": "Taurus Horoscope Today: July 26, 2026",
+        "url": "https://www.vogue.in/content/taurus-horoscope-today-july-26-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912dd65ee2e104d623d6d33/16:9/w_1280,c_limit/2-Taurus_16;9.png",
+        "publishedAt": "2026-07-26T00:20:00Z",
+        "category": "entertainment",
+        "summary": "On July 26, 2026, Taurus individuals are advised to adopt a higher perspective while pausing to assimilate recent learnings. This reflection is essential for strategically implementing plans and visions. Staying curious is emphasized, even if starting from scratch. The horoscope suggests that taking time to process information will benefit Taurus in their future endeavors.",
+        "wordCount": 54
       }
     ]
   }
