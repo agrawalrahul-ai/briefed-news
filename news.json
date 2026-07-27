@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-07-27T12:30:37.049Z",
+  "updatedAt": "2026-07-27T13:05:18.952Z",
   "categories": {
     "world": [
+      {
+        "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
+        "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-02T201111Z_1208278440_RC2V5MA0EJFZ_RTRMADP_3_IRAN-CRISIS-KHAMENEI-1783029786.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-07-27T01:00:21Z",
+        "category": "world",
+        "summary": "Iran's Supreme Leader Mojtaba Khamenei stated that a peace agreement between Iran and the United States is dependent on Israel ceasing its attacks on Lebanon. He called for an \"absolute, unconditional termination\" of such actions in a post on X on Sunday. Khamenei's remarks highlight the interconnectedness of regional conflicts and diplomatic relations in the Middle East.",
+        "wordCount": 57
+      },
       {
         "title": "'Crimes against humanity' complaints filed against Bangladesh ex-president",
         "url": "https://timesofindia.indiatimes.com/world/south-asia/crimes-against-humanity-complaints-filed-against-bangladesh-ex-president/articleshow/132650327.cms",
@@ -9,8 +19,8 @@
         "image": "https://static.toiimg.com/thumb/msid-132650335,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-07-27T00:21:00Z",
         "category": "world",
-        "summary": "Complaints alleging \"crimes against humanity\" have been filed against former Bangladesh President Mohammed Shahabuddin shortly after his resignation. The complaints were submitted to the Bangladesh International Crimes Tribunal (ICT). Shahabuddin's tenure has been scrutinized, and these allegations add to ongoing concerns regarding accountability for past human rights violations in the country. The tribunal will review the complaints accordingly.",
-        "wordCount": 58
+        "summary": "Complaints alleging \"crimes against humanity\" have been filed against former Bangladesh President Mohammed Shahabuddin with the Bangladesh International Crimes Tribunal. This action follows his recent resignation from the presidency. The specific details of the allegations have not been disclosed, but the filing reflects ongoing scrutiny of political figures in Bangladesh regarding past actions during periods of conflict.",
+        "wordCount": 57
       },
       {
         "title": "No path forward except jihad and resistance, Mojtaba Khamenei tells Hezbollah",
@@ -19,50 +29,40 @@
         "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/irans-supreme-leader-mojtaba-khamenei-263821876-16x9_0.jpg?VersionId=WAKfJ0JNfu9cCmSP02pAEAtSigSXNUv0",
         "publishedAt": "2026-07-26T23:36:28Z",
         "category": "world",
-        "summary": "Iran's Supreme Leader Mojtaba Khamenei praised Hezbollah, stating there is “no path forward except jihad and resistance.” He emphasized Tehran's commitment to supporting the group, labeling its defense as a strategic mandate. Khamenei called for the “absolute, unconditional termination” of Israeli aggression against Lebanon, reinforcing Iran's stance on the conflict and its backing of Hezbollah's actions.",
-        "wordCount": 56
-      },
-      {
-        "title": "Search for 17 missing crew after Vietnamese cargo ship sinks in South China Sea",
-        "url": "https://www.thehindu.com/news/international/vietnamese-cargo-ship-sinks-in-south-china-sea/article71270513.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/uzod9q/article71270515.ece/alternates/LANDSCAPE_1200/iStock-2232664613.jpg",
-        "publishedAt": "2026-07-26T21:20:00Z",
-        "category": "world",
-        "summary": "Search efforts are ongoing for 17 missing crew members after a Vietnamese cargo ship sank in the South China Sea due to bad weather. Rescuers from Vietnam, the Philippines, and China are participating in the multinational operation. The incident occurred near a Chinese-occupied shoal in the disputed region, highlighting ongoing tensions in the area.",
-        "wordCount": 54
+        "summary": "Iran's Supreme Leader Mojtaba Khamenei expressed unwavering support for Hezbollah, stating there is “no path forward except jihad and resistance.” He emphasized that defending Hezbollah is a strategic mandate for Tehran and called for the “absolute, unconditional termination” of Israeli aggression against Lebanon. Khamenei's remarks underline Iran's commitment to the group amid ongoing regional tensions.",
+        "wordCount": 55
       }
     ],
     "business": [
       {
-        "title": "She Was Laid Off Twice As an Immigrant; It Taught Her Resilience",
-        "url": "https://www.businessinsider.com/stem-opt-layoffs-survival-immigrant-indian-national-ux-designer-h1b-2026-7",
-        "source": "Business Insider",
-        "image": "https://i.insider.com/6a572814ee481f523866ee50?width=1200&format=jpeg",
-        "publishedAt": "2026-07-27T00:15:43Z",
-        "category": "business",
-        "summary": "Tanvi Pisal, a 29-year-old UX designer from India, experienced two layoffs within a year while working in the US, prompting two cross-country moves in 2025. The layoffs significantly impacted her finances and mental health. This as-told-to essay recounts her journey and resilience, highlighting the challenges faced by immigrants in the workforce. The content has been edited for clarity.",
-        "wordCount": 58
-      },
-      {
-        "title": "Bain Capital in advanced talks for 25% stake in IndusInd Insurance, marking its first India insurance bet",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/bain-capital-in-advanced-talks-for-25-stake-in-indusind-insurance-marking-its-first-india-insurance-bet/articleshow/132647317.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-132647338,width-1200,height-630,imgsize-101196,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-27T00:00:00Z",
-        "category": "business",
-        "summary": "Bain Capital is in advanced negotiations to acquire a 25% stake in IndusInd General Insurance, potentially valuing the company at over 16,000 crore rupees. The private equity firm plans to invest between 4,000 and 5,000 crore rupees. Current discussions are centered on valuation and commercial terms, with the deal expected to be finalized by late August or early September.",
-        "wordCount": 59
-      },
-      {
-        "title": "Over 60 companies see MFs cut stakes for fourth straight quarter despite strong domestic inflows",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/mutual-funds/over-60-companies-see-mfs-cut-stakes-for-fourth-straight-quarter-despite-strong-domestic-inflows-13983567.html",
+        "title": "CXMT shares make Shanghai debut after Asia’s biggest IPO of 2026",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/cxmt-shares-make-shanghai-debut-after-asia-s-biggest-ipo-of-2026-13983969.html",
         "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260627025033_stocks5.jpg",
-        "publishedAt": "2026-07-26T23:30:46Z",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260718101458_cxmt.jpg",
+        "publishedAt": "2026-07-27T00:51:32Z",
         "category": "business",
-        "summary": "Over 60 listed companies have experienced mutual funds reducing their stakes for the fourth consecutive quarter, according to a Moneycontrol analysis. This trend persists despite mutual funds continuing to be strong buyers of Indian equities. The findings highlight a divergence between mutual fund investment strategies and their holdings in specific companies, reflecting broader market dynamics in the Indian equity landscape.",
-        "wordCount": 60
+        "summary": "Chinese DRAM chipmaker CXMT has made its debut on the Shanghai stock exchange following Asia's largest IPO of 2026, raising $8.6 billion. The company enters the market with a valuation of $85.5 billion. With a low free float of 6.73%, trading activity is expected to be amplified as investors engage with the newly listed shares.",
+        "wordCount": 55
+      },
+      {
+        "title": "How MRF’s 102-member promoter family has stayed united for 80 years",
+        "url": "https://www.livemint.com/companies/mrf-promoter-group-family-shareholding-ownership-structure-11785053877402.html",
+        "source": "livemint.com",
+        "image": "https://www.livemint.com/lm-img/img/2026/07/26/1600x900/logo/mrf_1785064460063_1785064471791_d98498d2-51fa-470f-a4aa-009beaba07c7.png",
+        "publishedAt": "2026-07-27T00:35:28Z",
+        "category": "business",
+        "summary": "MRF, India's largest tyre manufacturer, revealed in its annual report that its 102-member promoter family holds 27.77% of the company. Thirteen promoter entities own approximately 16%, while individual family members collectively possess nearly 12%. The company avoids media interactions, and several investors and former directors declined to comment, with some agreeing to speak only anonymously.",
+        "wordCount": 55
+      },
+      {
+        "title": "More Indian EVs head to distant shores as Maruti, Tata, M&M drive 14-fold export surge",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/more-indian-evs-head-to-distant-shores-as-maruti-tata-mm-drive-14-fold-export-surge/articleshow/132647148.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-132652041,width-1200,height-630,imgsize-67870,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-27T00:30:00Z",
+        "category": "business",
+        "summary": "Indian electric vehicle exports surged to 15,641 units in the three months ending June, a significant increase from 1,122 units during the same period last year, according to industry data. This growth represents over half of the total 28,652 units exported in the previous fiscal year, driven by manufacturers such as Maruti, Tata, and Mahindra & Mahindra.",
+        "wordCount": 57
       }
     ],
     "technology": [
@@ -73,8 +73,8 @@
         "image": "https://images.etnownews.com/thumb/msid-155184454,updatedat-1785117199335,width-1280,height-720,resizemode-75/155184454.jpg",
         "publishedAt": "2026-07-27T00:03:05Z",
         "category": "technology",
-        "summary": "The United States has paused airstrikes on Iran, indicating a potential shift towards diplomacy to prevent further regional conflict. Tehran has signaled it may also halt attacks if the U.S. does the same. Mediators emphasize that diplomatic solutions are essential for resolving the ongoing crisis. The situation remains tense, with both sides assessing their next moves.",
-        "wordCount": 56
+        "summary": "The United States has paused airstrikes on Iran, indicating a potential shift towards diplomacy to prevent a broader regional conflict. Tehran has signaled it may also halt attacks if the U.S. does the same. Mediators emphasize that diplomacy is the only viable solution to the ongoing crisis, which has escalated over the past two weeks.",
+        "wordCount": 55
       },
       {
         "title": "Palworld 1.0 surges to nearly 1 Million concurrent Steam players as sales Top 30 Million copies",
@@ -83,8 +83,8 @@
         "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Palworld-1.0-Steam-DB-Screenshot-Image-Source-SteamDB.jpg.jpeg",
         "publishedAt": "2026-07-26T22:20:00Z",
         "category": "technology",
-        "summary": "Palworld's 1.0 launch achieved nearly one million concurrent players on Steam and sold approximately 1.8 million copies within the first ten days. Total sales have exceeded 30 million, generating nearly $700 million in revenue. The game maintains a 93% positive rating on Steam, reflecting its popularity since its early access release in early 2024.",
-        "wordCount": 54
+        "summary": "Palworld's 1.0 launch achieved nearly one million concurrent players on Steam and sold approximately 1.8 million copies within the first 10 days. Total sales have exceeded 30 million, generating nearly $700 million in revenue. The game maintains a 93% positive rating on Steam, following its successful early access debut in early 2024.",
+        "wordCount": 52
       },
       {
         "title": "Claude AI Shared Chats Reportedly Exposed in Google Search Results",
@@ -93,11 +93,21 @@
         "image": "http://cybersecuritynews.com/wp-content/uploads/2026/07/Claude-AI-Shared-Chats.webp",
         "publishedAt": "2026-07-26T20:20:26Z",
         "category": "technology",
-        "summary": "Anthropic's Claude AI shared links were found in public Google search results, leading to privacy concerns for users who had shared sensitive conversations. A Reddit post highlighted that hundreds of these chats were publicly accessible, prompting discussions about the implications for user confidentiality and data security. The incident raises questions regarding the handling of private information by AI platforms.",
-        "wordCount": 59
+        "summary": "Anthropic’s Claude AI shared links were reportedly exposed in Google search results, leading to privacy concerns for users who shared sensitive conversations. A Reddit post highlighted that hundreds of these chats became publicly discoverable, prompting discussions about the implications for user confidentiality. The incident raises questions about data security and the management of shared content in AI platforms.",
+        "wordCount": 58
       }
     ],
     "sports": [
+      {
+        "title": "Bavarian Football Works",
+        "url": "https://www.bavarianfootballworks.com/off-the-crossbar/236021/media-wars-florian-plettenberg-and-fabrizio-romano-go-toe-to-toe-over-accusations-of-fake-news",
+        "source": "Bavarian Football Works",
+        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2180818437.jpg?quality=90&strip=all&crop=0%2C10.785131724411%2C100%2C78.429736551177&w=1200",
+        "publishedAt": "2026-07-27T01:00:00Z",
+        "category": "sports",
+        "summary": "A recent controversy arose over accusations of \"fake news\" regarding a supposed Manchester City bid, which was never reported. The discussion intensified after a critique of a report on Klopp, deemed ridiculous and disrespectful to professional journalists. The situation has sparked debate on whether to allow ongoing disputes or intervene to prevent further conflict within the football community.",
+        "wordCount": 58
+      },
       {
         "title": "Soumya recalled for Darwin Test after five-year absence",
         "url": "https://www.cricket.com.au/news/4547104/soumya-sarkar-recall-australia-test-series-darwin-mackay-jaker-shanto-musfik-ebadot-nahid-rana-shoriful-islam-litton-das",
@@ -105,8 +115,8 @@
         "image": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2026/07/26/2f6fa21e-a6f5-427e-bae4-c90b44e1914b/27soumya.jpg",
         "publishedAt": "2026-07-26T22:45:21Z",
         "category": "sports",
-        "summary": "Bangladesh has announced a 15-player squad for their first Test in Australia in 23 years, with many players set to experience top-flight cricket in the country for the first time. Veteran batter Soumya Sarkar has been recalled after a five-year absence, as the team faces the challenge of missing three first-choice players due to injury.",
-        "wordCount": 55
+        "summary": "Bangladesh has announced a 15-player squad for their first Test in Australia in 23 years, with nearly half the team set to experience top-flight cricket in the country for the first time. Veteran batter Soumya Sarkar has been recalled after a five-year absence, filling the gap left by three injured first-choice players ahead of the Darwin Test.",
+        "wordCount": 57
       },
       {
         "title": "Commonwealth Games: Jadumani wins high-octane India-Pakistan bout, Preeti one win away from medal",
@@ -115,21 +125,21 @@
         "image": "https://th-i.thgim.com/public/incoming/le247c/article71270508.ece/alternates/LANDSCAPE_1200/PTI07_27_2026_000013B.jpg",
         "publishedAt": "2026-07-26T20:50:00Z",
         "category": "sports",
-        "summary": "Jadumani Singh defeated Pakistan's Sumama Rehman in a thrilling match at the Commonwealth Games boxing competition in Glasgow. Meanwhile, Preeti Pawar, an Asian Games bronze medallist, advanced to the quarterfinals with a commanding performance. Both athletes are now on track for potential medal wins, with Preeti just one victory away from securing her first Commonwealth Games medal.",
-        "wordCount": 57
-      },
-      {
-        "title": "Commonwealth Games Day 4 Highlights: India end with four medals",
-        "url": "https://indianexpress.com/article/sports/commonwealth-games-day-4-live-mirabai-chanu-in-action-today-10804226/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/07/mirabai-chanu.jpg",
-        "publishedAt": "2026-07-26T20:46:32Z",
-        "category": "sports",
-        "summary": "On Day 4 of the Commonwealth Games, India secured four medals, including a silver from Rishikanta Singh in the men's 60kg weightlifting event. Singh lifted a Games record of 121 kg in the snatch and added 143 kg in the clean and jerk. This marks India's second medal at the Glasgow 2026 Games, following Jhandu Kumar's bronze.",
-        "wordCount": 57
+        "summary": "Jadumani Singh defeated Pakistan's Sumama Rehman in a competitive bout at the Commonwealth Games boxing competition in Glasgow. Meanwhile, Preeti Pawar advanced to the quarterfinals, positioning herself one win away from securing her first Commonwealth Games medal. Both athletes showcased strong performances, contributing to India's presence in the tournament as they aim for further success.",
+        "wordCount": 55
       }
     ],
     "health": [
+      {
+        "title": "How the brain rewires for motherhood",
+        "url": "https://theshillongtimes.com/2026/07/27/how-the-brain-rewires-for-motherhood/",
+        "source": "The Shillong Times",
+        "image": "https://theshillongtimes.com/wp-content/uploads/2026/03/download-4.jpeg",
+        "publishedAt": "2026-07-27T00:46:16Z",
+        "category": "health",
+        "summary": "Motherhood triggers significant changes in the brain, enhancing parental instincts that operate subconsciously. New mothers often feel compelled to check on their sleeping infants, remain nearby, and respond quickly to their cries. This transition also leads to a profound shift in priorities, as highlighted by the late British psychotherapist Naomi Stadlen, who noted the relentless nature of motherhood.",
+        "wordCount": 58
+      },
       {
         "title": "Researchers identify eight new genes linked to schizophrenia",
         "url": "https://www.thehansindia.com/hans/young-hans/researchers-identify-eight-new-genes-linked-to-schizophrenia-1101825",
@@ -137,7 +147,7 @@
         "image": "https://assets.thehansindia.com/h-upload/2026/07/27/1682076-esearch.jpg",
         "publishedAt": "2026-07-27T00:23:17Z",
         "category": "health",
-        "summary": "Researchers in the United Kingdom have identified eight new genes linked to schizophrenia, a complex psychiatric disorder characterized by symptoms like hallucinations and delusions. This discovery enhances the understanding of the condition and may aid in developing future treatments. Schizophrenia significantly impacts how individuals think, feel, and behave, highlighting the importance of ongoing research in this area.",
+        "summary": "Researchers in the United Kingdom have identified eight new genes linked to schizophrenia, a complex psychiatric disorder affecting thought, emotion, and behavior. This discovery enhances the understanding of schizophrenia, which can cause symptoms like hallucinations and delusions. The findings may contribute to the development of future treatments for this severe mental health condition, potentially improving patient outcomes.",
         "wordCount": 57
       },
       {
@@ -147,17 +157,7 @@
         "image": "https://scitechdaily.com/images/Doctor-MRI-Multiple-Sclerosis.jpg",
         "publishedAt": "2026-07-26T23:41:47Z",
         "category": "health",
-        "summary": "Research from Florida International University indicates that sleep disorders lead to both shared and unique structural changes in brain systems responsible for attention, decision-making, and emotional regulation. These alterations can have significant implications beyond mere fatigue, affecting cognitive functions and emotional control. The findings highlight the importance of addressing sleep disorders to mitigate their impact on brain health.",
-        "wordCount": 58
-      },
-      {
-        "title": "US FDA nod for 1st pill to replace jabs to fight high cholesterol",
-        "url": "https://timesofindia.indiatimes.com/india/us-fda-nod-for-1st-pill-to-replace-jabs-to-fight-high-cholesterol/articleshow/132650155.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132650161,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-26T23:17:00Z",
-        "category": "health",
-        "summary": "The US Food and Drug Administration has approved the world's first oral PCSK9 inhibitor, offering patients with difficult-to-control high cholesterol an alternative to injectable treatments. This new pill aims to help manage cholesterol levels more conveniently, potentially changing the treatment landscape for those struggling with high cholesterol. The approval marks a significant advancement in cholesterol management options.",
+        "summary": "Research from Florida International University indicates that sleep disorders lead to both shared and unique structural changes in brain systems responsible for attention, decision-making, and emotional regulation. These alterations can significantly impact cognitive functions beyond just causing fatigue. The findings highlight the importance of addressing sleep disorders to mitigate their broader effects on brain health and functionality.",
         "wordCount": 57
       }
     ],
@@ -169,8 +169,8 @@
         "image": "https://starofmysore.com/wp-content/uploads/2026/07/news19-1.png",
         "publishedAt": "2026-07-26T20:03:47Z",
         "category": "science",
-        "summary": "Manipal Hospital Mysuru relaunched its Fertility and IVF Centre on World IVF Day, enhancing its services with upgraded technology and improved infrastructure. The facility now offers a broader range of advanced reproductive treatments. The relaunch event featured Rtn. Sam Cherian, Founder-Chairman of Schevaran Laboratories, and DCP (Law and Order) Dr. Harsha Priyamvada, highlighting the hospital's commitment to fertility care.",
-        "wordCount": 59
+        "summary": "Manipal Hospital Mysuru relaunched its Fertility and IVF Centre on World IVF Day, enhancing its services with upgraded technology and improved infrastructure. The facility now offers a broader range of advanced reproductive treatments. The relaunch event was attended by Rtn. Sam Cherian, Founder-Chairman of Schevaran Laboratories, and DCP (Law and Order) Dr. Harsha Priyamvada.",
+        "wordCount": 54
       },
       {
         "title": "From The Hindu Archives, July 27, 1976: ‘Roman letter’ on Mars rock",
@@ -179,8 +179,8 @@
         "image": "https://www.thehindu.com/theme/images/og-image.png",
         "publishedAt": "2026-07-26T19:35:00Z",
         "category": "science",
-        "summary": "On July 26, 1976, U.S. scientists successfully transmitted commands to Mars, resolving an issue with the Viking lander's soil-sampling arm. However, another critical experiment involving the seismology probe faced challenges that could not be addressed from Earth. The developments were reported from Pasadena, California, highlighting ongoing efforts in Mars exploration and the complexities of remote scientific operations.",
-        "wordCount": 57
+        "summary": "On July 26, 1976, U.S. scientists successfully transmitted commands to Mars, resolving an issue with the Viking lander's soil-sampling arm. The adjustments were made from Pasadena, California. However, another critical experiment involving the seismology probe remained unresponsive, indicating ongoing challenges in the mission. The developments were reported in The Hindu Archives on July 27, 1976.",
+        "wordCount": 55
       },
       {
         "title": "Scientists trace the shocking origin of human eyes to an ancient \"cyclops\": Study",
@@ -189,11 +189,31 @@
         "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM5ZjAwZDYwLTg5MWYtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
         "publishedAt": "2026-07-26T18:28:18Z",
         "category": "science",
-        "summary": "Researchers have identified a tiny, one-eyed ancestor from nearly 600 million years ago as a key influence in the evolution of vertebrate eyes, including humans. This ancient organism's median eye is believed to have evolved into the pineal gland, which plays a crucial role in regulating sleep patterns in relation to daylight.",
-        "wordCount": 52
+        "summary": "Researchers have identified a tiny, one-eyed ancestor from nearly 600 million years ago as a key influence in the evolution of vertebrate eyes, including humans. This ancient organism's median eye is believed to persist in modern species as the pineal gland, which plays a crucial role in regulating sleep patterns in relation to daylight.",
+        "wordCount": 54
       }
     ],
     "entertainment": [
+      {
+        "title": "Dhanush on National Awards row; says better films than 'Raayan' existed; 'Some things simply fall into place on their own'",
+        "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-on-national-awards-row-says-better-films-than-raayan-existed-some-things-simply-fall-into-place-on-their-own/articleshow/132650426.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132650449,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-27T00:53:00Z",
+        "category": "entertainment",
+        "summary": "Dhanush addressed the controversy surrounding the 72nd National Film Awards, acknowledging criticisms on social media regarding the selection of winners. He noted that many deserving films, including those from Tamil cinema, were overlooked. Dhanush remarked that sometimes, outcomes occur naturally, suggesting that the recognition of \"Raayan\" may not reflect the overall quality of films released this year.",
+        "wordCount": 57
+      },
+      {
+        "title": "‘The Odyssey’ leaked online: High-quality pirated version garners millions of views before takedown",
+        "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-leaked-online-high-quality-pirated-version-garners-millions-of-views-before-takedown/articleshow/132650408.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-132650414,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-07-27T00:44:00Z",
+        "category": "entertainment",
+        "summary": "A high-quality pirated version of Christopher Nolan's film 'The Odyssey' leaked online, attracting millions of views before being removed. Despite the piracy, the film has earned nearly USD 700 million at the box office. The unauthorized posting was shared by an anonymous account and was taken down shortly after it gained significant attention on the platform.",
+        "wordCount": 56
+      },
       {
         "title": "Pisces Horoscope Today: July 27, 2026",
         "url": "https://www.vogue.in/content/pisces-horoscope-today-july-27-2026",
@@ -201,28 +221,8 @@
         "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
         "publishedAt": "2026-07-27T00:20:00Z",
         "category": "entertainment",
-        "summary": "Pisces individuals are advised to manage their tendency to overthink on July 27, 2026. While they recognize the need to create something meaningful in their lives, emotions such as hesitation and guilt may hinder their progress. It is important for Pisces to navigate these feelings to avoid being overwhelmed and to focus on their creative aspirations.",
-        "wordCount": 56
-      },
-      {
-        "title": "Cancer Horoscope Today: July 27, 2026",
-        "url": "https://www.vogue.in/content/cancer-horoscope-today-july-27-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04b32f6a7f382599b6a/16:9/w_1280,c_limit/4-Cancer_16;9.png",
-        "publishedAt": "2026-07-27T00:20:00Z",
-        "category": "entertainment",
-        "summary": "Cancer individuals are encouraged to confront their fears this week. Recent years have been challenging, particularly the last few months, prompting a shift towards a more measured approach. This change may lead to personal growth and new opportunities. Embracing this theme of resilience can help Cancers navigate their current circumstances and foster a sense of renewal.",
-        "wordCount": 56
-      },
-      {
-        "title": "Gemini Horoscope Today: July 27, 2026",
-        "url": "https://www.vogue.in/content/gemini-horoscope-today-july-27-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04cf280aa95e93d0629/16:9/w_1280,c_limit/3-Gemini_16;9.png",
-        "publishedAt": "2026-07-27T00:20:00Z",
-        "category": "entertainment",
-        "summary": "This week, Gemini experiences significant transitions in home and personal life. Cosmic influences encourage embracing change and following intuitive prompts toward desired outcomes. The guidance suggests visualizing positive scenarios to align with these shifts. Emphasizing the importance of adaptability, the horoscope highlights the potential for growth and transformation during this pivotal period, urging Geminis to remain open to new possibilities.",
-        "wordCount": 60
+        "summary": "Pisces individuals are advised to manage their tendency to overthink on July 27, 2026. While they recognize the need to create positive changes in their lives, feelings of hesitation and guilt may hinder their progress. It is essential for Pisces to navigate these emotions effectively to avoid being overwhelmed and to focus on their aspirations.",
+        "wordCount": 55
       }
     ]
   }
