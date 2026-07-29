@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-07-27T13:05:18.952Z",
+  "updatedAt": "2026-07-29T13:07:45.858Z",
   "categories": {
     "world": [
       {
-        "title": "Khamenei ties US-Iran peace deal to Israel ending attacks on Lebanon",
-        "url": "https://www.aljazeera.com/news/2026/7/26/us-iran-peace-deal-depends-on-israel-leaving-lebanon-says-khamenei",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-02T201111Z_1208278440_RC2V5MA0EJFZ_RTRMADP_3_IRAN-CRISIS-KHAMENEI-1783029786.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-07-27T01:00:21Z",
-        "category": "world",
-        "summary": "Iran's Supreme Leader Mojtaba Khamenei stated that a peace agreement between Iran and the United States is dependent on Israel ceasing its attacks on Lebanon. He called for an \"absolute, unconditional termination\" of such actions in a post on X on Sunday. Khamenei's remarks highlight the interconnectedness of regional conflicts and diplomatic relations in the Middle East.",
-        "wordCount": 57
-      },
-      {
-        "title": "'Crimes against humanity' complaints filed against Bangladesh ex-president",
-        "url": "https://timesofindia.indiatimes.com/world/south-asia/crimes-against-humanity-complaints-filed-against-bangladesh-ex-president/articleshow/132650327.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132650335,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-27T00:21:00Z",
-        "category": "world",
-        "summary": "Complaints alleging \"crimes against humanity\" have been filed against former Bangladesh President Mohammed Shahabuddin with the Bangladesh International Crimes Tribunal. This action follows his recent resignation from the presidency. The specific details of the allegations have not been disclosed, but the filing reflects ongoing scrutiny of political figures in Bangladesh regarding past actions during periods of conflict.",
-        "wordCount": 57
-      },
-      {
-        "title": "No path forward except jihad and resistance, Mojtaba Khamenei tells Hezbollah",
-        "url": "https://www.indiatoday.in/world/story/irans-supreme-leader-hails-hezbollah-fighters-says-jihad-and-resistance-are-the-only-path-forward-2956979-2026-07-27",
+        "title": "Iran targets US base in first attack since Trump halted strikes",
+        "url": "https://www.indiatoday.in/world/story/iran-launches-surprise-missile-attack-on-us-base-in-jordan-escalating-regional-tensions-2958561-2026-07-29",
         "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/irans-supreme-leader-mojtaba-khamenei-263821876-16x9_0.jpg?VersionId=WAKfJ0JNfu9cCmSP02pAEAtSigSXNUv0",
-        "publishedAt": "2026-07-26T23:36:28Z",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/iran-missile-strike-192621702-16x9_2.jpg?VersionId=Cq.RNmdWsxWZHf4qAwz0pOuOocsL1KlV",
+        "publishedAt": "2026-07-28T23:17:29Z",
         "category": "world",
-        "summary": "Iran's Supreme Leader Mojtaba Khamenei expressed unwavering support for Hezbollah, stating there is “no path forward except jihad and resistance.” He emphasized that defending Hezbollah is a strategic mandate for Tehran and called for the “absolute, unconditional termination” of Israeli aggression against Lebanon. Khamenei's remarks underline Iran's commitment to the group amid ongoing regional tensions.",
-        "wordCount": 55
+        "summary": "Iran launched multiple ballistic missiles at a US military base in Jordan on Tuesday, marking the first such attack since President Trump paused strikes on Iran. The US Central Command (CENTCOM) reported that all missiles were intercepted. This incident raises concerns about potential regional escalation, despite ongoing diplomatic efforts to ease tensions between the two nations.",
+        "wordCount": 56
+      },
+      {
+        "title": "How Reza Pahlavi's decades-long wait for power slipped away",
+        "url": "https://www.indiatoday.in/world/story/us-iran-war-exiled-prince-reza-pahlavis-dream-of-leading-iran-slipped-away-regime-change-2958555-2026-07-29",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/reza-pahlavi-28520855-16x9_0.jpg?VersionId=tM.77IBf6DkiWj8OECEJ9EMYYbGBf32p",
+        "publishedAt": "2026-07-28T21:54:07Z",
+        "category": "world",
+        "summary": "Reza Pahlavi, the exiled son of Iran's last shah, saw a potential opportunity for power following US-Israeli strikes on Iran, which plunged the country into crisis. However, the Islamic Republic endured, and the US maintained a distance. Doubts regarding Pahlavi's funding and political support have raised uncertainties about his ambitions for leadership in Iran.",
+        "wordCount": 54
+      },
+      {
+        "title": "Trump will give lifeguard Ryder Williams High Civilian Honor at White House after rescuing a 10-year-old boy",
+        "url": "https://www.marca.com/en/lifestyle/us-news/2026/07/28/trump-will-give-lifeguard-ryder-walding-high-civilian-honor-at-white-house-after-rescuing-10-year-old-boy.html",
+        "source": "MARCA",
+        "image": "https://e00-xlk-ue-marca-en.uecdn.es/files/article_main_microformat/uploads/2026/07/28/6a69153fe87e0.jpeg",
+        "publishedAt": "2026-07-28T20:59:22Z",
+        "category": "world",
+        "summary": "President Donald Trump will honor 16-year-old lifeguard Ryder Williams with a “High Civilian Honor” at the White House. This recognition follows Williams' courageous act of rescuing a 10-year-old boy from perilous surf conditions at a California beach in Santa Cruz. The event will include Williams and his family, celebrating the teenager's bravery and quick response in a dangerous situation.",
+        "wordCount": 59
       }
     ],
     "business": [
       {
-        "title": "CXMT shares make Shanghai debut after Asia’s biggest IPO of 2026",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/cxmt-shares-make-shanghai-debut-after-asia-s-biggest-ipo-of-2026-13983969.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260718101458_cxmt.jpg",
-        "publishedAt": "2026-07-27T00:51:32Z",
-        "category": "business",
-        "summary": "Chinese DRAM chipmaker CXMT has made its debut on the Shanghai stock exchange following Asia's largest IPO of 2026, raising $8.6 billion. The company enters the market with a valuation of $85.5 billion. With a low free float of 6.73%, trading activity is expected to be amplified as investors engage with the newly listed shares.",
-        "wordCount": 55
-      },
-      {
-        "title": "How MRF’s 102-member promoter family has stayed united for 80 years",
-        "url": "https://www.livemint.com/companies/mrf-promoter-group-family-shareholding-ownership-structure-11785053877402.html",
-        "source": "livemint.com",
-        "image": "https://www.livemint.com/lm-img/img/2026/07/26/1600x900/logo/mrf_1785064460063_1785064471791_d98498d2-51fa-470f-a4aa-009beaba07c7.png",
-        "publishedAt": "2026-07-27T00:35:28Z",
-        "category": "business",
-        "summary": "MRF, India's largest tyre manufacturer, revealed in its annual report that its 102-member promoter family holds 27.77% of the company. Thirteen promoter entities own approximately 16%, while individual family members collectively possess nearly 12%. The company avoids media interactions, and several investors and former directors declined to comment, with some agreeing to speak only anonymously.",
-        "wordCount": 55
-      },
-      {
-        "title": "More Indian EVs head to distant shores as Maruti, Tata, M&M drive 14-fold export surge",
-        "url": "https://economictimes.indiatimes.com/industry/renewables/more-indian-evs-head-to-distant-shores-as-maruti-tata-mm-drive-14-fold-export-surge/articleshow/132647148.cms?from=mdr",
+        "title": "ET Exclusive: Adani eyes controlling stake in UK's Associated British Ports",
+        "url": "https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/et-exclusive-adani-eyes-controlling-stake-in-uks-associated-british-ports/articleshow/132693056.cms?from=mdr",
         "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-132652041,width-1200,height-630,imgsize-67870,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-07-27T00:30:00Z",
+        "image": "https://img.etimg.com/thumb/msid-132693463,width-1200,height-630,imgsize-82166,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-07-29T00:00:00Z",
         "category": "business",
-        "summary": "Indian electric vehicle exports surged to 15,641 units in the three months ending June, a significant increase from 1,122 units during the same period last year, according to industry data. This growth represents over half of the total 28,652 units exported in the previous fiscal year, driven by manufacturers such as Maruti, Tata, and Mahindra & Mahindra.",
-        "wordCount": 57
+        "summary": "Adani Ports is considering a bid for a controlling stake in Associated British Ports in the UK, which would significantly expand Gautam Adani's port operations. The stake is currently held by two Canadian pension funds. Associated British Ports operates twenty-one key ports across the UK and is also involved in the offshore wind industry.",
+        "wordCount": 54
+      },
+      {
+        "title": "Here's what is contributing to it and what lies ahead",
+        "url": "https://www.cnbctv18.com/market/nifty-it-index-best-month-in-six-years-infosys-tcs-coforge-persistent-ltm-hcltech-share-price-triggers-what-lies-ahead-19956199.htm",
+        "source": "CNBC TV18",
+        "image": "https://images.cnbctv18.com/uploads/2026/07/chatgpt-image-jul-29-2026-05-22-46-am-1-2026-07-c79069907b90a83f4bda97ac8b099078.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-07-28T23:53:55Z",
+        "category": "business",
+        "summary": "All Nifty IT constituents have posted positive returns this month, led by Persistent Systems, HCLTech, and LTM, which gained 20% to 25%. TCS, Tech Mahindra, Coforge, Mphasis, and Infosys saw increases of 10% to 20%. Wipro and Oracle Financial underperformed with 6% gains. Nifty IT is on track for its best month in six years.",
+        "wordCount": 55
+      },
+      {
+        "title": "Quantum Cryptography That Humans Spent Years Failing to Break",
+        "url": "https://decrypt.co/374600/claude-mythos-cracked-post-quantum-cryptography",
+        "source": "Decrypt",
+        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png",
+        "publishedAt": "2026-07-28T20:45:38Z",
+        "category": "business",
+        "summary": "Anthropic announced that an unreleased version of its AI model identified two new attacks on cryptographic algorithms, including one targeting the HAWK signature scheme, which is in contention for U.S. federal standardization. This discovery highlights vulnerabilities in post-quantum cryptography that researchers had previously struggled to uncover, raising concerns about the security of emerging cryptographic methods.",
+        "wordCount": 55
       }
     ],
     "technology": [
       {
-        "title": "US-Iran war news: Tehran signals it will pause attacks if America does the same; Trump shares AI images of Kharg strike, bombing of Iranian vessels - 10 KEY developments",
-        "url": "https://www.etnownews.com/news/us-iran-war-news-tehran-signals-it-will-pause-attacks-if-america-does-the-same-trump-shares-ai-images-of-kharg-strike-bombing-of-iranian-vessels-10-key-developments-article-155184454",
-        "source": "ET Now",
-        "image": "https://images.etnownews.com/thumb/msid-155184454,updatedat-1785117199335,width-1280,height-720,resizemode-75/155184454.jpg",
-        "publishedAt": "2026-07-27T00:03:05Z",
+        "title": "Windows 11 KB5101684 out with a speed boost, direct download links for offline installer (.msu)",
+        "url": "https://www.windowslatest.com/2026/07/29/windows-11-kb5101684-out-with-a-speed-boost-direct-download-links-for-offline-installer-msu/",
+        "source": "Windows Latest",
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/07/Windows-11-KB5101684-update-scaled.jpg",
+        "publishedAt": "2026-07-28T22:03:25Z",
         "category": "technology",
-        "summary": "The United States has paused airstrikes on Iran, indicating a potential shift towards diplomacy to prevent a broader regional conflict. Tehran has signaled it may also halt attacks if the U.S. does the same. Mediators emphasize that diplomacy is the only viable solution to the ongoing crisis, which has escalated over the past two weeks.",
-        "wordCount": 55
+        "summary": "Windows 11 KB5101684 has been released, featuring various quality improvements, especially in performance. Users can access this update through Windows Update, requiring them to click the ‘Download & Install’ button. Additionally, Microsoft has provided direct download links for offline installers in the .msu format. This update is optional and is known internally by a specific code.",
+        "wordCount": 56
       },
       {
-        "title": "Palworld 1.0 surges to nearly 1 Million concurrent Steam players as sales Top 30 Million copies",
-        "url": "https://www.notebookcheck.net/Palworld-1-0-surges-to-nearly-1-Million-concurrent-Steam-players-as-sales-Top-30-Million-copies.1352374.0.html",
-        "source": "Notebookcheck",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Palworld-1.0-Steam-DB-Screenshot-Image-Source-SteamDB.jpg.jpeg",
-        "publishedAt": "2026-07-26T22:20:00Z",
+        "title": "Xiaomi Redmi Note 17 to launch in India next month",
+        "url": "https://www.deccanherald.com/technology/xiaomi-redmi-note-17-to-launch-in-india-next-month-4090517",
+        "source": "Deccan Herald",
+        "image": "https://media.assettype.com/deccanherald%2F2026-07-28%2F7be4hamv%2FXiaomi-Redmi-Note-17-cs-1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+        "publishedAt": "2026-07-28T21:45:34Z",
         "category": "technology",
-        "summary": "Palworld's 1.0 launch achieved nearly one million concurrent players on Steam and sold approximately 1.8 million copies within the first 10 days. Total sales have exceeded 30 million, generating nearly $700 million in revenue. The game maintains a 93% positive rating on Steam, following its successful early access debut in early 2024.",
-        "wordCount": 52
-      },
-      {
-        "title": "Claude AI Shared Chats Reportedly Exposed in Google Search Results",
-        "url": "https://cybersecuritynews.com/claude-ai-shared-chats/",
-        "source": "CyberSecurityNews",
-        "image": "http://cybersecuritynews.com/wp-content/uploads/2026/07/Claude-AI-Shared-Chats.webp",
-        "publishedAt": "2026-07-26T20:20:26Z",
-        "category": "technology",
-        "summary": "Anthropic’s Claude AI shared links were reportedly exposed in Google search results, leading to privacy concerns for users who shared sensitive conversations. A Reddit post highlighted that hundreds of these chats became publicly discoverable, prompting discussions about the implications for user confidentiality. The incident raises questions about data security and the management of shared content in AI platforms.",
+        "summary": "Xiaomi is set to launch the Redmi Note 17 in India on August 6. The device features an 8,000mAh battery, Snapdragon 4 Gen 4 processor, AMOLED display, and a 50MP camera. The launch will coincide with the introduction of the Vivo S2. Additional details about the device's specifications and features are expected to be revealed at the event.",
         "wordCount": 58
+      },
+      {
+        "title": "Samsung Smart Glasses Update: The Design-First Bet and Its Tradeoffs",
+        "url": "https://virtual.reality.news/news/samsung-smart-glasses-update-the-design-first-bet-and-its-tradeoffs/",
+        "source": "virtual.reality.news",
+        "image": "https://assets.content.technologyadvice.com/nextreality_favicon_c9ec42b36f.webp",
+        "publishedAt": "2026-07-28T20:56:18Z",
+        "category": "technology",
+        "summary": "Samsung introduced its AI-powered smart glasses at the Galaxy Unpacked event on July 22. These display-free frames operate on Android XR and feature Google Gemini technology. The design collaboration involved Gentle Monster and Warby Parker. The smart glasses are set to launch in the fall, emphasizing a design-first approach while balancing functionality and aesthetic considerations.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "Bavarian Football Works",
-        "url": "https://www.bavarianfootballworks.com/off-the-crossbar/236021/media-wars-florian-plettenberg-and-fabrizio-romano-go-toe-to-toe-over-accusations-of-fake-news",
-        "source": "Bavarian Football Works",
-        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/07/gettyimages-2180818437.jpg?quality=90&strip=all&crop=0%2C10.785131724411%2C100%2C78.429736551177&w=1200",
-        "publishedAt": "2026-07-27T01:00:00Z",
+        "title": "Babar reveals extent of Masood injury after West Indies loss",
+        "url": "https://www.icc-cricket.com/news/babar-reveals-extent-of-masood-injury-after-west-indies-loss",
+        "source": "ICC",
+        "image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/rzrzwayl3a5hsvxwn4c2",
+        "publishedAt": "2026-07-29T00:48:41Z",
         "category": "sports",
-        "summary": "A recent controversy arose over accusations of \"fake news\" regarding a supposed Manchester City bid, which was never reported. The discussion intensified after a critique of a report on Klopp, deemed ridiculous and disrespectful to professional journalists. The situation has sparked debate on whether to allow ongoing disputes or intervene to prevent further conflict within the football community.",
-        "wordCount": 58
+        "summary": "Pakistan captain Babar Azam announced that Shan Masood fractured his finger during the first Test against the West Indies. The injury occurred while Masood was batting in the first innings. His availability for the remainder of the series will be assessed as the team continues to monitor his condition following the injury sustained in Trinidad.",
+        "wordCount": 55
       },
       {
-        "title": "Soumya recalled for Darwin Test after five-year absence",
-        "url": "https://www.cricket.com.au/news/4547104/soumya-sarkar-recall-australia-test-series-darwin-mackay-jaker-shanto-musfik-ebadot-nahid-rana-shoriful-islam-litton-das",
-        "source": "cricket.com.au",
-        "image": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2026/07/26/2f6fa21e-a6f5-427e-bae4-c90b44e1914b/27soumya.jpg",
-        "publishedAt": "2026-07-26T22:45:21Z",
+        "title": "Klopp appointment sparks Antonio Rüdiger U-turn on Germany future",
+        "url": "https://bulinews.com/klopp-appointment-sparks-antonio-rudiger-turn-germany-future",
+        "source": "Bulinews",
+        "image": "https://bulinews.com/i/1280/19206.jpg",
+        "publishedAt": "2026-07-28T21:58:00Z",
         "category": "sports",
-        "summary": "Bangladesh has announced a 15-player squad for their first Test in Australia in 23 years, with nearly half the team set to experience top-flight cricket in the country for the first time. Veteran batter Soumya Sarkar has been recalled after a five-year absence, filling the gap left by three injured first-choice players ahead of the Darwin Test.",
+        "summary": "Antonio Rüdiger was reportedly considering retirement from international football following Germany's World Cup defeat to Paraguay. However, the recent appointment of Jürgen Klopp as the national team's coach has prompted the experienced defender to reassess his decision. Rüdiger now sees potential for a renewed commitment to the national team under Klopp's leadership, reigniting his international career aspirations.",
         "wordCount": 57
       },
       {
-        "title": "Commonwealth Games: Jadumani wins high-octane India-Pakistan bout, Preeti one win away from medal",
-        "url": "https://www.thehindu.com/sport/other-sports/commonwealth-games-jadumani-wins-high-octane-india-pakistan-bout-preeti-one-win-away-from-medal/article71270506.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/le247c/article71270508.ece/alternates/LANDSCAPE_1200/PTI07_27_2026_000013B.jpg",
-        "publishedAt": "2026-07-26T20:50:00Z",
+        "title": "YOR vs WOR Today Match Prediction and Betting Tips, Odds and Live Score",
+        "url": "https://www.thetopbookies.com/betting-tips/cricket/yor-vs-wor-29-Jul-2026",
+        "source": "TheTopBookies",
+        "image": "https://api.thetopbk.com/storage/cricket/teams/yor/Y5XCwrcWUteEytoKxy1ELIk6Dy6szbfC0hnB0t3b.jpeg",
+        "publishedAt": "2026-07-28T20:43:57Z",
         "category": "sports",
-        "summary": "Jadumani Singh defeated Pakistan's Sumama Rehman in a competitive bout at the Commonwealth Games boxing competition in Glasgow. Meanwhile, Preeti Pawar advanced to the quarterfinals, positioning herself one win away from securing her first Commonwealth Games medal. Both athletes showcased strong performances, contributing to India's presence in the tournament as they aim for further success.",
-        "wordCount": 55
+        "summary": "Yorkshire (YOR) will compete against Worcestershire (WOR) in the England Domestic One-Day Cup on July 29, 2026, at Clifton Park Ground, York, starting at 3:30 PM IST. This match marks the return of English cricket to the One-Day Cup following the Vitality Blast and The 100. Worcestershire enters as the defending champions. Betting tips and odds are available.",
+        "wordCount": 58
       }
     ],
     "health": [
       {
-        "title": "How the brain rewires for motherhood",
-        "url": "https://theshillongtimes.com/2026/07/27/how-the-brain-rewires-for-motherhood/",
-        "source": "The Shillong Times",
-        "image": "https://theshillongtimes.com/wp-content/uploads/2026/03/download-4.jpeg",
-        "publishedAt": "2026-07-27T00:46:16Z",
+        "title": "Fatty liver, not hepatitis, is now India’s fastest-growing liver threat, warn AIIMS doctors",
+        "url": "https://theprint.in/health/fatty-liver-not-hepatitis-is-now-indias-fastest-growing-liver-threat-warn-aiims-doctors/2999247/",
+        "source": "ThePrint",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/07/Untitled-design-68-2.png",
+        "publishedAt": "2026-07-29T00:30:40Z",
         "category": "health",
-        "summary": "Motherhood triggers significant changes in the brain, enhancing parental instincts that operate subconsciously. New mothers often feel compelled to check on their sleeping infants, remain nearby, and respond quickly to their cries. This transition also leads to a profound shift in priorities, as highlighted by the late British psychotherapist Naomi Stadlen, who noted the relentless nature of motherhood.",
-        "wordCount": 58
+        "summary": "Doctors at the All India Institute of Medical Sciences (AIIMS) in New Delhi report that fatty liver disease, also known as Metabolic dysfunction-Associated Steatotic Liver Disease (MASLD), is now India's fastest-growing liver threat, surpassing hepatitis. This increase is attributed to rising obesity, diabetes, and sedentary lifestyles, despite advancements in hepatitis B and C vaccinations and treatments.",
+        "wordCount": 56
       },
       {
-        "title": "Researchers identify eight new genes linked to schizophrenia",
-        "url": "https://www.thehansindia.com/hans/young-hans/researchers-identify-eight-new-genes-linked-to-schizophrenia-1101825",
+        "title": "Healthy life expectancy is falling behind as people live longer",
+        "url": "https://www.earth.com/news/people-are-living-longer-but-spending-more-years-in-poor-health/",
+        "source": "Earth.com",
+        "image": "https://cff2.earth.com/uploads/2026/07/28191335/Healthy-life-expectancy.jpg",
+        "publishedAt": "2026-07-28T23:21:59Z",
+        "category": "health",
+        "summary": "A global study reveals that people now spend an average of 10.7 years in poor health, an increase from 8.8 years in 1990. The gap between overall life expectancy and healthy life expectancy is widening, with 203 out of 204 countries experiencing faster growth in lifespan compared to healthy years. This trend raises concerns about health quality in aging populations.",
+        "wordCount": 60
+      },
+      {
+        "title": "Kidney transplant: A second chance at life How ABO-incompatible transplant works",
+        "url": "https://www.thehansindia.com/life-style/health/kidney-transplant-a-second-chance-at-life-how-abo-incompatible-transplant-works-1102544",
         "source": "The Hans India",
-        "image": "https://assets.thehansindia.com/h-upload/2026/07/27/1682076-esearch.jpg",
-        "publishedAt": "2026-07-27T00:23:17Z",
+        "image": "https://assets.thehansindia.com/h-upload/2026/07/28/1682751-kidney.jpg",
+        "publishedAt": "2026-07-28T23:18:15Z",
         "category": "health",
-        "summary": "Researchers in the United Kingdom have identified eight new genes linked to schizophrenia, a complex psychiatric disorder affecting thought, emotion, and behavior. This discovery enhances the understanding of schizophrenia, which can cause symptoms like hallucinations and delusions. The findings may contribute to the development of future treatments for this severe mental health condition, potentially improving patient outcomes.",
-        "wordCount": 57
-      },
-      {
-        "title": "Sleep Disorders Don’t Just Exhaust You. New Research Shows They Change Your Brain",
-        "url": "https://scitechdaily.com/sleep-disorders-dont-just-exhaust-you-new-research-shows-they-change-your-brain/",
-        "source": "SciTechDaily",
-        "image": "https://scitechdaily.com/images/Doctor-MRI-Multiple-Sclerosis.jpg",
-        "publishedAt": "2026-07-26T23:41:47Z",
-        "category": "health",
-        "summary": "Research from Florida International University indicates that sleep disorders lead to both shared and unique structural changes in brain systems responsible for attention, decision-making, and emotional regulation. These alterations can significantly impact cognitive functions beyond just causing fatigue. The findings highlight the importance of addressing sleep disorders to mitigate their broader effects on brain health and functionality.",
-        "wordCount": 57
+        "summary": "ABO-incompatible kidney transplants are addressing donor shortages and enhancing survival rates for patients with kidney failure. These transplants allow individuals with different blood types to receive kidneys from incompatible donors. This medical advancement helps maintain essential bodily functions by filtering waste and toxins, offering patients a second chance at life when traditional treatment options are insufficient.",
+        "wordCount": 56
       }
     ],
     "science": [
       {
-        "title": "Fertility and IVF facility relaunched at Manipal Hospital",
-        "url": "https://starofmysore.com/fertility-and-ivf-facility-relaunched-at-manipal-hospital/",
-        "source": "Star of Mysore",
-        "image": "https://starofmysore.com/wp-content/uploads/2026/07/news19-1.png",
-        "publishedAt": "2026-07-26T20:03:47Z",
+        "title": "NASA Astronaut Chris Williams Returns After 241 Days on ISS",
+        "url": "https://quasa.io/media/nasa-astronaut-chris-williams-returns-after-241-days-on-the-iss",
+        "source": "quasa.io",
+        "image": "https://cdn.quasa.io/images/news/Vl0bL1J2EduZ6v5ZIakrvW2Izea65S7VYOPrb8kZ.png",
+        "publishedAt": "2026-07-29T01:00:00Z",
         "category": "science",
-        "summary": "Manipal Hospital Mysuru relaunched its Fertility and IVF Centre on World IVF Day, enhancing its services with upgraded technology and improved infrastructure. The facility now offers a broader range of advanced reproductive treatments. The relaunch event was attended by Rtn. Sam Cherian, Founder-Chairman of Schevaran Laboratories, and DCP (Law and Order) Dr. Harsha Priyamvada.",
-        "wordCount": 54
+        "summary": "NASA astronaut Chris Williams and Roscosmos cosmonauts Sergey Kud-Sverchkov and Sergei Mikaev safely landed in Kazakhstan on July 26, 2026, after spending 241 days aboard the International Space Station. Their Soyuz MS-28 spacecraft undocked from the ISS, concluding a mission that confirmed various scientific objectives. The astronauts are now back on Earth following their extended stay in space.",
+        "wordCount": 58
       },
       {
-        "title": "From The Hindu Archives, July 27, 1976: ‘Roman letter’ on Mars rock",
-        "url": "https://www.thehindu.com/archives/from-the-hindu-archives-july-27-1976-roman-letter-on-mars-rock/article71269677.ece",
-        "source": "The Hindu",
-        "image": "https://www.thehindu.com/theme/images/og-image.png",
-        "publishedAt": "2026-07-26T19:35:00Z",
+        "title": "Private mission to rescue NASA's aging telescope runs into its own trouble",
+        "url": "https://www.hindustantimes.com/world-news/us-news/private-mission-to-rescue-nasa-s-aging-telescope-runs-into-its-own-trouble-101785274443658.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2025/12/30/550x309/US_News_1767090888271_1767090921295.png",
+        "publishedAt": "2026-07-28T21:34:03Z",
         "category": "science",
-        "summary": "On July 26, 1976, U.S. scientists successfully transmitted commands to Mars, resolving an issue with the Viking lander's soil-sampling arm. The adjustments were made from Pasadena, California. However, another critical experiment involving the seismology probe remained unresponsive, indicating ongoing challenges in the mission. The developments were reported in The Hindu Archives on July 27, 1976.",
-        "wordCount": 55
+        "summary": "Katalyst Space Technologies announced that its Link satellite, part of a private mission to rescue NASA's aging telescope, is facing thruster issues. The satellite has entered an uncontrollable spin, disrupting communication. This setback occurred three weeks after the deployment of a three-armed robot designed for the mission. The situation complicates efforts to assist the aging telescope.",
+        "wordCount": 56
       },
       {
-        "title": "Scientists trace the shocking origin of human eyes to an ancient \"cyclops\": Study",
-        "url": "https://www.tribuneindia.com/news/health/scientists-trace-the-shocking-origin-of-human-eyes-to-an-ancient-cyclops-study/",
-        "source": "The Tribune",
-        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM5ZjAwZDYwLTg5MWYtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-        "publishedAt": "2026-07-26T18:28:18Z",
+        "title": "A SpaceX Falcon 9 rocket stage will hit the Moon in the coming days",
+        "url": "https://www.notebookcheck.net/A-SpaceX-Falcon-9-rocket-stage-will-hit-the-Moon-in-the-coming-days.1353749.0.html",
+        "source": "Notebookcheck",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/A-SpaceX-Falcon-9-rocket-stage-will-impact-the-Moon.jpg",
+        "publishedAt": "2026-07-28T21:23:00Z",
         "category": "science",
-        "summary": "Researchers have identified a tiny, one-eyed ancestor from nearly 600 million years ago as a key influence in the evolution of vertebrate eyes, including humans. This ancient organism's median eye is believed to persist in modern species as the pineal gland, which plays a crucial role in regulating sleep patterns in relation to daylight.",
-        "wordCount": 54
+        "summary": "The upper stage of a SpaceX Falcon 9 rocket is set to collide with the Moon in the coming days. Scientists plan to observe and study the event, which may also be visible from Earth under favorable conditions. SpaceX regularly conducts launches for various missions, and this impact will provide a unique opportunity for lunar observation.",
+        "wordCount": 56
       }
     ],
     "entertainment": [
       {
-        "title": "Dhanush on National Awards row; says better films than 'Raayan' existed; 'Some things simply fall into place on their own'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/dhanush-on-national-awards-row-says-better-films-than-raayan-existed-some-things-simply-fall-into-place-on-their-own/articleshow/132650426.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132650449,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-27T00:53:00Z",
+        "title": "Raja Chaudhary on daughter Palak Tiwari's dating rumours with Ibrahim Ali Khan: ‘Just a biological father, don't care’",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/raja-chaudhary-doesnt-care-about-his-and-shweta-tiwari-daughter-palak-tiwari-dating-rumours-with-ibrahim-ali-khan-101785246727904.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/07/28/550x309/Raja_Chaudhary_Palak_Ibrahim_1785246715214_1785246723008_85076abb-f031-40a4-aaa5-fc5b34eb3f0f.jpg",
+        "publishedAt": "2026-07-29T00:48:49Z",
         "category": "entertainment",
-        "summary": "Dhanush addressed the controversy surrounding the 72nd National Film Awards, acknowledging criticisms on social media regarding the selection of winners. He noted that many deserving films, including those from Tamil cinema, were overlooked. Dhanush remarked that sometimes, outcomes occur naturally, suggesting that the recognition of \"Raayan\" may not reflect the overall quality of films released this year.",
-        "wordCount": 57
+        "summary": "Raja Chaudhary commented on his daughter Palak Tiwari's dating rumors with Ibrahim Ali Khan, stating he feels indifferent about her career and personal life due to their lack of a relationship. He emphasized that he is merely a biological father and does not engage in her affairs. Chaudhary's remarks highlight the distance between them.",
+        "wordCount": 54
       },
       {
-        "title": "‘The Odyssey’ leaked online: High-quality pirated version garners millions of views before takedown",
-        "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/the-odyssey-leaked-online-high-quality-pirated-version-garners-millions-of-views-before-takedown/articleshow/132650408.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-132650414,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-07-27T00:44:00Z",
-        "category": "entertainment",
-        "summary": "A high-quality pirated version of Christopher Nolan's film 'The Odyssey' leaked online, attracting millions of views before being removed. Despite the piracy, the film has earned nearly USD 700 million at the box office. The unauthorized posting was shared by an anonymous account and was taken down shortly after it gained significant attention on the platform.",
-        "wordCount": 56
-      },
-      {
-        "title": "Pisces Horoscope Today: July 27, 2026",
-        "url": "https://www.vogue.in/content/pisces-horoscope-today-july-27-2026",
+        "title": "Scorpio Horoscope Today: July 29, 2026",
+        "url": "https://www.vogue.in/content/scorpio-horoscope-today-july-29-2026",
         "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
-        "publishedAt": "2026-07-27T00:20:00Z",
+        "image": "https://assets.vogue.in/photos/6912e052102d2f4db9b8e92b/16:9/w_1280,c_limit/9-Scorpio_16;9.png",
+        "publishedAt": "2026-07-29T00:20:00Z",
         "category": "entertainment",
-        "summary": "Pisces individuals are advised to manage their tendency to overthink on July 27, 2026. While they recognize the need to create positive changes in their lives, feelings of hesitation and guilt may hinder their progress. It is essential for Pisces to navigate these emotions effectively to avoid being overwhelmed and to focus on their aspirations.",
-        "wordCount": 55
+        "summary": "Scorpio horoscope for July 29, 2026, emphasizes the importance of choice. Scorpios are encouraged to decide whether to wait or walk away, stand firm or yield, and trust their intuition or hesitate before acting. The horoscope highlights that their strength is rooted in endurance, suggesting that careful consideration of their options will lead to better outcomes.",
+        "wordCount": 56
       }
     ]
   }
