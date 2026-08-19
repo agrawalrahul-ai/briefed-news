@@ -1,208 +1,228 @@
 {
-  "updatedAt": "2026-08-19T00:31:05.924Z",
+  "updatedAt": "2026-08-19T12:31:01.069Z",
   "categories": {
     "world": [
       {
-        "title": "An academic's death foretold: Prof Jason Arday has passed, but the “playbook” he mentioned lives",
-        "url": "https://www.thenewsminute.com/news/an-academics-death-foretold-prof-jason-arday-has-passed-but-the-playbook-he-mentioned-lives",
-        "source": "thenewsminute.com",
-        "image": "https://cf-images.assettype.com/thenewsminute%2F2026-08-18%2Frphb7zkq%2F1000262942.jpg?rect=0%2C1324%2C5224%2C2743&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-08-18T12:12:00Z",
+        "title": "Why Mamdani features alongside Iran, Hezbollah leaders on Netanyahu billboard",
+        "url": "https://www.indiatoday.in/world/story/zohran-mamdani-netanyahu-likud-billboard-feud-israel-election-2974490-2026-08-19",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/zohran-mamdani-183705153-16x9_0.jpg?VersionId=cPQad0XTI45flcKR.oRSp_7tqzWKuGc_",
+        "publishedAt": "2026-08-18T22:45:47Z",
         "category": "world",
-        "summary": "Professor Jason Arday has passed away, prompting reflections on his contributions to academia and the ongoing challenges of diversity within the field. His experiences highlight the contradictions in the celebration of diversity in Western academia. Arday's insights, shared during the British Sociological Association’s 75th annual conference, continue to resonate, emphasizing the need for genuine commitment to inclusivity.",
-        "wordCount": 57
-      },
-      {
-        "title": "British couple on honeymoon die in helicopter crash on Greek island; pilot also killed",
-        "url": "https://timesofindia.indiatimes.com/world/europe/british-couple-on-honeymoon-die-in-helicopter-crash-on-greek-island-pilot-also-killed/articleshow/133321252.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133321342,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-18T11:47:00Z",
-        "category": "world",
-        "summary": "A British couple on their honeymoon died in a helicopter crash on the Greek island of Sifnos on Monday. The crash also claimed the life of the pilot. The incident occurred shortly before the couple was scheduled to arrive at their destination. Authorities are investigating the cause of the crash, which has shocked the local community.",
+        "summary": "Benjamin Netanyahu's Likud party has placed New York City Mayor Zohran Mamdani on a campaign billboard in Tel Aviv alongside leaders from Iran, Hezbollah, and Turkey. This move intensifies the ongoing public feud as Israel approaches its October elections, coinciding with stalled ceasefire efforts in Gaza. The billboard aims to highlight perceived threats to Israel's security.",
         "wordCount": 56
       },
       {
-        "title": "Ukraine aims a drone blitz at Moscow as Russian missiles kill 10 in a Ukrainian village",
-        "url": "https://www.thehindu.com/news/international/ukraine-aims-a-drone-blitz-at-moscow-as-russian-missiles-kill-10-in-a-ukrainian-village/article71360223.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/lf109v/article71360293.ece/alternates/LANDSCAPE_1200/2026-08-18T100838Z_1563707104_RC2X0NACBPCS_RTRMADP_3_UKRAINE-CRISIS-ATTACK-KHARKIV-REGION.JPG",
-        "publishedAt": "2026-08-18T11:40:54Z",
+        "title": "British student says he was denied entry to the US despite having valid visa only because he is Muslim: 'Felt as if I was kidnapped'",
+        "url": "https://timesofindia.indiatimes.com/world/us/british-student-says-he-was-denied-entry-to-the-us-despite-having-valid-visa-only-because-he-is-muslim-felt-as-if-i-was-kidnapped/articleshow/133331991.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133332012,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-18T20:06:00Z",
         "category": "world",
-        "summary": "Ukrainian forces launched a significant drone attack on Russia, deploying nearly 800 drones, marking one of their largest offensives since the invasion began over four years ago. This escalation follows recent missile strikes in Kharkiv that resulted in the deaths of ten civilians. The situation highlights the ongoing violence and tensions between Ukraine and Russia as hostilities continue to intensify.",
-        "wordCount": 60
+        "summary": "Laith Alani, a 20-year-old British student, reported being denied entry to the US despite holding a valid visa, claiming the decision was based on his Muslim faith. He described his experience at Orlando International Airport as feeling like a kidnapping after being detained by Customs and Border Protection (CBP). The incident has raised concerns about discrimination.",
+        "wordCount": 56
+      },
+      {
+        "title": "Immigration department releases monthly update on application processing",
+        "url": "https://www.cicnews.com/2026/08/immigration-department-releases-monthly-update-on-application-processing-0879400.html",
+        "source": "CIC News",
+        "image": "https://www.cicnews.com/wp-content/uploads/2026/08/monthly-update-IRCC-application-processing.jpg",
+        "publishedAt": "2026-08-18T19:46:59Z",
+        "category": "world",
+        "summary": "On August 18, 2026, Immigration, Refugees and Citizenship Canada (IRCC) released updated data on application processing for permanent residence, temporary residence, and citizenship. The figures, accurate as of June 30, 2026, were made available on the government’s “Inside IRCC’s application processing system” webpage, providing insights into the number of applications processed during that period.",
+        "wordCount": 54
       }
     ],
     "business": [
       {
-        "title": "13 million phones, end China production",
-        "url": "https://9to5google.com/2026/08/18/google-pixel-report-china-production-2026-shipments/",
-        "source": "9to5Google",
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/08/pixel-11-pro-xl-canyon-9.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-08-18T12:30:00Z",
+        "title": "The ethanol-in-petrol row: Could E10 make comeback alongside E20?",
+        "url": "https://indianexpress.com/article/business/amid-e20-row-first-talks-underway-on-feasibility-of-an-e10-option-as-well-10839298/",
+        "source": "The Indian Express",
+        "image": "https://images.indianexpress.com/2026/08/petrol-pump-2_20260818204110.jpg",
+        "publishedAt": "2026-08-18T23:50:35Z",
         "category": "business",
-        "summary": "Google plans to cease production in China by next year, according to a new report. The company aims to sell approximately 13 million Pixel phones in 2026. This decision marks a significant step in Google's ongoing efforts to shift its manufacturing operations away from China, aligning with broader industry trends and geopolitical considerations impacting technology production.",
-        "wordCount": 56
+        "summary": "The government faces opposition to E20 fuel, with critics citing reduced mileage and increased engine wear in older vehicles. They argue that these engines are not designed for higher ethanol blends. In response, the government claims any mileage drop would be minimal, between 3-5%, and emphasizes E20's advantages as a superior fuel, rejecting concerns about its impact.",
+        "wordCount": 57
       },
       {
-        "title": "Apple shares owner since its IPO days, Florida billionaire buys Ferrari’s first EV, designed by iPhone designer Jony Ive; 87-year-old is 'known for' never selling ...",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-shares-owner-since-its-ipo-days-florida-billionaire-buys-ferraris-first-ev-designed-by-iphone-designer-jony-ive-87-year-old-is-known-for-never-selling-/articleshow/133322004.cms",
+        "title": "YouTube revises view counting",
+        "url": "https://www.gsmarena.com/youtube_revises_view_count_format-news-74225.php",
+        "source": "GSMArena.com",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/youtube-revises-view-count-format/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-08-18T23:31:02Z",
+        "category": "business",
+        "summary": "YouTube has announced a change in its view counting system, effective August 24. Views will now be counted as soon as a video starts, which is expected to increase view counts for creators. This adjustment aligns with the platform’s goal to provide a more accurate representation of viewership. The change aims to enhance the experience for both creators and viewers.",
+        "wordCount": 60
+      },
+      {
+        "title": "'They knew': US states accuse Meta of hiding Instagram's impact on teenagers",
+        "url": "https://timesofindia.indiatimes.com/world/us/they-knew-us-states-accuse-meta-of-hiding-instagrams-impact-on-teenagers/articleshow/133334390.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133322082,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-18T12:13:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-133334394,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-18T22:41:00Z",
         "category": "business",
-        "summary": "Florida billionaire Herbert A. Wertheim, a longtime Apple investor, has purchased the first production Ferrari Luce for $40 million. The Luce is Ferrari's inaugural fully electric vehicle, designed by Jony Ive, known for his work on the iPhone. At 87 years old, Wertheim is recognized for his strategy of never selling his investments.",
-        "wordCount": 53
-      },
-      {
-        "title": "Royal Enfield Classic 350 Gorkha Edition Launch Price Rs 2.10 L",
-        "url": "https://www.rushlane.com/royal-enfield-classic-350-gorkha-edition-launch-price-rs-2-10-l-12553537.html",
-        "source": "RushLane",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/08/royal-enfield-gorkha-edition-launch-price-3.jpg",
-        "publishedAt": "2026-08-18T11:41:47Z",
-        "category": "business",
-        "summary": "Royal Enfield has launched the Classic 350 Gorkha Edition in India, priced at Rs 2,10,684 (ex-showroom, New Delhi). The motorcycle features an exclusive green color scheme and unique insignia, inspired by the legacy of the Gorkha Regiment. Bookings for this special edition have begun as of August 18, 2026, marking its entry into the market.",
-        "wordCount": 55
+        "summary": "Lawyers for 29 US states have accused Meta of concealing internal research indicating that Instagram may be addictive for teenagers. This claim was made as part of a significant legal battle against the company. The states allege that Meta was aware of the potential negative impacts of its platform on young users but failed to disclose this information.",
+        "wordCount": 58
       }
     ],
     "technology": [
       {
-        "title": "iPhone 18 Pro: 7 New Features Reportedly Coming With Apple’s 2026 Launch",
-        "url": "https://www.brut.media/in/articles/science-technology/technology/iphone-18-pro-7-new-features-reportedly-coming-with-apple-s-2026-launch",
-        "source": "Brut",
-        "image": "https://cdn.prod.website-files.com/6638f8a6eb6d568220f98b00/6a844ad5dc54b8d888d65d5d_6a844a4802b7d82ade930a62_WEB%2520THUMBNAIL_7%2520New%2520iPhone%252018%2520Features.jpeg",
-        "publishedAt": "2026-08-18T12:08:31Z",
+        "title": "click menu needs fixing — but there is already a better option",
+        "url": "https://www.makeuseof.com/windows-11-right-click-menu-update-and-better-option/",
+        "source": "MakeUseOf",
+        "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/windows-11-default-blue-background-with-the-windows-11-context-right-click-menu.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-08-18T23:09:06Z",
         "category": "technology",
-        "summary": "Apple plans to alter its iPhone launch schedule in 2026, with the iPhone 18 Pro and Pro Max expected in September, while the standard iPhone 18 may be delayed until early 2027. Reports suggest seven new features will be introduced with the Pro models. This change marks a significant shift in Apple's traditional iPhone release strategy.",
-        "wordCount": 56
+        "summary": "Microsoft is testing a customizable right-click menu for Windows Insiders, aiming for improved speed and usability, though no public release date has been set. While the native update offers easier controls, third-party app extensions may clutter the context menu and slow down loading times. Alternatives like Nilesoft Shell provide a cleaner menu experience for users seeking efficiency.",
+        "wordCount": 57
       },
       {
-        "title": "Roundup: Here's What The Critics Are Saying About The Sinking City 2",
-        "url": "https://www.purexbox.com/news/2026/08/roundup-heres-what-the-critics-are-saying-about-the-sinking-city-2",
-        "source": "purexbox.com",
-        "image": "https://images.purexbox.com/c88d7ba42dedb/large.jpg",
-        "publishedAt": "2026-08-18T12:00:00Z",
+        "title": "VALORANT 2026 Sage guide: How to play and master the agent; Key tips and tricks explained",
+        "url": "https://www.hindustantimes.com/sports/us-sports/valorant-2026-sage-guide-how-to-play-and-master-the-agent-key-tips-and-tricks-explained-101787085428743.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/18/1600x900/logo/Sage_Valorant_1787085771582_1787085779551_7183711e-e130-4317-b351-830dcc737586.png",
+        "publishedAt": "2026-08-18T21:53:44Z",
         "category": "technology",
-        "summary": "Reviews for The Sinking City 2, a sequel to the 2019 game, are largely positive. Critics are sharing their thoughts on the survival horror title, highlighting its engaging elements and improvements over the original. The game features a mix of suspense and exploration, aiming to captivate players with its narrative and atmosphere. Overall, early impressions suggest a successful follow-up.",
-        "wordCount": 59
+        "summary": "Sage is a unique agent in VALORANT, known for her versatility and valuable abilities. Mastering her skills requires practice and strategic decision-making. While she is classified as a Sentinel, Sage provides more than just defensive utility, making her effective in various situations. Understanding the timing and application of her abilities is crucial for less experienced players to succeed.",
+        "wordCount": 58
       },
       {
-        "title": "Apple may increase iPhone 17 prices globally amid rising storage chip costs.",
-        "url": "https://www.kucoin.com/news/flash/apple-may-raise-iphone-17-prices-globally-amid-soaring-storage-chip-costs",
-        "source": "KuCoin",
-        "image": "https://assets.staticimg.com/@kudos/runtime/0.6.6/assets/og-ea52b6f9440e857c.jpg",
-        "publishedAt": "2026-08-18T11:54:33Z",
+        "title": "Spotify rolling out 'User Notes' and 'Running Mode' features on Android",
+        "url": "https://9to5google.com/2026/08/18/spotify-rolling-out-user-notes-and-running-mode-features-heres-what-they-do/",
+        "source": "9to5Google",
+        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/spotify-notes-running-mode-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+        "publishedAt": "2026-08-18T20:35:00Z",
         "category": "technology",
-        "summary": "Apple is set to adjust prices for the iPhone 17 series globally by the end of August, according to Huo Xing Finance. This decision comes in response to rising memory chip costs, which have surged recently. The price increase could reach up to RMB 1,000 per device, reflecting the ongoing challenges in the semiconductor market.",
+        "summary": "Spotify is launching two new features on Android: “Running Mode” and “User Notes.” The “Running Mode” automatically adjusts songs and playlists to match the user’s workout pace. Meanwhile, “User Notes” allows users to leave notes throughout their music library for future reference. These features aim to enhance user experience and personalization within the Spotify app.",
         "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "After 1,800 km dash, reserves Ashith Surya-Amrutha Pramuthesh endure golden point heartbreak",
-        "url": "https://timesofindia.indiatimes.com/sports/badminton/after-1800-km-dash-reserves-ashith-surya-amrutha-pramuthesh-endure-golden-point-heartbreak/articleshow/133322128.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133322254,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-18T12:23:00Z",
+        "title": "Fermin Lopez happy to play false nine for Barcelona after Robert Lewandowski and Ferran Torres exits",
+        "url": "https://www.barcablaugranes.com/barcelona-la-liga/129494/fermin-lopez-offers-false-nine",
+        "source": "Barca Blaugranes",
+        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/08/gettyimages-2289652083.jpg?quality=90&strip=all&crop=0%2C10.754927302809%2C100%2C78.490145394382&w=1200",
+        "publishedAt": "2026-08-18T23:00:00Z",
         "category": "sports",
-        "summary": "Ashith Surya and Amrutha Pramuthesh competed in the mixed doubles draw at the Karnataka State Senior Championships in Dharwad. After traveling 1,800 km, the second-seeded pair faced disappointment in the quarter-finals, losing in a golden point tiebreaker. Their performance highlighted the challenges of the tournament, as they aimed for success but ultimately fell short in a close match.",
+        "summary": "Fermin Lopez expressed confidence in playing as a false nine for Barcelona after the departures of Robert Lewandowski and Ferran Torres. He highlighted his experience in the position, indicating readiness to step up. Barcelona continues to seek a new striker before the transfer window closes, but Lopez's potential role may fill the gap left by the departing players.",
         "wordCount": 58
       },
       {
-        "title": "Time ticking as Barcelona ready to activate Julian Alvarez Plan B in ‘two or three days’",
-        "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/129513/ready-julian-alvarez-plan-b-two-three-days",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/07/gettyimages-2286271585.jpg?quality=90&strip=all&crop=0%2C10.73613144521%2C100%2C78.52773710958&w=1200",
-        "publishedAt": "2026-08-18T12:00:00Z",
+        "title": "José Mourinho: “Real Madrid is on a different level, it can’t have players who think twice about joining”",
+        "url": "https://www.managingmadrid.com/coach/111498/jose-mourinho-were-here-to-work-for-real-madrid",
+        "source": "Managing Madrid",
+        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/08/gettyimages-2290277019.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-08-18T22:56:07Z",
         "category": "sports",
-        "summary": "Barcelona's pursuit of Julian Alvarez from Atletico Madrid is nearing its conclusion as the La Liga season approaches. With the team's first match against Elche scheduled for Sunday, time is running out to finalize the transfer. The club is reportedly preparing to activate a backup plan within the next two to three days if Alvarez's signing does not materialize.",
-        "wordCount": 59
+        "summary": "Real Madrid coach José Mourinho discussed his evolution since returning to the club in an interview with El Chiringuito. He emphasized that Real Madrid operates at a different level and cannot accommodate players who hesitate to join. Mourinho reflected on his personal and professional growth, highlighting significant changes in his approach as both a person and a coach.",
+        "wordCount": 58
       },
       {
-        "title": "Arsenal make final push to sign Julian Alvarez, have backup plan",
-        "url": "https://thehardtackle.com/transfer-news/2026/08/18/arsenal-make-final-push-to-sign-julian-alvarez-have-backup-plan/",
-        "source": "thehardtackle.com",
-        "image": "https://media.thehardtackle.com/uploads/2026/08/imago1080286181-scaled.jpg",
-        "publishedAt": "2026-08-18T11:34:01Z",
+        "title": "The best Real Madrid starting XI in a 4",
+        "url": "https://therealchamps.com/the-best-real-madrid-starting-xi-in-a-4-2-3-1-formation-under-jose-mourinho-01m0bfvc68dv",
+        "source": "The Real Champs",
+        "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_3601,h_2025/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/384/01m0bfw3d6t0wmh6c6n8.jpg",
+        "publishedAt": "2026-08-18T22:36:58Z",
         "category": "sports",
-        "summary": "Arsenal is set to make a final effort to acquire 26-year-old Argentine international Julian Alvarez from Atletico Madrid this summer. Reports indicate that Barcelona is also interested in the player. In addition to their primary target, Arsenal is preparing a backup plan in case their attempt to sign Alvarez does not succeed before the transfer window closes.",
-        "wordCount": 57
+        "summary": "Jose Mourinho is expected to implement a 4-2-3-1 formation for Real Madrid, based on observations from preseason activities. This tactical approach will be utilized as the team prepares for their opening La Liga match against Espanyol. The formation reflects Mourinho's strategy to optimize the squad's performance as the new season commences.",
+        "wordCount": 51
       }
     ],
     "health": [
       {
-        "title": "Menopause may be India's most overlooked marriage challenge, say wellness advocates Swati Singh and Reshma Tiwari",
-        "url": "https://timesofindia.indiatimes.com/life-style/spotlight/menopause-may-be-indias-most-overlooked-marriage-challenge-say-resetwell-plus-swati-singh-and-reshma-tiwari/articleshow/133321024.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133321700,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-18T11:55:00Z",
+        "title": "Quitting Alcohol Can Change the Brain in Surprising Ways, Mouse Study Finds",
+        "url": "https://scitechdaily.com/quitting-alcohol-can-change-the-brain-in-surprising-ways-mouse-study-finds/",
+        "source": "scitechdaily.com",
+        "image": "https://scitechdaily.com/images/Drinking-Alcohol-Brain-Health-Risk-Neuroscience-Addiction-777x518.jpg",
+        "publishedAt": "2026-08-19T00:18:57Z",
         "category": "health",
-        "summary": "Menopause is frequently viewed solely as a women's health issue, but its effects can significantly impact marriages in India. Wellness advocates Swati Singh and Reshma Tiwari highlight that insufficient awareness about perimenopause and menopause creates challenges for couples, leading to difficulties in managing changes in mood, sleep, and energy. Addressing this issue is crucial for healthier relationships.",
+        "summary": "A study on mice revealed that abstinence from alcohol led to increased activity in the BNST region of the brain. This heightened activity was associated with later compulsive-like drinking behaviors. The findings suggest that a period of sobriety may not prevent future compulsive drinking in some individuals, highlighting potential changes in brain function related to alcohol consumption.",
         "wordCount": 57
       },
       {
-        "title": "DNA damage could be causing Huntington’s disease. Study opens door to a new way to treat",
-        "url": "https://theprint.in/feature/dna-damage-could-be-causing-huntingtons-disease-study-opens-door-to-a-new-way-to-treat/3018315/",
-        "source": "ThePrint",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/08/child-2-1.jpg",
-        "publishedAt": "2026-08-18T11:41:46Z",
+        "title": "Women’s Health Is Precision Medicine’s Unfinished Business: A Q&A With Basmah Safdar",
+        "url": "https://www.newswise.com/articles/women-s-health-is-precision-medicine-s-unfinished-business-a-q-amp-a-with-basmah-safdar",
+        "source": "Newswise",
+        "image": "https://www.newswise.com/assets/new/img/logo-banner.jpg",
+        "publishedAt": "2026-08-18T23:35:00Z",
         "category": "health",
-        "summary": "A study by Lawrence Berkeley National Laboratory published in Nature Communications suggests that DNA damage may contribute to Huntington’s disease, a fatal brain disorder. The research highlights an overlooked aspect of the disease, where individuals possess a mutated gene with excessive nucleotide repeats. This finding could lead to new treatment approaches, shifting focus from solely correcting the genetic mutation.",
-        "wordCount": 59
+        "summary": "Basmah Safdar, MD, emphasizes the importance of precision medicine in women's health, highlighting that biological differences between sexes affect health outcomes and clinical care. She points out that inadequate sex-specific data leads to healthcare inefficiencies, increased costs, and less effective treatments. Safdar advocates for a more tailored approach to women's health to improve diagnosis and treatment effectiveness.",
+        "wordCount": 57
+      },
+      {
+        "title": "Not All Exercise Is Equal: How Physical Activity Type May Shape Dementia Risk",
+        "url": "https://www.insideprecisionmedicine.com/topics/translational-research/not-all-exercise-is-equal-how-physical-activity-type-may-shape-dementia-risk/",
+        "source": "Inside Precision Medicine",
+        "image": "https://www.insideprecisionmedicine.com/wp-content/uploads/2020/06/Aug2_2018_StrelkaInst_AerobicExcercise_6001257177102.jpg",
+        "publishedAt": "2026-08-18T22:30:58Z",
+        "category": "health",
+        "summary": "A meta-analysis indicates that leisure-time physical activity is associated with a reduced risk of dementia, while occupational physical activity may increase this risk. The findings suggest that the type and context of physical activity significantly influence brain health outcomes. This research highlights the importance of considering both the nature and setting of physical activity in dementia prevention strategies.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "California scientists poisoned invasive Argentine ant colonies with two common baits; one sent workers roaming before death, the other made them stop searching for food and cluster near water",
-        "url": "https://timesofindia.indiatimes.com/science/california-scientists-poisoned-invasive-argentine-ant-colonies-with-two-common-baits-one-sent-workers-roaming-before-death-the-other-made-them-stop-searching-for-food-and-cluster-near-water/articleshow/133318180.cms",
-        "source": "timesofindia.indiatimes.com",
-        "image": "https://static.toiimg.com/thumb/msid-133320167,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-18T11:26:00Z",
+        "title": "New images show moon crater carved by SpaceX rocket",
+        "url": "https://www.koreatimes.co.kr/world/20260819/new-images-show-moon-crater-carved-by-spacex-rocket",
+        "source": "The Korea Times",
+        "image": "https://newsimg.koreatimes.co.kr/2026/08/19/cd3b56e8-f6d5-4036-89a3-a426c513c083.jpg",
+        "publishedAt": "2026-08-18T23:09:00Z",
         "category": "science",
-        "summary": "California scientists from the University of California, Riverside, studied the effects of two common bait treatments on invasive Argentine ant colonies. One bait caused workers to roam before dying, while the other made them stop searching for food and cluster near water. The findings suggest that an increase in visible ants after treatment does not necessarily indicate treatment failure.",
-        "wordCount": 59
+        "summary": "NASA has released new images showing the crater created by a SpaceX rocket crash on the moon, captured by a spacecraft in lunar orbit. The photos, released on Tuesday, provide the clearest views of the impact site. The Falcon rocket's upper stage collided with the moon, resulting in the formation of the visible crater.",
+        "wordCount": 54
       },
       {
-        "title": "Canadian Arctic Archipelago: 5 islands worth exploring",
-        "url": "https://www.newsbytesapp.com/news/lifestyle/canadian-arctic-archipelago-5-islands-worth-exploring/story",
-        "source": "NewsBytes",
-        "image": "https://i.cdn.newsbytesapp.com/images/l3420260818164221.jpeg",
-        "publishedAt": "2026-08-18T11:13:00Z",
+        "title": "Watch: Indian-origin Nasa astronaut Anil Menon takes second spacewalk",
+        "url": "https://timesofindia.indiatimes.com/science/watch-indian-origin-nasa-astronaut-anil-menon-takes-second-spacewalk/articleshow/133330977.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133331228,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-18T18:54:00Z",
         "category": "science",
-        "summary": "The Canadian Arctic Archipelago features five islands worth exploring, showcasing stunning landscapes. Baffin Island, the largest, offers vast wilderness with rugged terrain, towering mountains, and deep fjords. It hosts several national parks, including Auyuittuq National Park, known for its dramatic scenery and outdoor activities. The region remains largely unexplored, attracting adventurers seeking unique natural beauty and remote experiences.",
+        "summary": "Indian-origin astronaut Anil Menon conducted his second spacewalk outside the International Space Station on Tuesday. He was accompanied by NASA astronaut Jessica Meir. This spacewalk lasted six hours and 27 minutes. Menon had previously completed his first spacewalk earlier in the month. The mission highlights ongoing contributions of astronauts to scientific research and international collaboration in space exploration.",
         "wordCount": 58
+      },
+      {
+        "title": "Energy-based identification of characteristic stresses in weakly cemented rocks during stepwise cyclic loading-unloading",
+        "url": "https://www.nature.com/articles/s41598-026-66151-7?error=cookies_not_supported&code=78bbc392-281c-405f-847b-e6539ff1a7ab",
+        "source": "nature.com",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-08-18T16:18:38Z",
+        "category": "science",
+        "summary": "This study investigates weakly cemented rocks through stepwise cyclic loading-unloading tests on argillaceous siltstone. It analyzes energy partitioning during loading-unloading, separating elastic and dissipated energy. A quantitative method for identifying characteristic stresses, including closure stress, crack initiation stress, and damage stress, is proposed. Validation shows consistency with traditional methods, providing a robust framework for stress determination in weakly cemented rocks.",
+        "wordCount": 60
       }
     ],
     "entertainment": [
       {
-        "title": "CINTAA row deepens as Upasana Singh accuses Poonam Dhillon and Padmini Kolhapure of 'Dictatorship': 'Show-cause notices to those people who don't say 'yes, madam' to them'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/cintaa-row-deepens-as-upasana-singh-accuses-poonam-dhillon-and-padmini-kolhapure-of-dictatorship-show-cause-notices-to-those-people-who-dont-say-yes-madam-to-them/articleshow/133321255.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133321390,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-18T11:48:00Z",
+        "title": "Sagittarius Horoscope Today: August 19, 2026",
+        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-august-19-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
+        "publishedAt": "2026-08-19T00:20:00Z",
         "category": "entertainment",
-        "summary": "The dispute within the Cine and TV Artistes Association (CINTAA) intensifies as general secretary Upasana Singh accuses president Poonam Dhillon and senior vice president Padmini Kolhapure of authoritarian behavior. Singh claims that show-cause notices are issued to members who do not comply with their demands. Former treasurer Deepak Parashar has also voiced concerns regarding the leadership's conduct.",
-        "wordCount": 57
+        "summary": "Today, August 19, 2026, Sagittarius faces a significant decision, uncertain about taking a leap. The horoscope suggests that despite doubts, attempting to move forward is essential. There is a strong desire for family, connection, and partnership, both platonic and non-platonic. To achieve these relationships, self-reflection and proactive steps are necessary to foster meaningful connections.",
+        "wordCount": 54
       },
       {
-        "title": "Vijay Varma roasts Dolly Singh for calling him ‘biggest red flag’ on stage. Watch",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/vijay-varma-roasts-dolly-singh-for-calling-him-biggest-red-flag-on-stage-watch-101787050338955.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/18/1600x900/logo/Vijay_Varma_1765206693885_1765206710482_1787050486155_b9c4e42a-158b-4ba5-a518-fbfeec60c7e7.jpg",
-        "publishedAt": "2026-08-18T11:45:20Z",
+        "title": "Taurus Horoscope Today: August 19, 2026",
+        "url": "https://www.vogue.in/content/taurus-horoscope-today-august-19-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912dd65ee2e104d623d6d33/16:9/w_1280,c_limit/2-Taurus_16;9.png",
+        "publishedAt": "2026-08-19T00:20:00Z",
         "category": "entertainment",
-        "summary": "At the Indian Film Festival of Melbourne, actor Vijay Varma humorously responded to Dolly Singh, who referred to him as the \"biggest red flag\" on stage. Varma playfully dismissed her compliments as \"terrible.\" Known for his roles with complex characters, Varma has gained recognition for performances in projects like \"Darlings\" and \"Dahaad.\" The exchange showcased their lighthearted rapport.",
-        "wordCount": 58
+        "summary": "On August 19, 2026, Taurus individuals are advised to lower their defenses and focus on fostering peace. The horoscope suggests avoiding hasty reactions and instead emphasizes the importance of protecting what truly matters. This period encourages reflection and understanding, urging Taurus to create a harmonious environment while remaining vigilant about their goals and aspirations.",
+        "wordCount": 54
       },
       {
-        "title": "Exclusive: Two Titles Registered For NTR × Trivikram",
-        "url": "https://www.gulte.com/movienews/426870/exclusive-two-titles-registered-for-ntr-x-trivikram",
-        "source": "gulte.com",
-        "image": "https://cdn.gulte.com/wp-content/uploads/2026/06/NTR-Trivikram-father-role-.jpg",
-        "publishedAt": "2026-08-18T11:43:01Z",
+        "title": "Virgo Horoscope Today: August 19, 2026",
+        "url": "https://www.vogue.in/content/virgo-horoscope-today-august-19-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
+        "publishedAt": "2026-08-19T00:20:00Z",
         "category": "entertainment",
-        "summary": "Jr NTR and director Trivikram Srinivas are collaborating on a highly anticipated film, generating significant excitement among fans. Recent updates indicate that NTRArts has registered two titles for the project. While the titles have not been fully disclosed, they are expected to reflect the film's themes. Further details about the film's storyline and release date remain unconfirmed.",
-        "wordCount": 57
+        "summary": "On August 19, 2026, Virgos may feel a sense of drifting but are encouraged to reassess their surroundings. The horoscope suggests that feelings of isolation stem from being with the wrong company rather than personal inadequacy. This perspective shift aims to empower Virgos, reminding them that they are capable and not alone in their experiences.",
+        "wordCount": 55
       }
     ]
   }
