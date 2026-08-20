@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-08-19T12:31:01.069Z",
+  "updatedAt": "2026-08-20T00:31:05.738Z",
   "categories": {
     "world": [
       {
-        "title": "Why Mamdani features alongside Iran, Hezbollah leaders on Netanyahu billboard",
-        "url": "https://www.indiatoday.in/world/story/zohran-mamdani-netanyahu-likud-billboard-feud-israel-election-2974490-2026-08-19",
+        "title": "Indian couple in US advises young Indians not to move abroad, explains why: 'I don’t feel like I’m accepted here'",
+        "url": "https://www.hindustantimes.com/trending/indian-couple-in-us-advises-young-indians-not-to-move-abroad-explains-why-i-don-t-feel-like-i-m-accepted-here-101787141250356.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/19/1600x900/logo/photo-1480714378408-67cf0d13bc1b_1787141417252_1787141426233_09d31624-d8a3-4c95-a7a8-f8bd45a40b35.jpg",
+        "publishedAt": "2026-08-19T12:21:27Z",
+        "category": "world",
+        "summary": "An Indian couple residing in the US has cautioned young Indians against moving abroad, suggesting they reconsider their choices. They argue that many opportunities previously sought overseas are now accessible in India. The couple shared their personal experiences, expressing feelings of not being accepted in the US, and emphasized the potential for success within India itself.",
+        "wordCount": 56
+      },
+      {
+        "title": "‘Tit for tat’: Why is Trump cosying up to North Korea’s Kim Jong Un again?",
+        "url": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a857516db3e-1787131158.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-08-19T11:03:09Z",
+        "category": "world",
+        "summary": "US President Donald Trump has renewed his praise for North Korean leader Kim Jong Un, signaling a potential rapprochement. This comes as Trump criticizes South Korea for not supporting US efforts against Iran. Analysts suggest this strategy may be aimed at sending political signals to both Pyongyang and Seoul, reigniting a contentious diplomatic issue from Trump's first term.",
+        "wordCount": 58
+      },
+      {
+        "title": "Pak TikToker with 1.3M followers shot dead; 5th killing of woman influencer in a year",
+        "url": "https://www.indiatoday.in/world/story/pakistan-tiktok-creator-shamso-bibi-shot-dead-taxila-rawalpindi-violence-against-women-islamabad-2974720-2026-08-19",
         "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/zohran-mamdani-183705153-16x9_0.jpg?VersionId=cPQad0XTI45flcKR.oRSp_7tqzWKuGc_",
-        "publishedAt": "2026-08-18T22:45:47Z",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/pak-tiktoker-shamso-bibi-shot-dead-amid-rise-in-violence-against-women-creators-195404882-16x9_0.jpg?VersionId=gY7vMZGeJWGP06Irbq0bHHeY0I00TazK",
+        "publishedAt": "2026-08-19T10:51:42Z",
         "category": "world",
-        "summary": "Benjamin Netanyahu's Likud party has placed New York City Mayor Zohran Mamdani on a campaign billboard in Tel Aviv alongside leaders from Iran, Hezbollah, and Turkey. This move intensifies the ongoing public feud as Israel approaches its October elections, coinciding with stalled ceasefire efforts in Gaza. The billboard aims to highlight perceived threats to Israel's security.",
-        "wordCount": 56
-      },
-      {
-        "title": "British student says he was denied entry to the US despite having valid visa only because he is Muslim: 'Felt as if I was kidnapped'",
-        "url": "https://timesofindia.indiatimes.com/world/us/british-student-says-he-was-denied-entry-to-the-us-despite-having-valid-visa-only-because-he-is-muslim-felt-as-if-i-was-kidnapped/articleshow/133331991.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133332012,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-18T20:06:00Z",
-        "category": "world",
-        "summary": "Laith Alani, a 20-year-old British student, reported being denied entry to the US despite holding a valid visa, claiming the decision was based on his Muslim faith. He described his experience at Orlando International Airport as feeling like a kidnapping after being detained by Customs and Border Protection (CBP). The incident has raised concerns about discrimination.",
-        "wordCount": 56
-      },
-      {
-        "title": "Immigration department releases monthly update on application processing",
-        "url": "https://www.cicnews.com/2026/08/immigration-department-releases-monthly-update-on-application-processing-0879400.html",
-        "source": "CIC News",
-        "image": "https://www.cicnews.com/wp-content/uploads/2026/08/monthly-update-IRCC-application-processing.jpg",
-        "publishedAt": "2026-08-18T19:46:59Z",
-        "category": "world",
-        "summary": "On August 18, 2026, Immigration, Refugees and Citizenship Canada (IRCC) released updated data on application processing for permanent residence, temporary residence, and citizenship. The figures, accurate as of June 30, 2026, were made available on the government’s “Inside IRCC’s application processing system” webpage, providing insights into the number of applications processed during that period.",
-        "wordCount": 54
+        "summary": "Pakistani TikToker Shamso Bibi, aged 28 and with 1.3 million followers, was shot dead in Taxila on August 14, coinciding with the country's Independence Day. She was traveling with her siblings at the time. Her family suspects a financial dispute may have led to her murder, highlighting a troubling trend of violence against women influencers in Pakistan.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "The ethanol-in-petrol row: Could E10 make comeback alongside E20?",
-        "url": "https://indianexpress.com/article/business/amid-e20-row-first-talks-underway-on-feasibility-of-an-e10-option-as-well-10839298/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/08/petrol-pump-2_20260818204110.jpg",
-        "publishedAt": "2026-08-18T23:50:35Z",
+        "title": "RBI MPC minutes: Governor Sanjay Malhotra says inflation largely supply-driven, sees FY27 average at 5%",
+        "url": "https://www.moneycontrol.com/news/business/rbi-mpc-minutes-sanjay-malhotra-says-inflation-largely-supply-driven-sees-fy27-average-at-5-14010514.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2024/12/20241211093847_Sanjay-Malhotra-PTI-.jpg",
+        "publishedAt": "2026-08-19T12:18:15Z",
         "category": "business",
-        "summary": "The government faces opposition to E20 fuel, with critics citing reduced mileage and increased engine wear in older vehicles. They argue that these engines are not designed for higher ethanol blends. In response, the government claims any mileage drop would be minimal, between 3-5%, and emphasizes E20's advantages as a superior fuel, rejecting concerns about its impact.",
-        "wordCount": 57
+        "summary": "RBI Governor Sanjay Malhotra stated that current elevated inflation is mainly due to supply shocks and anticipates it will ease after the third quarter. He projected an average inflation rate of 5% for FY27. Additionally, Poonam Gupta noted that while easing seems unlikely, the possibility of a rate hike may arise depending on future economic conditions.",
+        "wordCount": 56
       },
       {
-        "title": "YouTube revises view counting",
-        "url": "https://www.gsmarena.com/youtube_revises_view_count_format-news-74225.php",
-        "source": "GSMArena.com",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/youtube-revises-view-count-format/-952x498w6/gsmarena_000.jpg",
-        "publishedAt": "2026-08-18T23:31:02Z",
+        "title": "Hyundai India Announces Car Price Hike From Sep 2026",
+        "url": "https://www.rushlane.com/hyundai-india-announces-car-price-hike-from-sep-2026-12553688.html",
+        "source": "RushLane",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/05/new-creta-hyundai-black-colour-sales-1.jpeg",
+        "publishedAt": "2026-08-19T12:17:26Z",
         "category": "business",
-        "summary": "YouTube has announced a change in its view counting system, effective August 24. Views will now be counted as soon as a video starts, which is expected to increase view counts for creators. This adjustment aligns with the platform’s goal to provide a more accurate representation of viewership. The change aims to enhance the experience for both creators and viewers.",
+        "summary": "Hyundai Motor India will implement a price increase across its passenger vehicle lineup starting September 2026. The hike will be up to 1%, with the specific amount varying by model and variant. This decision reflects the company's strategy to adjust pricing in response to market conditions and costs. Further details on affected models will be provided closer to the date.",
         "wordCount": 60
       },
       {
-        "title": "'They knew': US states accuse Meta of hiding Instagram's impact on teenagers",
-        "url": "https://timesofindia.indiatimes.com/world/us/they-knew-us-states-accuse-meta-of-hiding-instagrams-impact-on-teenagers/articleshow/133334390.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133334394,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-18T22:41:00Z",
+        "title": "Mahindra XEV 9S Gets New Six-Seater Variants",
+        "url": "https://www.carwale.com/news/mahindra-xev-9s-gets-new-six-seater-variants/",
+        "source": "CarWale",
+        "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/226055/xev-9s-exterior-right-front-three-quarter.jpeg?isig=0&art=1&q=80",
+        "publishedAt": "2026-08-19T11:59:04Z",
         "category": "business",
-        "summary": "Lawyers for 29 US states have accused Meta of concealing internal research indicating that Instagram may be addictive for teenagers. This claim was made as part of a significant legal battle against the company. The states allege that Meta was aware of the potential negative impacts of its platform on young users but failed to disclose this information.",
-        "wordCount": 58
+        "summary": "Mahindra has introduced three new six-seater variants of the XEV 9S, featuring captain seats in the second row. These options are available on Pack Two Above, Pack Three, and Pack Three Above variants. There are no changes to the vehicle's features or powertrain. The addition aims to enhance seating flexibility for customers seeking more comfort.",
+        "wordCount": 55
       }
     ],
     "technology": [
       {
-        "title": "click menu needs fixing — but there is already a better option",
-        "url": "https://www.makeuseof.com/windows-11-right-click-menu-update-and-better-option/",
-        "source": "MakeUseOf",
-        "image": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2024/10/windows-11-default-blue-background-with-the-windows-11-context-right-click-menu.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-08-18T23:09:06Z",
+        "title": "Apple camera AirPods could debut soon with Visual Intelligence",
+        "url": "https://indiantelevision.com/mam/apple-camera-airpods-could-debut-soon-with-visual-intelligence/",
+        "source": "Indian Television Dot Com",
+        "image": "https://indiantelevision.com/wp-content/uploads/2026/08/Apple-camera-1000x600.jpg",
+        "publishedAt": "2026-08-19T12:12:16Z",
         "category": "technology",
-        "summary": "Microsoft is testing a customizable right-click menu for Windows Insiders, aiming for improved speed and usability, though no public release date has been set. While the native update offers easier controls, third-party app extensions may clutter the context menu and slow down loading times. Alternatives like Nilesoft Shell provide a cleaner menu experience for users seeking efficiency.",
-        "wordCount": 57
-      },
-      {
-        "title": "VALORANT 2026 Sage guide: How to play and master the agent; Key tips and tricks explained",
-        "url": "https://www.hindustantimes.com/sports/us-sports/valorant-2026-sage-guide-how-to-play-and-master-the-agent-key-tips-and-tricks-explained-101787085428743.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/18/1600x900/logo/Sage_Valorant_1787085771582_1787085779551_7183711e-e130-4317-b351-830dcc737586.png",
-        "publishedAt": "2026-08-18T21:53:44Z",
-        "category": "technology",
-        "summary": "Sage is a unique agent in VALORANT, known for her versatility and valuable abilities. Mastering her skills requires practice and strategic decision-making. While she is classified as a Sentinel, Sage provides more than just defensive utility, making her effective in various situations. Understanding the timing and application of her abilities is crucial for less experienced players to succeed.",
+        "summary": "Apple's upcoming AirPods may feature camera technology and Visual Intelligence, according to a Bloomberg report. A demo video found in the macOS Tahoe 26.7 release candidate suggests these enhanced earbuds could debut alongside the iPhone 18. The new functionality aims to enable the AirPods to better understand user interactions and surroundings, marking a significant advancement in wearable technology.",
         "wordCount": 58
       },
       {
-        "title": "Spotify rolling out 'User Notes' and 'Running Mode' features on Android",
-        "url": "https://9to5google.com/2026/08/18/spotify-rolling-out-user-notes-and-running-mode-features-heres-what-they-do/",
-        "source": "9to5Google",
-        "image": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2026/07/spotify-notes-running-mode-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-        "publishedAt": "2026-08-18T20:35:00Z",
+        "title": "All Call of Duty Modern Warfare 4 Beta Rewards and How to Get Them",
+        "url": "https://beebom.com/call-of-duty-modern-warfare-4-beta-rewards/",
+        "source": "Beebom",
+        "image": "https://static.beebom.com/wp-content/uploads/2026/08/Call-of-Duty-Modern-Warfare-4-Beta-Rewards.jpg",
+        "publishedAt": "2026-08-19T12:05:55Z",
         "category": "technology",
-        "summary": "Spotify is launching two new features on Android: “Running Mode” and “User Notes.” The “Running Mode” automatically adjusts songs and playlists to match the user’s workout pace. Meanwhile, “User Notes” allows users to leave notes throughout their music library for future reference. These features aim to enhance user experience and personalization within the Spotify app.",
-        "wordCount": 55
+        "summary": "The Call of Duty Modern Warfare 4 Beta allows players to experience the game before its official release on October 23, 2026. Players can earn various rewards by reaching specific unlock levels during the beta. The beta includes multiplayer maps, modes, a Campaign mission, and additional Warzone content, providing a comprehensive preview of the game's features.",
+        "wordCount": 56
+      },
+      {
+        "title": "Realme P4s set to launch soon with 8,000 mAh battery, 6,500 nits, and IP69",
+        "url": "https://www.notebookcheck.net/Realme-P4s-set-to-launch-soon-with-8-000-mAh-battery-6-500-nits-and-IP69.1372590.0.html",
+        "source": "Notebookcheck",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Realme-P4s.jpg",
+        "publishedAt": "2026-08-19T11:47:00Z",
+        "category": "technology",
+        "summary": "Realme is set to launch the P4s smartphone soon, featuring an 8,000 mAh battery and a Samsung M14 AMOLED display with a resolution of 2,772 x 1,272 pixels and a 144 Hz refresh rate. The device supports USB-C charging at 80 watts and boasts a peak brightness of 6,500 nits, along with an IP69 rating for water and dust resistance.",
+        "wordCount": 60
       }
     ],
     "sports": [
       {
-        "title": "Fermin Lopez happy to play false nine for Barcelona after Robert Lewandowski and Ferran Torres exits",
-        "url": "https://www.barcablaugranes.com/barcelona-la-liga/129494/fermin-lopez-offers-false-nine",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/08/gettyimages-2289652083.jpg?quality=90&strip=all&crop=0%2C10.754927302809%2C100%2C78.490145394382&w=1200",
-        "publishedAt": "2026-08-18T23:00:00Z",
+        "title": "Here's how Google Photos' new Redact tool will work",
+        "url": "https://www.androidauthority.com/google-photos-redact-mode-demo-apk-teardown-3700415/",
+        "source": "Android Authority",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/07/google-photos-july-2026-redesign.jpg",
+        "publishedAt": "2026-08-19T12:27:00Z",
         "category": "sports",
-        "summary": "Fermin Lopez expressed confidence in playing as a false nine for Barcelona after the departures of Robert Lewandowski and Ferran Torres. He highlighted his experience in the position, indicating readiness to step up. Barcelona continues to seek a new striker before the transfer window closes, but Lopez's potential role may fill the gap left by the departing players.",
+        "summary": "Google Photos has introduced a new Redact tool in version 7.89, allowing users to obscure sensitive information. It features three redaction modes: Mosaic, Mosaic Light, and Blur. The tool is accessible in the Markup section alongside Pen, Highlighter, and Text. Initial tests confirm its functionality, following an earlier APK teardown that revealed its existence in the app's code.",
         "wordCount": 58
       },
       {
-        "title": "José Mourinho: “Real Madrid is on a different level, it can’t have players who think twice about joining”",
-        "url": "https://www.managingmadrid.com/coach/111498/jose-mourinho-were-here-to-work-for-real-madrid",
-        "source": "Managing Madrid",
-        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/08/gettyimages-2290277019.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-08-18T22:56:07Z",
+        "title": "Exclusive: Man Utd Hold Talks With Jorge Salinas",
+        "url": "https://roundtable.io/sports/soccer/premier-league/manchester-united/news/exclusive-man-utd-hold-talks-with-jorge-salinas",
+        "source": "roundtable.io",
+        "image": "https://deweb-519a7.b-cdn.net/post-images/a3c16f55-8f74-4760-986e-4d040d28f29e.webp",
+        "publishedAt": "2026-08-19T12:24:05Z",
         "category": "sports",
-        "summary": "Real Madrid coach José Mourinho discussed his evolution since returning to the club in an interview with El Chiringuito. He emphasized that Real Madrid operates at a different level and cannot accommodate players who hesitate to join. Mourinho reflected on his personal and professional growth, highlighting significant changes in his approach as both a person and a coach.",
+        "summary": "Manchester United has engaged in discussions with Jorge Salinas' representatives regarding a potential transfer. The left-back from Racing Santander is being considered as part of the club's strategy to strengthen their defense. The data team at Old Trafford reportedly views Salinas as a promising talent, indicating interest in multiple options for the left-back position ahead of upcoming seasons.",
         "wordCount": 58
-      },
-      {
-        "title": "The best Real Madrid starting XI in a 4",
-        "url": "https://therealchamps.com/the-best-real-madrid-starting-xi-in-a-4-2-3-1-formation-under-jose-mourinho-01m0bfvc68dv",
-        "source": "The Real Champs",
-        "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_3601,h_2025/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/GettyImages/mmsport/384/01m0bfw3d6t0wmh6c6n8.jpg",
-        "publishedAt": "2026-08-18T22:36:58Z",
-        "category": "sports",
-        "summary": "Jose Mourinho is expected to implement a 4-2-3-1 formation for Real Madrid, based on observations from preseason activities. This tactical approach will be utilized as the team prepares for their opening La Liga match against Espanyol. The formation reflects Mourinho's strategy to optimize the squad's performance as the new season commences.",
-        "wordCount": 51
       }
     ],
     "health": [
       {
-        "title": "Quitting Alcohol Can Change the Brain in Surprising Ways, Mouse Study Finds",
-        "url": "https://scitechdaily.com/quitting-alcohol-can-change-the-brain-in-surprising-ways-mouse-study-finds/",
-        "source": "scitechdaily.com",
-        "image": "https://scitechdaily.com/images/Drinking-Alcohol-Brain-Health-Risk-Neuroscience-Addiction-777x518.jpg",
-        "publishedAt": "2026-08-19T00:18:57Z",
-        "category": "health",
-        "summary": "A study on mice revealed that abstinence from alcohol led to increased activity in the BNST region of the brain. This heightened activity was associated with later compulsive-like drinking behaviors. The findings suggest that a period of sobriety may not prevent future compulsive drinking in some individuals, highlighting potential changes in brain function related to alcohol consumption.",
-        "wordCount": 57
-      },
-      {
-        "title": "Women’s Health Is Precision Medicine’s Unfinished Business: A Q&A With Basmah Safdar",
-        "url": "https://www.newswise.com/articles/women-s-health-is-precision-medicine-s-unfinished-business-a-q-amp-a-with-basmah-safdar",
+        "title": "Tech Neck Starts Young: How Screen Time Is Affecting Kids' Musculoskeletal Health",
+        "url": "https://www.newswise.com/articles/tech-neck-starts-young-how-screen-time-is-affecting-kids-musculoskeletal-health",
         "source": "Newswise",
         "image": "https://www.newswise.com/assets/new/img/logo-banner.jpg",
-        "publishedAt": "2026-08-18T23:35:00Z",
+        "publishedAt": "2026-08-19T12:00:00Z",
         "category": "health",
-        "summary": "Basmah Safdar, MD, emphasizes the importance of precision medicine in women's health, highlighting that biological differences between sexes affect health outcomes and clinical care. She points out that inadequate sex-specific data leads to healthcare inefficiencies, increased costs, and less effective treatments. Safdar advocates for a more tailored approach to women's health to improve diagnosis and treatment effectiveness.",
-        "wordCount": 57
+        "summary": "Orthopedic specialists at Houston Methodist report an increase in neck pain, poor posture, headaches, and upper back discomfort among children and teens, attributed to excessive screen time, commonly known as \"tech neck.\" As students return to school, they are expected to spend significant hours on laptops, tablets, and smartphones, both in and out of the classroom.",
+        "wordCount": 56
       },
       {
-        "title": "Not All Exercise Is Equal: How Physical Activity Type May Shape Dementia Risk",
-        "url": "https://www.insideprecisionmedicine.com/topics/translational-research/not-all-exercise-is-equal-how-physical-activity-type-may-shape-dementia-risk/",
-        "source": "Inside Precision Medicine",
-        "image": "https://www.insideprecisionmedicine.com/wp-content/uploads/2020/06/Aug2_2018_StrelkaInst_AerobicExcercise_6001257177102.jpg",
-        "publishedAt": "2026-08-18T22:30:58Z",
+        "title": "At 30,000 feet: What pilots and cabin crew should know about cancer risk",
+        "url": "https://indianexpress.com/article/lifestyle/health/pilot-cabin-crew-cancer-risk-radiation-study-10840014/",
+        "source": "indianexpress.com",
+        "image": "https://images.indianexpress.com/2026/08/cancer.jpg",
+        "publishedAt": "2026-08-19T11:24:15Z",
         "category": "health",
-        "summary": "A meta-analysis indicates that leisure-time physical activity is associated with a reduced risk of dementia, while occupational physical activity may increase this risk. The findings suggest that the type and context of physical activity significantly influence brain health outcomes. This research highlights the importance of considering both the nature and setting of physical activity in dementia prevention strategies.",
+        "summary": "A JAMA study indicates that pilots and cabin crew face higher mortality rates from specific radiation-related cancers due to exposure to cosmic radiation. Experts clarify that while there is an association, it does not confirm that cosmic radiation is the sole cause. Other factors, such as disrupted sleep and circadian rhythms, may also contribute to these health risks.",
+        "wordCount": 58
+      },
+      {
+        "title": "What happens in the brain when you’re scrolling?",
+        "url": "https://theprint.in/feature/brain-activity-scrolling-china-study/3019265/",
+        "source": "ThePrint",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2025/11/iphone-2618717_1280-e1764491408726.jpg",
+        "publishedAt": "2026-08-19T10:39:50Z",
+        "category": "health",
+        "summary": "A study published in 'NeuroImage' examined the brains of 56 young adults using fMRI while they watched short videos. Findings suggest that viewing short-form content on platforms like TikTok and Instagram may decrease activity in brain regions associated with cognitive control and self-regulation. The study also indicated a connection between this effect and glutamate levels in the brain.",
         "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "New images show moon crater carved by SpaceX rocket",
-        "url": "https://www.koreatimes.co.kr/world/20260819/new-images-show-moon-crater-carved-by-spacex-rocket",
-        "source": "The Korea Times",
-        "image": "https://newsimg.koreatimes.co.kr/2026/08/19/cd3b56e8-f6d5-4036-89a3-a426c513c083.jpg",
-        "publishedAt": "2026-08-18T23:09:00Z",
+        "title": "Cluster of neurons performing same function across tasks may lend the brain its flexibility: Study",
+        "url": "https://www.dailyexcelsior.com/cluster-of-neurons-performing-same-function-across-tasks-may-lend-the-brain-its-flexibility-study/amp/",
+        "source": "Daily Excelsior",
+        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWMwNzgxMGMwLTliYzYtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+        "publishedAt": "2026-08-19T12:08:54Z",
         "category": "science",
-        "summary": "NASA has released new images showing the crater created by a SpaceX rocket crash on the moon, captured by a spacecraft in lunar orbit. The photos, released on Tuesday, provide the clearest views of the impact site. The Falcon rocket's upper stage collided with the moon, resulting in the formation of the visible crater.",
-        "wordCount": 54
+        "summary": "A study has identified clusters of neurons in the brain that perform the same computation across different tasks. This discovery provides the first evidence for the existence of brain modules, suggesting a mechanism for the brain's flexibility in handling various functions. The findings may enhance understanding of how the brain efficiently adapts to diverse cognitive demands.",
+        "wordCount": 56
       },
       {
-        "title": "Watch: Indian-origin Nasa astronaut Anil Menon takes second spacewalk",
-        "url": "https://timesofindia.indiatimes.com/science/watch-indian-origin-nasa-astronaut-anil-menon-takes-second-spacewalk/articleshow/133330977.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133331228,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-18T18:54:00Z",
+        "title": "Cluster of neurons performing same function across tasks may lend the brain its flexibility: Study",
+        "url": "https://www.dailyexcelsior.com/cluster-of-neurons-performing-same-function-across-tasks-may-lend-the-brain-its-flexibility-study/",
+        "source": "Daily Excelsior",
+        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWMwNzgxMGMwLTliYzYtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+        "publishedAt": "2026-08-19T12:08:54Z",
         "category": "science",
-        "summary": "Indian-origin astronaut Anil Menon conducted his second spacewalk outside the International Space Station on Tuesday. He was accompanied by NASA astronaut Jessica Meir. This spacewalk lasted six hours and 27 minutes. Menon had previously completed his first spacewalk earlier in the month. The mission highlights ongoing contributions of astronauts to scientific research and international collaboration in space exploration.",
+        "summary": "A study has identified clusters of neurons in the brain that perform the same computations across different tasks. This discovery offers the first evidence of modularity in brain function, suggesting that these neuron groups contribute to the brain's ability to adapt and manage multiple functions efficiently. The findings enhance understanding of cognitive flexibility in neural processing.",
+        "wordCount": 56
+      },
+      {
+        "title": "Ultrastable laser pulses bring control of individual electrons closer",
+        "url": "https://www.nanowerk.com/nanotechnology-news3/newsid=70063.php",
+        "source": "Nanowerk",
+        "image": "https://www.nanowerk.com/nanotechnology-news3/id70063.jpg",
+        "publishedAt": "2026-08-19T11:59:22Z",
+        "category": "science",
+        "summary": "Researchers at the University of Oldenburg have developed a laser system that generates 200,000 nearly identical infrared pulses per second with exceptional phase stability. This advancement enhances the ability to control individual electron motion, potentially paving the way for new applications in quantum technology and precision measurements. The system's stability is crucial for future advancements in electron manipulation.",
         "wordCount": 58
-      },
-      {
-        "title": "Energy-based identification of characteristic stresses in weakly cemented rocks during stepwise cyclic loading-unloading",
-        "url": "https://www.nature.com/articles/s41598-026-66151-7?error=cookies_not_supported&code=78bbc392-281c-405f-847b-e6539ff1a7ab",
-        "source": "nature.com",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-08-18T16:18:38Z",
-        "category": "science",
-        "summary": "This study investigates weakly cemented rocks through stepwise cyclic loading-unloading tests on argillaceous siltstone. It analyzes energy partitioning during loading-unloading, separating elastic and dissipated energy. A quantitative method for identifying characteristic stresses, including closure stress, crack initiation stress, and damage stress, is proposed. Validation shows consistency with traditional methods, providing a robust framework for stress determination in weakly cemented rocks.",
-        "wordCount": 60
       }
     ],
     "entertainment": [
       {
-        "title": "Sagittarius Horoscope Today: August 19, 2026",
-        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-august-19-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
-        "publishedAt": "2026-08-19T00:20:00Z",
+        "title": "Akkineni Heroes Absolutely Slay This Magazine Cover",
+        "url": "https://www.gulte.com/photos/427054/akkineni-family",
+        "source": "Gulte",
+        "image": "https://cdn.gulte.com/wp-content/uploads/2026/08/Akkineni-7.jpg",
+        "publishedAt": "2026-08-19T12:11:43Z",
         "category": "entertainment",
-        "summary": "Today, August 19, 2026, Sagittarius faces a significant decision, uncertain about taking a leap. The horoscope suggests that despite doubts, attempting to move forward is essential. There is a strong desire for family, connection, and partnership, both platonic and non-platonic. To achieve these relationships, self-reflection and proactive steps are necessary to foster meaningful connections.",
-        "wordCount": 54
+        "summary": "Nagarjuna Akkineni, son of legendary actor Akkineni Nageswara Rao, features on a magazine cover with his sons, Naga Chaitanya and Akhil Akkineni. The three generations of the Akkineni family have had a remarkable year, each achieving significant success with career-defining hits. This collaboration highlights their legacy in the film industry and their continued impact on Indian cinema.",
+        "wordCount": 57
       },
       {
-        "title": "Taurus Horoscope Today: August 19, 2026",
-        "url": "https://www.vogue.in/content/taurus-horoscope-today-august-19-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912dd65ee2e104d623d6d33/16:9/w_1280,c_limit/2-Taurus_16;9.png",
-        "publishedAt": "2026-08-19T00:20:00Z",
+        "title": "Jailer 2 Box Office: Needs Less Than 350 Crore Globally To Overrule Highest-Grossing Franchise Of Tamil Cinema",
+        "url": "https://www.koimoi.com/box-office/jailer-2-box-office-needs-less-than-350-crore-globally-to-overrule-highest-grossing-franchise-of-tamil-cinema-its-rajinikanth-vs-rajinikanth/",
+        "source": "Koimoi",
+        "image": "https://www.koimoi.com/wp-content/new-galleries/2026/08/jailer-2-box-office-needs-less-than-350-crore-globally-to-overrule-highest-grossing-franchise-of-tamil-cinema-its-rajinikanth-vs-rajinikanth.jpg",
+        "publishedAt": "2026-08-19T12:09:59Z",
         "category": "entertainment",
-        "summary": "On August 19, 2026, Taurus individuals are advised to lower their defenses and focus on fostering peace. The horoscope suggests avoiding hasty reactions and instead emphasizes the importance of protecting what truly matters. This period encourages reflection and understanding, urging Taurus to create a harmonious environment while remaining vigilant about their goals and aspirations.",
-        "wordCount": 54
+        "summary": "Jailer 2 aims to surpass Rajinikanth's highest-grossing Tamil film franchise, 2.0, by grossing less than 350 crore globally. The competition highlights the ongoing rivalries in Indian cinema, particularly among Rajinikanth's films. As box office records are challenged, Jailer 2's performance will be closely monitored to see if it can achieve this significant milestone in Tamil cinema history.",
+        "wordCount": 57
       },
       {
-        "title": "Virgo Horoscope Today: August 19, 2026",
-        "url": "https://www.vogue.in/content/virgo-horoscope-today-august-19-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
-        "publishedAt": "2026-08-19T00:20:00Z",
+        "title": "Inside Bhagyashree’s palatial Mumbai home: From dramatic black entrance, private temple, all white kitchen naturally formed Ganesha on tree that made her buy it",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/inside-salman-khans-maine-pyar-kiya-co-star-bhagyashrees-palatial-mumbai-home-from-dramatic-black-entrance-plush-velvet-sofas-private-temple-all-white-kitchen-naturally-formed-ganesha-on-tree-that-made-her-buy-it/articleshow/133346190.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133347361,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-19T11:50:00Z",
         "category": "entertainment",
-        "summary": "On August 19, 2026, Virgos may feel a sense of drifting but are encouraged to reassess their surroundings. The horoscope suggests that feelings of isolation stem from being with the wrong company rather than personal inadequacy. This perspective shift aims to empower Virgos, reminding them that they are capable and not alone in their experiences.",
-        "wordCount": 55
+        "summary": "Bhagyashree, a Bollywood actress, resides in a luxurious Mumbai home reflecting her royal upbringing. The residence features a dramatic black entrance, a private temple, and an all-white kitchen. A naturally formed Ganesha on a tree influenced her decision to purchase the property. Despite her long career in film, the grandeur of her heritage remains evident in her living space.",
+        "wordCount": 59
       }
     ]
   }
