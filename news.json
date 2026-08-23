@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-08-23T00:30:57.548Z",
+  "updatedAt": "2026-08-23T12:31:05.364Z",
   "categories": {
     "world": [
       {
-        "title": "Iran war news LIVE Updates: Iran says US economic sanctions a ‘declaration of war’ on all nations",
-        "url": "https://www.livemint.com/news/us-news/iran-us-israel-war-news-live-updates-trump-iran-ready-right-deal-china-pushes-economic-d-day-strait-of-hormuz-navy-11787357543598.html",
-        "source": "livemint.com",
-        "image": "https://www.livemint.com/lm-img/img/2026/08/22/1600x900/logo/Trump_1787357917309_1787357917505_5a720a86-a157-4e0e-90dc-3ed22560cc80.jpg",
-        "publishedAt": "2026-08-22T12:22:06Z",
+        "title": "Iran urges UK, France to heed veteran diplomats’ warning on Israel",
+        "url": "https://www.presstv.co.uk/Detail/2026/08/23/774886/Iran-UK-France-Israel-diplomats-letter",
+        "source": "PressTV",
+        "image": "https://cdn.presstv.co.uk/Photo/2026/8/22/7267e379-5b3b-468d-87ab-d0758573d4a7.jpg",
+        "publishedAt": "2026-08-22T23:06:00Z",
         "category": "world",
-        "summary": "Iran has declared that U.S. economic sanctions represent a \"declaration of war\" against all nations. President Donald Trump stated that while Iran desires an agreement with the U.S., it is not yet willing to accept the terms he deems necessary. The ongoing tensions highlight the complexities of negotiations between the two countries amid escalating economic pressures.",
-        "wordCount": 56
+        "summary": "A senior Iranian diplomat has called on the UK and France to take action against Israel, referencing an open letter from 102 former diplomats from both countries. The letter warns that Israeli policies in the occupied Palestinian territories are detrimental and urges these nations to reconsider their stance. Iran seeks a stronger response from Western powers regarding Israel's actions.",
+        "wordCount": 59
       },
       {
-        "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-        "url": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a895a729448-1787386482.jpg?resize=1200%2C675",
-        "publishedAt": "2026-08-22T12:11:15Z",
+        "title": "Europe Dodges a Rhine Crisis for the Worst Possible Reason",
+        "url": "https://oilprice.com/Energy/Energy-General/Europe-Dodges-a-Rhine-Crisis-for-the-Worst-Possible-Reason.html",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-21_ahecgv2nji.jpg",
+        "publishedAt": "2026-08-22T23:00:00Z",
         "category": "world",
-        "summary": "Russian aerial strikes in Ukraine have resulted in at least six fatalities and 26 injuries. This attack follows a previous strike on a shopping complex. Concurrently, a Ukrainian drone targeted a home in southern Russia, leading to the deaths of two children and injuries to their parents, according to officials from both Ukraine and Russia.",
+        "summary": "Europe is currently avoiding a severe crisis due to weak fuel demand and crackers operating at approximately 70% capacity. Although the Rhine's water levels have slightly improved since mid-August, when they fell below 10 cm at Kaub, the situation remains precarious. Barges continue to struggle with carrying normal loads, impacting industrial operations along the river.",
         "wordCount": 55
       },
       {
-        "title": "Chinese J-16 fighters arrive in Egypt ahead of Eagles of Civilisation 2026 joint drill",
-        "url": "https://www.scmp.com/news/china/diplomacy/article/3364913/chinese-j-16-fighters-arrive-egypt-ahead-eagles-civilisation-2026-joint-drill",
-        "source": "South China Morning Post",
-        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/22/f08c0cbf-7a6b-4dcd-b584-c7bbc22d5037_4e558542.jpg?itok=5_dQG58Y&v=1787382765",
-        "publishedAt": "2026-08-22T12:00:05Z",
+        "title": "Trump shares image calling Hormuz 'new US territory'; Iran says strait 'closed'",
+        "url": "https://timesofindia.indiatimes.com/world/us/trump-shares-image-calling-hormuz-new-us-territory-iran-says-strait-closed/articleshow/133432963.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133432966,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-22T22:49:00Z",
         "category": "world",
-        "summary": "Chinese J-16 fighters have arrived in Egypt for the Eagles of Civilisation 2026 joint military exercise. This marks their first deployment in Africa. The multi-role PLA fighters traveled 6,000 kilometers (3,700 miles) in nine hours, requiring mid-air refueling during the journey. The exercise aims to enhance military cooperation between China and Egypt.",
-        "wordCount": 52
+        "summary": "US President Donald Trump shared an image on Truth Social labeling the Strait of Hormuz as “NEW US Territory.” This statement escalates tensions between the US and Iran, with Iran asserting that the strait is “closed.” The Strait of Hormuz is a crucial waterway for global oil shipments, intensifying the ongoing standoff between the two nations.",
+        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "SEBI proposing framework to scrap duplicate fines across exchanges for same violation",
-        "url": "https://www.moneycontrol.com/news/business/markets/sebi-proposing-framework-to-scrap-duplicate-fines-across-exchanges-for-same-violation-14012955.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260821030851_SEBI.jpg",
-        "publishedAt": "2026-08-22T12:25:11Z",
+        "title": "6X AI load, Rs 12,000 cr in orders: 2 firms wiring India and US data centres",
+        "url": "https://www.financialexpress.com/market/stock-insights/6x-ai-load-rs-12000-cr-in-orders-2-firms-wiring-india-and-us-data-centres/4323326/",
+        "source": "financialexpress.com",
+        "image": "https://images.financialexpressdigital.com/2026/08/datqas.jpg",
+        "publishedAt": "2026-08-23T00:00:00Z",
         "category": "business",
-        "summary": "The Securities and Exchange Board of India (SEBI) is proposing a framework to eliminate duplicate fines imposed on listed companies by multiple stock exchanges for the same compliance violation. This initiative aims to streamline the penalty process and reduce the financial burden on companies facing identical penalties from different exchanges, thereby enhancing regulatory efficiency and fairness in the market.",
+        "summary": "AI is significantly impacting the data centre industry, with one company focusing on India's development and another capitalizing on the US hyperscaler market. The US is projected to see commissioned capacity increase from 87 gigawatts to 233 gigawatts by 2030. The valuation gap between these firms raises questions about which presents a better investment opportunity in the evolving landscape.",
         "wordCount": 59
       },
       {
-        "title": "The next export story: A $50 billion prize India can't afford to miss",
-        "url": "https://economictimes.indiatimes.com/industry/telecom/telecom-news/telecom-sector-the-next-export-story-a-50-billion-prize-india-cant-afford-to-miss/articleshow/133423767.cms",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-133424351,width-1200,height-630,imgsize-177634,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-22T12:24:12Z",
+        "title": "From ACs to smartphones, wagons to defence: Inside 2 stocks building their next act",
+        "url": "https://www.financialexpress.com/market/stock-insights/from-acs-to-smartphones-wagons-to-defence-inside-2-stocks-building-their-next-act/4323334/",
+        "source": "financialexpress.com",
+        "image": "https://images.financialexpressdigital.com/2026/08/fiff.jpg",
+        "publishedAt": "2026-08-23T00:00:00Z",
         "category": "business",
-        "summary": "India's telecom equipment exports are currently between $0.6-1 billion annually, significantly lower than imports, which are four to five times higher. A recent NITI Aayog assessment suggests that India has the potential to address this imbalance and could develop into a $50 billion telecom equipment export hub by 2035, presenting a significant economic opportunity.",
-        "wordCount": 54
+        "summary": "Two companies are expanding beyond their traditional sectors, exploring new business opportunities. Unlike many firms that diversify within existing portfolios, these companies are creating independent growth engines. Their strategies involve venturing into various markets, such as consumer electronics and defense, aiming to establish new revenue streams. The success of these initiatives could significantly influence their future growth trajectories.",
+        "wordCount": 58
       },
       {
-        "title": "Sharjah landmark Ansar Mall set to close; new stores planned in Abu Dhabi, Dubai",
-        "url": "https://www.khaleejtimes.com/uae/ansar-mall-sharjah-closing-dubai-karama-ansar-gallery-deira-new-branches",
-        "source": "Khaleej Times",
-        "image": "https://imgengine.khaleejtimes.com/khaleejtimes-english/2026-08-22/kpibza0a/ansar-mall.jpg.jpg?width=1200&height=630&q=60&format=auto&ogImage=true&mode=crop&rect=170,0,750,500",
-        "publishedAt": "2026-08-22T10:25:37Z",
+        "title": "Beyond Reactors: 2 niche engineering stocks in India’s 100 GW nuclear race",
+        "url": "https://www.financialexpress.com/market/stock-insights/beyond-reactors-2-niche-engineering-stocks-in-indias-100-gw-nuclear-race/4323313/",
+        "source": "financialexpress.com",
+        "image": "https://images.financialexpressdigital.com/2026/08/nichee.jpg",
+        "publishedAt": "2026-08-23T00:00:00Z",
         "category": "business",
-        "summary": "Ansar Mall, a notable landmark on Ittihad Road between Dubai and Sharjah, is set to close its three branches, although no specific closing date has been announced. Signs have been posted to inform shoppers of the impending closures. Meanwhile, plans are underway to open new stores in Abu Dhabi and Dubai, expanding the brand's presence in the region.",
-        "wordCount": 58
+        "summary": "India's nuclear expansion, targeting 100 GW, presents opportunities for specialized pump manufacturers crucial for operational safety in nuclear plants. While these pumps may not garner as much attention as reactors or turbines, their importance is significant. Investors should consider factors like order visibility, qualification barriers, execution risks, and premium valuations when evaluating these niche engineering stocks.",
+        "wordCount": 56
       }
     ],
     "technology": [
       {
-        "title": "These 30+ Games Are Coming To Xbox Next Week (August 24-28)",
-        "url": "https://www.purexbox.com/features/these-30plus-games-are-coming-to-xbox-next-week-august-24-28",
-        "source": "Pure Xbox",
-        "image": "https://images.purexbox.com/55b3f49ff993a/large.jpg",
-        "publishedAt": "2026-08-22T12:06:42Z",
+        "title": "GTA 6 Suffers Fifth Straight Day of Gameplay Leaks",
+        "url": "https://www.ign.com/articles/gta-6-leaker-releases-more-gameplay-videos-despite-rockstar-owner-take-twos-microsoft-and-discord-subpoenas",
+        "source": "IGN",
+        "image": "https://assets-prd.ignimgs.com/2026/08/22/ultimate-edition-hawk-and-little-morgan-revolvers-01-1787436750506.jpg?width=1280&format=jpg&auto=webp&quality=80",
+        "publishedAt": "2026-08-22T22:16:44Z",
         "category": "technology",
-        "summary": "Over 30 games are set to release on Xbox from August 24-28, including three titles for Xbox Game Pass. Notable upcoming releases include \"Aliens: Fireteam Elite 2,\" \"Metal Gear Solid 4,\" and \"Star Wars Zero Company.\" The roundup highlights a variety of genres and anticipated titles, providing gamers with numerous options for their gaming experience in the coming week.",
-        "wordCount": 59
+        "summary": "The alleged leaker of Grand Theft Auto 6 has released two additional gameplay videos, marking the fifth consecutive day of leaks. This occurs despite subpoenas from Take-Two Interactive, the parent company of Rockstar Games, seeking identifying information from Microsoft and Discord. The leaker, known as ‘CyberLeek,’ continues to share content related to the highly anticipated game.",
+        "wordCount": 56
       },
       {
-        "title": "\"We couldn’t afford to spend days studying the code\"",
-        "url": "https://www.windowslatest.com/2026/08/22/microsoft-explains-why-pinball-vanished-from-windows-we-couldnt-afford-to-spend-days-studying-the-code/",
-        "source": "Windows Latest",
-        "image": "https://www.windowslatest.com/wp-content/uploads/2026/08/Raymond-Chen-reveals-why-a-64-bit-bug-got-Pinball-permanently-cut-from-Windows.jpg",
-        "publishedAt": "2026-08-22T11:15:20Z",
+        "title": "A 113 GB GTA 6 build is circulating online, but it appears to be fake",
+        "url": "https://www.notebookcheck.net/A-113-GB-GTA-6-build-is-circulating-online-but-it-appears-to-be-fake.1375822.0.html",
+        "source": "Notebookcheck",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA-6-build.jpg",
+        "publishedAt": "2026-08-22T22:02:00Z",
         "category": "technology",
-        "summary": "Microsoft's Raymond Chen revealed that 3D Pinball, included in Windows since 1995, was last featured in Windows XP. Its absence in Windows Vista was not due to legal issues, as previously thought, but rather the high costs associated with studying the code and licensing complications. Consequently, the game cannot officially return to future Windows versions.",
-        "wordCount": 55
+        "summary": "A 113GB build of GTA 6 is circulating on torrent sites, but it has been identified as fake and contains malware, posing risks to users' PCs and personal data. This incident follows a week of leaked gameplay footage and images shared by a user named Cyberleek, prompting Rockstar Games to issue DMCA notices to those distributing the content.",
+        "wordCount": 58
       },
       {
-        "title": "PlayStation Share of the Week Top 6 Katana Shots Revealed",
-        "url": "https://techgenyz.com/playstation-share-week-katana/",
-        "source": "Techgenyz",
-        "image": "https://techgenyz.com/wp-content/uploads/2026/08/Players-studied-the-blade.webp",
-        "publishedAt": "2026-08-22T11:10:21Z",
+        "title": "Infinix HOT 70 Pro 5G India Launch Set for September 4 With Dynamic Shine Design",
+        "url": "https://www.mymobileindia.com/infinix-hot-70-pro-5g-india-launch-set-for-september-4-with-dynamic-shine-design/",
+        "source": "My Mobile India",
+        "image": "https://www.mymobileindia.com/wp-content/uploads/2026/08/Infinix-HOT-70-Pro-5G-India-Launch.webp",
+        "publishedAt": "2026-08-22T17:27:36Z",
         "category": "technology",
-        "summary": "PlayStation has unveiled its latest Share of the Week, showcasing six impressive katana-themed Photo Mode captures from popular games including Ghost of Yōtei and Cyberpunk 2077. This initiative encourages players to share their best katana moments, highlighting the weapon's significance in gaming culture. The selected images reflect the creativity and skill of the PlayStation community.",
-        "wordCount": 55
+        "summary": "Infinix will launch the HOT 70 Pro 5G in India on September 4. The smartphone features an ultra-slim 7.85mm body and a Dynamic Shine Design. It will be available in four unique color options, each with distinctive finishes. Additionally, the rear panel includes an Active Matrix Cube lighting system, enhancing its interactive design.",
+        "wordCount": 53
       }
     ],
     "sports": [
       {
-        "title": "After Joe Root, Ben Stokes calls ECB decision 'shambolic' over Headingley’s 2027 Ashes exclusion",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/after-joe-root-ben-stokes-calls-ecb-decision-shambolic-over-headingleys-2027-ashes-exclusion/articleshow/133423450.cms",
+        "title": "Cristiano Ronaldo becomes first player in the Football history to achieve unprecedented feat",
+        "url": "https://timesofindia.indiatimes.com/sports/football/cristiano-ronaldo-becomes-first-player-in-the-football-history-to-achieve-unprecedented-feat/articleshow/133427435.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133423554,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-22T11:53:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-133433160,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-23T00:30:00Z",
         "category": "sports",
-        "summary": "Former England Test captain Ben Stokes criticized the England and Wales Cricket Board's decision to exclude Headingley from the 2027 men's Ashes schedule, labeling it \"shambolic.\" Stokes's remarks follow similar sentiments expressed by Joe Root regarding the omission. The decision has sparked controversy among players and fans, highlighting concerns over the selection of venues for significant cricket events.",
-        "wordCount": 58
-      },
-      {
-        "title": "Usain Bolt’s 100m record broken at World Humanoid Robot Games",
-        "url": "https://www.aljazeera.com/sports/2026/8/22/usain-bolts-100m-record-broken-at-world-humanoid-robot-games",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-22T110026Z_1489010015_RC2M3NAU6SAR_RTRMADP_3_CHINA-TECH-ROBOT-GAMES-1787396749.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-08-22T11:41:27Z",
-        "category": "sports",
-        "summary": "A humanoid robot named Lightning, developed by Chinese smartphone maker Honor, broke Usain Bolt's 100m world record at the World Humanoid Robot Games in Beijing. The robot achieved a speed of 14.5 metres per second, completing the distance in 9.32 seconds, according to China's state media. This marks a significant technological achievement in robotics and speed.",
+        "summary": "Cristiano Ronaldo has achieved a historic milestone by becoming the first professional footballer to score in 25 consecutive league seasons. The 41-year-old Portuguese forward continues to extend his record, showcasing his longevity and consistent performance in football. This accomplishment adds to his already impressive career, further solidifying his status as one of the sport's all-time greats.",
         "wordCount": 56
       },
       {
-        "title": "Kuldeep Yadav or Saransh Jain? The subplot thickens as Colombo braces for a different script",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-sri-lanka/kuldeep-yadav-or-saransh-jain-the-subplot-thickens-as-colombo-braces-for-a-different-script/articleshow/133422963.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133423146,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-22T11:32:00Z",
+        "title": "ABF vs TKR Today Match Prediction and Betting Tips, Odds and Live Score",
+        "url": "https://www.thetopbookies.com/betting-tips/cricket/abf-vs-tkr-23-Aug-2026",
+        "source": "TheTopBookies",
+        "image": "https://api.thetopbk.com/storage/cricket/teams/a-rz--cricket--aabf-2P0m/9hjYfOalFNvXEGXep0HhJYtGqODfIkNQ57ReX65d.png",
+        "publishedAt": "2026-08-22T22:36:14Z",
         "category": "sports",
-        "summary": "In Colombo, speculation surrounds Kuldeep Yadav's participation as he missed a practice session, raising questions about his fitness. Team India head coach Gautam Gambhir was seen encouraging Saransh Jain after his practice, hinting at potential changes in the lineup. The situation adds intrigue to the upcoming match, with fans eager to see which player will take the field.",
+        "summary": "The Antigua and Barbuda Falcons (ABF) will compete against the Trinbago Knight Riders (TKR) in the Caribbean Premier League 2026. The match is scheduled for August 23, 2026, at 04:30 IST. As the season progresses, both teams aim for a strong performance, with predictions and betting tips available for fans and analysts to consider ahead of the match.",
         "wordCount": 58
+      },
+      {
+        "title": "Chinese robot beats Usain Bolt's 100m record in stunning Beijing sprint",
+        "url": "https://www.indiatoday.in/technology/story/humanoid-robot-tiangong-ultra-beats-usain-bolt-100m-record-beijing-china-2977767-2026-08-23",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/chinese-humanoid-robot-beijing-222721256-16x9_0.jpg?VersionId=hYxczZ1FVdiyT1ZbVabyXdY2nLVKxmHg",
+        "publishedAt": "2026-08-22T22:28:49Z",
+        "category": "sports",
+        "summary": "A Chinese humanoid robot, Tiangong Ultra, won a 100m heat at the World Humanoid Robot Games in Beijing, completing the distance in 9.39 seconds. This performance surpassed Usain Bolt's long-standing record. Tiangong Ultra triumphed over Honor's Lightning, highlighting significant advancements in China's humanoid robotics sector and showcasing the potential future of sprinting with mechanical athletes.",
+        "wordCount": 55
       }
     ],
     "health": [
       {
-        "title": "Medanta launches new Oral Cancer Awareness campaign",
-        "url": "https://mediabrief.com/medanta-launches-new-oral-cancer-awareness-campaign/",
-        "source": "MediaBrief",
-        "image": "https://mediabrief.com/wp-content/uploads/2026/08/Image-Medanta-launches-‘Taalo-Mat-Pehchaano-campaign-MediaBrief.png",
-        "publishedAt": "2026-08-22T11:41:22Z",
+        "title": "Men’s health matters even before conception: Study",
+        "url": "https://www.thehansindia.com/featured/sunday-hans/mens-health-matters-even-before-conception-study-1112836",
+        "source": "The Hans India",
+        "image": "https://assets.thehansindia.com/h-upload/2026/08/22/1692926-hea.jpg",
+        "publishedAt": "2026-08-22T22:54:59Z",
         "category": "health",
-        "summary": "Medanta has launched an oral cancer awareness campaign titled ‘Taalo Mat Pehchaano’ in India. The initiative aims to educate the public on recognizing early signs of oral cancer, such as non-healing sores, unusual mouth patches, or persistent wounds. The campaign emphasizes the importance of timely medical consultation to improve outcomes and increase awareness of this serious health issue.",
+        "summary": "A study published in Men’s Health journal emphasizes the importance of both men's and women's physical and mental health prior to conception. Researchers conducted a literature search across multiple databases to gather relevant studies, concluding that pre-conception health significantly impacts subsequent pregnancies and the health of children. This highlights the need for awareness regarding men's health before conception.",
         "wordCount": 58
       },
       {
-        "title": "Menopause is not just hot flashes: Experts explain what really happens",
-        "url": "https://www.indiatoday.in/health/story/menopause-symptoms-hormone-therapy-doctors-urge-early-care-and-regular-check-ups-2977342-2026-08-22",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/fe-220043295-16x9_0.png?VersionId=evB_Vww4r5jpGHmk0GOmttrZqB47foQV",
-        "publishedAt": "2026-08-22T10:17:30Z",
+        "title": "H1N1 surge: hospital footfall increases as doctors flag risks",
+        "url": "https://www.thehindu.com/news/cities/Delhi/h1n1-surge-hospital-footfall-increases-as-doctors-flag-risks/article71378884.ece",
+        "source": "The Hindu",
+        "image": "https://www.thehindu.com/theme/images/og-image.png",
+        "publishedAt": "2026-08-22T19:51:33Z",
         "category": "health",
-        "summary": "At the India Today Women's Summit, experts highlighted that menopause involves more than just hot flashes. They emphasized the importance of understanding menopause symptoms, associated health risks, and available treatment options. Doctors encouraged women to seek timely medical advice and to break the stigma surrounding menopause, advocating for a more informed and proactive approach to women's health during this phase.",
-        "wordCount": 60
+        "summary": "H1N1 cases are surging in Delhi, leading to increased hospital visits, particularly in outpatient departments. Doctors caution that vulnerable groups, including the elderly and those with pre-existing conditions, may face serious complications due to the viral infection. While most healthy adults recover without issues, the changing weather is contributing to the rise in cases and hospital footfall.",
+        "wordCount": 57
+      },
+      {
+        "title": "Chronic stress is more than a mental health problem: How it can raise blood pressure and put your kidneys at risk",
+        "url": "https://timesofindia.indiatimes.com/health/chronic-stress-is-more-than-a-mental-health-problem-how-it-can-raise-blood-pressure-and-put-your-kidneys-at-risk/photostory/133429280.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133429302,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-22T17:55:45Z",
+        "category": "health",
+        "summary": "Chronic stress affects more than mental health, potentially raising blood pressure and risking kidney health. While stress does not directly cause kidney disease, it can lead to repeated increases in blood pressure and unhealthy lifestyle changes. Over time, uncontrolled high blood pressure may gradually damage the kidneys, highlighting the complex relationship between chronic stress and overall physical health.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "Trees are connected by fungal threads beneath the soil, trading carbon and chemical signals in ways scientists are still arguing over — including whether a dying tree can pass part of itself into the",
-        "url": "https://spacedaily.com/d-trees-are-connected-by-fungal-threads-beneath-the-soil-trading-carbon-and-chemical-signals-in-ways-scientists-are-still-arguing-over-including-whether-a-dying-tree-can-pass-part-of-itself-i/",
-        "source": "Space Daily",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/08/Posts-1600840-2026-08-22T131852.371.png",
-        "publishedAt": "2026-08-22T11:45:53Z",
+        "title": "Sweat may cool the body less than expected in hot, dry and windless conditions",
+        "url": "https://www.thebrighterside.news/post/sweat-may-cool-the-body-less-than-expected-in-hot-dry-and-windless-conditions/",
+        "source": "The Brighter Side of News",
+        "image": "https://www.thebrighterside.news/uploads/2026/08/shutterstock_2773725565-1.jpg?auto=webp",
+        "publishedAt": "2026-08-22T23:07:00Z",
         "category": "science",
-        "summary": "Trees may exchange resources and information through underground fungal networks, a phenomenon still debated among scientists. Research from British Columbia shows that a birch seedling can transfer a rare carbon form to a nearby fir tree within nine days. This discovery, published in Nature in 1997, highlights the complexity of interactions among trees, including potential resource sharing and communication.",
-        "wordCount": 59
+        "summary": "Sweat may be less effective at cooling the body in hot, dry, and windless conditions than previously thought. In still air, competing heat-driven and humidity-driven air currents near the skin can hinder sweat evaporation. This finding suggests that the risk of heat-related issues may increase in such environments, challenging existing heat models that underestimate these conditions' impact.",
+        "wordCount": 57
       },
       {
-        "title": "Researchers turned data from roughly 1,200 Starlink satellites into a giant scanner for Earth’s upper atmosphere, mapping a hard-to-observe region around 500 kilometres above the planet",
-        "url": "https://timesofindia.indiatimes.com/science/researchers-turned-data-from-roughly-1200-starlink-satellites-into-a-giant-scanner-for-earths-upper-atmosphere-mapping-a-hard-to-observe-region-around-500-kilometres-above-the-planet/articleshow/133422037.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133422117,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-22T10:29:00Z",
+        "title": "after NASA images show crater carved by a SpaceX rocket that slammed into the moon",
+        "url": "https://www.wxxv25.com/before-and-after-nasa-images-show-crater-carved-by-a-spacex-rocket-that-slammed-into-the-moon/",
+        "source": "WXXV News 25",
+        "image": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.wxxv25.com/content/uploads/2026/08/t/t/moon.png",
+        "publishedAt": "2026-08-22T21:00:52Z",
         "category": "science",
-        "summary": "Researchers utilized data from approximately 1,200 Starlink satellites to create a comprehensive scanner for Earth's upper atmosphere. This innovative approach enables the mapping of a challenging-to-observe region located around 500 kilometers above the planet. The study highlights the potential of satellite networks, originally intended for internet connectivity, to contribute significantly to atmospheric science and research.",
-        "wordCount": 55
+        "summary": "NASA's Lunar Reconnaissance Orbiter has captured detailed before-and-after images of a new crater on the moon, created by a SpaceX rocket collision. The agency released these photos on August 18, 2026, showcasing the impact area. This event marks a significant moment in space exploration, highlighting the effects of human activity on celestial bodies.",
+        "wordCount": 53
       },
       {
-        "title": "Meet 11-year-old Atharv Sood, the Indian student credited with three preliminary asteroid detections; How a birthday telescope sparked his journey into real space science",
-        "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/meet-11-year-old-atharv-sood-the-indian-student-credited-with-three-preliminary-asteroid-detections-how-a-birthday-telescope-sparked-his-journey-into-real-space-science/articleshow/133421850.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133421872,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-22T10:15:00Z",
+        "title": "Moon Missions and Microbial Survival in Space",
+        "url": "https://www.devdiscourse.com/article/science-environment/3966649-moon-missions-and-microbial-survival-in-space",
+        "source": "Devdiscourse",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/04_05_2026_22_03_36_1760122.png&width=920&format=jpeg",
+        "publishedAt": "2026-08-22T20:59:04Z",
         "category": "science",
-        "summary": "Eleven-year-old Atharv Sood from India has made headlines for detecting three preliminary asteroids. His interest in astronomy began with a birthday telescope, leading him to observe celestial bodies like the Moon and Jupiter. Atharv's journey reflects a growing passion for space science, showcasing how curiosity can inspire young minds to explore the universe beyond Earth.",
-        "wordCount": 55
+        "summary": "China is set to launch its Chang'e-7 mission, its most complex lunar endeavor, to search for frozen water near the moon's south pole. Concurrently, President Trump has announced a policy to boost U.S. commercial space launches. Additionally, NASA research indicates that certain Earth microbes may endure the moon's harsh conditions, despite its extreme environment.",
+        "wordCount": 54
       }
     ],
     "entertainment": [
       {
-        "title": "Govinda SPOTTED outside Mumbai hospital amid Sunita Ahuja's second marriage claims, says, 'Theek hoon'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/govinda-spotted-outside-mumbai-hospital-amid-sunita-ahujas-second-marriage-claims-says-theek-hoon/articleshow/133424274.cms",
+        "title": "'Awarapan 2' box office collection Day 9: Emraan Hashmi and Disha Patani starrer surpasses Rs 180 crore mark worldwide amid 'Batwara 1947' clash",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/awarapan-2-box-office-collection-day-9-emraan-hashmi-and-disha-patani-starrer-surpasses-rs-180-crore-mark-worldwide-amid-batwara-1947-clash/articleshow/133433133.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133424328,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-22T12:26:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-133433139,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-23T00:30:00Z",
         "category": "entertainment",
-        "summary": "Govinda was seen outside a hospital in Mumbai, coinciding with claims regarding his estranged wife Sunita Ahuja's second marriage. The actor addressed concerns about his well-being, stating, \"Theek hoon,\" which translates to \"I am fine.\" This sighting highlights the ongoing marital issues between the couple, drawing public attention amid the rumors surrounding their relationship.",
+        "summary": "'Awarapan 2', featuring Emraan Hashmi and Disha Patani, has surpassed Rs 180 crore in worldwide box office collections after nine days. The film leveraged nostalgia and revamped songs from the original 'Awarapan' to attract viewers. Its performance continues amid competition from 'Batwara 1947', indicating strong audience interest and effective marketing strategies employed by the filmmakers.",
+        "wordCount": 55
+      },
+      {
+        "title": "Horoscope Today: August 23, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-august-23-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-08-23T00:30:00Z",
+        "category": "entertainment",
+        "summary": "On August 23, 2026, Virgo individuals are encouraged to embrace new realizations and ideas, as their season begins. This period is marked by heightened energy and potential for personal growth. Virgos may feel a strong drive to pursue their ambitions, making it an opportune time for self-reflection and action. Happy birthday to all Virgos celebrating today.",
+        "wordCount": 56
+      },
+      {
+        "title": "'Vishwanath and Sons' box office collections day 9 vs 'DC': Suriya, Mamitha Baiju's film jumps 61.1%; Lokesh Kanagaraj film hits Rs 95.89 Cr worldwide",
+        "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/vishwanath-and-sons-box-office-collections-day-9-vs-dc-suriya-mamitha-baijus-film-jumps-61-1-lokesh-kanagaraj-film-hits-rs-95-89-cr-worldwide/articleshow/133433132.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133433135,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-23T00:26:00Z",
+        "category": "entertainment",
+        "summary": "Suriya and Mamitha Baiju's film 'Vishwanath and Sons' saw a 61.1% increase in box office collections on its ninth day, continuing its successful theatrical run. The family drama performed well on its second Saturday, contributing to its overall earnings. In comparison, Lokesh Kanagaraj's film 'DC' has reached a total of Rs 95.89 crore worldwide.",
         "wordCount": 54
-      },
-      {
-        "title": "I am sole earner: Microsoft lays off employee in Hyderabad, saying you are too young",
-        "url": "https://www.indiatoday.in/technology/news/story/i-am-sole-earner-microsoft-lays-off-employee-in-hyderabad-saying-you-are-too-young-2977471-2026-08-22",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/microsoft--microsoft-layoffs--layoffs-225055713-16x9_0.png?VersionId=kWiobRriKcyItbCvhPNwUVJqMjppdHco",
-        "publishedAt": "2026-08-22T11:52:47Z",
-        "category": "entertainment",
-        "summary": "A Microsoft engineer in Hyderabad lost his job during recent layoffs and shared his experience on Reddit. He emphasized his family's financial reliance on him and expressed concern about finding a new role. The engineer, with approximately three years of experience, reported that his manager cited his youth as a factor in the decision to terminate his employment.",
-        "wordCount": 58
-      },
-      {
-        "title": "Horoscope Tomorrow, August 23, 2026: Something that begins casually may develop into a more meaningful possibility",
-        "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-tomorrow-august-23-2026-something-that-begins-casually-may-develop-into-a-more-meaningful-possibility-101787243802094.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/1000002288_1783076657367_1783076661253_64520488-1562-47c7-ad76-78fc8096cbca_1787244302453_779a5284-1d9c-442a-a865-33b0c3c470fd.png",
-        "publishedAt": "2026-08-22T11:41:37Z",
-        "category": "entertainment",
-        "summary": "On August 23, 2026, horoscopes suggest that casual beginnings may evolve into significant opportunities. Prioritizing family, finances, and long-term stability is advised. Professional or financial advancements could enhance feelings of security. Individuals are encouraged to make decisions that favor future benefits over immediate gains. Recognition may also be forthcoming for some, highlighting the importance of patience and strategic planning.",
-        "wordCount": 59
       }
     ]
   }
