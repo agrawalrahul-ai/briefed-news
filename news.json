@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-08-24T12:31:04.923Z",
+  "updatedAt": "2026-08-25T00:31:20.943Z",
   "categories": {
     "world": [
       {
-        "title": "Iran currency plunges to record low as US dollar breaks 2 million rials on open market",
-        "url": "https://gulfnews.com/world/mena/iran-currency-plunges-to-record-low-as-us-dollar-breaks-2-million-rials-on-open-market-1.500650041",
-        "source": "Gulf News",
-        "image": "https://media.assettype.com/gulfnews%2Fimport%2F2015%2F4%2F24%2F1_16a081de9a7.1498030_2522901607_16a081de9a7_large.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-08-24T00:17:15Z",
+        "title": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+        "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/768769889-1787505063-copy-1787566410.jpg?resize=1920%2C1280&quality=80",
+        "publishedAt": "2026-08-24T12:08:26Z",
         "category": "world",
-        "summary": "The Iranian rial reached a record low on Sunday, with the US dollar exceeding 2 million rials in the open market. This decline exacerbates the economic difficulties faced by Iranians as the country anticipates further US sanctions. Diplomatic relations with Washington remain stagnant, contributing to the ongoing financial instability and uncertainty within Iran's economy.",
-        "wordCount": 54
+        "summary": "Israel has been accused of using the launching of kites, drones, and balloons as a pretext to justify escalating air attacks on Gaza. On Sunday, Israeli airstrikes resulted in the deaths of three Palestinians, including a four-year-old child. Prime Minister Benjamin Netanyahu has threatened further military action in response to these alleged provocations from Palestinian groups.",
+        "wordCount": 56
       },
       {
-        "title": "Iran invited to join Mecca pact by Saudi Arabia, Turkey, Pakistan: Report",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-invited-to-join-mecca-pact-by-saudi-arabia-turkey-pakistan-report/articleshow/133446770.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133446772,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-23T21:54:00Z",
+        "title": "Trump administration eyes new H-1B, OPT fees: Why Indian students and tech workers could face fresh US visa shock",
+        "url": "https://www.moneycontrol.com/world/trump-administration-eyes-new-h-1b-opt-fees-why-indian-students-and-tech-workers-could-face-fresh-us-visa-shock-article-14014161.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/01/20260108103701_us-visa.jpg",
+        "publishedAt": "2026-08-24T11:52:55Z",
         "category": "world",
-        "summary": "Iran has received an invitation to join the Mecca Agreement for Mutual Defense, a newly established security alliance comprising Saudi Arabia, Turkey, and Pakistan, according to Al Mayadeen. The invitation's status remains unconfirmed, highlighting potential shifts in regional dynamics. The alliance aims to enhance mutual defense cooperation among its member states in the Middle East.",
-        "wordCount": 55
+        "summary": "The U.S. government is contemplating new fees for H-1B petitions and F-1 Optional Practical Training (OPT) applications, with specific amounts yet to be disclosed. This potential change could significantly affect Indian students and tech workers, who represent a substantial portion of H-1B visa recipients. The proposals may lead to increased financial burdens for these individuals seeking opportunities in the U.S.",
+        "wordCount": 60
       },
       {
-        "title": "Wash rice twice, not 7 times: Drought-hit England targets faith, cultural habits",
-        "url": "https://timesofindia.indiatimes.com/world/uk/wash-rice-twice-not-7-times-drought-hit-england-targets-faith-cultural-habits/articleshow/133445641.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133445695,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-23T18:45:00Z",
+        "title": "Iran’s rial currency hits new record low as U.S. prepares to announce more sanctions",
+        "url": "https://www.thehindu.com/news/international/irans-rial-currency-hits-new-record-low-as-us-prepares-to-announce-more-sanctions/article71384197.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/news/national/xevn3h/article71384291.ece/alternates/LANDSCAPE_1200/iStock-2183798790.jpg",
+        "publishedAt": "2026-08-24T11:37:10Z",
         "category": "world",
-        "summary": "England's water crisis has led to a £270,000 campaign encouraging residents to wash rice only twice instead of seven times and to use a one-litre jug for wudu instead of a running tap. The initiative aims to promote water conservation amid drought conditions, targeting cultural habits to reduce water usage in daily practices.",
-        "wordCount": 53
+        "summary": "Iran's rial reached a record low on August 24, 2026, as the U.S. prepared to announce additional sanctions. These new measures are intended to intensify pressure on Iran's economy, which is already struggling due to prior sanctions and a U.S. naval blockade. The rial's value fell to 2.02 million against the dollar, reflecting ongoing economic challenges.",
+        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "Stocks in news: Reliance Industries, Bank of Baroda, Power Grid, NATCO Pharma and JSW Infra",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-reliance-industries-bank-of-baroda-power-grid-natco-pharma-and-jsw-infra/articleshow/133444199.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-133444588,width-1200,height-630,imgsize-247258,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-08-24T00:30:00Z",
+        "title": "TCS acquires Porsche’s IT consulting arm MHP Management for €320 million",
+        "url": "https://www.moneycontrol.com/news/business/information-technology/tcs-acquires-porsche-s-it-consulting-arm-mhp-management-for-320-million-14014162.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260824114831_TCS-Porsche.jpeg",
+        "publishedAt": "2026-08-24T11:39:51Z",
         "category": "business",
-        "summary": "Indian equity markets ended mostly flat on August 21, following a volatile session. Key corporate developments were reported by Reliance Industries and Bank of Baroda. Power Grid Corporation and Jubilant Pharmova secured important project wins and regulatory approvals. NATCO Pharma and Caplin Point Laboratories received US FDA observations. Mobile manufacturing stocks may attract attention due to a new government scheme.",
-        "wordCount": 60
+        "summary": "Tata Consultancy Services (TCS) announced the acquisition of MHP Management- und IT-Beratung GmbH, a subsidiary of Porsche, for €320 million ($373.33 million) on August 24. Following this acquisition, Porsche has entered a five-year strategic partnership with MHP and TCS, valued at €1.25 billion. MHP specializes in IT consulting and management services within the automotive sector.",
+        "wordCount": 55
       },
       {
-        "title": "Sebi turns down Adani-linked FPIs' settlement applications",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-turns-down-adani-linked-fpis-settlement-applications/articleshow/133448753.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-133449748,width-1200,height-630,imgsize-2034356,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-08-24T00:16:52Z",
+        "title": "Gold extends gains as US Treasury buyback fallout keeps buyers in control",
+        "url": "https://www.fxstreet.com/news/gold-extends-rally-as-markets-await-us-pce-and-warshs-jackson-hole-speech-202608241107",
+        "source": "FXStreet",
+        "image": "https://editorial.fxsstatic.com/images/i/Commodities_Gold-1_Medium.jpg",
+        "publishedAt": "2026-08-24T11:07:10Z",
         "category": "business",
-        "summary": "Sebi has rejected settlement applications from foreign portfolio investors (FPIs) linked to Adani, as communicated to their representatives last week. This decision revives an investigation initiated in October 2020, when Sebi's surveillance systems identified unusual concentration in their holdings. The investigation flagged 13 FPIs, which subsequently sought to resolve the matter through settlement applications.",
-        "wordCount": 54
+        "summary": "Gold (XAU/USD) continued its upward trend on Monday, following a significant rally from the previous week after the US Treasury's buyback announcement. As of the latest update, gold is trading at approximately $4,674, reflecting an increase of nearly 1.5% for the day. This marks levels not seen since May 14, indicating strong buyer control in the market.",
+        "wordCount": 57
       },
       {
-        "title": "The $100-mn West Asia nightmare giving sleepless nights to HDFC Bank's NRI customers",
-        "url": "https://www.livemint.com/news/hdfcs-nri-customers-miffed-as-carlisle-fund-with-100-mn-stops-redemptions-11787465857690.html",
-        "source": "livemint.com",
-        "image": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/INDIA-BANKS-HDFC-BANK-0_1707200108848_1787466398754_fcb39ff9-bba8-4609-956b-f7614f0bf4b9.JPG",
-        "publishedAt": "2026-08-24T00:10:00Z",
+        "title": "India to amend rules within 2 months to address semiconductor, auto component firms’ concerns: Piyush Goyal",
+        "url": "https://www.moneycontrol.com/news/business/india-to-amend-rules-within-2-months-to-address-semiconductor-auto-component-firms-concerns-piyush-goyal-14014106.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260208131609_piyushgoyalani.png",
+        "publishedAt": "2026-08-24T10:53:43Z",
         "category": "business",
-        "summary": "HDFC Bank is facing complaints from NRI customers regarding a financial product that raised $100 million, marking a recurring issue in West Asia. Investor Umesh Kumar Chandanani, a retired banker in Australia, reported being approached by his relationship manager in 2019 about the investment. The product involves the Luxembourg Life Fund managed by Carlisle Asset Management.",
+        "summary": "India plans to amend regulations within two months to address concerns from semiconductor and automotive component manufacturers, according to Commerce and Industry Minister Piyush Goyal. During his four-day visit to Japan, Goyal stated that India will not apologize for not opening sectors where foreign goods are supplied at \"predatory prices,\" emphasizing the need for protective measures.",
         "wordCount": 56
       }
     ],
     "technology": [
       {
-        "title": "Call of Duty: Modern Warfare 4 beta Steam player count falls by 65% amid mixed reviews",
-        "url": "https://www.notebookcheck.net/Call-of-Duty-Modern-Warfare-4-beta-Steam-player-count-falls-by-65-amid-mixed-reviews.1376440.0.html",
-        "source": "Notebookcheck",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/CallofDutyModernWarfare4BannerNewest.jpg",
-        "publishedAt": "2026-08-23T23:21:00Z",
+        "title": "Google Pixel 11 Pro is a major downgrade to Pixel 10 Pro in one key area; that's why I didn't buy it",
+        "url": "https://www.androidpolice.com/google-pixel-11-pro-is-major-downgrade-to-pixel-10-pro-in-one-key-area-that-is-why-i-did-not-buy-it/",
+        "source": "Android Police",
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/08/google-pixel-10-pro-and-pixel-11-pro-held-side-by-side.png?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-08-24T12:15:10Z",
         "category": "technology",
-        "summary": "Interest in the Call of Duty: Modern Warfare 4 beta declined significantly during its first weekend, with Steam player counts dropping from 115,145 to under 38,000. Players reported various issues, including performance drawbacks and concerns over unfair aim-assist. Mixed reviews on Valve’s site reflect these problems, raising questions about the game's potential success following the previous title's struggles.",
-        "wordCount": 58
+        "summary": "The Google Pixel 11 Pro has been described as a significant downgrade from the Pixel 10 Pro in a crucial aspect. Despite expectations for a straightforward upgrade, the base configuration revealed shortcomings that led to a decision against purchasing the new model. This highlights concerns regarding the advancements in hardware and features between the two iterations of the smartphone.",
+        "wordCount": 59
       },
       {
-        "title": "phone hybrid could be the future of Linux smartphones",
-        "url": "https://www.howtogeek.com/i-cant-wait-to-get-my-hands-on-this-linux-pc-phone-hybrid/",
-        "source": "How-To Geek",
-        "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2026/08/mecha-comet-held-in-hand-with-the-qwerty-keyboard-extension-attached.png?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-08-23T21:00:13Z",
+        "title": "Motorola Razr+ Vs. Samsung Galaxy Z Flip 8: Which Compact Foldable Is Better In 2026?",
+        "url": "https://www.bgr.com/2239981/motorla-razer-plus-vs-samsung-galaxy-flip-8-foldable-phone/",
+        "source": "bgr.com",
+        "image": "https://www.bgr.com/img/gallery/motorola-razr-vs-samsung-galaxy-z-flip-8-which-compact-foldable-is-better-in-2026/l-intro-1787150928.jpg",
+        "publishedAt": "2026-08-24T11:47:00Z",
         "category": "technology",
-        "summary": "A new hybrid device aims to combine the functionality of a Linux computer with the portability of a smartphone. This innovation allows users to carry a Linux system in their pocket, complete with typing capabilities. While the software landscape for Linux is thriving, the hardware options remain limited, highlighting a potential shift in the Linux smartphone market.",
+        "summary": "In 2026, consumers are comparing the Motorola Razr+ and Samsung Galaxy Z Flip 8, both popular compact foldable smartphones. The Galaxy Z Flip 8 has garnered positive reviews and increased production due to its compact design. Meanwhile, the Razr+ offers a more affordable high-end option. Buyers are weighing features, pricing, and brand reputation to make informed decisions.",
         "wordCount": 57
       },
       {
-        "title": "NVIDIA GeForce On returns August 25, DLSS 4.5 Ray Reconstruction release expected",
-        "url": "https://videocardz.com/newz/nvidia-geforce-on-returns-august-25-dlss-4-5-ray-reconstruction-release-expected",
-        "source": "VideoCardz.com",
-        "image": "https://cdn.videocardz.com/1/2026/08/NVIDIA-GEFORCE-ON-GAMESCOM-2026-HERO.webp",
-        "publishedAt": "2026-08-23T18:35:05Z",
+        "title": "Meta AI app launched for Mac computers",
+        "url": "https://www.deccanherald.com/technology/artificial-intelligence/meta-ai-app-launched-for-mac-computers-4122163",
+        "source": "Deccan Herald",
+        "image": "https://media.assettype.com/deccanherald%2F2026-05-13%2Fhggioodv%2FMeta-AI-.jpg?rect=0%2C10%2C746%2C392&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+        "publishedAt": "2026-08-24T11:24:53Z",
         "category": "technology",
-        "summary": "NVIDIA will host its Gamescom 2026 GeForce On update on August 25 at 8 AM PT (17:00 CEST), streaming on YouTube and Twitch. The event is expected to feature discussions on DLSS 4.5 Ray Reconstruction, following the discovery of related files in Modern Warfare 4. Further details on upcoming updates and features are anticipated during the presentation.",
-        "wordCount": 57
+        "summary": "Meta has launched its AI app for Mac computers in beta, providing system-wide AI assistance, screen reading, and business insights. The app aims to enhance productivity with tailored advice. A public launch is expected soon, and future updates will include on-device WhatsApp scam alerts. This initiative reflects Meta's ongoing commitment to integrating AI into everyday tasks.",
+        "wordCount": 56
       }
     ],
     "sports": [
       {
-        "title": "Details, Premier League transfer news",
-        "url": "https://football360.com.au/man-city-ayyoub-bouaddi-lille-premier-league-transfer-news-who-is-he/",
-        "source": "football360.com.au",
-        "image": "https://football360.com.au/wp-content/uploads/2026/06/GettyImages-2280789872-e1787520762650.jpg",
-        "publishedAt": "2026-08-23T23:25:07Z",
+        "title": "Chelsea send warning after Mykhailo Mudryk transfer talks collapse",
+        "url": "https://metro.co.uk/2026/08/24/chelsea-send-warning-mykhailo-mudryk-transfer-collapses-29449383/",
+        "source": "Metro.co.uk",
+        "image": "https://metro.co.uk/wp-content/uploads/2026/08/GettyImages-2288234714-3b71_1787594774.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+        "publishedAt": "2026-08-24T12:17:00Z",
         "category": "sports",
-        "summary": "Manchester City has reportedly reached an agreement with Lille to sign 18-year-old Moroccan player Ayyoub Bouaddi. The deal, valued at approximately $163 million AUD, marks a significant move for the Premier League club as they aim to strengthen their squad. Bouaddi is considered a rising talent in football, attracting attention from top clubs across Europe.",
+        "summary": "Chelsea have reportedly terminated discussions with Leeds United regarding a transfer for Mykhailo Mudryk, despite the player's desire to join the club. The decision follows the resolution of Mudryk's doping ban earlier this summer, which has cleared him to play. Chelsea's stance indicates they are not willing to proceed with the transfer at this time.",
         "wordCount": 55
       },
       {
-        "title": "Manchester City yields to Chelsea's demands",
-        "url": "https://www.goal.com/en-in/news/manchester-city-bow-to-chelsea-s-demands/blt2e340927d8c52499",
-        "source": "Goal.com",
-        "image": "https://assets.goal.com/images/v3/getty-2290044607/crop/MM5DGMRZGY5DCOBVGQ5G433XMU5DIORQ/GettyImages-2290044607.jpg",
-        "publishedAt": "2026-08-23T21:48:29Z",
+        "title": "Pacer returns to Afghanistan squad for India series",
+        "url": "https://www.icc-cricket.com/news/pacer-returns-to-afghanistan-squad-for-india-series",
+        "source": "ICC",
+        "image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/drpitdutpik76tgilf32",
+        "publishedAt": "2026-08-24T12:13:22Z",
         "category": "sports",
-        "summary": "Manchester City is set to pursue Argentine midfielder Enzo Fernandez from Chelsea as the summer transfer window nears its end. The club has indicated a willingness to meet Chelsea's high financial demands for the player. Reports suggest that City views Fernandez as a key target and is prepared to make a significant offer to secure his transfer.",
-        "wordCount": 57
+        "summary": "Afghanistan has announced its squad for the upcoming three-match T20I series against India, scheduled from September 13 to 17 at the Arun Jaitley Cricket Stadium in New Delhi. Ibrahim Zadran will serve as the full-time T20I captain for the first time. The series marks a significant opportunity for Zadran to lead the team in international competition.",
+        "wordCount": 56
       },
       {
-        "title": "New manager, same old Liverpool: Florian Wirtz and Alexander Isak's dreadful displays in lucky draw at Newcastle suggest Andoni Iraola might have even more problems than Arne Slot!",
-        "url": "https://www.goal.com/en-in/originals/new-manager-same-old-liverpool-florian-wirtz-alexander-isak-dreadful-displays-draw-newcastle-andoni-iraola-problems/bltf5110383c7c5821d",
-        "source": "Goal.com",
-        "image": "https://assets.goal.com/images/v3/blte7b9717c89ad02f9/GOAL%20-%20Multiple%20Images%20-%203%20Stacked%20-%20Facebook.jpg",
-        "publishedAt": "2026-08-23T19:53:49Z",
+        "title": "Naveen-ul-Haq returns for India T20Is",
+        "url": "https://www.cricbuzz.com/cricket-news/139951/naveen-ul-haq-returns-for-india-t20is",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1059707/naveen-ul-haq-returns-after-a-significant-time-on-the-sidelines-due-to-injury.jpg",
+        "publishedAt": "2026-08-24T11:53:44Z",
         "category": "sports",
-        "summary": "Liverpool drew 2-2 against Newcastle in their Premier League opener, with Florian Wirtz and Alexander Isak underperforming. Despite a new manager, Andoni Iraola, the team's weaknesses from last season persisted, as noted by Pat Nevin on BBC Radio 5 Live. The match highlighted ongoing issues in Liverpool's midfield, raising concerns about Iraola's ability to address these problems effectively.",
-        "wordCount": 58
+        "summary": "Naveen-ul-Haq has been selected to return to international cricket for the upcoming three-match T20I series against India in Delhi. This series marks Ibrahim Zadran's debut as Afghanistan's full-time T20I captain. Naveen's return follows a challenging period, and he aims to contribute significantly to the team as they face India in this important series.",
+        "wordCount": 53
       }
     ],
     "health": [
       {
-        "title": "Indian labs are innovating cancer care",
-        "url": "https://www.thehindubusinessline.com/business-tech/indian-labs-are-innovating-cancer-care/article71382189.ece",
-        "source": "BusinessLine",
-        "image": "https://bl-i.thgim.com/public/incoming/9zoitj/article71382190.ece/alternates/LANDSCAPE_1200/BL2408_Quantum_Lead.jpg",
-        "publishedAt": "2026-08-24T00:30:00Z",
+        "title": "Ozempic’s new rival? Meet TOFA, a molecule that ramps up fat burning without eating less",
+        "url": "https://theprint.in/feature/ozempics-new-rival-meet-tofa-a-molecule-that-ramps-up-fat-burning-without-eating-less/3023542/",
+        "source": "ThePrint",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/08/TOFA.jpg",
+        "publishedAt": "2026-08-24T12:29:42Z",
         "category": "health",
-        "summary": "Indian researchers are utilizing artificial intelligence to improve cancer treatment by focusing on stem-like cells. This approach aims to minimize harm to healthy tissues while effectively targeting cancer cells, which can adapt and evade treatment. By enhancing detection methods, these innovations seek to address the challenges posed by cancer's ability to disguise itself and resist conventional therapies.",
-        "wordCount": 57
+        "summary": "Scientists at UC Berkeley discovered that TOFA, a new molecule, increased energy expenditure in obese mice without suppressing appetite or reducing food intake. This finding presents a potential alternative to current weight loss drugs like Ozempic, which often cause gastrointestinal side effects. TOFA has not yet been tested in humans, but it may offer a different approach to weight management.",
+        "wordCount": 60
       },
       {
-        "title": "In a recent study, University of Freiburg researchers coated Colombian water tanks for about $2 a year. Weeks later, dengue cases fell, showing one application could provide long-term protection again",
-        "url": "https://economictimes.indiatimes.com/news/international/us/science-in-a-recent-study-university-of-freiburg-researchers-coated-colombian-water-tanks-for-about-2-a-year-weeks-later-dengue-cases-fell-showing-one-application-could-provide-long-term-protection-against-the-tiger-mosquito/articleshow/133446423.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-133446539,width-1200,height-630,imgsize-218652,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-23T21:02:04Z",
+        "title": "Aster MIMS Kasaragod Saves Critical Newborn With Advanced",
+        "url": "https://www.passionateinmarketing.com/advanced-medical-treatment-saves-critical-newborn-at-aster-mims-kasaragod/",
+        "source": "Passionate In Marketing",
+        "image": "https://pimwp.s3-accelerate.amazonaws.com/2026/08/aster-mimms.webp",
+        "publishedAt": "2026-08-24T12:07:55Z",
         "category": "health",
-        "summary": "Researchers from the University of Freiburg developed a cost-effective coating for Colombian water tanks, costing about $2 annually. This treatment significantly reduced dengue cases by 45% within weeks and remains effective for over twelve months. The study highlights the coating's potential for long-term mosquito control, applicable in both Colombia and Europe, targeting mosquito breeding sites effectively.",
-        "wordCount": 56
-      },
-      {
-        "title": "Heat diseases flood city clinics after late-monsoon warm spell",
-        "url": "https://timesofindia.indiatimes.com/city/kolkata/heat-diseases-flood-city-clinics-after-late-monsoon-warm-spell/articleshow/133445946.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133445945,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-23T18:58:00Z",
-        "category": "health",
-        "summary": "Kolkata clinics are experiencing a surge in heat-related illnesses, including heat exhaustion, dehydration, and dizziness, due to an unusual late-monsoon warm spell reaching nearly 34°C. Patients are reporting symptoms such as nausea and blackouts, which are atypical for this season. Additionally, there are increased cases of viral and respiratory infections coinciding with the heat wave.",
-        "wordCount": 55
+        "summary": "Aster MIMS Kasaragod has successfully treated a critically ill newborn suffering from a severe respiratory condition. The medical team utilized advanced respiratory care and specialized neonatal treatment to stabilize the infant, who was born to a couple from Kasaragod. This intervention has provided the newborn with a new lease on life, showcasing the hospital's expertise in neonatal care.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "China abruptly postpones ambitious Chang'e-7 lunar mission launch",
-        "url": "https://www.thehindu.com/news/international/china-abruptly-postpones-ambitious-change-7-lunar-mission-launch/article71382366.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/nyqs0f/article71382367.ece/alternates/LANDSCAPE_1200/China_Space__3162.jpg",
-        "publishedAt": "2026-08-23T23:14:00Z",
+        "title": "A tiny “rainbow on a chip” could help supercharge 6G networks",
+        "url": "http://www.sciencedaily.com/releases/2026/08/260823014946.htm",
+        "source": "Science Daily",
+        "image": "https://www.sciencedaily.com/images/1920/rainbow-on-a-chip-quantum-6g-networking-technology.webp",
+        "publishedAt": "2026-08-24T12:10:41Z",
         "category": "science",
-        "summary": "China has postponed the Chang'e-7 lunar mission, originally scheduled for launch, due to unmet conditions and a focus on ensuring mission success. The mission aimed to explore the moon, including searching for water ice. The announcement was made on August 23, 2026, highlighting the country's commitment to thorough preparation before proceeding with the ambitious lunar exploration project.",
-        "wordCount": 57
+        "summary": "Researchers at Loughborough University, in collaboration with an international team, have developed a tiny chip that generates a stable “rainbow” of light. This innovation can produce multiple high-frequency signals simultaneously, potentially enhancing the speed and capacity of future 6G networks. Additionally, its precision may benefit applications in quantum timing, navigation, radar, and space-based technologies.",
+        "wordCount": 54
       },
       {
-        "title": "Birds Are Living Dinosaurs: Gastrolith Wear Patterns Reveal the Secrets of Evolution",
-        "url": "https://finance.biggo.com/news/37928b49-e804-46a1-88de-5dec0d79d64d",
-        "source": "finance.biggo.com",
-        "image": "https://img.biggo.com/-Myi7O4vAvlXhSSawzQ9KJJaYIHITqtL3oPNriQJADI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA4LzM3OTI4YjQ5LWU4MDQtNDZhMS04OGRlLTVkZWMwZDc5ZDY0ZF8xNzg3NTI0MjgyX2RlZmF1bHQuanBn.jpg",
-        "publishedAt": "2026-08-23T22:30:58Z",
+        "title": "Nancy Grace Roman Telescope live updates: NASA readies Roman for launch",
+        "url": "https://www.space.com/news/live/nancy-grace-roman-telescope-live-updates-nasa-readies-roman-for-launch-august-24-2026",
+        "source": "Space",
+        "image": "https://cdn.mos.cms.futurecdn.net/ziu2wrUcA74BrYYY9rVBvF-1920-80.jpg",
+        "publishedAt": "2026-08-24T12:00:00Z",
         "category": "science",
-        "summary": "A study by Japanese and South Korean scientists reveals that gastrolith (stomach stone) wear patterns provide insights into the evolution of dinosaurs into birds. The analysis indicates that changes in the digestive system were crucial, particularly in dinosaurs that lost their teeth. This research enhances understanding of the evolutionary transition from dinosaurs to modern birds.",
+        "summary": "NASA is preparing the Nancy Grace Roman Space Telescope for launch aboard a SpaceX Falcon Heavy rocket. This telescope aims to advance astronomical discoveries by researching dark energy, searching for exoplanets, and investigating other cosmic phenomena. The mission represents a significant step in understanding the universe, marking the beginning of a new era in space exploration and observation.",
+        "wordCount": 58
+      },
+      {
+        "title": "\"Space Jellyfish Alert!\" A strange glowing phenomenon could appear over Florida on August 25 - Is it dangerous?",
+        "url": "https://www.moneycontrol.com/science/space-jellyfish-alert-a-strange-glowing-phenomenon-could-appear-over-florida-on-august-25-is-it-dangerous-article-14014165.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260824115423_Space-jellyfish.png",
+        "publishedAt": "2026-08-24T11:56:18Z",
+        "category": "science",
+        "summary": "A SpaceX Starlink launch on August 25 may produce a glowing phenomenon dubbed \"space jellyfish\" in Florida's pre-dawn sky. This unusual display is caused by the rocket's exhaust interacting with the atmosphere. While visually striking, experts indicate there is no danger to the public. Observers are encouraged to look up to witness this rare occurrence.",
         "wordCount": 55
-      },
-      {
-        "title": "A 150-Million-Year-Old Dinosaur Flight Mystery May Finally Have an Answer",
-        "url": "https://scitechdaily.com/a-150-million-year-old-dinosaur-flight-mystery-may-finally-have-an-answer/",
-        "source": "SciTechDaily",
-        "image": "https://scitechdaily.com/images/Sculpture-of-Archaeopteryx-777x924.jpg",
-        "publishedAt": "2026-08-23T20:14:12Z",
-        "category": "science",
-        "summary": "Researchers suggest that Archaeopteryx, a 150-million-year-old dinosaur, may have achieved sustained flight by executing two or three powerful leaps to gain the necessary speed. Its wing structure, which lacked the ability to lift high above its back and a keeled breastbone for modern-style launches, posed challenges for takeoff. This new insight sheds light on its flight capabilities.",
-        "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: August 24, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-august-24-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-08-24T00:30:00Z",
+        "title": "Kriti Sanon shares loved-up picture with rumoured boyfriend Kabir Bahia amid Raksha Bandhan ad controversy",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kriti-sanon-shares-loved-up-picture-with-rumoured-boyfriend-kabir-bahia-amid-raksha-bandhan-ad-controversy/articleshow/133463739.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133463774,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-24T11:30:00Z",
         "category": "entertainment",
-        "summary": "On August 24, 2026, horoscopes emphasize the importance of holistic health for Pisces. Key recommendations include maintaining a balanced diet, consuming beneficial content, staying hydrated, ensuring adequate sleep, engaging in light exercise, and enjoying morning sunlight. Following these guidelines is suggested to enhance overall well-being, addressing mental, emotional, physical, and spiritual aspects of health.",
-        "wordCount": 54
-      },
-      {
-        "title": "Aries Horoscope Today: August 24, 2026",
-        "url": "https://www.vogue.in/content/aries-horoscope-today-august-24-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/16:9/w_1280,c_limit/1-Aries_16;9.png",
-        "publishedAt": "2026-08-24T00:20:00Z",
-        "category": "entertainment",
-        "summary": "Aries individuals are encouraged to incorporate Feng Shui into their lives as Virgo season approaches. This week may involve addressing unfinished tasks and finding balance in mind, body, and soul. As the eclipse window closes, Aries may feel a sense of urgency to complete these tasks. It’s a time for reflection and organization in various aspects of life.",
+        "summary": "Kriti Sanon is facing online criticism following her appearance in a Raksha Bandhan-themed advertisement, which has sparked debate over her festive look and the campaign's concept. Amid this controversy, she shared a series of affectionate pictures with her rumored boyfriend, Kabir Bahia. The juxtaposition of her personal life and professional challenges has drawn significant attention on social media.",
         "wordCount": 58
       },
       {
-        "title": "Pisces Horoscope Today: August 24, 2026",
-        "url": "https://www.vogue.in/content/pisces-horoscope-today-august-24-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
-        "publishedAt": "2026-08-24T00:20:00Z",
+        "title": "Horoscope Tomorrow, August 25, 2026: Your patience may help you turn steady efforts into tangible results",
+        "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-tomorrow-august-25-2026-your-patience-may-help-you-turn-steady-efforts-into-tangible-results-101787484753605.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/23/1600x900/logo/1000001822_1781507137031_1781507140837_656270bd-384a-422f-a5df-03bf9945e223_1787485311710_2655723e-fcce-4c04-b629-e63d4f9c1a3f.png",
+        "publishedAt": "2026-08-24T11:26:54Z",
         "category": "entertainment",
-        "summary": "This week, Pisces should prioritize mental, emotional, physical, and spiritual health. Recommendations include eating nutritious foods, consuming valuable content, staying hydrated, ensuring adequate sleep, engaging in light exercise, and enjoying morning sunshine. By following these guidelines, individuals can enhance their overall well-being and maintain a balanced lifestyle. Focus on self-care is essential for personal growth and fulfillment.",
-        "wordCount": 57
+        "summary": "On August 25, 2026, horoscopes suggest that patience will be key in achieving tangible results. Individuals may face multiple responsibilities and should prioritize effectively rather than attempting to manage everything simultaneously. A flexible approach is recommended to balance work and personal commitments. Overall, steady efforts are expected to begin yielding visible outcomes.",
+        "wordCount": 52
+      },
+      {
+        "title": "EXCLUSIVE: Trailer of Akshay Kumar-Saif Ali Khan starrer Haiwaan to release digitally on August 25",
+        "url": "https://www.bollywoodhungama.com/news/bollywood/exclusive-trailer-of-akshay-kumar-saif-ali-khan-starrer-haiwaan-to-release-digitally-on-august-25/",
+        "source": "Bollywood Hungama",
+        "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/08/EXCLUSIVE-Trailer-of-Akshay-Kumar-Saif-Ali-Khan-starrer-Haiwaan-to-release-digitally-on-August-25.jpeg",
+        "publishedAt": "2026-08-24T11:21:36Z",
+        "category": "entertainment",
+        "summary": "The trailer for the upcoming thriller \"Haiwaan,\" starring Akshay Kumar and Saif Ali Khan, is set to be released digitally on August 25. This follows the teaser launch on August 12 and the release of the song \"Mere Hero Hai Woh.\" There has been significant audience demand for the trailer, as reported by Bollywood Hungama.",
+        "wordCount": 55
       }
     ]
   }
