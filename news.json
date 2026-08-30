@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-08-29T12:30:56.975Z",
+  "updatedAt": "2026-08-30T00:31:00.122Z",
   "categories": {
     "world": [
       {
-        "title": "‘Biggest deal in history’: Trump says US to control 65 billion barrels of Venezuela oil",
-        "url": "https://timesofindia.indiatimes.com/world/us/biggest-deal-in-history-trump-says-us-to-control-65-billion-barrels-of-venezuela-oil/articleshow/133601750.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133601756,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-28T23:22:00Z",
+        "title": "Zimbabwe minibus carrying church members crashes, killing at least 27",
+        "url": "https://www.aljazeera.com/news/2026/8/29/zimbabwe-minibus-carrying-church-members-crashes-killing-at-least-27",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/WEB-MAP-ZIMBABWE-CHIVHU-1000X562-1788001102.jpg?resize=1200%2C675",
+        "publishedAt": "2026-08-29T12:06:50Z",
         "category": "world",
-        "summary": "US President Donald Trump announced an agreement with Venezuela that would grant the US control over 65 billion barrels of oil. This announcement follows discussions about reintroducing US oil companies to Venezuela after the removal of President Maduro. Trump characterized the deal as the \"biggest deal in history,\" emphasizing its significance for US energy interests.",
-        "wordCount": 55
+        "summary": "A minibus transporting church members collided with a haulage truck in central Zimbabwe, resulting in at least 27 fatalities. The accident occurred near Chivhu, approximately 140 kilometers south of the capital, Harare, around 18:30 GMT on Friday. Police reported that the truck overtook another vehicle before striking the minibus, leading to the tragic incident.",
+        "wordCount": 54
       },
       {
-        "title": "Who is Milo Yiannopoulos, far-right British commentator, detained by ICE? Former Trump supporter faces deportation",
-        "url": "https://timesofindia.indiatimes.com/world/us/who-is-milo-yiannopoulos-far-right-british-commentator-detained-by-ice-former-trump-supporter-faces-deportation/articleshow/133599704.cms",
+        "title": "Nepal floods swept away bank vault with Rs 92.68 lakh, then 29 went after the cash",
+        "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-floods-swept-away-bank-vault-with-rs-92-68-lakh-then-29-went-after-the-cash/articleshow/133610058.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133599715,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-28T20:26:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-133610089,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-29T11:55:00Z",
         "category": "world",
-        "summary": "British far-right commentator Milo Yiannopoulos, known for his support of former President Donald Trump, has been detained by U.S. Immigration and Customs Enforcement (ICE) in Louisiana. He faces deportation to the United Kingdom. Yiannopoulos has been a controversial figure in political discourse, and his detention raises questions about immigration enforcement and the treatment of public figures in the U.S.",
-        "wordCount": 59
+        "summary": "A severe flood in Nepal transported a bank vault containing Rs 92.68 lakh from Rasuwa down the Trishuli River to Dhading. Following the incident, 29 individuals were arrested for allegedly attempting to retrieve the cash. The flood has caused significant damage in the region, prompting concerns over safety and the impact on local communities.",
+        "wordCount": 54
       },
       {
-        "title": "Venezuela Helped Build OPEC. Now It May Help Break It Apart",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Venezuela-Helped-Build-OPEC-Now-It-May-Help-Break-It-Apart.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-28_monmfh2jrz.jpg",
-        "publishedAt": "2026-08-28T18:30:00Z",
+        "title": "Risk of lake burst near China-Nepal disaster site wanes",
+        "url": "https://www.thehindu.com/news/international/risk-of-lake-burst-near-china-nepal-disaster-site-wanes/article71404414.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/vtwbfm/article71404462.ece/alternates/LANDSCAPE_1200/2026-08-27T145325Z_138360070_RC227NADSVM7_RTRMADP_3_NEPAL-FLOODS.JPG",
+        "publishedAt": "2026-08-29T11:53:35Z",
         "category": "world",
-        "summary": "Venezuela, a founding member of OPEC, is contemplating exiting the organization over six decades after its establishment. The potential departure comes amid changing geopolitical dynamics, with the United States seemingly supportive of Venezuela's decision. This shift could significantly impact OPEC's structure and influence in global oil markets, marking a notable transition for a country historically tied to the organization.",
-        "wordCount": 59
+        "summary": "The risk of a lake burst near the China-Nepal border has decreased, alleviating concerns about secondary disasters during ongoing rescue operations. Chinese authorities reported that the lake, formed after a glacier collapse, appears to have shrunk. This development comes after a devastating flood struck the area earlier this week, prompting fears of further complications in rescue efforts.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "Tata Sons gets 3-month AGM extension relief after quorum issue",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-gets-3-month-agm-extension-relief-after-quorum-issue/articleshow/133599503.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-133599524,width-1200,height-630,imgsize-161060,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-08-29T00:00:00Z",
+        "title": "New Renault Triber Turbo CNG Spied In Pune - ARAI Homologation Before Launch?",
+        "url": "https://www.rushlane.com/new-renault-triber-turbo-cng-spied-in-pune-arai-12554517.html",
+        "source": "RushLane",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/08/renault-triber-turbo-cng-spied-7-seater-launch-1.jpeg",
+        "publishedAt": "2026-08-29T12:19:24Z",
         "category": "business",
-        "summary": "Tata Sons has been granted a three-month extension for its annual general meeting due to quorum issues caused by restrictions on the Sir Ratan Tata Trust. This extension aims to safeguard the interests of minority shareholders during this period. The annual general meeting can be conducted earlier if the trust's restrictions are lifted before the extension period ends.",
+        "summary": "Renault is preparing to upgrade the Triber with a turbo-petrol engine in September 2026. A test vehicle for the Triber Turbo CNG has been spotted in Pune, suggesting it is undergoing final testing before its official launch. This development indicates Renault's commitment to enhancing the Triber's performance and expanding its powertrain options for consumers.",
+        "wordCount": 54
+      },
+      {
+        "title": "Sold house, personal assets, now living on rental income: Zee founder Subhash Chandra reveals his finances",
+        "url": "https://www.livemint.com/money/personal-finance/subhash-chandra-sold-house-personal-assets-now-live-rental-income-residential-property-zee-essel-founder-reveal-finances-11787999796114.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/08/29/1600x900/logo/chandra_1788018462538_1788018469565_f347d58b-38ee-48a2-a974-59a3b1710561.png",
+        "publishedAt": "2026-08-29T12:05:16Z",
+        "category": "business",
+        "summary": "Subhash Chandra, founder of Zee and Essel Group, disclosed his financial situation, stating he sold family assets, including a house, to repay loans. He now relies on rental income from a small residential property. Chandra mentioned he has ₹6.5 crore remaining, which he plans to use for creditor repayments as per the National Company Law Tribunal's approved plan.",
         "wordCount": 58
       },
       {
-        "title": "Ather Konarc Leaked Ahead of August 29 Launch - Production Scooter Revealed",
-        "url": "https://www.autopunditz.com/post/ather-konarc-leaked-ahead-august-29-launch",
-        "source": "Autopunditz",
-        "image": "https://static.wixstatic.com/media/1da610_a540a455093b40ec8ae1ca9281140c3a~mv2.png/v1/fill/w_2500,h_3123,al_c/1da610_a540a455093b40ec8ae1ca9281140c3a~mv2.png",
-        "publishedAt": "2026-08-28T23:53:22Z",
+        "title": "FSSAI cracks down on Everest: Hing banned, three masalas found non-compliant",
+        "url": "https://www.indiatoday.in/india/story/everest-faces-fssai-notice-over-misbranded-substandard-hing-non-compliance-in-three-other-masalas-2982498-2026-08-29",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/everest-masala-290842339-16x9_0.png?VersionId=sLGZKl0sL9uq_0iC3GHl531Tu1yCT5OG",
+        "publishedAt": "2026-08-29T12:00:24Z",
         "category": "business",
-        "summary": "Ather Energy's upcoming electric scooter, the Ather Konarc, has been leaked ahead of its official launch on August 29, 2026. The leaked images showcase the production-ready model, revealing details about its design, expected range, touchscreen features, and variants. The Konarc is anticipated to utilize the EL platform, marking a significant addition to Ather's electric scooter lineup.",
-        "wordCount": 56
-      },
-      {
-        "title": "Jio Platforms gets Sebi nod for 37.7k cr IPO, set to be India's biggest",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/jio-platforms-gets-sebi-nod-for-37-7k-cr-ipo-set-to-be-indias-biggest/articleshow/133601659.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133601672,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-28T22:45:00Z",
-        "category": "business",
-        "summary": "Jio Platforms, the digital division of Reliance Industries led by Mukesh Ambani, has received approval from the Securities and Exchange Board of India (Sebi) for an initial public offering (IPO). The IPO is anticipated to raise approximately ₹37,700 crore (around $4 billion), positioning it to potentially become the largest IPO in India's history.",
-        "wordCount": 53
+        "summary": "The Food Safety and Standards Authority of India (FSSAI) has banned the sale of hing (asafoetida) from Everest Food Products and Laljee Godhoo due to substandard quality. Additionally, three masalas from Everest were found non-compliant with safety standards. The company has been instructed to explain the violations and submit action plans to ensure future compliance with regulations.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "Samsung Galaxy S26 FE in for review",
-        "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_in_for_review-news-74391.php",
-        "source": "GSMArena.com",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/08/samsung-galaxy-s26-fe-ifr/-952x498w6/gsmarena_000.jpg",
-        "publishedAt": "2026-08-29T00:02:02Z",
+        "title": "Nvidia's DLSS 5 leaked early, and modders have already broken it out of its Blackwell cage",
+        "url": "https://timesofindia.indiatimes.com/technology/gaming/nvidias-dlss-5-leaked-early-and-modders-have-already-broken-it-out-of-its-blackwell-cage/articleshow/133611819.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133611833,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-29T12:24:00Z",
         "category": "technology",
-        "summary": "Samsung is reviewing the Galaxy S26 FE, also referred to as the \"Galaxy S26 AI\" or \"Galaxy S25 FE Part 2.\" The Galaxy FE models have garnered significant interest from dedicated Galaxy fans. However, there are concerns that Samsung may be releasing the S26 FE too close to previous models, potentially impacting its reception among consumers.",
+        "summary": "Nvidia's DLSS 5, initially set for release this fall with RTX 50 series cards, was unexpectedly leaked early within the game NBA 2K27. The early access build included a 158MB library file, allowing modders to access the technology before its official launch. This leak occurred in a game that was not anticipated for significant graphics updates.",
         "wordCount": 56
       },
       {
-        "title": "Xbox CEO Says Project Helix Includes a 'Family of Devices'",
-        "url": "https://in.ign.com/xbox-next-generation/270474/xbox-ceo-says-project-helix-includes-a-family-of-devices",
-        "source": "IGN India",
-        "image": "https://sm.ign.com/t/ign_in/news/x/xbox-ceo-s/xbox-ceo-says-project-helix-includes-a-family-of-devices_g4cs.1200.jpg",
-        "publishedAt": "2026-08-28T23:56:28Z",
+        "title": "Buy a new Galaxy Watch with enhanced trade-in savings, return it if you don't like it",
+        "url": "https://www.sammobile.com/news/buy-a-new-galaxy-watch-with-enhanced-trade-in-savings-return-it-if-you-dont-like-it/",
+        "source": "SamMobile",
+        "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-Watch-Ultra-2-review-6.jpg",
+        "publishedAt": "2026-08-29T10:03:00Z",
         "category": "technology",
-        "summary": "Xbox CEO Asha Sharma announced that Project Helix will involve a \"family of devices,\" indicating a broader scope than previously expected. During a BBC interview, Sharma hinted at upcoming developments related to the project, suggesting that Microsoft is focusing on creating multiple interconnected devices. Further details about the specific devices and features are yet to be revealed.",
-        "wordCount": 57
+        "summary": "Samsung is offering enhanced trade-in savings for its Galaxy Watch 9 and Ultra 2 in the UK, along with a 100-day return policy. This initiative aims to attract customers by allowing them to try the smartwatches, which assist in fitness tracking and provide insights into sleep, energy levels, and weight management.",
+        "wordCount": 51
       },
       {
-        "title": "Google Pixel Watch 5 Review: Long Live The King",
-        "url": "https://www.slashgear.com/2246785/google-pixel-watch-5-review-2026/",
-        "source": "SlashGear",
-        "image": "https://www.slashgear.com/img/gallery/pixel-watch-5-review-long-live-the-king/l-intro-1787949907.jpg",
-        "publishedAt": "2026-08-28T20:48:33Z",
+        "title": "Google rolls out Gemini AI feature to help readers analyse their e-books",
+        "url": "https://www.thehindu.com/sci-tech/technology/google-rolls-out-gemini-ai-feature-to-help-readers-analyse-their-e-books/article71404063.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/xmb2jx/article71404049.ece/alternates/LANDSCAPE_1200/2026-08-21T080651Z_118099667_RC229FA3MLRU_RTRMADP_3_INDIA-CYBER-ALPHABET.JPG",
+        "publishedAt": "2026-08-29T09:07:26Z",
         "category": "technology",
-        "summary": "The Google Pixel Watch 5 emphasizes simplicity and features a sleek dome design, continuing the legacy of its predecessors. It has garnered attention for its aesthetic appeal and functionality within the smart wearable market. The watch aims to meet user expectations with its design and performance, reinforcing its position as a top choice among smartwatches.",
-        "wordCount": 55
+        "summary": "Google has introduced a new AI feature called Expert Intelligence for Google Play Books. This tool enables readers to obtain personalized insights from their purchased e-books. Users can upload eligible e-books to access tailored analyses, enhancing their reading experience. The feature aims to assist readers in better understanding and engaging with the content of their digital books.",
+        "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "Man City explore move Barcelona target Julian Alvarez as he trains by himself",
-        "url": "https://barcauniversal.com/man-city-explore-move-barcelona-target-julian-alvarez-as-he-trains-by-himself/",
+        "title": "Confirmed: Barcelona fixture schedule for the 2026/27 UEFA Champions League first round",
+        "url": "https://barcauniversal.com/confirmed-barcelona-fixture-schedule-for-the-2026-27-uefa-champions-league-first-round/",
         "source": "Barca Universal",
-        "image": "https://barcauniversal.com/wp-content/uploads/2026/07/arsenal-fc-v-atletico-de-madrid-uefa-champions-league-2025-26-semi-final-second-leg-1-1000x600.jpg",
-        "publishedAt": "2026-08-28T18:58:07Z",
+        "image": "https://barcauniversal.com/wp-content/uploads/2026/08/uefa-champions-league-and-uefa-europa-league-play-off-round-draw-2-scaled.jpg",
+        "publishedAt": "2026-08-29T12:08:55Z",
         "category": "sports",
-        "summary": "FC Barcelona target Julian Alvarez has missed training with Atletico Madrid for three consecutive days. He returned to Cerro del Espino to train individually with a club fitness coach, ending his period of “indisposition.” Meanwhile, Manchester City is reportedly exploring a move for Alvarez, who remains a key target for Barcelona as the transfer window approaches.",
-        "wordCount": 56
+        "summary": "Barcelona's fixture schedule for the 2026/27 UEFA Champions League has been confirmed. The team will start their campaign at home against Feyenoord. Following this, they will face a crucial away match in Paris, which is scheduled just before the first Clasico of the season. Hansi Flick’s side is preparing for a competitive European season ahead.",
+        "wordCount": 55
       },
       {
-        "title": "Asian Games facilities leave top teams uneasy",
-        "url": "https://www.cricbuzz.com/cricket-news/139992/asian-games-2026-venue-and-accommodation-concerns-confront-premier-cricket-teams-cricbuzzcom",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1062524/shreyas-iyer-is-expected-to-lead-the-indian-mens-team-at-the-2026-asian-games.jpg",
-        "publishedAt": "2026-08-28T18:45:00Z",
+        "title": "When the maidans disappear, where does the nation go to play?",
+        "url": "https://timesofindia.indiatimes.com/sports/more-sports/others/when-the-maidans-disappear-where-does-the-nation-go-to-play/articleshow/133610515.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133611291,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-29T12:08:00Z",
         "category": "sports",
-        "summary": "Concerns have arisen among continental cricket boards regarding the quality and readiness of facilities for the Aichi-Nagoya Asian Games 2026. Issues pertain to both the venue and accommodation. Members of the Asian Cricket Council, led by Pakistan’s Mohsin Naqvi, feel there may have been delays in addressing these problems, leading to unease among top teams ahead of the event.",
+        "summary": "Maidans serve as accessible public spaces for sports and recreation, promoting inclusivity regardless of social status. They allow individuals from various backgrounds to engage in physical activities without the barriers of membership fees or class distinctions. As urban development encroaches on these open areas, concerns arise about the future of community sports and the loss of these democratic spaces.",
         "wordCount": 59
       },
       {
-        "title": "Robinson, Archer put England in command at Lord's",
-        "url": "https://www.cricbuzz.com/cricket-news/139995/robinson-archer-put-england-in-command-at-lords-cricbuzzcom",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1062770/robinson-picked-four-wickets.jpg",
-        "publishedAt": "2026-08-28T18:40:59Z",
+        "title": "‘He’s spoken to Mikel Arteta’ - Julian Alvarez says no to Arsenal & still has heart set on Barcelona",
+        "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/130818/mikel-arteta-julian-alvarez-no-arsenal",
+        "source": "Barca Blaugranes",
+        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/08/gettyimages-2291272907.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+        "publishedAt": "2026-08-29T12:00:00Z",
         "category": "sports",
-        "summary": "Ollie Robinson and Jofra Archer led England's bowling attack, taking seven wickets to dismiss Pakistan for 110 runs on Day 2 of the Lord’s Test. England, having scored 290 in their first innings, established a commanding 261-run lead by stumps. The performance put England in a strong position to secure victory in the ongoing match.",
-        "wordCount": 55
+        "summary": "Julian Alvarez has expressed a preference to join Barcelona over Arsenal, stating there is a low chance he will move to the Premier League. He indicated that his heart is set on Barcelona if he leaves Atletico Madrid. However, Atletico has reportedly closed the door on a transfer to Barcelona, suggesting they would consider a deal with Arsenal instead.",
+        "wordCount": 59
       }
     ],
     "health": [
       {
-        "title": "H1N1 cases climb in Jammu as seasonal flu activity rises nationwide, docs urge caution",
-        "url": "https://www.dailyexcelsior.com/h1n1-cases-climb-in-jammu-as-seasonal-flu-activity-rises-nationwide-docs-urge-caution/",
-        "source": "Daily Excelsior",
-        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTQyZTZkNzcwLWEzNGQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-        "publishedAt": "2026-08-28T23:28:28Z",
+        "title": "Knee Pain in Your 30s? Causes Beyond Early Ageing Explained",
+        "url": "https://www.timesnownews.com/health/knee-pain-in-your-30s-doctors-reveal-why-it-may-have-nothing-to-do-with-ageing-article-156005538",
+        "source": "Times Now",
+        "image": "https://images.timesnownews.com/thumb/msid-156005567,thumbsize-81730,width-1280,height-720,resizemode-75/156005567.jpg",
+        "publishedAt": "2026-08-29T10:30:00Z",
         "category": "health",
-        "summary": "H1N1 influenza cases are increasing in Jammu, with 11 recorded in July and 25 so far in August at GMC-J. This rise has raised concerns about seasonal respiratory infections nationwide. Doctors are advising the public to remain cautious and vigilant as flu activity escalates, highlighting the importance of preventive measures during this period of heightened illness.",
-        "wordCount": 56
-      },
-      {
-        "title": "POET-II trial reduces antibiotic duration for infective endocarditis by two weeks",
-        "url": "https://www.news-medical.net/news/20260828/POET-II-trial-reduces-antibiotic-duration-for-infective-endocarditis-by-two-weeks.aspx",
-        "source": "News-Medical",
-        "image": "https://www.news-medical.net/image-handler/picture/2014/7/pill_antibiotics-620x480.jpg",
-        "publishedAt": "2026-08-28T17:38:00Z",
-        "category": "health",
-        "summary": "The POET-II trial demonstrated that a response-tailored strategy can safely reduce the antibiotic treatment duration for patients with left-sided infective endocarditis by two weeks. This finding was presented during a Hot Line session at the ESC Congress. The study indicates that shorter antibiotic courses may be effective without compromising patient safety, marking a significant advancement in treatment protocols.",
-        "wordCount": 58
-      },
-      {
-        "title": "Physical Activity Linked to Lower Stroke Risk in Atrial Fibrillation",
-        "url": "https://www.indianewsnetwork.com/en/physical-activity-linked-lower-stroke-risk-atrial-fibrillation-20260828",
-        "source": "India News Network",
-        "image": "https://cdn.optcms.com/www.indianewsnetwork.com/assets/2026/202608/20260828-img-20260828-f27b965eb7becd62.jpg",
-        "publishedAt": "2026-08-28T15:55:30Z",
-        "category": "health",
-        "summary": "A study published in August 2026 reveals that physical activity can significantly reduce the risk of stroke and premature death in individuals with atrial fibrillation (afib), a prevalent heart rhythm disorder. Even minimal exercise contributes to these health benefits, highlighting the importance of physical activity for those affected by afib in managing their overall health and wellbeing.",
+        "summary": "Knee pain in individuals in their 30s may not indicate early ageing. Various factors can contribute, including past injuries, arthritis, inflammation, excess weight, and repetitive stress from activities. Understanding these causes is essential for addressing knee pain effectively. It is important to recognize that joint issues can arise from multiple sources, not solely from the aging process.",
         "wordCount": 57
+      },
+      {
+        "title": "WHO's H5N1 Alert Gains Urgency As India Battles Seasonal Flu Surge",
+        "url": "https://www.etvbharat.com/en/bharat/whos-h5n1-alert-gains-urgency-as-india-battles-seasonal-h1n1-surge-enn26082902446",
+        "source": "ETV Bharat",
+        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/29-08-2026/1200-675-27508387-thumbnail-16x9-h1n1-1-aspera.jpg",
+        "publishedAt": "2026-08-29T09:02:55Z",
+        "category": "health",
+        "summary": "The World Health Organization (WHO) has urged Asia-Pacific nations, including India, to enhance surveillance for H5N1 avian influenza amid rising seasonal flu cases. This call highlights the importance of preparedness against emerging zoonotic threats. India's current flu surge adds urgency to the WHO's appeal, emphasizing the need for robust health measures to mitigate potential risks associated with H5N1.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "Insects Have Six Legs. But This 324-Million-Year-Old Insect Had 24 Legs and a Body Unlike Anything Alive Today",
-        "url": "https://www.zmescience.com/science/news-science/24-legged-insect/",
-        "source": "ZME Science",
-        "image": "https://cdn.zmescience.com/wp-content/uploads/2026/08/inset-fossil-main.jpg",
-        "publishedAt": "2026-08-28T18:33:29Z",
+        "title": "A 324-million-year-old fossil from Texas preserves an early insect with 24 legs and paddle-like limbs on its abdomen, suggesting insects did not leave water for land in one sudden evolutionary jump",
+        "url": "https://timesofindia.indiatimes.com/science/a-324-million-year-old-fossil-from-texas-preserves-an-early-insect-with-24-legs-and-paddle-like-limbs-on-its-abdomen-suggesting-insects-did-not-leave-water-for-land-in-one-sudden-evolutionary-jump/articleshow/133611289.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133611339,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-29T12:01:00Z",
         "category": "science",
-        "summary": "A 324-million-year-old insect fossil, misidentified for decades as a baby crustacean, has been revealed to possess 24 legs, challenging the standard six-legged structure of modern insects. Discovered in West Texas, the flattened fossil was overlooked until paleoentomologist Erik Tihelka reexamined it. This finding provides insights into the evolutionary history of insects before their current anatomical form became established.",
-        "wordCount": 58
-      },
-      {
-        "title": "Researchers throw more light on 1.2bn-yr-old Mars meteorite",
-        "url": "https://ummid.com/news/2026/8/28/researchers-throw-more-light-on-1-2-bn-yr-old-mars-meteorite.html",
-        "source": "ummid.com",
-        "image": "https://ummid.com/news/2026/8/28/martian-meteorite.webp",
-        "publishedAt": "2026-08-28T14:55:00Z",
-        "category": "science",
-        "summary": "Researchers have determined that a Martian meteorite discovered in Algeria is approximately 1.27 billion years old. This finding was made by a team from various institutions, including the Universities Space Research Association. In contrast, another Martian meteorite found in Northwest Africa, known as 7635, is believed to be around 2.5 billion years old, classified as a shergottite.",
+        "summary": "An international research team has discovered a 324-million-year-old insect fossil in Texas, named Chosha praecursor. This specimen features 24 legs and paddle-like limbs on its abdomen, indicating that the transition of insects from water to land was gradual rather than abrupt. The fossil provides important insights into the evolutionary history of early insects during the Carboniferous period.",
         "wordCount": 57
       },
       {
-        "title": "Engineered bacteria offer a new way to accelerate rock weathering for carbon removal",
-        "url": "https://phys.org/news/2026-08-bacteria-weathering-carbon.html",
-        "source": "Phys.org",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/pulling-carbon-into-se-2.jpg",
-        "publishedAt": "2026-08-28T14:20:01Z",
+        "title": "10 jaw-dropping ESA space images that showcase the incredible beauty of the cosmos",
+        "url": "https://www.moneycontrol.com/science/10-jaw-dropping-esa-space-images-that-showcase-the-incredible-beauty-of-the-cosmos-article-14018085.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/01/20260105044836_NASA-galaxy-.jpg",
+        "publishedAt": "2026-08-29T09:41:15Z",
         "category": "science",
-        "summary": "Engineered bacteria have been developed to enhance rock weathering, a natural process that breaks down rocks and minerals through exposure to water, air, and biological activity. This process plays a crucial role in regulating atmospheric CO2 levels and climate. Historically, rock weathering has accelerated during warmer periods with higher CO2 concentrations, highlighting its significance in carbon removal efforts.",
-        "wordCount": 58
+        "summary": "The European Space Agency has released a collection of ten stunning space images showcasing the beauty of the cosmos. These images feature glowing nebulas, distant galaxies, and breathtaking stellar landscapes. Each photograph highlights the incredible diversity and wonder of celestial phenomena, offering a glimpse into the vast universe and its remarkable visual splendor captured by advanced space imaging technology.",
+        "wordCount": 59
+      },
+      {
+        "title": "Scientists took 232 gravity readings across a Utah mountain and discovered 1.55 million cubic metres of ice hidden beneath loose rock, enough frozen water to fill about 600 Olympic swimming pools",
+        "url": "https://timesofindia.indiatimes.com/world/us/scientists-took-232-gravity-readings-across-a-utah-mountain-and-discovered-1-55-million-cubic-metres-of-ice-hidden-beneath-loose-rock-enough-frozen-water-to-fill-about-600-olympic-swimming-pools/articleshow/133607664.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133607718,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-29T08:11:00Z",
+        "category": "science",
+        "summary": "Scientists conducted 232 gravity readings on Mount Timpanogos in Utah, revealing 1.55 million cubic meters of ice concealed beneath loose rock. This discovery amounts to enough frozen water to fill approximately 600 Olympic swimming pools. The findings highlight the hidden reservoirs of ice in the Wasatch Range, challenging perceptions of the mountain's surface appearance.",
+        "wordCount": 54
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: August 29, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-august-29-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-08-29T00:30:00Z",
+        "title": "Kuku Kohli prayer meet: Aruna Irani arrives with family as Rajpal Yadav, Madhoo, Poonam Dhillon and others pay tribute",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kuku-kohli-prayer-meet-aruna-irani-arrives-with-family-as-rajpal-yadav-madhoo-poonam-dhillon-and-others-pay-tribute/articleshow/133611760.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133611821,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-29T12:23:00Z",
         "category": "entertainment",
-        "summary": "On August 29, 2026, Aries may feel overwhelmed by hidden issues affecting their well-being. After investing significant effort into their projects, fatigue has set in, indicating a need for rest. The horoscope suggests that taking a break could be beneficial to recharge and address underlying concerns. Prioritizing self-care is essential for maintaining balance and mental health.",
-        "wordCount": 56
+        "summary": "A prayer meet for filmmaker Kuku Kohli took place today at Celebration Sports Club in Andheri West, Mumbai. Kohli, known for directing films like 'Phool Aur Kaante,' passed away on August 25 at Kokilaben Dhirubhai Ambani Hospital. Attendees included Aruna Irani, Rajpal Yadav, Madhoo, and Poonam Dhillon, who gathered to pay their respects to the late filmmaker.",
+        "wordCount": 57
       },
       {
-        "title": "Gemini Horoscope Today: August 29, 2026",
-        "url": "https://www.vogue.in/content/gemini-horoscope-today-august-29-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04cf280aa95e93d0629/16:9/w_1280,c_limit/3-Gemini_16;9.png",
-        "publishedAt": "2026-08-29T00:20:00Z",
+        "title": "Kuku Kohli prayer meet: Aruna Irani arrives with family as Rajpal Yadav, Madhoo, Poonam Dhillon and others pay tribute",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kuku-kohli-prayer-meet-aruna-irani-arrives-with-family-as-vicky-kaushal-katrina-kaif-rajpal-yadav-madhoo-poonam-dhillon-and-others-pay-tribute/articleshow/133611760.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133611821,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-29T12:23:00Z",
         "category": "entertainment",
-        "summary": "On August 29, 2026, Gemini individuals are encouraged to seek guidance from a higher force. The younger aspect of themselves, once in need of support and healing, is now experiencing pride in personal growth. This transformation reflects a shift from merely pursuing life to embracing a more balanced and reflective approach, highlighting the importance of self-care and emotional development.",
-        "wordCount": 59
-      },
-      {
-        "title": "Aquarius Horoscope Today: August 29, 2026",
-        "url": "https://www.vogue.in/content/aquarius-horoscope-today-august-29-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e055135022eaa114c0cd/16:9/w_1280,c_limit/13-Aquarius_16;9.png",
-        "publishedAt": "2026-08-29T00:20:00Z",
-        "category": "entertainment",
-        "summary": "Aquarius individuals are entering a new, flourishing period in their lives, leaving the past behind. While they may still have their guard up, they are beginning to embrace positive changes. Although they are not yet living the life they desire, the stars indicate a promising outlook. This period encourages growth and moving forward, fostering a sense of happiness.",
+        "summary": "A prayer meet for filmmaker Kuku Kohli took place at Celebration Sports Club in Andheri West, Mumbai. Kohli passed away on August 25 at Kokilaben Dhirubhai Ambani Hospital. Attendees included Aruna Irani, Rajpal Yadav, Madhoo, and Poonam Dhillon, who gathered to pay their respects. Kohli was recognized for directing notable films, contributing significantly to the Indian film industry.",
         "wordCount": 58
+      },
+      {
+        "title": "Akanksha Chamola reveals Gaurav Khanna found her bisexuality ‘very hot’ before marriage: 'Will never cheat my husband'",
+        "url": "https://www.hindustantimes.com/entertainment/tv/akanksha-chamola-reveals-gaurav-khanna-found-her-bisexuality-very-hot-before-marriage-lock-upp-season-2-101788002663430.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/29/1600x900/logo/Akanksha_Chamiola_1784102631847_1784102638378_e8a6e72e-50e8-4c71-bb78-ee43f513be14_1788002936284_8f69b8d9-18ee-4a58-ba6d-55e79fdc5c7b.jpg",
+        "publishedAt": "2026-08-29T12:05:42Z",
+        "category": "entertainment",
+        "summary": "Akanksha Chamola discussed her bisexuality, revealing that her estranged husband Gaurav Khanna found it attractive before their marriage. She emphasized her commitment to him, stating, \"I will not cheat on my husband,\" and expressed frustration over societal acceptance of bisexuality. Chamola affirmed her decision to remain loyal to Khanna, highlighting her dedication to their relationship despite challenges.",
+        "wordCount": 57
       }
     ]
   }
