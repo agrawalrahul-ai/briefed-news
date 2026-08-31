@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-08-30T12:31:03.128Z",
+  "updatedAt": "2026-08-31T00:30:59.643Z",
   "categories": {
     "world": [
       {
-        "title": "Trump-Putin-Zelenskyy summit floated in secret Moscow talks: Report",
-        "url": "https://timesofindia.indiatimes.com/world/us/trump-putin-zelensky-summit-floated-in-secret-moscow-talks-report/articleshow/133621677.cms",
+        "title": "Iran war creates two front defence dilemma for US against China and Russia",
+        "url": "https://timesofindia.indiatimes.com/defence/international/iran-war-creates-two-front-defence-dilemma-for-us-against-china-and-russia/articleshow/133628609.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133621738,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-30T00:06:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-133628664,width-1280,height-720,imgsize-104130,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-30T11:40:00Z",
         "category": "world",
-        "summary": "CIA Director John Ratcliffe has suggested a trilateral summit involving US President Donald Trump, Russian President Vladimir Putin, and Ukrainian President Volodymyr Zelenskyy. This proposal emerged during confidential discussions in Moscow. The meeting aims to address ongoing tensions and foster dialogue among the leaders. Details regarding the timing and location of the summit remain undisclosed.",
-        "wordCount": 55
+        "summary": "The ongoing US conflict with Iran is presenting a significant military challenge, complicating defense strategies against both China and Russia. The extensive deployment of American missiles and air-defense systems in the Middle East raises concerns about the US's capability to manage threats on multiple fronts. This situation highlights the broader implications of the conflict beyond regional boundaries.",
+        "wordCount": 57
       },
       {
-        "title": "Ukrainian nuclear power plant without external power for over a week",
-        "url": "https://www.aljazeera.com/news/2026/8/29/ukrainian-nuclear-power-plant-without-external-power-for-over-a-week",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a935868db-1788041320.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-08-29T23:26:15Z",
+        "title": "Ferry boat with around 270 passengers capsizes off North Cyprus: Report",
+        "url": "https://www.hindustantimes.com/world-news/boat-capsizes-off-north-cyprus-270-ferry-passengers-toll-injuries-rescue-efforts-latest-news-101788088694364.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/30/1600x900/north_cyprus_boat_capsize_1788089235187_1788089241262_bd3e014c-d41f-4816-9e9c-65105675419f.jpg",
+        "publishedAt": "2026-08-30T11:22:17Z",
         "category": "world",
-        "summary": "The Zaporizhzhia nuclear power station in southeastern Ukraine has been without external power for over a week, according to the International Atomic Energy Agency. This marks the 27th instance since Russia's invasion in 2022 that the plant has depended on emergency diesel supplies. The facility has been under Russian occupation since the beginning of the conflict.",
-        "wordCount": 56
-      },
-      {
-        "title": "Everest veterans, mountain guides enter choked hydropower tunnel to rescue 6",
-        "url": "https://timesofindia.indiatimes.com/world/south-asia/everest-veterans-mountain-guides-enter-choked-hydropower-tunnel-to-rescue-6/articleshow/133621567.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133621571,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-29T22:38:00Z",
-        "category": "world",
-        "summary": "Everest veterans and expert mountain guides are participating in rescue operations in flood-affected Rasuwa, Nepal. A specialized team has entered a mud-filled hydropower tunnel to locate six individuals trapped inside. The efforts come amid ongoing search and rescue operations in the region, which has been severely impacted by recent flooding, prompting urgent assistance from experienced climbers.",
-        "wordCount": 56
+        "summary": "A ferry with approximately 270 passengers capsized off North Cyprus, according to local reports. The vessel began taking on water about four miles from shore. Emergency services, including ambulances, have been dispatched to the scene. A search and rescue operation is ongoing, but it remains unclear if there are any casualties. The ferry was traveling from Kyrenia.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "Iran War Adds $330 Billion to Global Energy Import Bill",
-        "url": "https://oilprice.com/Energy/Energy-General/Iran-War-Adds-330-Billion-to-Global-Energy-Import-Bill.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-28_ctinnuspmz.jpg",
-        "publishedAt": "2026-08-29T23:00:00Z",
+        "title": "Wind turbine blades are built to survive decades and are difficult to recycle; an Iowa plant mechanically shreds them into fibres and powders for concrete, mortar and asphalt",
+        "url": "https://timesofindia.indiatimes.com/world/us/wind-turbine-blades-are-built-to-survive-decades-and-are-difficult-to-recycle-an-iowa-plant-mechanically-shreds-them-into-fibres-and-powders-for-concrete-mortar-and-asphalt/articleshow/133625543.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133625963,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-30T11:30:00Z",
         "category": "business",
-        "summary": "The ongoing conflict involving the United States, Israel, and Iran has led to a significant increase in global energy import costs, totaling approximately $330 billion from March to August. Crude oil prices contributed to nearly half of this rise, despite a smaller-than-anticipated increase in oil prices. The war's impact on the energy market has been substantial.",
-        "wordCount": 56
-      },
-      {
-        "title": "Sony and Warner Music Sue Anthropic, Alleging Theft of Intellectual Property",
-        "url": "https://gizmodo.com/sony-and-warner-music-sue-anthropic-alleging-theft-of-intellectual-property-2000804731",
-        "source": "Gizmodo",
-        "image": "https://gizmodo.com/app/uploads/2026/03/dario-amodei-nervous-1-1200x675.jpg",
-        "publishedAt": "2026-08-29T22:12:12Z",
-        "category": "business",
-        "summary": "Sony and Warner Music have filed a lawsuit against Anthropic, accusing the company of stealing intellectual property. The lawsuit reflects concerns reminiscent of earlier IP disputes following the release of ChatGPT. The music publishers describe the alleged actions as “one of the largest and most blatant ongoing thefts” of intellectual property, highlighting ongoing tensions in the industry.",
+        "summary": "A facility in Fairfax, Iowa, is addressing the recycling challenge of wind turbine blades, which are designed to last decades. The plant mechanically shreds the blades into fibers and powders, which can then be used in concrete, mortar, and asphalt. The recycling process starts with extracting reusable components from the blades, promoting sustainability in wind energy infrastructure.",
         "wordCount": 57
       },
       {
-        "title": "Airtel, Jio and Vodafone Idea See Continued M2M Subscriber Growth in July 2026: TRAI",
-        "url": "https://telecomtalk.info/airtel-jio-vodafoneidea-m2m-subscriber-july2026-trai/1011327/",
-        "source": "TelecomTalk",
-        "image": "https://telecomtalk.info/wp-content/uploads/2026/08/airtel-jio-vodafoneidea-m2m-subscriber-july2026-trai.jpg",
-        "publishedAt": "2026-08-29T17:22:11Z",
+        "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133628353.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-133628413,width-1200,height-630,imgsize-105340,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-08-30T11:26:00Z",
         "category": "business",
-        "summary": "Airtel, Jio, and Vodafone Idea reported continued growth in their M2M subscriber bases in July 2026, according to TRAI. Airtel led in subscriber additions, while Jio achieved the highest growth rate, increasing its M2M connections from 20.60 million in January to 26.56 million by July, an increase of 5.96 million connections, or about 28.9 percent.",
+        "summary": "Indian equities rebounded on Friday, driven by gains in heavyweight IT stocks, boosting the Sensex and Nifty after two days of losses. Analysts predict range-bound trading on Monday due to mixed global cues and ongoing geopolitical tensions. The Nifty index is expected to face resistance near 24,200 and find support around 23,900 in upcoming sessions.",
         "wordCount": 55
+      },
+      {
+        "title": "IPO Action: 7 public issues to open next week, 15 companies set to list",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/ipo/ipo-action-7-public-issues-to-open-next-week-15-companies-set-to-list-14018334.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260710045937_Laser-Infra-Day-2.png",
+        "publishedAt": "2026-08-30T11:21:08Z",
+        "category": "business",
+        "summary": "Seven public issues are set to open next week, with 15 companies preparing to list. In August, 46 IPOs raised Rs 23,679 crore across mainboard and SME segments. Year-to-date fundraising through public issues has reached Rs 79,829 crore as of August. The upcoming listings reflect ongoing investor interest in the IPO market amid a busy fundraising environment.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "Galaxy S27 Ultra Release Date: Battery Upgrade Explains Major Redesign",
-        "url": "https://www.forbes.com/sites/jaymcgregor/2026/08/29/samsung-galaxy-s27-ultra-release-date-battery-upgrade-camera-specs/",
-        "source": "Forbes",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a873bbbadf7b606c57fd6c7/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-        "publishedAt": "2026-08-29T20:19:31Z",
+        "title": "I took my Android phone off silent mode and started using AI ringtones, and I love it",
+        "url": "https://www.androidauthority.com/android-phone-making-ai-ringtones-love-it-why-3702849/",
+        "source": "Android Authority",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/pixel-sound-ringtone-hero-2026.jpg",
+        "publishedAt": "2026-08-30T12:00:00Z",
         "category": "technology",
-        "summary": "Samsung is reportedly planning a significant redesign for the Galaxy S27 Ultra, including a new \"Pro\" model. Recent updates suggest a major battery upgrade utilizing advanced technology. New details and images of the phone have emerged, indicating that the Galaxy S27 series will undergo substantial changes. The release date remains unconfirmed, but anticipation is building around these developments.",
+        "summary": "The article discusses the resurgence of ringtones, particularly through AI technology, which allows users to create personalized sounds. Joe Maring from Android Authority reflects on the nostalgia of ringtones as a status symbol in the 90s. With numerous sources available in 2016, the ease of making custom ringtones using AI enhances the user experience, making it enjoyable again.",
         "wordCount": 58
       },
       {
-        "title": "\"We're aware,\" Microsoft on Windows 11 KB5120998 breaking the mouse cursor",
-        "url": "https://www.windowslatest.com/2026/08/29/were-aware-microsoft-on-windows-11-kb5120998-breaking-the-mouse-cursor/",
-        "source": "Windows Latest",
-        "image": "https://www.windowslatest.com/wp-content/uploads/2026/08/Windows-11-KB5120998-issue.jpg",
-        "publishedAt": "2026-08-29T17:40:32Z",
+        "title": "Google made Android 17’s best feature a Pixel 11-exclusive. This free app does it better",
+        "url": "https://www.androidauthority.com/best-digital-wellbeing-pixel-11-exclusive-i-found-better-app-3679013/",
+        "source": "Android Authority",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/stroll-app-soft-wall.jpg",
+        "publishedAt": "2026-08-30T10:00:00Z",
         "category": "technology",
-        "summary": "Microsoft has acknowledged an issue with Windows 11 update KB 5120998, which is causing problems with mouse cursors. The update, touted as the year's biggest, introduced features like a resizable Start menu and a movable Taskbar. However, users have reported that it also resets wallpapers. Microsoft is currently investigating the cursor malfunction and working on a solution.",
-        "wordCount": 57
+        "summary": "Google's Pixel 11 series features a new exclusive called Pause Point, designed to help users manage screen time. In response, an alternative app has emerged that encourages users to walk in order to limit their screen usage. The Pixel 11 has garnered attention for its upgrades and new color options since its announcement earlier this month.",
+        "wordCount": 56
       },
       {
-        "title": "Tech wrap week: From Samsung Galaxy S26 FE to AI",
-        "url": "https://www.cnbctv18.com/technology/tech-wrap-this-week-galaxy-s26-fe-ai-powered-laptops-take-centre-stage-19979627.htm",
-        "source": "CNBC TV18",
-        "image": "https://images.cnbctv18.com/uploads/2026/08/samsung-galaxy-s26-fe-2026-08-2dbb9e767aaeb1d89a91f9d314fa2365.jpg?im=FitAndFill,width=1200,height=675",
-        "publishedAt": "2026-08-29T13:25:14Z",
+        "title": "Users allege Windows 11 secretly runs AI to slow PCs when gaming and streaming, but our tests debunk it",
+        "url": "https://www.windowslatest.com/2026/08/30/windows-11-is-accused-of-using-ai-to-slow-your-pc-but-its-not-what-you-think/",
+        "source": "Windows Latest",
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/08/Windows-11s-Text-and-image-generation-privacy-page-showing-apps-with-AI-permissions-is-misleading-users.jpg",
+        "publishedAt": "2026-08-30T08:16:41Z",
         "category": "technology",
-        "summary": "Samsung launched the Galaxy S26 FE, while Realme introduced the P4S 5G. Acer unveiled the Swift Neo AI laptop, and ASUS refreshed its TUF Gaming lineup. This week featured a variety of new gadgets catering to different consumer needs, highlighting advancements in mobile technology and AI-powered devices, appealing to a broad audience of tech enthusiasts and buyers.",
+        "summary": "Users have claimed that Windows 11 secretly utilizes AI to slow down PCs during gaming and streaming, following a viral screenshot of the operating system's privacy settings. The image shows various apps, including Notepad and Outlook, listed under a setting for on-device AI. However, tests conducted by experts have debunked these allegations, indicating no significant performance impact.",
         "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "How & Where to Watch Inter Miami vs. CF Montreal? Live Streaming & TV Channels",
-        "url": "https://athlonsports.com/soccer/how-to-watch-inter-miami-cf-montreal-live-streaming-channels",
-        "source": "Athlon Sports",
-        "image": "https://athlonsports.com/.image/MjY6MDAwMDAwMDAxNDUyNTY4/inter-miami-cf-v-cf-monterrey-leagues-cup-phase-one.jpg?profile=share16-9",
-        "publishedAt": "2026-08-29T21:40:42Z",
+        "title": "417 first-class wickets, just 3 Tests: The forgotten story of Baloo Gupte, who remained in the long shadow of his elder brother Subhash Gupte",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/417-first-class-wickets-just-3-tests-the-forgotten-story-of-baloo-gupte-who-remained-in-the-long-shadow-of-his-elder-brother-subhash-gupte/articleshow/133629264.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133629460,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-30T12:30:00Z",
         "category": "sports",
-        "summary": "Inter Miami hosts CF Montréal at Nu Stadium as they aim to break a five-game winless streak and improve their standing in the Eastern Conference. Miami currently ranks second with 39 points from 21 matches. The match marks the beginning of a new era for the club following the appointment of a new head coach.",
+        "summary": "Balkrishna Pandharinath Gupte, born on August 30, 1934, was a talented leg-spinner overshadowed by his elder brother, Subhash Gupte. Despite taking 417 first-class wickets, Baloo Gupte played only three Test matches for India. His cricketing achievements remain largely unrecognized, highlighting the challenges faced by players in the shadow of more celebrated siblings in the sport.",
         "wordCount": 55
       },
       {
-        "title": "Dutch women's hockey team lose World Cup final to Argentina after shoot-out",
-        "url": "https://nltimes.nl/2026/08/29/dutch-womens-hockey-team-lose-world-cup-final-argentina-shoot",
-        "source": "NL Times",
-        "image": "https://nltimes.nl/sites/nltimes.nl/files/styles/news_article_full_desktop_2x/public/2026-08/ANP-566522400.jpg?h=790be497",
-        "publishedAt": "2026-08-29T21:01:37Z",
+        "title": "‘He’s on the right track’ - Hansi Flick jumps to defence of Lamine Yamal at Barcelona",
+        "url": "https://www.barcablaugranes.com/barcelona-team-news/130923/hes-on-the-right-track-hansi-flick-jumps-to-defence-of-lamine-yamal-at-barcelona",
+        "source": "Barca Blaugranes",
+        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/04/gettyimages-2271962547.jpg?quality=90&strip=all&crop=0%2C4.9805615550756%2C100%2C72.371173656893&w=1200",
+        "publishedAt": "2026-08-30T12:00:00Z",
         "category": "sports",
-        "summary": "The Netherlands women's hockey team lost the World Cup final to Argentina after a shoot-out at Wagener Stadium on Saturday. The match ended 1-1 after regulation time. Argentina successfully converted their shoot-out attempts, denying the Dutch team a chance at their fourth consecutive title. This victory marks a significant achievement for Argentina in women's hockey.",
-        "wordCount": 55
+        "summary": "Hansi Flick defended Lamine Yamal, emphasizing the importance of maintaining a positive mindset despite challenges. He acknowledged that not every day is perfect, noting that Yamal has recently returned from injury and enjoyed three weeks of vacation. Flick highlighted that Yamal has played two matches, encouraging support for the young player as he navigates his career at Barcelona.",
+        "wordCount": 58
       },
       {
-        "title": "TKR vs JT Today Match Prediction and Betting Tips, Odds and Live Score",
-        "url": "https://www.thetopbookies.com/betting-tips/cricket/tkr-vs-jt-30-Aug-2026",
-        "source": "TheTopBookies",
-        "image": "https://api.thetopbk.com/storage/cricket/teams/tkr/jP03f3qRoT2KapN7nStPuSe4ljNkuuhgem44G1NA.png",
-        "publishedAt": "2026-08-29T20:53:00Z",
+        "title": "Flick talks De Jong, Rodri, Lamine, Raphinha, Bisiwu, Hamza ahead of Barcelona vs Rayo Vallecano",
+        "url": "https://barcauniversal.com/flick-talks-de-jong-rodri-lamine-raphinha-bisiwu-hamza-ahead-of-barcelona-vs-rayo-vallecano/",
+        "source": "Barca Universal",
+        "image": "https://barcauniversal.com/wp-content/uploads/2026/08/birmingham-city-v-fc-barcelona-pre-season-friendly-8-1000x600.jpg",
+        "publishedAt": "2026-08-30T11:28:09Z",
         "category": "sports",
-        "summary": "Trinbago Knight Riders (TKR) will face Jamaica Kingsmen (JT) in the Caribbean Premier League on August 30, 2026, at 04:30 IST. This match marks their second encounter this season. TKR, after a successful title defense start, is currently on a three-game losing streak. Betting tips, odds, and live scores will be available for fans during the match.",
-        "wordCount": 57
+        "summary": "FC Barcelona is set to face Rayo Vallecano on Monday at Spotify Camp Nou during the third matchday of the 2026/27 La Liga season. After securing victories against Elche and Athletic Club, the reigning champions aim to maintain their perfect record. Coach Flick discussed players including De Jong, Rodri, Lamine, Raphinha, Bisiwu, and Hamza ahead of the match.",
+        "wordCount": 58
       }
     ],
     "health": [
       {
-        "title": "The overlooked heart attack symptom that affects up to 70% of women",
-        "url": "https://www.ynetnews.com/health_science/article/skhincl00mg",
-        "source": "Ynetnews",
-        "image": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/02/24/BkNKn7Ii00be/BkNKn7Ii00be_0_0_1000_563_0_large.jpg",
-        "publishedAt": "2026-08-29T22:29:46Z",
+        "title": "How to Protect Memory After Poor Sleep, According to New Study",
+        "url": "https://www.prevention.com/health/sleep-energy/a73554930/exercise-nap-memory-sleep-deprivation-study/",
+        "source": "Prevention",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/e1cb6a2d-9cb1-495e-8bc2-42835b266501.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
+        "publishedAt": "2026-08-30T11:38:11Z",
         "category": "health",
-        "summary": "Unexplained fatigue can be a significant warning sign of an impending heart attack, particularly in women, according to cardiologists. This symptom may develop days or weeks prior to the event, contrasting with the typical perception of sudden chest pain. Understanding the difference between ordinary exhaustion and this warning sign is crucial for early detection and prevention of heart issues.",
-        "wordCount": 59
+        "summary": "A recent study indicates that exercise and a 90-minute nap can help protect memory after 30 hours of sleep deprivation. Sleep deficiency is associated with various chronic health issues, highlighting the importance of maintaining cognitive function. The findings suggest that incorporating physical activity and short naps may mitigate the negative effects of inadequate sleep on memory.",
+        "wordCount": 56
       },
       {
-        "title": "SWITCH SWEDEHEART trial shows prasugrel matches ticagrelor with less bleeding",
-        "url": "https://www.news-medical.net/news/20260829/SWITCH-SWEDEHEART-trial-shows-prasugrel-matches-ticagrelor-with-less-bleeding.aspx",
-        "source": "News-Medical",
-        "image": "https://www.news-medical.net/images/tags/TagImage-1579-458400506337962944979-620x480.jpg",
-        "publishedAt": "2026-08-29T18:36:00Z",
+        "title": "Proper Nutrition Plays Essential Role in Enhancing Cancer Therapy Recovery Rates Globally",
+        "url": "https://www.prameyanews.com/nutrition-cancer-treatment-recovery",
+        "source": "prameyanews.com",
+        "image": "https://img.prameyanews.com/FilesUpload/News7/Posts/2026/8/30/1788073305_1788073272_1788073217_Nutritious_food.webp",
+        "publishedAt": "2026-08-30T07:03:24Z",
         "category": "health",
-        "summary": "The SWITCH SWEDEHEART trial revealed that prasugrel is as effective as ticagrelor in reducing major cardiovascular events following coronary stenting in patients with acute coronary syndromes. However, prasugrel was associated with a lower incidence of major bleeding. These findings were presented at the ESC Congress 2026 and published in the New England Journal of Medicine.",
-        "wordCount": 55
+        "summary": "Expert oncology dietitians emphasize the importance of personalized nutrition in cancer treatment, highlighting its role in preserving muscle mass and enhancing immunity during recovery. With nearly 10 million cancer-related deaths and over 20 million new cases each year, proper diet is increasingly recognized as vital support during medical therapy, aiding patients in their recovery process globally.",
+        "wordCount": 56
       },
       {
-        "title": "Trial shows antiplatelet therapy needs personalization after stent implantation",
-        "url": "https://www.news-medical.net/news/20260829/Trial-shows-antiplatelet-therapy-needs-personalization-after-stent-implantation.aspx",
-        "source": "News-Medical",
-        "image": "https://www.news-medical.net/image-handler/picture/2014/7/Stent-620x480.jpg",
-        "publishedAt": "2026-08-29T18:31:00Z",
+        "title": "Does heart disease look different in men and women? Cardiologist shares what he learned in 20 years of experience",
+        "url": "https://www.hindustantimes.com/lifestyle/health/does-heart-disease-look-different-in-men-and-women-cardiologist-shares-what-he-learned-in-20-years-of-experience-101788067790635.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/30/1600x900/logo/heart_attack_1742368697178_1788068380698_c582408a-ddd7-4981-b494-3b43043a8ee0.jpg",
+        "publishedAt": "2026-08-30T05:53:56Z",
         "category": "health",
-        "summary": "The A-CLOSE trial found that antiplatelet monotherapy reduced bleeding risks, while dual therapy offered better protection against cardiovascular events in high ischemic risk patients who had stents implanted 12 months prior. The findings suggest that antiplatelet therapy should be personalized based on individual patient risk profiles to optimize outcomes following stent procedures.",
-        "wordCount": 52
+        "summary": "Heart disease manifests differently in men and women, according to Dr. Bhojraj. He emphasizes that symptoms, risk factors, and disease progression can vary significantly between the sexes. This understanding informs his approach to patient care, as he tailors questions and assessments based on gender. Recognizing these distinctions is crucial for effective diagnosis and treatment of cardiovascular conditions.",
+        "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "The last woolly mammoths survived on Wrangel Island until about 4,000 years ago, and a 2024 genetic study found inbreeding had not doomed them to a slow decline — their population appears to have vani",
-        "url": "https://spacedaily.com/m-the-last-woolly-mammoths-survived-on-wrangel-island-until-about-4-000-years-ago-and-a-2024-genetic-study-found-inbreeding-had-not-doomed-them-to-a-slow-decline-their-population-app/",
-        "source": "Space Daily",
-        "image": "https://spacedaily.com/wp-content/uploads/2026/08/m-the-last-woolly-mammoths-survived-on-wrangel-island-until-about-4-000-years-ago-and-a-2024-genetic-study-found-inbreeding-had-not-doomed-them-to-a-slow-decline-their-population-app.jpg",
-        "publishedAt": "2026-08-29T20:00:35Z",
+        "title": "Roman Telescope Begins Quest to Reveal Evolving Universe",
+        "url": "https://eos.org/research-and-developments/roman-telescope-begins-quest-to-reveal-evolving-universe",
+        "source": "eos.org",
+        "image": "https://eos.org/wp-content/uploads/2026/08/nancy-grace-roman-space-telescope.png",
+        "publishedAt": "2026-08-30T11:28:59Z",
         "category": "science",
-        "summary": "Woolly mammoths survived on Wrangel Island until approximately 4,000 years ago, according to a 2024 genetic study. Contrary to expectations, inbreeding did not lead to their decline; instead, their population vanished abruptly. This small group thrived for about six thousand years after other mammoths disappeared, challenging assumptions about the fate of isolated, inbred populations.",
-        "wordCount": 54
+        "summary": "The Nancy Grace Roman Space Telescope was launched today, marking the start of a new era in space exploration. This telescope aims to enhance our understanding of the evolving universe by studying dark energy, exoplanets, and galaxy formation. Its advanced technology is expected to provide significant insights into cosmic phenomena, contributing to ongoing research in astrophysics and cosmology.",
+        "wordCount": 58
       },
       {
-        "title": "5 must-see astronomical events of 2026 for stargazers",
-        "url": "https://www.indulgexpress.com/ampstories/web-stories/2026/Aug/29/5-upcoming-astronomical-events-to-watch-out-for-in-2026",
-        "source": "Indulge Express",
-        "image": "https://cf-images.assettype.com/indulgexpress%2F2026-08-29%2Fu89eqfka%2Fpexels-andres-perez-2149290732-33827297.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-08-29T14:44:39Z",
-        "category": "science",
-        "summary": "In 2026, stargazers can anticipate several notable astronomical events. Highlights include Neptune at opposition on September 23, offering a brilliant view of the distant ice giant. Other significant occurrences throughout the year will enhance the night sky, providing opportunities for observation and exploration. These events promise to captivate both amateur and experienced astronomers alike.",
-        "wordCount": 54
-      },
-      {
-        "title": "A 324-million-year-old fossil from Texas preserves an early insect with 24 legs and paddle-like limbs on its abdomen, suggesting insects did not leave water for land in one sudden evolutionary jump",
-        "url": "https://timesofindia.indiatimes.com/science/a-324-million-year-old-fossil-from-texas-preserves-an-early-insect-with-24-legs-and-paddle-like-limbs-on-its-abdomen-suggesting-insects-did-not-leave-water-for-land-in-one-sudden-evolutionary-jump/articleshow/133611289.cms",
+        "title": "A Chicago physicist proposed a way to create quantum images 20 years ago; after two decades waiting for experimental proof, superconductors have finally produced the effect he predicted",
+        "url": "https://timesofindia.indiatimes.com/science/a-chicago-physicist-proposed-a-way-to-create-quantum-images-20-years-ago-after-two-decades-waiting-for-experimental-proof-superconductors-have-finally-produced-the-effect-he-predicted/articleshow/133625281.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133611339,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-29T12:01:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-133625519,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-30T09:30:00Z",
         "category": "science",
-        "summary": "A 324-million-year-old insect fossil discovered in Texas features 24 legs and paddle-like limbs, indicating a gradual transition of insects from water to land rather than a sudden evolutionary leap. This finding, made by an international research team, may provide significant insights into the evolutionary history of insects and their adaptations during the Carboniferous period.",
-        "wordCount": 54
+        "summary": "Dirk Morr, a physics professor at the University of Illinois Chicago, proposed a quantum imaging strategy using superconductors 20 years ago. After two decades of anticipation for experimental validation, recent advancements in superconductors have finally demonstrated the predicted effects. This breakthrough marks a significant step in the field of quantum imaging, confirming Morr's long-standing theoretical work.",
+        "wordCount": 56
+      },
+      {
+        "title": "NASA has tested a navigation system that lets satellites determine where they are without GPS by treating other spacecraft and debris as landmarks, while refining more than 200 object orbits in three",
+        "url": "https://timesofindia.indiatimes.com/science/nasa-has-tested-a-navigation-system-that-lets-satellites-determine-where-they-are-without-gps-by-treating-other-spacecraft-and-debris-as-landmarks-while-refining-more-than-200-object-orbits-in-three-days/articleshow/133624920.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133625057,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-30T08:30:00Z",
+        "category": "science",
+        "summary": "NASA has successfully tested a navigation system enabling satellites to ascertain their location without GPS. This innovative approach utilizes onboard cameras to track other spacecraft and debris as reference points. The system also involved refining the orbits of over 200 objects in space. This advancement could enhance satellite navigation, particularly in environments where GPS signals are unavailable.",
+        "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: August 30, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-august-30-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-08-30T00:30:00Z",
+        "title": "Samay Raina's India's Got Latent most-viewed episodes: From Alia Bhatt to Orry, episodes that broke viewership records",
+        "url": "https://www.hindustantimes.com/entertainment/web-series/samay-raina-india-got-latent-most-viewed-episodes-from-alia-bhatt-orry-episodes-broke-viewership-records-karan-aujla-101788086740102.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/30/1600x900/logo/Samay_India_Got_Talent_1788087443644_1788087453950_08c04e4e-1613-4361-abce-dbe6ffe072b5.jpg",
+        "publishedAt": "2026-08-30T12:27:38Z",
         "category": "entertainment",
-        "summary": "On August 30, 2026, Taurus may feel stifled, leading to unconstructive behaviors. However, there is still an opportunity for positive change. Individuals are reminded that they have control over their thoughts and emotions, allowing them to choose what to focus on and what to let go. This awareness can help navigate current challenges and improve overall well-being.",
-        "wordCount": 57
+        "summary": "The latest episode of \"India's Got Latent\" achieved record viewership, featuring viral moments such as a contestant's rant and witty comebacks from the panellists. The show continues to attract significant attention, with episodes showcasing various celebrities, including Alia Bhatt and Orry. Riya Sharma, a content producer at Hindustan Times, covers entertainment news and trends extensively.",
+        "wordCount": 55
       },
       {
-        "title": "'Hi' box office collections day 2: Nayanthara starrer records 72% growth; India gross reaches Rs 3.94 crore",
-        "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/hi-box-office-collections-day-2-nayanthara-starrer-records-72-growth-india-gross-reaches-rs-3-94-crore/articleshow/133621764.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133621767,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-30T00:23:00Z",
+        "title": "The Whisper Man is already surging on Netflix despite poor reviews",
+        "url": "https://en.softonic.com/articles/the-whisper-man-is-already-surging-on-netflix-despite-poor-reviews",
+        "source": "en.softonic.com",
+        "image": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/08/the-whisper-man-is-already-surging-on-netflix-despite-poor-r-20260830.jpg",
+        "publishedAt": "2026-08-30T12:14:43Z",
         "category": "entertainment",
-        "summary": "Nayanthara's film 'Hi' (2026) experienced a significant increase in box office earnings on its second day, achieving a 72% growth. The movie's total gross in India reached Rs 3.94 crore. This upward trend indicates a stronger performance compared to its opening day, reflecting positive audience reception and increased viewership over the weekend.",
-        "wordCount": 52
-      },
-      {
-        "title": "Aries Horoscope Today: August 30, 2026",
-        "url": "https://www.vogue.in/content/aries-horoscope-today-august-30-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/16:9/w_1280,c_limit/1-Aries_16;9.png",
-        "publishedAt": "2026-08-30T00:20:00Z",
-        "category": "entertainment",
-        "summary": "Aries individuals are encouraged to embrace inner strength and reduce drama in their lives this week. A significant decision is highlighted, emphasizing resilience against external pressures. The horoscope suggests a shift in focus towards personal empowerment, indicating that Aries will not allow challenges to overwhelm them. This period is about prioritizing mental fortitude and maintaining a positive outlook.",
+        "summary": "The Whisper Man premiered on Netflix on August 28 and quickly gained popularity, ranking either No. 1 or No. 2 globally according to early third-party tracking. Despite receiving poor reviews, the thriller has captured significant viewer attention, highlighting a disparity between its critical reception and audience interest. The film's rapid rise reflects its strong appeal among Netflix subscribers.",
         "wordCount": 58
+      },
+      {
+        "title": "The Great Khali escapes unhurt after car accident in Haryana, says he ‘didn't want to make it a big deal’",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/the-great-khali-escapes-unhurt-after-car-accident-in-haryana-says-he-didnt-want-to-make-it-a-big-deal-101788089012832.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/30/1600x900/logo/Wrestler_Dalip_Singh_Rana_alias_The_Great_Khali_1713690376171_1788089526844_1ac14098-ded4-44f2-b775-5669129e6e86.jpg",
+        "publishedAt": "2026-08-30T12:14:29Z",
+        "category": "entertainment",
+        "summary": "Dalip Singh, known as The Great Khali, was involved in a minor car accident at a toll plaza in Panipat, Haryana, on Saturday. His SUV collided with another vehicle, but he reported no injuries. Khali reassured fans of his safety and expressed that he did not want to make the incident a significant issue.",
+        "wordCount": 54
       }
     ]
   }
