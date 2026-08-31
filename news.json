@@ -1,125 +1,155 @@
 {
-  "updatedAt": "2026-08-31T00:30:59.643Z",
+  "updatedAt": "2026-08-31T12:31:06.729Z",
   "categories": {
     "world": [
       {
-        "title": "Iran war creates two front defence dilemma for US against China and Russia",
-        "url": "https://timesofindia.indiatimes.com/defence/international/iran-war-creates-two-front-defence-dilemma-for-us-against-china-and-russia/articleshow/133628609.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133628664,width-1280,height-720,imgsize-104130,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-30T11:40:00Z",
+        "title": "I Moved Back to India to Be Near Family and Leave H-1B Limits Behind",
+        "url": "https://www.businessinsider.com/left-new-york-moved-back-to-india-family-h1b-visa-2026-8",
+        "source": "Business Insider",
+        "image": "https://i.insider.com/6a910b8545e6f385a516a0d1?width=1200&format=jpeg",
+        "publishedAt": "2026-08-31T00:15:27Z",
         "category": "world",
-        "summary": "The ongoing US conflict with Iran is presenting a significant military challenge, complicating defense strategies against both China and Russia. The extensive deployment of American missiles and air-defense systems in the Middle East raises concerns about the US's capability to manage threats on multiple fronts. This situation highlights the broader implications of the conflict beyond regional boundaries.",
-        "wordCount": 57
+        "summary": "Disha Lamba, 28, relocated from New York to Gurugram, India, after leaving her job at CVS Health. She aimed to be closer to family and escape H-1B visa restrictions. Although she felt she was sacrificing much by leaving the U.S., Lamba, an introvert, sought comfort in her home country, reflecting on her experiences and personal growth.",
+        "wordCount": 56
       },
       {
-        "title": "Ferry boat with around 270 passengers capsizes off North Cyprus: Report",
-        "url": "https://www.hindustantimes.com/world-news/boat-capsizes-off-north-cyprus-270-ferry-passengers-toll-injuries-rescue-efforts-latest-news-101788088694364.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/30/1600x900/north_cyprus_boat_capsize_1788089235187_1788089241262_bd3e014c-d41f-4816-9e9c-65105675419f.jpg",
-        "publishedAt": "2026-08-30T11:22:17Z",
+        "title": "PM Modi, Xi, Putin, other world leaders in Bishkek: What's on SCO summit agenda",
+        "url": "https://www.indiatoday.in/world/story/sco-summit-bishkek-pm-modi-xi-putin-other-world-leaders-kyrgyzstan-sco-summit-agenda-2983289-2026-08-31",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/sco-summit-020512169-16x9.jpg?VersionId=ZSWuROuIR5c.Q8MWsUOd1HHpyLrFFrkX",
+        "publishedAt": "2026-08-31T00:05:03Z",
         "category": "world",
-        "summary": "A ferry with approximately 270 passengers capsized off North Cyprus, according to local reports. The vessel began taking on water about four miles from shore. Emergency services, including ambulances, have been dispatched to the scene. A search and rescue operation is ongoing, but it remains unclear if there are any casualties. The ferry was traveling from Kyrenia.",
+        "summary": "Prime Minister Narendra Modi, Chinese President Xi Jinping, Russian President Vladimir Putin, and other world leaders are gathering in Bishkek, Kyrgyzstan, for the 26th Shanghai Cooperation Organisation (SCO) summit. This two-day event marks the bloc's 25th anniversary, focusing on key issues such as security, trade, and regional conflicts among member states and partners.",
+        "wordCount": 53
+      },
+      {
+        "title": "PM Modi likely to hold bilateral talks with Iranian president",
+        "url": "https://timesofindia.indiatimes.com/india/pm-modi-likely-to-hold-bilateral-talks-with-iranian-president/articleshow/133636865.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133636875,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-30T21:16:00Z",
+        "category": "world",
+        "summary": "PM Narendra Modi is expected to hold a bilateral meeting with Iranian President Masoud Pezeshkian during the SCO summit in Kyrgyzstan on Monday. This meeting would mark their first discussion since the outbreak of the war in the Middle East. The talks aim to strengthen ties between India and Iran amid ongoing regional developments and geopolitical challenges.",
         "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "Wind turbine blades are built to survive decades and are difficult to recycle; an Iowa plant mechanically shreds them into fibres and powders for concrete, mortar and asphalt",
-        "url": "https://timesofindia.indiatimes.com/world/us/wind-turbine-blades-are-built-to-survive-decades-and-are-difficult-to-recycle-an-iowa-plant-mechanically-shreds-them-into-fibres-and-powders-for-concrete-mortar-and-asphalt/articleshow/133625543.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133625963,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-30T11:30:00Z",
+        "title": "India’s mobile output is up 33X: Rs 62,500 Cr PLI 2.0 opens a new chapter for 2 stocks",
+        "url": "https://www.financialexpress.com/market/stock-insights/indias-mobile-output-is-up-33x-rs-62500-cr-pli-2-0-opens-a-new-chapter-for-2-stocks/4328494/",
+        "source": "financialexpress.com",
+        "image": "https://images.financialexpressdigital.com/2026/08/fsfhgvhjb.jpg",
+        "publishedAt": "2026-08-30T23:31:10Z",
         "category": "business",
-        "summary": "A facility in Fairfax, Iowa, is addressing the recycling challenge of wind turbine blades, which are designed to last decades. The plant mechanically shreds the blades into fibers and powders, which can then be used in concrete, mortar, and asphalt. The recycling process starts with extracting reusable components from the blades, promoting sustainability in wind energy infrastructure.",
-        "wordCount": 57
+        "summary": "India's mobile manufacturing sector is experiencing significant growth, with output increasing 33 times. The government's new Mobile Phone Manufacturing Scheme, or PLI 2.0, aims to enhance this growth by focusing on capturing a larger share of the value chain, rather than solely increasing phone production. The scheme has an investment outlay of ₹62,500 crore to support this initiative.",
+        "wordCount": 58
       },
       {
-        "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133628353.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-133628413,width-1200,height-630,imgsize-105340,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-08-30T11:26:00Z",
+        "title": "Record Dates This Week: India Glycols demerger, Multiple PSU stocks trade ex",
+        "url": "https://www.cnbctv18.com/photos/market/record-dates-this-week-coal-india-ntpc-procter-gamble-health-vadilal-gic-ongc-oil-india-share-price-19979928.htm",
+        "source": "CNBC TV18",
+        "image": "https://images.cnbctv18.com/uploads/2026/08/chatgpt-image-aug-30-2026-10-22-38-pm-1-2026-08-ae3c16ae9e913d8a9dedc294c4c0bb29.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-08-30T22:48:10Z",
         "category": "business",
-        "summary": "Indian equities rebounded on Friday, driven by gains in heavyweight IT stocks, boosting the Sensex and Nifty after two days of losses. Analysts predict range-bound trading on Monday due to mixed global cues and ongoing geopolitical tensions. The Nifty index is expected to face resistance near 24,200 and find support around 23,900 in upcoming sessions.",
-        "wordCount": 55
+        "summary": "Multiple state-run companies, including Coal India and ONGC, will trade ex-dividend this week, alongside various corporate actions from other firms. Additionally, India Glycols will trade ex-dividend due to the demerger of its multiple entities. A complete list of corporate actions scheduled for this week has been provided, highlighting significant financial events in the market.",
+        "wordCount": 54
       },
       {
-        "title": "IPO Action: 7 public issues to open next week, 15 companies set to list",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/ipo/ipo-action-7-public-issues-to-open-next-week-15-companies-set-to-list-14018334.html",
+        "title": "Stocks to Watch Today: HDFC Bank, Avantel, Cipla, Max Estates, Clean Max, Axiscades, Aurobindo Pharma, NBCC, Augmont Enterprises in focus on 31 August",
+        "url": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-hdfc-bank-avantel-cipla-max-estates-clean-max-axiscades-aurobindo-pharma-nbcc-augmont-enterprises-in-focus-on-31-august-14018506.html",
         "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260710045937_Laser-Infra-Day-2.png",
-        "publishedAt": "2026-08-30T11:21:08Z",
+        "image": "https://images.moneycontrol.com/static-mcnews/2024/03/sensex1-1.jpg",
+        "publishedAt": "2026-08-30T20:34:55Z",
         "category": "business",
-        "summary": "Seven public issues are set to open next week, with 15 companies preparing to list. In August, 46 IPOs raised Rs 23,679 crore across mainboard and SME segments. Year-to-date fundraising through public issues has reached Rs 79,829 crore as of August. The upcoming listings reflect ongoing investor interest in the IPO market amid a busy fundraising environment.",
-        "wordCount": 57
+        "summary": "On August 31, 2026, several stocks will be in focus, including HDFC Bank, Cipla, Axiscades Technologies, Max Estates, Avantel, Clean Max Enviro Energy Solutions, Aurobindo Pharma, Genus Power Infrastructures, Religare Enterprises, and Augmont Enterprises. Investors are advised to monitor these companies for potential market movements and developments.",
+        "wordCount": 47
       }
     ],
     "technology": [
       {
-        "title": "I took my Android phone off silent mode and started using AI ringtones, and I love it",
-        "url": "https://www.androidauthority.com/android-phone-making-ai-ringtones-love-it-why-3702849/",
-        "source": "Android Authority",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/pixel-sound-ringtone-hero-2026.jpg",
-        "publishedAt": "2026-08-30T12:00:00Z",
+        "title": "Gamescom 2026 draws 368,000 visitors from 131 countries",
+        "url": "https://gamesbeat.com/gamescom-draws-368000-visitors-from-131-countries/",
+        "source": "GamesBeat",
+        "image": "https://gamesbeat.com/wp-content/uploads/2026/09/gamescom-crowd.jpg",
+        "publishedAt": "2026-08-30T18:45:36Z",
         "category": "technology",
-        "summary": "The article discusses the resurgence of ringtones, particularly through AI technology, which allows users to create personalized sounds. Joe Maring from Android Authority reflects on the nostalgia of ringtones as a status symbol in the 90s. With numerous sources available in 2016, the ease of making custom ringtones using AI enhances the user experience, making it enjoyable again.",
-        "wordCount": 58
+        "summary": "Gamescom 2026 attracted 368,000 visitors from 131 countries, marking a 6% increase from the previous year's attendance of 357,000. While it did not set a new record, the event showcased a more international presence than ever before. The growth reflects a continuing interest in gaming events, despite falling short of the previous peak attendance figures.",
+        "wordCount": 55
       },
       {
-        "title": "Google made Android 17’s best feature a Pixel 11-exclusive. This free app does it better",
-        "url": "https://www.androidauthority.com/best-digital-wellbeing-pixel-11-exclusive-i-found-better-app-3679013/",
-        "source": "Android Authority",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/08/stroll-app-soft-wall.jpg",
-        "publishedAt": "2026-08-30T10:00:00Z",
+        "title": "Fable's Main Quest Will Take About 20 Hours to Beat",
+        "url": "https://in.ign.com/fable-next-gen/270537/fables-main-quest-will-take-about-20-hours-to-beat",
+        "source": "IGN India",
+        "image": "https://sm.ign.com/t/ign_in/news/f/fables-mai/fables-main-quest-will-take-about-20-hours-to-beat_1a83.1200.jpg",
+        "publishedAt": "2026-08-30T18:44:36Z",
         "category": "technology",
-        "summary": "Google's Pixel 11 series features a new exclusive called Pause Point, designed to help users manage screen time. In response, an alternative app has emerged that encourages users to walk in order to limit their screen usage. The Pixel 11 has garnered attention for its upgrades and new color options since its announcement earlier this month.",
+        "summary": "Fable's main quest is estimated to take approximately 20 hours to complete, according to Playground Games. In addition to the main storyline, players can expect around 15-20 hours of side quests and open-world exploration. The game features limitless life systems, allowing players to engage in various activities beyond the main quest, extending gameplay significantly if desired.",
         "wordCount": 56
       },
       {
-        "title": "Users allege Windows 11 secretly runs AI to slow PCs when gaming and streaming, but our tests debunk it",
-        "url": "https://www.windowslatest.com/2026/08/30/windows-11-is-accused-of-using-ai-to-slow-your-pc-but-its-not-what-you-think/",
-        "source": "Windows Latest",
-        "image": "https://www.windowslatest.com/wp-content/uploads/2026/08/Windows-11s-Text-and-image-generation-privacy-page-showing-apps-with-AI-permissions-is-misleading-users.jpg",
-        "publishedAt": "2026-08-30T08:16:41Z",
+        "title": "Microsoft breaks mouse cursors in Windows 11 with a new update, per reports",
+        "url": "https://tech.sportskeeda.com/laptops/news-microsoft-breaks-mouse-cursors-windows-11-new-update-per-reports",
+        "source": "Sportskeeda Tech",
+        "image": "https://staticg.sportskeeda.com/editor/2026/08/d73bd-17881123682129-1920.jpg",
+        "publishedAt": "2026-08-30T18:22:07Z",
         "category": "technology",
-        "summary": "Users have claimed that Windows 11 secretly utilizes AI to slow down PCs during gaming and streaming, following a viral screenshot of the operating system's privacy settings. The image shows various apps, including Notepad and Outlook, listed under a setting for on-device AI. However, tests conducted by experts have debunked these allegations, indicating no significant performance impact.",
-        "wordCount": 57
+        "summary": "Microsoft's recent KB5120998 update for Windows 11 has reportedly caused mouse cursor functionality issues for users. This essential feature is malfunctioning, impacting the ability to operate PCs effectively. The company has acknowledged the problem after receiving numerous complaints from users. Microsoft is expected to address the issue in a future update to restore normal cursor functionality.",
+        "wordCount": 56
       }
     ],
     "sports": [
       {
-        "title": "417 first-class wickets, just 3 Tests: The forgotten story of Baloo Gupte, who remained in the long shadow of his elder brother Subhash Gupte",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/417-first-class-wickets-just-3-tests-the-forgotten-story-of-baloo-gupte-who-remained-in-the-long-shadow-of-his-elder-brother-subhash-gupte/articleshow/133629264.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133629460,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-30T12:30:00Z",
+        "title": "'Part of the problem' - Michael Carrick told he must urgently replace Man Utd star after dismal display",
+        "url": "https://www.goal.com/en-gb/lists/part-problem-michael-carrick-told-urgently-replace-man-utd-star-dismal-display/blta5667350c360f6f2",
+        "source": "Goal.com",
+        "image": "https://assets.goal.com/images/v3/getty-2290431711/crop/MM5DINZQGI5DENRUGU5G433XMU5DAORRGY3Q====/GettyImages-2290431711.jpg",
+        "publishedAt": "2026-08-30T21:34:27Z",
         "category": "sports",
-        "summary": "Balkrishna Pandharinath Gupte, born on August 30, 1934, was a talented leg-spinner overshadowed by his elder brother, Subhash Gupte. Despite taking 417 first-class wickets, Baloo Gupte played only three Test matches for India. His cricketing achievements remain largely unrecognized, highlighting the challenges faced by players in the shadow of more celebrated siblings in the sport.",
-        "wordCount": 55
+        "summary": "Manchester United manager Michael Carrick has been advised to urgently replace a struggling defender following a poor performance in a 5-2 victory against Ipswich Town. Despite the win, pundits criticized the team's defensive weaknesses, highlighting that the defender was \"part of the problem.\" The match saw United concede an early goal from Leif Davis, raising concerns about their defense.",
+        "wordCount": 59
       },
       {
-        "title": "‘He’s on the right track’ - Hansi Flick jumps to defence of Lamine Yamal at Barcelona",
-        "url": "https://www.barcablaugranes.com/barcelona-team-news/130923/hes-on-the-right-track-hansi-flick-jumps-to-defence-of-lamine-yamal-at-barcelona",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/04/gettyimages-2271962547.jpg?quality=90&strip=all&crop=0%2C4.9805615550756%2C100%2C72.371173656893&w=1200",
-        "publishedAt": "2026-08-30T12:00:00Z",
+        "title": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
+        "url": "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8ae3f92f-1787487225_7f4d2c-1787487253.jpg?resize=1200%2C630&quality=80",
+        "publishedAt": "2026-08-30T21:33:54Z",
         "category": "sports",
-        "summary": "Hansi Flick defended Lamine Yamal, emphasizing the importance of maintaining a positive mindset despite challenges. He acknowledged that not every day is perfect, noting that Yamal has recently returned from injury and enjoyed three weeks of vacation. Flick highlighted that Yamal has played two matches, encouraging support for the young player as he navigates his career at Barcelona.",
-        "wordCount": 58
+        "summary": "Barcelona coach Hansi Flick stated that Lamine Yamal is regaining his \"top level\" ahead of the upcoming La Liga match against Rayo Vallecano. The 19-year-old faced challenges during the season opener against Elche but showed improvement in his performance against Athletic Bilbao. Flick's comments highlight the coach's optimism regarding Yamal's development and contributions to the team.",
+        "wordCount": 56
       },
       {
-        "title": "Flick talks De Jong, Rodri, Lamine, Raphinha, Bisiwu, Hamza ahead of Barcelona vs Rayo Vallecano",
-        "url": "https://barcauniversal.com/flick-talks-de-jong-rodri-lamine-raphinha-bisiwu-hamza-ahead-of-barcelona-vs-rayo-vallecano/",
-        "source": "Barca Universal",
-        "image": "https://barcauniversal.com/wp-content/uploads/2026/08/birmingham-city-v-fc-barcelona-pre-season-friendly-8-1000x600.jpg",
-        "publishedAt": "2026-08-30T11:28:09Z",
+        "title": "Revanth Plans Cricket Stadium In Future City",
+        "url": "https://www.deccanchronicle.com/southern-states/telangana/revanth-plans-cricket-stadium-in-future-city-1983593",
+        "source": "Deccan Chronicle",
+        "image": "https://www.deccanchronicle.com/h-upload/2026/07/28/2080012-revanth-reddy.jpg",
+        "publishedAt": "2026-08-30T19:44:36Z",
         "category": "sports",
-        "summary": "FC Barcelona is set to face Rayo Vallecano on Monday at Spotify Camp Nou during the third matchday of the 2026/27 La Liga season. After securing victories against Elche and Athletic Club, the reigning champions aim to maintain their perfect record. Coach Flick discussed players including De Jong, Rodri, Lamine, Raphinha, Bisiwu, and Hamza ahead of the match.",
-        "wordCount": 58
+        "summary": "The BCCI plans to construct a world-class cricket stadium in Bharat Future City, Hyderabad, covering 100 acres. The stadium aims to match the seating capacity of the 1.32-lakh seater Narendra Modi Stadium in Gujarat. Chief Minister A. Revanth has initiated the project, with the BCCI responsible for both construction and operational costs. Preparations are currently underway.",
+        "wordCount": 56
       }
     ],
     "health": [
+      {
+        "title": "Diabetes impacts men, women differently: Study",
+        "url": "https://timesofindia.indiatimes.com/india/diabetes-impacts-men-women-differently-study/articleshow/133636805.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133636815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-30T20:40:00Z",
+        "category": "health",
+        "summary": "A study reveals that type 2 diabetes complications vary by gender. Men are more susceptible to heart and kidney diseases, while women face a higher risk of developing mental health issues. This research highlights the need for gender-specific approaches in managing diabetes and its associated complications, emphasizing the distinct health challenges posed by the condition for both men and women.",
+        "wordCount": 60
+      },
+      {
+        "title": "Andhra Pradesh: Healthy Habits Key To Good Health: Dr Manthena",
+        "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/andhra-pradesh-healthy-habits-key-to-good-health-dr-manthena-1983508",
+        "source": "Deccan Chronicle",
+        "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8hbeu4gu538jk64a5rfsor5795-20231202001254.Medi.jpeg",
+        "publishedAt": "2026-08-30T13:14:56Z",
+        "category": "health",
+        "summary": "Naturopathy expert Dr. Manthena Satyanarayana Raju emphasized the importance of healthy living in Tirupati. He identified poor food habits, insufficient physical activity, and lack of rest as major contributors to health issues. Dr. Raju advocated for a return to natural living, highlighting that proper nutrition, adequate rest, and regular exercise are essential for maintaining overall good health.",
+        "wordCount": 57
+      },
       {
         "title": "How to Protect Memory After Poor Sleep, According to New Study",
         "url": "https://www.prevention.com/health/sleep-energy/a73554930/exercise-nap-memory-sleep-deprivation-study/",
@@ -127,31 +157,21 @@
         "image": "https://hips.hearstapps.com/hmg-prod/images/e1cb6a2d-9cb1-495e-8bc2-42835b266501.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
         "publishedAt": "2026-08-30T11:38:11Z",
         "category": "health",
-        "summary": "A recent study indicates that exercise and a 90-minute nap can help protect memory after 30 hours of sleep deprivation. Sleep deficiency is associated with various chronic health issues, highlighting the importance of maintaining cognitive function. The findings suggest that incorporating physical activity and short naps may mitigate the negative effects of inadequate sleep on memory.",
+        "summary": "A recent study indicates that exercise and a 90-minute nap can help protect memory after 30 hours of sleep deprivation. Sleep deficiency is associated with various chronic health issues. The findings suggest that incorporating physical activity and short naps may mitigate some cognitive impairments caused by lack of sleep, highlighting the importance of maintaining memory health.",
         "wordCount": 56
-      },
-      {
-        "title": "Proper Nutrition Plays Essential Role in Enhancing Cancer Therapy Recovery Rates Globally",
-        "url": "https://www.prameyanews.com/nutrition-cancer-treatment-recovery",
-        "source": "prameyanews.com",
-        "image": "https://img.prameyanews.com/FilesUpload/News7/Posts/2026/8/30/1788073305_1788073272_1788073217_Nutritious_food.webp",
-        "publishedAt": "2026-08-30T07:03:24Z",
-        "category": "health",
-        "summary": "Expert oncology dietitians emphasize the importance of personalized nutrition in cancer treatment, highlighting its role in preserving muscle mass and enhancing immunity during recovery. With nearly 10 million cancer-related deaths and over 20 million new cases each year, proper diet is increasingly recognized as vital support during medical therapy, aiding patients in their recovery process globally.",
-        "wordCount": 56
-      },
-      {
-        "title": "Does heart disease look different in men and women? Cardiologist shares what he learned in 20 years of experience",
-        "url": "https://www.hindustantimes.com/lifestyle/health/does-heart-disease-look-different-in-men-and-women-cardiologist-shares-what-he-learned-in-20-years-of-experience-101788067790635.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/30/1600x900/logo/heart_attack_1742368697178_1788068380698_c582408a-ddd7-4981-b494-3b43043a8ee0.jpg",
-        "publishedAt": "2026-08-30T05:53:56Z",
-        "category": "health",
-        "summary": "Heart disease manifests differently in men and women, according to Dr. Bhojraj. He emphasizes that symptoms, risk factors, and disease progression can vary significantly between the sexes. This understanding informs his approach to patient care, as he tailors questions and assessments based on gender. Recognizing these distinctions is crucial for effective diagnosis and treatment of cardiovascular conditions.",
-        "wordCount": 57
       }
     ],
     "science": [
+      {
+        "title": "NASA Inaugurates Deep Space Station 23",
+        "url": "https://www.miragenews.com/nasa-inaugurates-deep-space-station-23-1735518/",
+        "source": "Mirage News",
+        "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26779/PIA26779.jpg?w=2200&h=1467&fit=clip&crop=faces%2Cfocalpoint",
+        "publishedAt": "2026-08-30T16:06:00Z",
+        "category": "science",
+        "summary": "NASA has officially inaugurated Deep Space Station 23, part of its Deep Space Network. The event featured a ribbon-cutting ceremony attended by leadership from NASA Headquarters and the Jet Propulsion Laboratory. This facility will enhance communication with spacecraft exploring distant celestial bodies, supporting ongoing and future missions. Deep Space Station 23 represents a significant advancement in space exploration capabilities.",
+        "wordCount": 59
+      },
       {
         "title": "Roman Telescope Begins Quest to Reveal Evolving Universe",
         "url": "https://eos.org/research-and-developments/roman-telescope-begins-quest-to-reveal-evolving-universe",
@@ -159,7 +179,7 @@
         "image": "https://eos.org/wp-content/uploads/2026/08/nancy-grace-roman-space-telescope.png",
         "publishedAt": "2026-08-30T11:28:59Z",
         "category": "science",
-        "summary": "The Nancy Grace Roman Space Telescope was launched today, marking the start of a new era in space exploration. This telescope aims to enhance our understanding of the evolving universe by studying dark energy, exoplanets, and galaxy formation. Its advanced technology is expected to provide significant insights into cosmic phenomena, contributing to ongoing research in astrophysics and cosmology.",
+        "summary": "The Nancy Grace Roman Space Telescope was launched today, marking the beginning of a new era in space exploration. This telescope aims to enhance our understanding of the evolving universe by observing distant galaxies and cosmic phenomena. It is expected to provide valuable data that could reshape current scientific knowledge and contribute significantly to various fields of astrophysics.",
         "wordCount": 58
       },
       {
@@ -169,50 +189,40 @@
         "image": "https://static.toiimg.com/thumb/msid-133625519,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "publishedAt": "2026-08-30T09:30:00Z",
         "category": "science",
-        "summary": "Dirk Morr, a physics professor at the University of Illinois Chicago, proposed a quantum imaging strategy using superconductors 20 years ago. After two decades of anticipation for experimental validation, recent advancements in superconductors have finally demonstrated the predicted effects. This breakthrough marks a significant step in the field of quantum imaging, confirming Morr's long-standing theoretical work.",
-        "wordCount": 56
-      },
-      {
-        "title": "NASA has tested a navigation system that lets satellites determine where they are without GPS by treating other spacecraft and debris as landmarks, while refining more than 200 object orbits in three",
-        "url": "https://timesofindia.indiatimes.com/science/nasa-has-tested-a-navigation-system-that-lets-satellites-determine-where-they-are-without-gps-by-treating-other-spacecraft-and-debris-as-landmarks-while-refining-more-than-200-object-orbits-in-three-days/articleshow/133624920.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133625057,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-30T08:30:00Z",
-        "category": "science",
-        "summary": "NASA has successfully tested a navigation system enabling satellites to ascertain their location without GPS. This innovative approach utilizes onboard cameras to track other spacecraft and debris as reference points. The system also involved refining the orbits of over 200 objects in space. This advancement could enhance satellite navigation, particularly in environments where GPS signals are unavailable.",
-        "wordCount": 57
+        "summary": "Dirk Morr, a physicist at the University of Illinois Chicago, proposed a quantum imaging technique using superconductors 20 years ago. Recent experiments have finally demonstrated the effect he predicted, confirming his theoretical work. This advancement in quantum imaging could enhance our understanding of electron behavior and lead to new applications in various fields, including materials science and technology.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "Samay Raina's India's Got Latent most-viewed episodes: From Alia Bhatt to Orry, episodes that broke viewership records",
-        "url": "https://www.hindustantimes.com/entertainment/web-series/samay-raina-india-got-latent-most-viewed-episodes-from-alia-bhatt-orry-episodes-broke-viewership-records-karan-aujla-101788086740102.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/30/1600x900/logo/Samay_India_Got_Talent_1788087443644_1788087453950_08c04e4e-1613-4361-abce-dbe6ffe072b5.jpg",
-        "publishedAt": "2026-08-30T12:27:38Z",
+        "title": "Cancer Horoscope Today: August 31, 2026",
+        "url": "https://www.vogue.in/content/cancer-horoscope-today-august-31-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04b32f6a7f382599b6a/16:9/w_1280,c_limit/4-Cancer_16;9.png",
+        "publishedAt": "2026-08-31T00:20:00Z",
         "category": "entertainment",
-        "summary": "The latest episode of \"India's Got Latent\" achieved record viewership, featuring viral moments such as a contestant's rant and witty comebacks from the panellists. The show continues to attract significant attention, with episodes showcasing various celebrities, including Alia Bhatt and Orry. Riya Sharma, a content producer at Hindustan Times, covers entertainment news and trends extensively.",
-        "wordCount": 55
+        "summary": "Cancer individuals are undergoing a transformation, converting pain into light. Each person is experiencing this change uniquely after a prolonged, challenging period. The message encourages Cancers to embrace this transition and not fear emerging from their struggles. A sense of hope and renewal is on the horizon, suggesting that brighter days are approaching after the darkness.",
+        "wordCount": 56
       },
       {
-        "title": "The Whisper Man is already surging on Netflix despite poor reviews",
-        "url": "https://en.softonic.com/articles/the-whisper-man-is-already-surging-on-netflix-despite-poor-reviews",
-        "source": "en.softonic.com",
-        "image": "https://articles-img.sftcdn.net/t_article_cover_xl/auto-mapping-folder/sites/3/2026/08/the-whisper-man-is-already-surging-on-netflix-despite-poor-r-20260830.jpg",
-        "publishedAt": "2026-08-30T12:14:43Z",
+        "title": "Pisces Horoscope Today: August 31, 2026",
+        "url": "https://www.vogue.in/content/pisces-horoscope-today-august-31-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
+        "publishedAt": "2026-08-31T00:20:00Z",
         "category": "entertainment",
-        "summary": "The Whisper Man premiered on Netflix on August 28 and quickly gained popularity, ranking either No. 1 or No. 2 globally according to early third-party tracking. Despite receiving poor reviews, the thriller has captured significant viewer attention, highlighting a disparity between its critical reception and audience interest. The film's rapid rise reflects its strong appeal among Netflix subscribers.",
+        "summary": "Pisces individuals are encouraged to free themselves from current struggles and chaos. The horoscope suggests that understanding the nature of opportunities—neither fully closed nor open—can help navigate life's challenges. Recognizing this perspective may empower Pisces to choose their path forward, emphasizing personal growth and resilience. Embracing this mindset is essential for finding peace and direction in their journey.",
         "wordCount": 58
       },
       {
-        "title": "The Great Khali escapes unhurt after car accident in Haryana, says he ‘didn't want to make it a big deal’",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/the-great-khali-escapes-unhurt-after-car-accident-in-haryana-says-he-didnt-want-to-make-it-a-big-deal-101788089012832.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/30/1600x900/logo/Wrestler_Dalip_Singh_Rana_alias_The_Great_Khali_1713690376171_1788089526844_1ac14098-ded4-44f2-b775-5669129e6e86.jpg",
-        "publishedAt": "2026-08-30T12:14:29Z",
+        "title": "Sagittarius Horoscope Today: August 31, 2026",
+        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-august-31-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
+        "publishedAt": "2026-08-31T00:20:00Z",
         "category": "entertainment",
-        "summary": "Dalip Singh, known as The Great Khali, was involved in a minor car accident at a toll plaza in Panipat, Haryana, on Saturday. His SUV collided with another vehicle, but he reported no injuries. Khali reassured fans of his safety and expressed that he did not want to make the incident a significant issue.",
-        "wordCount": 54
+        "summary": "Sagittarius horoscope for August 31, 2026, indicates positive cosmic influences. The alignment of the stars suggests favorable developments in personal matters. After a period of self-reflection, Sagittarians are encouraged to embrace the support of the cosmos. This alignment is expected to bring about beneficial changes and opportunities, signaling a time of growth and positive transformation.",
+        "wordCount": 55
       }
     ]
   }
