@@ -1,227 +1,217 @@
 {
-  "updatedAt": "2026-08-31T12:31:06.729Z",
+  "updatedAt": "2026-09-01T00:31:08.953Z",
   "categories": {
     "world": [
       {
-        "title": "I Moved Back to India to Be Near Family and Leave H-1B Limits Behind",
-        "url": "https://www.businessinsider.com/left-new-york-moved-back-to-india-family-h1b-visa-2026-8",
-        "source": "Business Insider",
-        "image": "https://i.insider.com/6a910b8545e6f385a516a0d1?width=1200&format=jpeg",
-        "publishedAt": "2026-08-31T00:15:27Z",
-        "category": "world",
-        "summary": "Disha Lamba, 28, relocated from New York to Gurugram, India, after leaving her job at CVS Health. She aimed to be closer to family and escape H-1B visa restrictions. Although she felt she was sacrificing much by leaving the U.S., Lamba, an introvert, sought comfort in her home country, reflecting on her experiences and personal growth.",
-        "wordCount": 56
-      },
-      {
-        "title": "PM Modi, Xi, Putin, other world leaders in Bishkek: What's on SCO summit agenda",
-        "url": "https://www.indiatoday.in/world/story/sco-summit-bishkek-pm-modi-xi-putin-other-world-leaders-kyrgyzstan-sco-summit-agenda-2983289-2026-08-31",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/sco-summit-020512169-16x9.jpg?VersionId=ZSWuROuIR5c.Q8MWsUOd1HHpyLrFFrkX",
-        "publishedAt": "2026-08-31T00:05:03Z",
-        "category": "world",
-        "summary": "Prime Minister Narendra Modi, Chinese President Xi Jinping, Russian President Vladimir Putin, and other world leaders are gathering in Bishkek, Kyrgyzstan, for the 26th Shanghai Cooperation Organisation (SCO) summit. This two-day event marks the bloc's 25th anniversary, focusing on key issues such as security, trade, and regional conflicts among member states and partners.",
-        "wordCount": 53
-      },
-      {
-        "title": "PM Modi likely to hold bilateral talks with Iranian president",
-        "url": "https://timesofindia.indiatimes.com/india/pm-modi-likely-to-hold-bilateral-talks-with-iranian-president/articleshow/133636865.cms",
+        "title": "Meet Olivia Shone, the 19-year-old who built a $600,000 investment house after she began saving at 16, while serving in Australia’s military and studying law",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/meet-olivia-shone-the-19-year-old-who-built-a-600000-investment-house-after-she-began-saving-at-16-while-serving-in-australias-military-and-studying-law/articleshow/133650108.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133636875,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-30T21:16:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-133650193,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-31T12:30:00Z",
         "category": "world",
-        "summary": "PM Narendra Modi is expected to hold a bilateral meeting with Iranian President Masoud Pezeshkian during the SCO summit in Kyrgyzstan on Monday. This meeting would mark their first discussion since the outbreak of the war in the Middle East. The talks aim to strengthen ties between India and Iran amid ongoing regional developments and geopolitical challenges.",
-        "wordCount": 57
+        "summary": "Nineteen-year-old Olivia Shone has purchased a four-bedroom investment house in Warragul, Victoria, valued at $600,000. She began saving at age 16 while serving in the Australian military and studying law. Shone's childhood was marked by her mother's death when she was 11, leading her to assist her father on their family farm and work at an equestrian facility.",
+        "wordCount": 58
+      },
+      {
+        "title": "‘Iran is DEAD!’ Trump declares Tehran a ‘failed nation’, claims no navy, no air force and 300% inflation as war escalates",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/iran-is-dead-trump-declares-tehran-a-failed-nation-claims-no-navy-no-air-force-and-300-inflation-as-war-escalates-article-14019126.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260831122546_Trump-Iran-New-9.jpg",
+        "publishedAt": "2026-08-31T12:26:07Z",
+        "category": "world",
+        "summary": "Trump labeled Iran a \"Failed Nation,\" asserting its military and economy are in decline, citing a lack of navy and air force, along with 300% inflation. His remarks followed missile strikes from Tehran in response to a recent US attack near the Strait of Hormuz. The escalating tensions highlight ongoing conflicts between the two nations.",
+        "wordCount": 55
+      },
+      {
+        "title": "Taliban makes $1 trillion lucrative offer to US in exchange for sanctions relief",
+        "url": "https://www.moneycontrol.com/world/taliban-makes-1-trillion-lucrative-offer-to-us-in-exchange-for-sanctions-relief-article-14019045.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260831111104_AFP__20220818__32GQ237__v2__HighRes__AfghanistanTalibanEconomy.jpg",
+        "publishedAt": "2026-08-31T11:11:25Z",
+        "category": "world",
+        "summary": "Afghanistan's Taliban government has proposed a $1 trillion deal to the United States, seeking sanctions relief in exchange for access to its extensive mineral resources. The Taliban aims to attract US investment in mining and other sectors while requesting the release of billions of dollars in frozen assets. This initiative marks an effort to improve relations with the US.",
+        "wordCount": 59
       }
     ],
     "business": [
       {
-        "title": "India’s mobile output is up 33X: Rs 62,500 Cr PLI 2.0 opens a new chapter for 2 stocks",
-        "url": "https://www.financialexpress.com/market/stock-insights/indias-mobile-output-is-up-33x-rs-62500-cr-pli-2-0-opens-a-new-chapter-for-2-stocks/4328494/",
-        "source": "financialexpress.com",
-        "image": "https://images.financialexpressdigital.com/2026/08/fsfhgvhjb.jpg",
-        "publishedAt": "2026-08-30T23:31:10Z",
-        "category": "business",
-        "summary": "India's mobile manufacturing sector is experiencing significant growth, with output increasing 33 times. The government's new Mobile Phone Manufacturing Scheme, or PLI 2.0, aims to enhance this growth by focusing on capturing a larger share of the value chain, rather than solely increasing phone production. The scheme has an investment outlay of ₹62,500 crore to support this initiative.",
-        "wordCount": 58
-      },
-      {
-        "title": "Record Dates This Week: India Glycols demerger, Multiple PSU stocks trade ex",
-        "url": "https://www.cnbctv18.com/photos/market/record-dates-this-week-coal-india-ntpc-procter-gamble-health-vadilal-gic-ongc-oil-india-share-price-19979928.htm",
-        "source": "CNBC TV18",
-        "image": "https://images.cnbctv18.com/uploads/2026/08/chatgpt-image-aug-30-2026-10-22-38-pm-1-2026-08-ae3c16ae9e913d8a9dedc294c4c0bb29.jpg?im=FitAndFill,width=1200,height=675",
-        "publishedAt": "2026-08-30T22:48:10Z",
-        "category": "business",
-        "summary": "Multiple state-run companies, including Coal India and ONGC, will trade ex-dividend this week, alongside various corporate actions from other firms. Additionally, India Glycols will trade ex-dividend due to the demerger of its multiple entities. A complete list of corporate actions scheduled for this week has been provided, highlighting significant financial events in the market.",
-        "wordCount": 54
-      },
-      {
-        "title": "Stocks to Watch Today: HDFC Bank, Avantel, Cipla, Max Estates, Clean Max, Axiscades, Aurobindo Pharma, NBCC, Augmont Enterprises in focus on 31 August",
-        "url": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-hdfc-bank-avantel-cipla-max-estates-clean-max-axiscades-aurobindo-pharma-nbcc-augmont-enterprises-in-focus-on-31-august-14018506.html",
+        "title": "GRT Jewellers to acquire 74% stake of Tribhovandas Bhimji Zaveri for Rs 1,034 crore",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/markets/grt-jewellers-to-acquire-74-stake-of-tribhovandas-bhimji-zaveri-for-rs-1-034-crore-14019120.html",
         "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2024/03/sensex1-1.jpg",
-        "publishedAt": "2026-08-30T20:34:55Z",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260831121939_tbz.jpg",
+        "publishedAt": "2026-08-31T12:20:07Z",
         "category": "business",
-        "summary": "On August 31, 2026, several stocks will be in focus, including HDFC Bank, Cipla, Axiscades Technologies, Max Estates, Avantel, Clean Max Enviro Energy Solutions, Aurobindo Pharma, Genus Power Infrastructures, Religare Enterprises, and Augmont Enterprises. Investors are advised to monitor these companies for potential market movements and developments.",
-        "wordCount": 47
+        "summary": "GRT Jewellers announced its acquisition of a 74% stake in Tribhovandas Bhimji Zaveri for up to Rs 1,034 crore. Additionally, GRT will initiate an open offer for an extra 26% stake, in accordance with SEBI regulations. This strategic move aims to strengthen GRT's position in the jewellery market, as confirmed by a joint statement from both companies.",
+        "wordCount": 57
+      },
+      {
+        "title": "Milky Mist Q1 results: Net profit jumps over 1,000% to Rs 64.5 crore, revenue rises 45%",
+        "url": "https://www.moneycontrol.com/news/business/earnings/milky-mist-q1-results-net-profit-jumps-over-1-000-to-rs-64-5-crore-revenue-rises-45-14019100.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260819044629_milky-mist.jpg",
+        "publishedAt": "2026-08-31T12:04:38Z",
+        "category": "business",
+        "summary": "Milky Mist Dairy Food Ltd reported a standalone net profit of Rs 64.5 crore for Q1, ending June 30, 2026, marking an increase of over 1,000%. Revenue also rose by 45%, driven by strong sales across its entire product portfolio. The results reflect broad-based growth, indicating a successful quarter for the company in the dairy sector.",
+        "wordCount": 56
+      },
+      {
+        "title": "Old Monk maker agrees to modify bottle labels after Bombay High Court questions 7-year age claims",
+        "url": "https://www.barandbench.com/news/old-monk-maker-agrees-to-modify-bottle-labels-after-bombay-high-court-questions-7-year-age-claims",
+        "source": "Bar and Bench",
+        "image": "https://cf-images.assettype.com/barandbench%2F2022-12%2Fb6c57cce-7369-47c5-80c0-a43996260ed3%2F24.jpg?rect=0%2C72%2C1920%2C1008&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-08-31T12:02:51Z",
+        "category": "business",
+        "summary": "The Bombay High Court has ordered the Old Monk rum maker to modify its bottle labels after questioning claims of a seven-year aging process. The court criticized the fine print regarding added flavors, stating it misleads consumers. The court denied interim relief against the FSSAI's stop-sale order in Maharashtra, emphasizing the importance of clear labeling for public understanding.",
+        "wordCount": 58
       }
     ],
     "technology": [
       {
-        "title": "Gamescom 2026 draws 368,000 visitors from 131 countries",
-        "url": "https://gamesbeat.com/gamescom-draws-368000-visitors-from-131-countries/",
-        "source": "GamesBeat",
-        "image": "https://gamesbeat.com/wp-content/uploads/2026/09/gamescom-crowd.jpg",
-        "publishedAt": "2026-08-30T18:45:36Z",
+        "title": "Android 17 QPR2 Beta 4 fixes an APK sideloading pain point",
+        "url": "https://www.androidauthority.com/android-17-qpr2-beta-4-apk-sideloading-permissions-3704842/",
+        "source": "androidauthority.com",
+        "image": "https://www.androidauthority.com/wp-content/uploads/2026/02/android-17-logo-hero-pixel-10-pro-fold-2-watermark-scaled.jpg",
+        "publishedAt": "2026-08-31T12:29:00Z",
         "category": "technology",
-        "summary": "Gamescom 2026 attracted 368,000 visitors from 131 countries, marking a 6% increase from the previous year's attendance of 357,000. While it did not set a new record, the event showcased a more international presence than ever before. The growth reflects a continuing interest in gaming events, despite falling short of the previous peak attendance figures.",
-        "wordCount": 55
+        "summary": "Android 17 QPR2 Beta 4 introduces improvements for APK sideloading, enhancing security with one-time permissions and simplified inline prompts. Previously, users faced an all-or-nothing toggle for app installation privileges, which remained active until manually revoked. The update aims to streamline the process, making it easier for users to manage APK installation permissions without navigating through multiple settings.",
+        "wordCount": 57
       },
       {
-        "title": "Fable's Main Quest Will Take About 20 Hours to Beat",
-        "url": "https://in.ign.com/fable-next-gen/270537/fables-main-quest-will-take-about-20-hours-to-beat",
-        "source": "IGN India",
-        "image": "https://sm.ign.com/t/ign_in/news/f/fables-mai/fables-main-quest-will-take-about-20-hours-to-beat_1a83.1200.jpg",
-        "publishedAt": "2026-08-30T18:44:36Z",
+        "title": "Sony Gets Fans Hopes Up With September 2026 State Of Play",
+        "url": "https://kotaku.com/september-state-of-play-playstation-showcase-has-been-revealed-with-fans-hopping-intergalactic-the-heretic-prophet-makes-an-appearence-2000729844",
+        "source": "Kotaku",
+        "image": "https://kotaku.com/app/uploads/2026/08/prophet.jpg",
+        "publishedAt": "2026-08-31T12:26:04Z",
         "category": "technology",
-        "summary": "Fable's main quest is estimated to take approximately 20 hours to complete, according to Playground Games. In addition to the main storyline, players can expect around 15-20 hours of side quests and open-world exploration. The game features limitless life systems, allowing players to engage in various activities beyond the main quest, extending gameplay significantly if desired.",
+        "summary": "Sony has announced a September PlayStation State of Play Showcase to launch the fall gaming season. The event will feature a detailed look at Final Fantasy VII Revelation. Fans are eager to see updates on Sony's first-party games, including Intergalactic. The back-to-back broadcasts aim to generate excitement among the gaming community as new content is revealed.",
         "wordCount": 56
       },
       {
-        "title": "Microsoft breaks mouse cursors in Windows 11 with a new update, per reports",
-        "url": "https://tech.sportskeeda.com/laptops/news-microsoft-breaks-mouse-cursors-windows-11-new-update-per-reports",
-        "source": "Sportskeeda Tech",
-        "image": "https://staticg.sportskeeda.com/editor/2026/08/d73bd-17881123682129-1920.jpg",
-        "publishedAt": "2026-08-30T18:22:07Z",
+        "title": "Samsung Galaxy Z Flip 8 Review: Brilliantly Compact, Signifcant Improvements, Familiar Compromises",
+        "url": "https://www.smartprix.com/bytes/samsung-galaxy-z-flip-8-review-with-pros-and-cons/",
+        "source": "smartprix.com",
+        "image": "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2026/08/38-1-scaled.jpg?ssl=1&quality=80&w=1200",
+        "publishedAt": "2026-08-31T12:12:28Z",
         "category": "technology",
-        "summary": "Microsoft's recent KB5120998 update for Windows 11 has reportedly caused mouse cursor functionality issues for users. This essential feature is malfunctioning, impacting the ability to operate PCs effectively. The company has acknowledged the problem after receiving numerous complaints from users. Microsoft is expected to address the issue in a future update to restore normal cursor functionality.",
-        "wordCount": 56
+        "summary": "The Samsung Galaxy Z Flip 8 offers significant improvements over its predecessors, featuring a refined hinge, less visible crease, and a cover screen capable of running real apps. This model enhances the flip-phone experience while maintaining familiar compromises. Overall, it is considered the most polished version in the Galaxy Z Flip lineup, focusing on refinement rather than major changes.",
+        "wordCount": 59
       }
     ],
     "sports": [
       {
-        "title": "'Part of the problem' - Michael Carrick told he must urgently replace Man Utd star after dismal display",
-        "url": "https://www.goal.com/en-gb/lists/part-problem-michael-carrick-told-urgently-replace-man-utd-star-dismal-display/blta5667350c360f6f2",
-        "source": "Goal.com",
-        "image": "https://assets.goal.com/images/v3/getty-2290431711/crop/MM5DINZQGI5DENRUGU5G433XMU5DAORRGY3Q====/GettyImages-2290431711.jpg",
-        "publishedAt": "2026-08-30T21:34:27Z",
+        "title": "19 title at CISCE Regional Cricket Tournament",
+        "url": "https://www.tribuneindia.com/news/haryana/haryana-win-u-19-title-at-cisce-regional-cricket-tournament/",
+        "source": "The Tribune",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjNmNjY2QwLWE1MzctMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+        "publishedAt": "2026-08-31T12:27:59Z",
         "category": "sports",
-        "summary": "Manchester United manager Michael Carrick has been advised to urgently replace a struggling defender following a poor performance in a 5-2 victory against Ipswich Town. Despite the win, pundits criticized the team's defensive weaknesses, highlighting that the defender was \"part of the problem.\" The match saw United concede an early goal from Leif Davis, raising concerns about their defense.",
-        "wordCount": 59
-      },
-      {
-        "title": "Lamine Yamal getting back to ‘top level’, Barcelona coach Flick says",
-        "url": "https://www.aljazeera.com/sports/2026/8/30/lamine-yamal-getting-back-to-top-level-barcelona-coach-flick-says",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8ae3f92f-1787487225_7f4d2c-1787487253.jpg?resize=1200%2C630&quality=80",
-        "publishedAt": "2026-08-30T21:33:54Z",
-        "category": "sports",
-        "summary": "Barcelona coach Hansi Flick stated that Lamine Yamal is regaining his \"top level\" ahead of the upcoming La Liga match against Rayo Vallecano. The 19-year-old faced challenges during the season opener against Elche but showed improvement in his performance against Athletic Bilbao. Flick's comments highlight the coach's optimism regarding Yamal's development and contributions to the team.",
+        "summary": "The CISCE Regional Cricket Tournament 2026, held at Adarsh School in Karnal, concluded after two days of matches. The event featured teams from 11 zones, including Haryana, Amritsar, Ludhiana, Gurdaspur, Delhi NCR, Moga, Muktsar, Hoshiarpur, Himachal, Jalandhar, and Chandigarh. Competitions were conducted in the Under-17 and Under-19 Boys categories, showcasing emerging cricket talent across the regions.",
         "wordCount": 56
       },
       {
-        "title": "Revanth Plans Cricket Stadium In Future City",
-        "url": "https://www.deccanchronicle.com/southern-states/telangana/revanth-plans-cricket-stadium-in-future-city-1983593",
-        "source": "Deccan Chronicle",
-        "image": "https://www.deccanchronicle.com/h-upload/2026/07/28/2080012-revanth-reddy.jpg",
-        "publishedAt": "2026-08-30T19:44:36Z",
+        "title": "Duleep Trophy: Tilak Varma, Shreyas Gopal script turnaround",
+        "url": "https://www.cricbuzz.com/cricket-news/140020/duleep-trophy-tilak-varma-shreyas-gopal-script-turnaround",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1064891/tilak-varmas-century-helped-south-zone-secure-the-first-innings-lead.jpg",
+        "publishedAt": "2026-08-31T12:25:39Z",
         "category": "sports",
-        "summary": "The BCCI plans to construct a world-class cricket stadium in Bharat Future City, Hyderabad, covering 100 acres. The stadium aims to match the seating capacity of the 1.32-lakh seater Narendra Modi Stadium in Gujarat. Chief Minister A. Revanth has initiated the project, with the BCCI responsible for both construction and operational costs. Preparations are currently underway.",
+        "summary": "In the Duleep Trophy semifinal, South Zone staged a remarkable comeback against North Zone, led by Tilak Varma and Shreyas Gopal. After East Zone's Vaibhav Sooryavanshi scored 92, East Zone collapsed from 161/0 to 266 all out. South Zone finished the first innings with a lead, recovering from an initial score of 40/2 by stumps.",
+        "wordCount": 55
+      },
+      {
+        "title": "Mohammad Abbas doesn’t mince words, admits Pakistan are playing bad cricket: ‘Everyone is worried’",
+        "url": "https://www.hindustantimes.com/cricket/mohammad-abbas-doesn-t-mince-words-admits-pakistan-are-playing-bad-cricket-everyone-is-worried-101788178318635.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/31/1600x900/logo/APTOPIX-England-Pakistan-Cricket-1_1788178492168_1788178502309_2315c4b8-d713-414e-9728-1ba9d347d7f9.jpg",
+        "publishedAt": "2026-08-31T12:24:41Z",
+        "category": "sports",
+        "summary": "Pakistan pacer Mohammad Abbas expressed concern over the team's poor performance, acknowledging that consecutive losses are troubling. Following a 194-run defeat to England in the second Test at Lord’s, Abbas highlighted the team's struggles, despite his personal achievement of taking nine wickets. This loss marks Pakistan's second straight defeat in the ongoing Test series against England.",
         "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Diabetes impacts men, women differently: Study",
-        "url": "https://timesofindia.indiatimes.com/india/diabetes-impacts-men-women-differently-study/articleshow/133636805.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133636815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-30T20:40:00Z",
+        "title": "How blood pressure intervention lowers dementia risk",
+        "url": "https://medicalbuyer.co.in/how-blood-pressure-intervention-lowers-dementia-risk/",
+        "source": "Medical Buyer",
+        "image": "https://medicalbuyer.co.in/wp-content/uploads/2026/08/How-blood-pressure-intervention-lowers-dementia-risk-.jpg",
+        "publishedAt": "2026-08-31T11:56:30Z",
         "category": "health",
-        "summary": "A study reveals that type 2 diabetes complications vary by gender. Men are more susceptible to heart and kidney diseases, while women face a higher risk of developing mental health issues. This research highlights the need for gender-specific approaches in managing diabetes and its associated complications, emphasizing the distinct health challenges posed by the condition for both men and women.",
-        "wordCount": 60
-      },
-      {
-        "title": "Andhra Pradesh: Healthy Habits Key To Good Health: Dr Manthena",
-        "url": "https://www.deccanchronicle.com/southern-states/andhra-pradesh/andhra-pradesh-healthy-habits-key-to-good-health-dr-manthena-1983508",
-        "source": "Deccan Chronicle",
-        "image": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8hbeu4gu538jk64a5rfsor5795-20231202001254.Medi.jpeg",
-        "publishedAt": "2026-08-30T13:14:56Z",
-        "category": "health",
-        "summary": "Naturopathy expert Dr. Manthena Satyanarayana Raju emphasized the importance of healthy living in Tirupati. He identified poor food habits, insufficient physical activity, and lack of rest as major contributors to health issues. Dr. Raju advocated for a return to natural living, highlighting that proper nutrition, adequate rest, and regular exercise are essential for maintaining overall good health.",
+        "summary": "A community-based trial in rural China demonstrated that an intensive blood-pressure lowering intervention significantly reduced dementia incidence compared to usual care. These findings were presented at the ESC Congress 2026, highlighting the potential of managing hypertension to mitigate dementia risk. The study is part of the China Rural Hypertension Control Program, addressing the growing global dementia prevalence.",
         "wordCount": 57
       },
       {
-        "title": "How to Protect Memory After Poor Sleep, According to New Study",
-        "url": "https://www.prevention.com/health/sleep-energy/a73554930/exercise-nap-memory-sleep-deprivation-study/",
-        "source": "Prevention",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/e1cb6a2d-9cb1-495e-8bc2-42835b266501.jpeg?crop=1xw:0.75xh;center,top&resize=1200:*",
-        "publishedAt": "2026-08-30T11:38:11Z",
+        "title": "Listening to deep sleep brain waves may reduce the progression of Alzheimer’s disease",
+        "url": "https://timesofindia.indiatimes.com/etimes/wellness/listening-to-deep-sleep-brain-waves-may-reduce-the-progression-of-alzheimers-disease/articleshow/133651009.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133651033,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-31T11:08:00Z",
         "category": "health",
-        "summary": "A recent study indicates that exercise and a 90-minute nap can help protect memory after 30 hours of sleep deprivation. Sleep deficiency is associated with various chronic health issues. The findings suggest that incorporating physical activity and short naps may mitigate some cognitive impairments caused by lack of sleep, highlighting the importance of maintaining memory health.",
-        "wordCount": 56
+        "summary": "A recent study suggests that listening to deep sleep brain waves may help reduce the progression of Alzheimer’s disease. Historically, scientists have thought little could be done to alter its course. This new finding indicates that enhancing sleep quality could potentially influence the impact of Alzheimer’s, offering a promising avenue for further research and therapeutic strategies in managing the disease.",
+        "wordCount": 60
       }
     ],
     "science": [
       {
-        "title": "NASA Inaugurates Deep Space Station 23",
-        "url": "https://www.miragenews.com/nasa-inaugurates-deep-space-station-23-1735518/",
-        "source": "Mirage News",
-        "image": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia26/pia26779/PIA26779.jpg?w=2200&h=1467&fit=clip&crop=faces%2Cfocalpoint",
-        "publishedAt": "2026-08-30T16:06:00Z",
+        "title": "SpaceX Falcon 9 stage slammed into Moon, carving 60-foot crater",
+        "url": "https://www.newsbytesapp.com/news/science/spacex-falcon-9-stage-slammed-into-moon-carving-60-foot-crater/tldr",
+        "source": "NewsBytes",
+        "image": "https://cf-cdn.newsbytesapp.com/assets/icons/2/favicon-16x16.png",
+        "publishedAt": "2026-08-31T12:22:49Z",
         "category": "science",
-        "summary": "NASA has officially inaugurated Deep Space Station 23, part of its Deep Space Network. The event featured a ribbon-cutting ceremony attended by leadership from NASA Headquarters and the Jet Propulsion Laboratory. This facility will enhance communication with spacecraft exploring distant celestial bodies, supporting ongoing and future missions. Deep Space Station 23 represents a significant advancement in space exploration capabilities.",
-        "wordCount": 59
+        "summary": "A SpaceX Falcon 9 rocket stage collided with the Moon on August 5, creating a 60-foot-wide crater near the Einstein crater. The impact, occurring at a speed of 8,694 km/h, involved a piece weighing approximately 3,629 kg. NASA's images show the disturbed surface material resulting from the high-speed collision, highlighting the ongoing effects of space debris.",
+        "wordCount": 56
       },
       {
-        "title": "Roman Telescope Begins Quest to Reveal Evolving Universe",
-        "url": "https://eos.org/research-and-developments/roman-telescope-begins-quest-to-reveal-evolving-universe",
-        "source": "eos.org",
-        "image": "https://eos.org/wp-content/uploads/2026/08/nancy-grace-roman-space-telescope.png",
-        "publishedAt": "2026-08-30T11:28:59Z",
+        "title": "SpaceX rocket crashes into Moon and leaves a giant 60-foot crater",
+        "url": "https://www.moneycontrol.com/world/spacex-rocket-crashes-into-moon-and-leaves-a-giant-60-foot-crater-article-14019098.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260830151439_2026-08-30T133547Z_1_LYNXMPEM7T0B6_RTROPTP_4_SPACE-NASA-TELESCOPE.jpg",
+        "publishedAt": "2026-08-31T12:01:52Z",
         "category": "science",
-        "summary": "The Nancy Grace Roman Space Telescope was launched today, marking the beginning of a new era in space exploration. This telescope aims to enhance our understanding of the evolving universe by observing distant galaxies and cosmic phenomena. It is expected to provide valuable data that could reshape current scientific knowledge and contribute significantly to various fields of astrophysics.",
+        "summary": "A SpaceX Falcon 9 rocket stage crashed into the Moon on August 5, creating a crater approximately 60 feet wide. NASA's Lunar Reconnaissance Orbiter captured images showing the impact site, which is less than 10 feet deep. The incident highlights the increasing presence of human-made objects on the lunar surface and their potential effects on the Moon's environment.",
         "wordCount": 58
       },
       {
-        "title": "A Chicago physicist proposed a way to create quantum images 20 years ago; after two decades waiting for experimental proof, superconductors have finally produced the effect he predicted",
-        "url": "https://timesofindia.indiatimes.com/science/a-chicago-physicist-proposed-a-way-to-create-quantum-images-20-years-ago-after-two-decades-waiting-for-experimental-proof-superconductors-have-finally-produced-the-effect-he-predicted/articleshow/133625281.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133625519,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-08-30T09:30:00Z",
+        "title": "Optical control of electrons in a Floquet topological insulator",
+        "url": "https://www.nature.com/articles/s41567-026-03429-7?error=cookies_not_supported&code=ae5f18c5-2fc5-4432-b9df-fbaa5e60d028",
+        "source": "Nature",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41567-026-03429-7/MediaObjects/41567_2026_3429_Fig1_HTML.png",
+        "publishedAt": "2026-08-31T09:57:06Z",
         "category": "science",
-        "summary": "Dirk Morr, a physicist at the University of Illinois Chicago, proposed a quantum imaging technique using superconductors 20 years ago. Recent experiments have finally demonstrated the effect he predicted, confirming his theoretical work. This advancement in quantum imaging could enhance our understanding of electron behavior and lead to new applications in various fields, including materials science and technology.",
-        "wordCount": 58
+        "summary": "Researchers have achieved optical control of electrons in light-dressed graphene, creating a Floquet topological insulator using circularly polarized femtosecond laser pulses. This method, termed harmonic Floquet spectroscopy, allows dynamic manipulation of electrons, leading to phenomena such as photocurrent circular dichroism and valley-polarized currents. The findings suggest potential advancements in ultrafast control within topological electronics and quantum materials.",
+        "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Cancer Horoscope Today: August 31, 2026",
-        "url": "https://www.vogue.in/content/cancer-horoscope-today-august-31-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04b32f6a7f382599b6a/16:9/w_1280,c_limit/4-Cancer_16;9.png",
-        "publishedAt": "2026-08-31T00:20:00Z",
+        "title": "Monday Stories: Toxic Huge Disaster, Irumudi Epic Blockbuster!",
+        "url": "https://www.gulte.com/featured/429192/monday-stories-toxic-huge-disaster-irumudi-epic-blockbuster",
+        "source": "gulte.com",
+        "image": "https://cdn.gulte.com/wp-content/uploads/2026/08/monday-28-Web-1.jpg",
+        "publishedAt": "2026-08-31T11:46:04Z",
         "category": "entertainment",
-        "summary": "Cancer individuals are undergoing a transformation, converting pain into light. Each person is experiencing this change uniquely after a prolonged, challenging period. The message encourages Cancers to embrace this transition and not fear emerging from their struggles. A sense of hope and renewal is on the horizon, suggesting that brighter days are approaching after the darkness.",
-        "wordCount": 56
+        "summary": "In this week's Monday Stories, the film \"Vishwanath and Sons\" is nearing its break-even point, currently grossing 198 Crore after three weekends. Despite this progress, the movie is considered an underperformer and a financial loss in the Tamil film industry. The article discusses the film's performance and its implications for future projects in the region.",
+        "wordCount": 55
       },
       {
-        "title": "Pisces Horoscope Today: August 31, 2026",
-        "url": "https://www.vogue.in/content/pisces-horoscope-today-august-31-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
-        "publishedAt": "2026-08-31T00:20:00Z",
+        "title": "Shalini Pandey reacts to her viral AI-generated obscene video: 'It is deeply disturbing to see, I strongly condemn this kind of abuse'",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shalini-pandey-reacts-to-her-viral-ai-generated-obscene-video-it-is-deeply-disturbing-to-see-i-strongly-condemn-this-kind-of-abuse/articleshow/133651757.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133651983,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-08-31T11:45:00Z",
         "category": "entertainment",
-        "summary": "Pisces individuals are encouraged to free themselves from current struggles and chaos. The horoscope suggests that understanding the nature of opportunities—neither fully closed nor open—can help navigate life's challenges. Recognizing this perspective may empower Pisces to choose their path forward, emphasizing personal growth and resilience. Embracing this mindset is essential for finding peace and direction in their journey.",
+        "summary": "Shalini Pandey has condemned a viral AI-generated video that falsely depicts her in an obscene manner. The actress described the situation as deeply disturbing and categorically dismissed the clip as fake. Pandey emphasized the harmful nature of such abuse and expressed her disapproval of its circulation on social media platforms, highlighting the need for accountability in digital content.",
         "wordCount": 58
       },
       {
-        "title": "Sagittarius Horoscope Today: August 31, 2026",
-        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-august-31-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
-        "publishedAt": "2026-08-31T00:20:00Z",
+        "title": "Sabyasachi just opened a lavish 26,000 square foot store in Delhi: Here's what true luxury actually means to him",
+        "url": "https://www.hindustantimes.com/lifestyle/fashion/sabyasachi-just-opened-a-lavish-26-000-square-foot-store-in-delhi-heres-what-true-luxury-actually-means-to-him-101788174092764.html",
+        "source": "hindustantimes.com",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/08/31/1600x900/logo/MixCollage-31-Aug-2026-04-43-PM-3090_1788174804253_1788174815630_3a8d1378-10bd-4e2f-a8af-6fb76fece59b.jpg",
+        "publishedAt": "2026-08-31T11:33:52Z",
         "category": "entertainment",
-        "summary": "Sagittarius horoscope for August 31, 2026, indicates positive cosmic influences. The alignment of the stars suggests favorable developments in personal matters. After a period of self-reflection, Sagittarians are encouraged to embrace the support of the cosmos. This alignment is expected to bring about beneficial changes and opportunities, signaling a time of growth and positive transformation.",
+        "summary": "Sabyasachi has opened a 26,000 square foot store in Delhi, emphasizing that true luxury is not merely transactional. The fashion designer believes in the importance of physical stores, even in a digital age, to enhance the luxury experience. His approach focuses on detail and storytelling, reflecting a commitment to creating a deeper connection with customers.",
         "wordCount": 55
       }
     ]
