@@ -1,208 +1,228 @@
 {
-  "updatedAt": "2026-09-03T12:31:14.151Z",
+  "updatedAt": "2026-09-04T00:30:59.316Z",
   "categories": {
     "world": [
       {
-        "title": "US President Donald Trump REACTS to Prince Harry and Meghan Markle’s UK move; says, ‘I wouldn't have taken them back'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/us-president-donald-trump-reacts-to-prince-harry-and-meghan-markles-uk-move-says-i-wouldnt-have-taken-them-back/articleshow/133722716.cms",
+        "title": "After Google and Apple Maps change 'Lake Ontario' name to 'Lake America' for US users; one Map app has refused to follow what Trump calls 'ratified, binding' rule",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-google-and-apple-maps-change-lake-ontario-name-to-lake-america-for-us-users-one-map-app-has-refused-to-follow-what-trump-calls-ratified-binding-rule/articleshow/133736161.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133722725,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-03T00:28:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-133736218,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-03T12:20:00Z",
         "category": "world",
-        "summary": "US President Donald Trump commented on Prince Harry and Meghan Markle's return to the UK, stating he would not have welcomed them back. He criticized their treatment of the royal family, reflecting on their six-year absence. The couple recently arrived in Birmingham with their children, Prince Archie and Princess Lilibet, marking a significant moment in their public lives.",
+        "summary": "Google Maps and Apple Maps have renamed Lake Ontario to \"Lake America\" for users in the US, adhering to federal directives. However, one mapping app has refused to comply, maintaining the original name. This defiance has propelled the app to the top ranking on the US App Store, rising from eighth place, highlighting a divergence in response to government mandates.",
+        "wordCount": 60
+      },
+      {
+        "title": "'Syria is pitching itself as an alternative to Hormuz': Trump backs a new oil route amid Iran war",
+        "url": "https://www.moneycontrol.com/world/syria-is-pitching-itself-as-an-alternative-to-hormuz-trump-backs-a-new-oil-route-amid-iran-war-article-14022014.html",
+        "source": "moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260903115055_trump-new-003.jpg",
+        "publishedAt": "2026-09-03T11:51:23Z",
+        "category": "world",
+        "summary": "US President Donald Trump has identified Syria as a potential alternative to the Strait of Hormuz for oil transportation. He referenced a media report discussing a proposed pipeline and increasing oil truck traffic that could position Damascus as a new regional energy hub. This development comes amid ongoing tensions related to Iran and its influence in the region.",
         "wordCount": 58
       },
       {
-        "title": "Mamdani imposes one-year ban on AI for most NYC students",
-        "url": "https://www.thestar.com.my/tech/tech-news/2026/09/03/mamdani-imposes-one-year-ban-on-ai-for-most-nyc-students",
-        "source": "The Star",
-        "image": "https://apicms.thestar.com.my/uploads/images/2026/09/03/4090545.jpg",
-        "publishedAt": "2026-09-02T23:49:00Z",
+        "title": "Why William Ruto wants company out",
+        "url": "https://indianexpress.com/article/business/tata-chemicals-kenya-operations-william-ruto-10861817/",
+        "source": "The Indian Express",
+        "image": "https://images.indianexpress.com/2026/09/william-ruto-tata-express-photo.jpg",
+        "publishedAt": "2026-09-03T11:40:04Z",
         "category": "world",
-        "summary": "New York City officials have implemented a one-year ban on the use of artificial intelligence by students in public elementary and middle schools. This decision aims to establish guidelines for integrating new technology into the classroom. The moratorium reflects ongoing efforts by public officials to address the implications of AI in education and ensure appropriate usage among students.",
+        "summary": "Kenyan President William Ruto has ordered Tata Chemicals to cease operations in Kenya, citing the company's failure to benefit the Kajiado region. He questioned the necessity of foreign companies operating without contributing to local communities. Ruto announced plans to replace Tata Chemicals with two new companies, aiming to enhance local economic benefits and reduce dependency on foreign entities.",
         "wordCount": 58
-      },
-      {
-        "title": "2 killed, multiple injured in Minneapolis apartment shooting",
-        "url": "https://timesofindia.indiatimes.com/world/us/multiple-victims-2-police-officers-injured-in-minneapolis-shooting/articleshow/133722417.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133722423,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-02T22:54:00Z",
-        "category": "world",
-        "summary": "At least two people were killed and six others injured in a shooting at an apartment building in downtown Minneapolis. The incident occurred around 5:45 PM local time, according to officials. Emergency services responded to the scene, and investigations are ongoing to determine the circumstances surrounding the shooting. No further details about the victims or suspects have been released.",
-        "wordCount": 59
       }
     ],
     "business": [
       {
-        "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-        "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
-        "source": "VentureBeat",
-        "image": "https://images.ctfassets.net/jdtwqhzvc2n1/793zCnQpOvoBw5BJi4WMEg/17ad5955da7de9e22394bccfb75c0c91/upscalemedia-transformed.png?w=800&q=75",
-        "publishedAt": "2026-09-03T00:02:35Z",
+        "title": "Indian banks pitch FX sell/buy swaps to drain surplus liquidity, sources say",
+        "url": "https://economictimes.indiatimes.com/news/economy/finance/indian-banks-pitch-fx-sell/buy-swaps-to-drain-surplus-liquidity-sources-say/articleshow/133736300.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-133736325,width-1200,height-630,imgsize-164468,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-03T12:29:18Z",
         "category": "business",
-        "summary": "Google has introduced two versions of its 3.8 Flash model, including a standard Flash designed for agentic tasks and a Flash Cyber variant focused on vulnerability detection and patching. The Flash Cyber model is noted for its efficiency, outperforming larger models while maintaining lower costs, making it particularly beneficial for cybersecurity teams in their efforts to enhance security measures.",
+        "summary": "Indian banks proposed forex sell/buy swaps to mitigate excess rupee liquidity after discussions with the Reserve Bank of India. This suggestion follows a record high in banking system liquidity due to foreign currency deposits. The central bank possesses various tools for effective liquidity management. Lenders urged the RBI to consider the impact on bank margins when implementing other measures.",
         "wordCount": 59
       },
       {
-        "title": "Bata bids farewell to agency retainers after handing creatives to AI",
-        "url": "https://www.afaqs.com/news/digital/bata-bids-farewell-to-agency-retainers-after-handing-creatives-to-ai-12484820",
-        "source": "afaqs!",
-        "image": "https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/media_files/2026/09/02/untitled-design-40-2026-09-02-20-47-00.jpg",
-        "publishedAt": "2026-09-03T00:01:37Z",
+        "title": "Tim Cook shares the letters that he has been reading every single day since past 15 years: Every morning ...",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/tim-cook-shares-the-letters-that-he-has-been-reading-every-single-day-since-past-15-years-every-morning-/articleshow/133736272.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133736298,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-03T12:25:00Z",
         "category": "business",
-        "summary": "Bata has overhauled its marketing strategy by replacing traditional agency retainers with autonomous AI agents. These AI systems manage various tasks, including campaign creation, consumer engagement, and performance analysis. This shift reflects a growing trend among marketers to utilize AI for more comprehensive roles, moving beyond isolated assignments to fully integrate AI into their creative processes and operations.",
-        "wordCount": 58
+        "summary": "Tim Cook has transitioned from CEO of Apple to executive chairman after 15 years in leadership. He appointed John Ternus as his successor. Cook reflected on his tenure, highlighting a daily ritual of reading letters that has influenced his leadership style and helped maintain connections with employees and customers. This practice has been part of his routine for years.",
+        "wordCount": 59
+      },
+      {
+        "title": "Wai Wai bhujia under FSSAI scanner: Ajmer firm told to stop production, 32,000kg stock seized",
+        "url": "https://timesofindia.indiatimes.com/city/jaipur/wai-wai-bhujia-row-fssai-seizes-32107-kg-stock-halts-production-in-rajasthan/articleshow/133735842.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133736100,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-03T12:16:00Z",
+        "category": "business",
+        "summary": "The Food Safety and Standards Authority of India (FSSAI) has ordered CG Foods India Pvt Ltd to halt production of 'Veg Bhujia Namkeen' following inspections that revealed compliance issues. Additionally, the FSSAI seized 32,000 kilograms of the product. The action underscores the regulator's commitment to ensuring food safety standards are met in the manufacturing process.",
+        "wordCount": 55
       }
     ],
     "technology": [
       {
-        "title": "Dell's Product Portfolio Is Turning Into an AI Flywheel",
-        "url": "https://www.morningstar.com/company-reports/1498301-dells-product-portfolio-is-turning-into-an-ai-flywheel",
-        "source": "Morningstar",
-        "image": "https://www.morningstar.com/company-reports/:/[object Object]",
-        "publishedAt": "2026-09-02T23:12:22Z",
+        "title": "WhatsApp Video Calls Become a Privacy Risk: What Android Users Need to Know",
+        "url": "https://www.analyticsinsight.net/news/whatsapp-video-calls-become-a-privacy-risk-what-android-users-need-to-know",
+        "source": "Analytics Insight",
+        "image": "https://media.assettype.com/analyticsinsight%2F2026-09-03%2Fncrpc3df%2FWhatsApp-Android-loophole-may-expose-private-photos-without-unlocking-the-phone.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-09-03T12:26:18Z",
         "category": "technology",
-        "summary": "Dell is evolving its product portfolio to leverage artificial intelligence, creating a synergistic effect known as an AI flywheel. This strategy aims to enhance its offerings for both investment professionals and individual investors. The company markets various products and services through license agreements and subscriptions, with a focus on generating revenue from its investment management business.",
-        "wordCount": 56
+        "summary": "A security researcher revealed a privacy vulnerability in WhatsApp affecting certain locked Android phones, potentially exposing private photos. This issue, identified by Jose Rodriguez on September 1, allows unauthorized access to media files through a loophole. iPhone users are not impacted by this flaw. Users are advised to remain vigilant regarding their privacy settings on affected devices.",
+        "wordCount": 57
       },
       {
-        "title": "URBN Launches 25,000mAh Power Bank with 100W Fast Charging Support",
-        "url": "https://www.analyticsinsight.net/news/urbn-launches-25000mah-power-bank-with-100w-fast-charging-support",
-        "source": "Analytics Insight",
-        "image": "https://media.assettype.com/analyticsinsight%2F2026-09-02%2Fklohd2q2%2FURBN-launches-25000mAh-Mega-Stack-power-bank-with-100W-charging.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-09-02T23:00:00Z",
+        "title": "iPhone 18 series leaks: Dynamic Island, battery, A20 Pro chip and foldable details",
+        "url": "https://www.livemint.com/technology/iphone-18-series-leaks-dynamic-island-battery-a20-pro-chip-and-foldable-details-11788435678847.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/logo/iPhone_18_Pro_1787903264203_1787903271454_e2de808b-23f8-4a3b-a7a7-d5ac6b480ef1_1788435937232_5e16a47c-9f9f-4f7f-a4c4-1f316e359790_9097cf55-df2b-4879-abb1-d42d79d94ac6_c7e354d5-e43f-4157-b30d-5d783d660393.png",
+        "publishedAt": "2026-09-03T12:23:43Z",
         "category": "technology",
-        "summary": "URBN has introduced the Mega Stack 25,000mAh power bank, featuring 100W fast charging capability. It includes three output ports and a smart display, making it suitable for charging smartphones, tablets, laptops, and consoles. This power bank is designed for users who require reliable charging solutions while on the go, ensuring efficient power delivery for multiple devices.",
-        "wordCount": 56
+        "summary": "Leaks about the iPhone 18 series reveal features of the iPhone 18 Pro and Pro Max, including the Dynamic Island and battery capacity. The new A20 Pro chip will utilize a 2nm process. The iPhone 18 event is scheduled for September 9, with speculation regarding the pricing of Apple’s anticipated foldable iPhone Ultra also emerging.",
+        "wordCount": 55
+      },
+      {
+        "title": "Ai+ Opens Up Nxt Quantum OS with Transparent Software Versions and Network Diagnostics",
+        "url": "https://www.aninews.in/news/business/ai-opens-up-nxt-quantum-os-with-transparent-software-versions-and-network-diagnostics20260903174303/",
+        "source": "ANI News",
+        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260903121253-thumbnail-320x180-70.jpg",
+        "publishedAt": "2026-09-03T12:13:00Z",
+        "category": "technology",
+        "summary": "Ai+ Smartphone has launched Nxt Quantum OS v1.1, enhancing its privacy framework. The update provides users with improved visibility and control over application access to their devices and data. This release aims to strengthen user privacy and transparency in software versions and network diagnostics, reflecting Ai+’s commitment to user security and data management.",
+        "wordCount": 53
       }
     ],
     "sports": [
       {
-        "title": "11 coaches reset in last five years and still searching for answers: Inside Pakistan cricket’s never-ending coaching carousel",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/11-coaches-reset-in-last-five-years-and-still-searching-for-answers-inside-pakistan-crickets-never-ending-coaching-carousel/articleshow/133714661.cms",
+        "title": "‘India lost to Ireland. Has cricket ended?’: Mohsin Naqvi hits back at critics, defends Pakistan cricket shake-up",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/india-lost-to-ireland-has-cricket-ended-mohsin-naqvi-hits-back-at-critics-defends-pakistan-cricket-shake-up/articleshow/133736277.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133714888,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-03T00:30:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-133736333,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-03T12:27:00Z",
         "category": "sports",
-        "summary": "Pakistan cricket has experienced frequent coaching changes over the past five years, with 11 coaches replaced amid disappointing performances in series and tournaments. This cycle of management reshuffles often occurs after poor results, leading to a new coaching regime before the previous one has had sufficient time to implement changes. The pattern continues, reflecting ongoing challenges within the team.",
+        "summary": "Pakistan Cricket Board chairman Mohsin Naqvi responded to criticism of Pakistan cricket following recent defeats, questioning if such losses should signify the end of the sport in the country. He highlighted India's recent loss to Ireland as a parallel, suggesting that setbacks are part of the game and should not lead to drastic conclusions about a team's future.",
+        "wordCount": 58
+      },
+      {
+        "title": "After Messi and Aubameyang: another veteran retires from international football",
+        "url": "https://www.goal.com/en/news/after-messi-and-aubameyang-another-veteran-retires-from-international-football/blt96265167e932692b",
+        "source": "Goal.com",
+        "image": "https://assets.goal.com/images/v3/bltcf75ce48ae512b06/crop/MM5DGMZYGQ5DCOJQGQ5G433XMU5DAORRGU3A====/GettyImages-2286274187.jpg",
+        "publishedAt": "2026-09-03T11:58:16Z",
+        "category": "sports",
+        "summary": "Another veteran player has retired from international football, following recent announcements from prominent stars like Lionel Messi and Pierre-Emerick Aubameyang. This trend of high-profile retirements has gained attention, as several athletes conclude their international careers in a short span. The wave of retirements highlights a significant moment in the sport, marking the end of an era for these players.",
         "wordCount": 59
       },
       {
-        "title": "The Winners and Losers of 2026 Summer Transfer Window",
-        "url": "https://www.si.com/soccer/winners-losers-2026-summer-transfer-window",
-        "source": "Sports Illustrated",
-        "image": "https://images2.minutemediacdn.com/image/upload/c_crop,x_0,y_0,w_1919,h_1079/c_fill,w_1440,ar_1440:810,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/si/01m1hh1f1fsg21zam7kj.jpg",
-        "publishedAt": "2026-09-03T00:00:01Z",
+        "title": "‘It’s only a frikkin game’: Wasim Akram recalls helping Irfan Pathan before his anti-Pakistan posts",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/its-only-a-frikkin-game-wasim-akram-recalls-helping-irfan-pathan-before-his-anti-pakistan-posts/articleshow/133735299.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133735407,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-03T11:51:00Z",
         "category": "sports",
-        "summary": "The 2026 summer transfer window saw significant activity among Europe's top clubs and players, with many making headlines. However, not all teams and athletes secured the desired deals before the deadline. Premier League clubs were particularly prominent, but the outcomes varied, leaving some clubs and players in advantageous positions while others faced disappointment as the window closed.",
-        "wordCount": 57
-      },
-      {
-        "title": "Towhid Hridoy creates history with 350* in Bangladesh A game",
-        "url": "https://www.cricbuzz.com/cricket-news/140052/towhid-hridoy-creates-history-with-350*-in-bangladesh-a-game",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1066077/hridoy-became-the-first-bangladeshi-to-score-a-first-class-triple-century-outside-bangladesh.jpg",
-        "publishedAt": "2026-09-02T22:29:11Z",
-        "category": "sports",
-        "summary": "Towhid Hridoy made history by scoring an unbeaten 350 runs off 481 balls in a match against South Africa A, becoming the first Bangladeshi batter to achieve this milestone in first-class cricket. His innings included 27 fours and 10 sixes. Hridoy previously contributed to Bangladesh's Under-19 World Cup victory six and a half years ago.",
-        "wordCount": 55
+        "summary": "Wasim Akram has called for fans from India and Pakistan to separate past conflicts from cricket. He emphasized that the sport should not be overshadowed by historical tensions. Akram's remarks come in light of Irfan Pathan's controversial posts about Pakistan. He advocates for a more positive approach to the cricket rivalry, highlighting the importance of sportsmanship.",
+        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Wearable ECG monitor boosts arrhythmia detection after syncope",
-        "url": "https://www.healio.com/news/cardiology/20260902/wearable-ecg-monitor-boosts-arrhythmia-detection-after-unexplained-fainting",
-        "source": "Healio",
-        "image": "https://www.healio.com/~/media/slack-news/stock-images/cardiology/e/ecg-readings_177022367.jpg",
-        "publishedAt": "2026-09-02T23:41:01Z",
+        "title": "Janmashtami: Is Lord Krishna's favourite white butter healthy? Expert reveals 8 benefits and who should eat it carefully",
+        "url": "https://www.hindustantimes.com/lifestyle/health/janmashtami-is-lord-krishnas-favourite-white-butter-healthy-expert-reveals-8-benefits-and-who-should-eat-it-carefully-101788437445448.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/03/1600x900/logo/white_butter_1788437726355_6b2f31ec-5476-44f3-a9ff-b3af338c9951_1788437732055_548af865-3f80-4117-8cf6-7f62ce3341a5_48cdadde-e98e-4cf8-bec2-f032182c42b9_af793744-f8f2-43ed-917c-e2a945e7013d.jpg",
+        "publishedAt": "2026-09-03T12:24:56Z",
         "category": "health",
-        "summary": "The ASPIRED trial found that 14-day ECG monitoring after emergency department assessment for unexplained syncope did not reduce self-reported recurrent episodes at one year compared to standard care. However, the use of a wearable patch significantly increased the detection of serious arrhythmias, resulting in more patients receiving treatment. Additionally, mortality rates at one year were lower than with standard care.",
-        "wordCount": 60
+        "summary": "Janmashtami celebrations highlight white butter, or \"makhan,\" beloved by Lord Krishna. An expert outlines eight health benefits of white butter, emphasizing its nutritional value. However, moderation is crucial, as excessive consumption may lead to health issues. The article discusses who should enjoy it carefully, ensuring that devotees can appreciate this festive treat while being mindful of their dietary choices.",
+        "wordCount": 59
       },
       {
-        "title": "Biting down on a stick",
-        "url": "https://press.princeton.edu/ideas/biting-down-on-a-stick",
-        "source": "Princeton University Press",
-        "image": "https://press.princeton.edu/sites/default/files/styles/facebook/public/image/2026-09/EDIT_pexels-olly-3808005.png?h=7f6f6f3d&itok=VmQKV9sJ",
-        "publishedAt": "2026-09-02T19:38:10Z",
+        "title": "Q&A: With peptide supplements, marketing outpaces the medicine",
+        "url": "https://medicalxpress.com/news/2026-09-qa-peptide-supplements-outpaces-medicine.html",
+        "source": "Medical Xpress",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/with-peptide-supplemen.jpg",
+        "publishedAt": "2026-09-03T12:20:06Z",
         "category": "health",
-        "summary": "Kate Clancy, author of \"Pregnancy Interrupted,\" explores pregnancy loss and its realities, contrasting them with medical industry assurances. In June, US Representative Marie Gluesenkamp Perez revealed her recent miscarriage and described her experience with misoprostol, a medication used to expel pregnancy tissue. Clancy's work aims to shed light on the emotional and scientific aspects of pregnancy loss.",
-        "wordCount": 57
+        "summary": "Peptides are short protein segments with specific functions, including insulin and GLP-1, which are FDA-approved. However, numerous unapproved peptide supplements are marketed with exaggerated claims, often outpacing scientific validation. This discrepancy raises concerns about safety and efficacy, as consumers may be misled by promotional materials that do not reflect the current medical understanding or regulatory standards regarding peptide use.",
+        "wordCount": 59
       },
       {
-        "title": "24 scrub typhus cases reported in Shimla in ongoing Monsoon season; Health Department issues advisory",
-        "url": "https://www.aninews.in/news/national/general-news/24-scrub-typhus-cases-reported-in-shimla-in-ongoing-monsoon-season-health-department-issues-advisory20260902233547/",
-        "source": "ANI News",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260902180520-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-09-02T18:05:00Z",
+        "title": "Bats carry dangerous viruses without getting sick. This may be why",
+        "url": "https://www.sciencedaily.com/releases/2026/09/260901010713.htm",
+        "source": "Science Daily",
+        "image": "https://www.sciencedaily.com/images/1920/bat-mouth-open.webp",
+        "publishedAt": "2026-09-03T12:19:13Z",
         "category": "health",
-        "summary": "Shimla has reported 24 confirmed cases of scrub typhus during the current monsoon season. The Chief Medical Officer, Yash Pal Ranta, has issued an advisory urging residents to remain vigilant against the disease, which is transmitted through bites from infected larval mites. These mites are commonly found in areas with bushes, grass, fields, and dense vegetation.",
-        "wordCount": 56
+        "summary": "Researchers at Tulane University, in collaboration with Stanford University and the CDC, found that over 500 species of vesper bats have two distinct sets of antibody genes. This unique immune system, detailed in a study published in Science Advances, may explain how bats can carry numerous viruses without becoming seriously ill, highlighting a previously unknown aspect of mammalian immunity.",
+        "wordCount": 59
       }
     ],
     "science": [
       {
-        "title": "SpaceX sends $4.3 billion Roman Space Telescope to look for 'weird, rare, unusual’ stars and planets; leaves NASA's director Nicky Fox in tears",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/spacex-sends-4-3-billion-roman-space-telescope-to-look-for-weird-rare-unusual-stars-and-planets-leaves-nasas-director-nicky-fox-in-tears/articleshow/133719195.cms",
-        "source": "timesofindia.indiatimes.com",
-        "image": "https://static.toiimg.com/thumb/msid-133719213,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-02T19:05:00Z",
+        "title": "Infineon HiRel Semiconductors Power NASA Roman Space Telescope Launch",
+        "url": "https://timestech.in/infineon-hirel-semiconductors-power-nasa-roman-space-telescope-launch/",
+        "source": "TimesTech",
+        "image": "https://timestech.in/wp-content/uploads/2026/09/Untitled-design-2026-09-03T162931.761.jpg",
+        "publishedAt": "2026-09-03T11:02:09Z",
         "category": "science",
-        "summary": "SpaceX successfully launched NASA's $4.3 billion Roman Space Telescope aboard a Falcon Heavy rocket from Cape Canaveral, Florida, on August 30, 2026. The telescope will embark on a three-month journey to observe unusual stars and planets. NASA's director, Nicky Fox, was emotionally moved by the launch, marking a significant milestone in astronomical research and exploration.",
+        "summary": "Infineon Technologies' radiation-hardened HiRel power devices are onboard NASA's Nancy Grace Roman Space Telescope, which successfully launched from Kennedy Space Center in Florida. This mission marks the deployment of NASA's next flagship space observatory, designed to enhance astronomical research. The HiRel Semiconductors are crucial for ensuring the telescope's performance in the challenging conditions of space.",
         "wordCount": 55
       },
       {
-        "title": "A Giant Hexagon Has Been Spinning at Saturn’s North Pole for Decades. Now, Scientists Found Its Twin",
-        "url": "https://gizmodo.com/a-giant-hexagon-has-been-spinning-at-saturns-north-pole-for-decades-now-scientists-found-its-twin-2000806285",
-        "source": "Gizmodo",
-        "image": "https://gizmodo.com/app/uploads/2026/09/Figure-3_South-Pole-Projection_No-text-graph-1200x675.jpg",
-        "publishedAt": "2026-09-02T18:00:34Z",
+        "title": "China’s rare earth cerium drug can kill gout pains once and for all: scientists",
+        "url": "https://www.scmp.com/news/china/science/article/3366237/chinas-rare-earth-cerium-drug-can-kill-gout-pains-once-and-all-scientists",
+        "source": "South China Morning Post",
+        "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/03/739375a4-8074-4ba2-8093-3479ed2bd713_9df3d5ef.jpg?itok=cL1cRUC9&v=1788426678",
+        "publishedAt": "2026-09-03T10:09:01Z",
         "category": "science",
-        "summary": "NASA's Voyager spacecraft discovered a giant hexagonal storm at Saturn's north pole in 1980. Recent Hubble images have revealed a similar decagonal-shaped wave around Saturn's south pole. This new formation adds to the understanding of Saturn's atmospheric phenomena, showcasing the planet's unique weather patterns. The hexagon has remained stable for decades, intriguing scientists studying planetary atmospheres.",
-        "wordCount": 56
+        "summary": "Chinese scientists have developed a nanoparticle drug using cerium, a rare earth element, which shows promise in treating gout. In rat trials, the drug effectively reduced joint inflammation and cartilage damage associated with this painful arthritis. With over 55 million people affected by gout globally in 2020, this treatment could provide a long-lasting solution for those suffering.",
+        "wordCount": 57
       },
       {
-        "title": "Night sky events NASA says to watch this September",
-        "url": "https://www.ourmidland.com/news/article/september-skywatch-2026-22414351.php",
-        "source": "Midland Daily News",
-        "image": "https://s.hdnux.com/photos/01/67/17/25/31257970/3/rawImage.jpg",
-        "publishedAt": "2026-09-02T16:49:02Z",
+        "title": "Synthetic Biology Meets AI in Initiative To Design Molecules",
+        "url": "https://www.technologynetworks.com/tn/articles/ai-biodesign-initiative-aims-to-design-proteins-nature-never-produced-416150",
+        "source": "Technology Networks",
+        "image": "https://assets.technologynetworks.com/production/dynamic/images/content/416150/structural-biology-data-computer-sd-82594-640x360.jpg?cb=20260902",
+        "publishedAt": "2026-09-03T10:06:48Z",
         "category": "science",
-        "summary": "NASA has announced several notable night sky events for September, including Venus reaching peak brightness, the fall equinox, and the Harvest Moon. These occurrences provide opportunities for skywatchers to observe celestial phenomena. The month promises a variety of interesting events, making it an exciting time for those interested in astronomy and the beauty of the night sky.",
+        "summary": "The AI BioDesign initiative aims to integrate artificial intelligence with synthetic biology to develop innovative biomolecules for health and sustainability. This collaboration seeks to harness the vast potential of molecular diversity, which has evolved over billions of years, to create new solutions that address pressing challenges in medicine and environmental sustainability, expanding the possibilities beyond natural evolution.",
         "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "US President Donald Trump REACTS to Prince Harry and Meghan Markle’s UK move; says, ‘I wouldn't have taken them back'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/us-president-donald-trump-reacts-to-prince-harry-and-meghan-markles-uk-move-says-i-wouldnt-have-taken-them-back/articleshow/133722716.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-133722725,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-03T00:28:00Z",
+        "title": "Samay Raina leaves Varun Dhawan speechless on India's Got Latent as he takes a dig at actor's trademark smile. Watch",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/samay-raina-leaves-varun-dhawan-speechless-on-indias-got-latent-as-he-takes-a-dig-at-actors-trademark-smile-watch-101788436422667.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/03/1600x900/logo/samay_raina_varun_dhawan_1788436673000_78bed5d8-5549-4b3c-99e1-ae03c99b68b4_1788436673224_6ee6f123-e1ee-4360-b82b-8f93330d6590_9c3de60b-142a-4130-95b9-d19cf772a741_dc0b4499-3a7b-4bc6-90d6-ddf9f0c49f8a.jpg",
+        "publishedAt": "2026-09-03T12:26:28Z",
         "category": "entertainment",
-        "summary": "US President Donald Trump commented on Prince Harry and Meghan Markle's recent return to the UK, stating he would not have welcomed them back. He criticized their treatment of the royal family, reflecting on their six-year absence. The couple arrived in Birmingham with their children, Prince Archie and Princess Lilibet, marking their official return to the UK.",
-        "wordCount": 57
-      },
-      {
-        "title": "Aries Horoscope Today: September 3, 2026",
-        "url": "https://www.vogue.in/content/aries-horoscope-today-september-3-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/16:9/w_1280,c_limit/1-Aries_16;9.png",
-        "publishedAt": "2026-09-03T00:20:00Z",
-        "category": "entertainment",
-        "summary": "On September 3, 2026, Aries is encouraged to step back and observe their surroundings. The focus is on the wharves, masts, and ships in the harbor, emphasizing the importance of scenic views and interconnectedness. This moment of reflection aims to help Aries gain perspective on their current situation and recognize opportunities for growth and connection in their life.",
+        "summary": "Samay Raina's debut episode of India's Got Latent Season 2 premiered on Netflix, featuring Varun Dhawan and other guests. During the show, Raina humorously commented on Dhawan's signature smile, leaving the actor momentarily speechless. The episode marks a new chapter for the series, blending comedy with celebrity appearances, and showcases Raina's unique hosting style in the entertainment landscape.",
         "wordCount": 58
       },
       {
-        "title": "Pisces Horoscope Today: September 3, 2026",
-        "url": "https://www.vogue.in/content/pisces-horoscope-today-september-3-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
-        "publishedAt": "2026-09-03T00:20:00Z",
+        "title": "BIG BREAKING: Karan Johar set to bankroll a tentpole divine epic on Radha Krishna; signs Sachin Ravi as the director",
+        "url": "https://www.bollywoodhungama.com/news/bollywood/big-breaking-karan-johar-set-to-bankroll-a-tentpole-divine-epic-on-radha-krishna-signs-sachin-ravi-as-the-director/",
+        "source": "Bollywood Hungama",
+        "image": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/09/Karan-Johar-set-to-bankroll-a-tentpole-divine-epic-on-Radha-Krishna-signs-Sachin-Ravi-as-the-director.jpg",
+        "publishedAt": "2026-09-03T12:12:00Z",
         "category": "entertainment",
-        "summary": "On September 3, 2026, Pisces individuals can expect a positive shift in their mindset. Doubts and hesitation that previously clouded their thoughts are dissipating, leading to increased self-assurance. This newfound confidence allows them to explore new opportunities and embrace a more optimistic outlook. Overall, the stars indicate a favorable period for personal growth and decision-making for Pisces.",
-        "wordCount": 57
+        "summary": "Karan Johar is set to produce a major film based on the divine story of Radha Krishna, with Sachin Ravi as the director. This project is part of Johar's extensive slate for 2027 and 2028. The film aims to be a significant addition to Bollywood, highlighting the epic narrative of Radha and Krishna's relationship on the big screen.",
+        "wordCount": 58
+      },
+      {
+        "title": "R Madhavan killed the audition for 'Swades', what an actor,' recalls writer, reveals the film was originally written for Aamir Khan, finally Shah Rukh Khan stepped in",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-killed-the-audition-for-swades-what-an-actor-recalls-writer-reveals-the-film-was-originally-written-for-aamir-khan-finally-shah-rukh-khan-stepped-in/articleshow/133735474.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-133735646,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-03T11:58:00Z",
+        "category": "entertainment",
+        "summary": "Ashutosh Gowariker’s film Swades, featuring Shah Rukh Khan, is celebrated for his performance. Initially, the role was intended for Aamir Khan, but after Madhavan's impressive audition, the project evolved. Writer Ashutosh Gowariker reflects on the film's development, highlighting the changes in casting that ultimately led to Khan portraying the lead character, Mohan Bhargava, on screen.",
+        "wordCount": 55
       }
     ]
   }
