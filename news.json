@@ -1,227 +1,227 @@
 {
-  "updatedAt": "2026-09-11T12:31:08.370Z",
+  "updatedAt": "2026-09-12T00:31:09.241Z",
   "categories": {
     "world": [
       {
-        "title": "What happens when AI becomes the first confidant in a mental health crisis?",
-        "url": "https://www.thehindu.com/sci-tech/health/what-happens-when-ai-becomes-the-first-confidant-in-a-mental-health-crisis/article71446395.ece",
+        "title": "West Asia conflict LIVE: Yemen's Houthis reach strategic island at mouth of Bab al-Mandeb",
+        "url": "https://www.thehindu.com/news/international/west-asia-conflict-us-iran-war-live-updates-houthis-iran-red-sea-strait-of-hormuz-september-11-2026/article71455463.ece",
         "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/2gjzal/article71446586.ece/alternates/LANDSCAPE_1200/AI-chatbots-areGDFG8QSB9.3.jpg.jpg",
-        "publishedAt": "2026-09-11T00:30:00Z",
+        "image": "https://th-i.thgim.com/public/incoming/e72c5p/article71455456.ece/alternates/LANDSCAPE_1200/TH23-Kalyan-HouGDMG9UJ6V.3.jpg.jpg",
+        "publishedAt": "2026-09-11T12:15:21Z",
         "category": "world",
-        "summary": "AI chatbots are increasingly becoming the first point of contact for individuals, especially youth, during mental health crises. They offer 24/7 availability, non-judgmental responses, and instant interaction. However, experts caution that these tools cannot fully replace human support and intervention, highlighting the importance of professional help in addressing complex emotional issues and ensuring effective mental health care.",
-        "wordCount": 57
+        "summary": "Yemen's Houthi fighters, backed by Iran, have seized a strategic island at the mouth of the Bab al-Mandeb strait. An adviser to Iran’s Supreme Leader, Mojtaba Khamenei, described this advance as a “resounding victory.” The situation continues to evolve, with updates on the West Asia conflict being reported as of September 11, 2026.",
+        "wordCount": 53
       },
       {
-        "title": "US lawmakers seek blacklist of three Indian IT firms over hacking allegations",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/us-lawmakers-seek-blacklist-of-three-indian-it-firms-over-hacking-allegations-article-14027493.html",
+        "title": "As US marks 25 years since September 11, Zohran Mamdani launches free online portal for documents, releasing the first 170,000 pages that prove ...",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-us-marks-25-years-since-september-11-zohran-mamdani-launches-free-online-portal-for-documents-releasing-the-first-170000-pages-that-prove-/articleshow/134062663.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134062727,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-11T11:11:00Z",
+        "category": "world",
+        "summary": "As the US commemorates the 25th anniversary of the September 11 attacks, New York Mayor Zohran Mamdani has launched a free online portal. This platform features documents related to the long-term health effects of the attacks, with the initial release including 170,000 pages of records. The initiative aims to provide accessible information for those affected.",
+        "wordCount": 55
+      },
+      {
+        "title": "BRICS’ share of global GDP set to rise to 28.5% by 2031: the bloc’s economic clout in 5 charts",
+        "url": "https://www.moneycontrol.com/news/business/economy/brics-share-of-global-gdp-set-to-rise-to-28-5-by-2031-the-bloc-s-economic-clout-in-5-charts-14028039.html",
         "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260910235443_US-lawmakers.jpg",
-        "publishedAt": "2026-09-10T23:55:31Z",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260911094116_brics-hotels.jpg",
+        "publishedAt": "2026-09-11T11:07:37Z",
         "category": "world",
-        "summary": "US lawmakers are pressing the Trump administration to blacklist three Indian IT firms linked to allegations of hack-for-hire operations and ongoing espionage against American individuals. The request highlights concerns over cybersecurity and foreign interference, as the firms are accused of facilitating unauthorized access to sensitive information. The situation underscores the growing scrutiny of foreign tech companies operating in the U.S.",
-        "wordCount": 60
-      },
-      {
-        "title": "Algeria cuts diplomatic ties with UAE",
-        "url": "https://www.dw.com/en/algeria-uae-cut-diplomatic-ties-airspace/a-79222141",
-        "source": "dw.com",
-        "image": "https://static.dw.com/image/79222224_6.jpg",
-        "publishedAt": "2026-09-10T22:22:02Z",
-        "category": "world",
-        "summary": "Algeria has severed diplomatic ties with the United Arab Emirates, citing \"provocative and hostile acts.\" The Algerian government accused the UAE of destabilizing nations including Libya, Sudan, and Mali. As part of this decision, Algeria will close its airspace to UAE flights starting Friday. This move marks a significant escalation in tensions between the two countries.",
-        "wordCount": 56
+        "summary": "BRICS is projected to increase its share of global GDP to 28.5% by 2031, up from approximately 27% in 2025. The bloc, primarily driven by China's economic strength and India's expanding economy and investments, currently has an economic value of $30.37 trillion compared to the world's $111.6 trillion. IMF forecasts indicate continued growth for BRICS.",
+        "wordCount": 55
       }
     ],
     "business": [
       {
-        "title": "KPMG audit revealed OP Bhatt suppressed key information as Coforge board chair",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/op-bhatt-quit-coforge-on-board-evaluation-rift/articleshow/134027130.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-134027332,width-1200,height-630,imgsize-95034,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-09-11T00:00:00Z",
+        "title": "Anthropic researcher Jacob Coxon quits over AI safety: What he warned and how OpenAI, Anthropic reacted",
+        "url": "https://www.livemint.com/ai/anthropic-researcher-jacob-coxon-quits-over-ai-safety-what-he-warned-and-how-openai-anthropic-reacted-11789120948963.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/AI_1789128481120_7813e5d5-c9ff-4e39-ae69-fa448029ff83_1789128481305_0255a0d0-219f-493c-8ced-46ca240590bc_16f989a0-003e-470a-943e-d89a8f82c239_d06106e8-87ff-4ffa-8c86-0ed34f165b19.png",
+        "publishedAt": "2026-09-11T12:10:27Z",
         "category": "business",
-        "summary": "OP Bhatt resigned as Coforge chairman following a KPMG audit that revealed he suppressed critical board evaluation findings. The audit identified inconsistencies in reports and noted that Bhatt's low scores were not disclosed to all directors. Investors raised concerns after KPMG pointed out these discrepancies and potential legal violations. Vivek Sharma has been appointed as interim chairperson.",
-        "wordCount": 57
+        "summary": "Jacob Coxon has resigned from Anthropic, citing concerns that AI companies prioritize rapid development over safety, which he believes poses risks to humanity. His departure highlights ongoing debates within the industry regarding the balance between innovation and ethical considerations. Both OpenAI and Anthropic have responded to these concerns, emphasizing their commitment to responsible AI development and safety measures.",
+        "wordCount": 58
       },
       {
-        "title": "Fed, eyeing inflation data, may lean toward a hike, traders bet",
-        "url": "https://www.reuters.com/markets/us/fed-eyeing-inflation-data-may-lean-toward-hike-traders-bet-2026-09-10/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/T7G75AVVIRIQ7BHI2MZG7ROUVY.jpg?auth=03968703b85b1651eb8ef0ed61699cc59417983de2859a1912b5d88831e7ba9e&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-09-10T21:18:51Z",
+        "title": "India's forex reserves surge $4.5 billion in a week to record high on robust capital inflows",
+        "url": "https://www.moneycontrol.com/news/business/economy/india-s-forex-surge-45-billion-on-week-to-hit-record-high-on-robust-capital-flows-14028084.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260207034327_rupee_dollar.jpg",
+        "publishedAt": "2026-09-11T11:57:41Z",
         "category": "business",
-        "summary": "Traders anticipate a higher likelihood of the Federal Reserve raising short-term borrowing costs at its upcoming meeting, following the release of key inflation data. Reports indicate that U.S. producer prices increased by 5.4% in August, contributing to expectations of a potential rate hike. The Fed's decision will be closely monitored as it assesses inflation trends.",
-        "wordCount": 55
-      },
-      {
-        "title": "Former Anthropic researcher Jacob Coxon resigns, warns AI could ‘kill us all by the end of the decade’: ‘They are racing straight to self-improving superintelligence’",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/former-anthropic-researcher-jacob-coxon-resigns-warns-ai-could-kill-us-all-by-the-end-of-the-decade-they-are-racing-straight-to-self-improving-superintelligence/articleshow/134029385.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134029475,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-10T20:42:00Z",
-        "category": "business",
-        "summary": "Former Anthropic researcher Jacob Coxon has resigned, expressing concerns about the rapid development of artificial intelligence. He warns that AI labs are \"racing straight to self-improving superintelligence,\" which could lead to catastrophic consequences. Coxon emphasizes the urgency of addressing these risks, suggesting that without proper oversight, AI could pose significant threats to humanity by the end of the decade.",
+        "summary": "India's foreign exchange reserves increased by $4.5 billion in the week ending September 4, reaching a record high of $785.7 billion. This marks the tenth consecutive week of growth, with total reserves rising nearly $120 billion during this period. The surge is attributed to robust capital inflows, bolstered by policy measures aimed at strengthening the country's balance of payments.",
         "wordCount": 59
+      },
+      {
+        "title": "GitLab urges users to patch max severity path traversal flaw",
+        "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
+        "source": "BleepingComputer",
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/02/04/GitLab.jpg",
+        "publishedAt": "2026-09-11T11:15:22Z",
+        "category": "business",
+        "summary": "GitLab has advised users to urgently patch their servers due to a critical path traversal vulnerability identified as CVE-2026-85706. This maximum-severity flaw was discovered by a security researcher known as 's3ntago' and reported through GitLab's bug bounty program. Users are encouraged to implement the necessary updates to safeguard their systems against potential exploitation.",
+        "wordCount": 53
       }
     ],
     "technology": [
       {
-        "title": "Spectroscopic Analysis of Graphene and Carbon Nanotubes",
-        "url": "https://www.azonano.com/article.aspx?ArticleID=7053",
-        "source": "AZoNano",
-        "image": "https://www.azonano.com/images/Article_Images/ImageForArticle_7053_17884178012099863.jpg",
-        "publishedAt": "2026-09-10T20:16:16Z",
+        "title": "Mercedes-AMG CLE 646 Spezialanfertigung Revealed With 637bhp; Limited to 30 Units",
+        "url": "https://www.autox.com/news/car-news/mercedes-amg-cle-646-spezialanfertigung-revealed-with-637bhp-limited-to-30-units-124515/",
+        "source": "autoX",
+        "image": "https://images.autox.com/uploads/2026/09/Mercedes-AMG-CLE-646-Spezialanfertigung-(1)-1789119362568.webp",
+        "publishedAt": "2026-09-11T11:22:00Z",
         "category": "technology",
-        "summary": "Microspectrophotometry has been developed for non-destructive characterization of graphene and carbon nanotubes (CNTs), which are significant nanomaterials in modern science. Graphene consists of a two-dimensional lattice of sp2-bonded carbon, while CNTs are one-dimensional cylinders formed by rolling a graphene sheet. This technique aids in research, quality control, and process development for these advanced materials.",
-        "wordCount": 54
+        "summary": "Mercedes-AMG has unveiled the CLE 646 Spezialanfertigung, a limited edition performance coupe featuring a 4.0-litre twin-turbo V8 engine producing 637bhp. It offers rear-wheel drive, a nine-speed gearbox, and a top speed of 310km/h. Limited to just 30 units, this model is based on the CLE 53 and boasts a wider carbon-fibre body and a minimalist interior.",
+        "wordCount": 56
       },
       {
-        "title": "Valheim 1.0 New Weapons and Armors",
-        "url": "https://beebom.com/valheim-weapons-and-armors/",
-        "source": "Beebom",
-        "image": "https://static.beebom.com/wp-content/uploads/2026/09/Valheim-1.0-new-weapons-and-armors.jpg",
-        "publishedAt": "2026-09-10T20:11:48Z",
+        "title": "Without The Witcher 3 Remaster, the Songs of the Past Expansion Would Not Have Been Possible - CDPR Reworked Engine and Mechanics",
+        "url": "https://ixbt.games/en/news/2026/09/11/434979-bez-remastera-the-witcher-3-nevozmozno-bylo-by-sozdat-rassirenie-songs-of-the-past-cdpr-dorabotala-dvizok-i-mexaniki.html",
+        "source": "ixbt.games",
+        "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1344937/media-a8qomlq9uesti7cy6ipd2qws.png",
+        "publishedAt": "2026-09-11T11:00:28Z",
         "category": "technology",
-        "summary": "Valheim 1.0 introduces new weapons and armors in the Deep North biome. Notable among them is the Nord Sword, a one-handed weapon weighing 0.8 with a durability of 400. It offers a slash damage of 170, block armor of 66, and various bonuses for parrying and backstabbing. Players can craft it using specific materials, enhancing gameplay options.",
-        "wordCount": 57
+        "summary": "CD Projekt RED stated that the remaster of The Witcher 3 was essential for the development of the upcoming expansion, Songs of the Past. The team enhanced various project aspects to bring their vision to life. This summer, they showcased gameplay for the expansion, which is also known as \"Ballads of the Past\" in Russian localization.",
+        "wordCount": 56
       },
       {
-        "title": "GPT Images 2.5 promises edits that leave the rest of your image alone",
-        "url": "https://thenewstack.io/gpt-images-2-5-sunburst-flare/",
-        "source": "The New Stack",
-        "image": "https://cdn.thenewstack.io/media/2026/09/c91d497d-openai-images-2.5.png",
-        "publishedAt": "2026-09-10T19:47:46Z",
+        "title": "Enterprise AI is waiting for its iPhone moment",
+        "url": "https://fastcompanyme.com/technology/enterprise-ai-is-waiting-for-its-iphone-moment/",
+        "source": "Fast Company Middle East",
+        "image": "https://fastcompanyme.com/wp-content/uploads/2026/09/Enterprise-AI-is-waiting-for-its-iPhone-moment.jpg",
+        "publishedAt": "2026-09-11T09:44:10Z",
         "category": "technology",
-        "summary": "OpenAI launched GPT Images 2.5, featuring two new models, Flare and Sunburst, designed for image editing. Flare focuses on speed, while Sunburst emphasizes precision, allowing users to modify specific areas of an image without affecting the rest. However, the real-world latency and cost differences between the two models remain unclear, leaving developers to explore their capabilities further.",
-        "wordCount": 57
+        "summary": "The corporate AI market is at a pivotal moment, akin to the early days of the iPhone. Currently, it struggles to gain traction due to visible complexities and challenges. For widespread adoption, a breakthrough is needed that simplifies and conceals these issues, similar to how Apple transformed technology perception with the iPhone's launch in 2007.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "How Aryna Sabalenka’s fiancé Georgios Frangulis built his own empire before becoming her biggest supporter",
-        "url": "https://timesofindia.indiatimes.com/sports/international-sports/how-aryna-sabalenkas-fianc-georgios-frangulis-built-his-own-empire-before-becoming-her-biggest-supporter/articleshow/134007725.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134008839,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-10T23:04:00Z",
+        "title": "Kohli charms Shinde with humility in London, shares ideas on sports, youth talent",
+        "url": "https://m.rediff.com/cricket/report/kohli-charms-shinde-with-humility-in-london-shares-ideas-on-sports-youth-talent/20260911.htm",
+        "source": "Rediff",
+        "image": "https://im.rediff.com/1200-630/cricket/2026/sep/11kohli-shinde-b.jpg",
+        "publishedAt": "2026-09-11T12:27:38Z",
         "category": "sports",
-        "summary": "Georgios Frangulis, Aryna Sabalenka's fiancé, is a Brazilian entrepreneur who built his own business empire before supporting her at Grand Slam events. He left law school to establish an açaí brand and has since expanded his entrepreneurial ventures. Frangulis's journey highlights his dedication to both his professional pursuits and his role as a supportive partner in Sabalenka's tennis career.",
+        "summary": "Virat Kohli met Maharashtra Chief Minister Eknath Shinde in London, where he showcased his humility. The two discussed various topics, including the development of Maharashtra, the importance of sports, and nurturing youth talent. Additionally, they touched upon Kohli's upcoming milestones in One Day Internationals (ODIs), highlighting the significance of sports in fostering youth engagement and talent development.",
+        "wordCount": 57
+      },
+      {
+        "title": "Power-hitting emerges as Bangladesh women's biggest concern in T20 cricket",
+        "url": "https://www.cricbuzz.com/cricket-news/140143/power-hitting-emerges-as-bangladesh-womens-biggest-concern-in-t20-cricket",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1071417/bangladesh-have-recorded-one-fifth-place-finish-and-two-semi-final-exits-in-the-last-three-editions-of-the-asia-cup-since-their-2018-triumph.jpg",
+        "publishedAt": "2026-09-11T12:23:18Z",
+        "category": "sports",
+        "summary": "The Bangladesh women's cricket team faces significant challenges, primarily due to a lack of power hitters in key batting positions and during crucial death overs. Concerns have also been raised regarding an over-reliance on a few key players, as well as issues related to pace bowling and overall fitness. These factors contributed to their recent exit from international competitions.",
         "wordCount": 59
       },
       {
-        "title": "US Open tennis 2026 women’s semi-finals: Rybakina beats Gauff to set up Sabalenka final - as it happened",
-        "url": "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates?page=with:block-6aa31a9a8f08f44a1b8d962a",
-        "source": "theguardian.com",
-        "image": "https://i.guim.co.uk/img/media/f01312f399f7410c49a8dbe9ec62fe1db2a0c1f2/534_0_5343_4274/master/5343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2487242d2494583fba878e4b6932b6eb",
-        "publishedAt": "2026-09-10T22:15:00Z",
+        "title": "CSK deny Dhoni bid to buy a stake; but he owns some shares anyway",
+        "url": "https://www.cricbuzz.com/cricket-news/140142/csk-deny-dhoni-bid-to-buy-a-stake-but-he-owns-some-shares-anyway-cricbuzzcom",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1071383/ms-dhoni-holds-more-than-one-lakh-shares-of-csk.jpg",
+        "publishedAt": "2026-09-11T11:24:50Z",
         "category": "sports",
-        "summary": "Elena Rybakina defeated Coco Gauff in the US Open women's semi-finals, advancing to the final against Aryna Sabalenka. Sabalenka expressed her happiness after a challenging quarter-final match against Linda Noskova. The upcoming final will showcase both players' resilience and skill as they compete for the prestigious title at the 2026 US Open.",
-        "wordCount": 52
-      },
-      {
-        "title": "US Open tennis 2026 women’s semi-finals: Rybakina beats Gauff to set up Sabalenka final - as it happened",
-        "url": "https://www.theguardian.com/sport/live/2026/sep/10/us-open-womens-semifinals-sabalenka-pegula-gauff-rybakina-live-updates?page=with:block-6aa356db8f08f44a1b8d97a1",
-        "source": "The Guardian",
-        "image": "https://i.guim.co.uk/img/media/f01312f399f7410c49a8dbe9ec62fe1db2a0c1f2/534_0_5343_4274/master/5343.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=2487242d2494583fba878e4b6932b6eb",
-        "publishedAt": "2026-09-10T22:15:00Z",
-        "category": "sports",
-        "summary": "Elena Rybakina defeated Coco Gauff in the US Open women's semi-finals, securing her place in the final against Aryna Sabalenka, who won against Jessica Pegula. The matches showcased strong performances, with Sabalenka's dominance noted by Pegula in her post-match comments. The final will feature Rybakina and Sabalenka, highlighting a competitive tournament leading to this anticipated matchup.",
-        "wordCount": 56
+        "summary": "Chennai Super Kings (CSK) management denied reports that Mahendra Singh Dhoni sought to buy a stake in the franchise. Despite this, Dhoni reportedly holds some shares in CSK. The management is currently awaiting his decision regarding the next steps, particularly in finalizing the new head coach for the team as they prepare for upcoming seasons.",
+        "wordCount": 55
       }
     ],
     "health": [
       {
-        "title": "Revolutionary IISc Antivenom Neutralizes Cobra Venom, Saves Mice in Groundbreaking Tests",
-        "url": "https://bangaloremirror.indiatimes.com/bangalore/others/iisc-teams-antivenom-tackles-cobra-venom-saves-mice-in-tests/articleshow/134022864.cms",
-        "source": "Bangalore Mirror",
-        "image": "https://static.toiimg.com/photo/imgsize-337982,msid-134023062/134023062.jpg",
-        "publishedAt": "2026-09-11T00:30:00Z",
+        "title": "That 'acidity' could be a heart attack: Medanta cardiologist Dr Nishant Tyagi shares warning signs you shouldn't miss",
+        "url": "https://www.hindustantimes.com/lifestyle/health/that-acidity-could-be-a-heart-attack-medanta-cardiologist-dr-nishant-tyagi-shares-warning-signs-you-shouldnt-miss-101789122884456.html",
+        "source": "hindustantimes.com",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/11/1600x900/logo/heart_attack_1789123154220_f40f6c87-d8bb-4232-bac0-c91d300962b3_1789123154495_525ee4bd-1fc2-4b17-9cc8-ea6247dac4b4_053844dd-18d8-442a-99a1-b899f0a953c7_b9902f01-9c99-4b0c-93bc-e69daed54dc9.png",
+        "publishedAt": "2026-09-11T11:01:15Z",
         "category": "health",
-        "summary": "Researchers at the Indian Institute of Science have developed an innovative antivenom using engineered antibody fragments that effectively neutralize cobra venom. Laboratory tests demonstrated its efficacy against venom from various cobra species, including spectacled and monocled cobras, as well as Indian king cobras. This advancement holds promise for addressing the significant issue of snakebites in India.",
-        "wordCount": 56
+        "summary": "Heart attacks can present with subtle symptoms, including nausea and feelings resembling acidity. Medanta cardiologist Dr. Nishant Tyagi emphasizes the importance of recognizing these warning signs, such as unusual fatigue during exercise or persistent exhaustion. Prompt medical attention is crucial, as early intervention can significantly improve outcomes and potentially save lives. Awareness of these signs is essential for prevention.",
+        "wordCount": 59
       },
       {
-        "title": "SGPGI hosts session on rising premature heart disease",
-        "url": "https://timesofindia.indiatimes.com/city/lucknow/sgpgi-hosts-session-on-rising-premature-heart-disease/articleshow/134029102.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134029100,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-10T20:16:00Z",
+        "title": "Brain Aneurysms May Be Twice as Common as Thought",
+        "url": "https://www.emjreviews.com/neurology/news/brain-aneurysms-may-be-twice-as-common-as-previously-thought/",
+        "source": "emjreviews.com",
+        "image": "https://www.emjreviews.com/wp-content/uploads/2026/09/Neuro-1pm.jpg",
+        "publishedAt": "2026-09-11T10:56:54Z",
         "category": "health",
-        "summary": "SGPGI hosted a session addressing the increasing incidence of premature heart disease in India, emphasizing lifestyle risks, the importance of early screening, and prevention strategies. The event featured discussions by cardiologists and physician-filmmakers, inspired by the documentary “The Brown Heart.” The session aimed to raise awareness about the factors contributing to this health issue among the Indian population.",
-        "wordCount": 58
+        "summary": "Unruptured brain aneurysms may affect one in 15 healthy adults, indicating a prevalence more than double that of previous estimates. This finding comes from the largest analysis conducted on the topic, which highlights a significant increase in the occurrence of these aneurysms over the past two decades. The research underscores the need for increased awareness and monitoring.",
+        "wordCount": 57
       },
       {
-        "title": "Aizawl, Sep 10 (UNI) Mizoram has the highest H…",
-        "url": "https://www.uniindia.com/east-india/health-mizoram-hiv-prevalence/175775",
-        "source": "uniindia.com",
-        "image": "https://www.uniindia.com/east-india/health-mizoram-hiv-prevalence/:/favicon.ico",
-        "publishedAt": "2026-09-10T18:54:31Z",
+        "title": "Why Bats Don’t Get Sick From Viruses They Carry",
+        "url": "https://indianexpress.com/article/lifestyle/pets-animals/bat-virus-rarely-affect-bats-experts-explain-unique-immune-system-10869595/",
+        "source": "The Indian Express",
+        "image": "https://images.indianexpress.com/2026/09/Untitled-design-14.png",
+        "publishedAt": "2026-09-11T08:23:33Z",
         "category": "health",
-        "summary": "Mizoram has the highest HIV/AIDS prevalence rate in India at 2.85%, according to the Mizoram State AIDS Control Society. A total of 34,745 HIV-positive cases have been detected in the state from October 1990 to June 2026. The data highlights the ongoing public health challenge posed by HIV/AIDS in the region, necessitating continued awareness and intervention efforts.",
+        "summary": "Scientists have discovered unique immune adaptations in bats that may explain their resistance to viruses they carry without becoming seriously ill. This research offers new insights into the evolution of immune systems and how various animals respond to diseases. Understanding these mechanisms could enhance knowledge of viral infections and inform strategies for managing diseases in other species.",
         "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "Cleveland Research Team Identifies Biological Mechanism That May Explain Obesity Relapse",
-        "url": "https://www.newswise.com/articles/cleveland-research-team-identifies-biological-mechanism-that-may-explain-obesity-relapse",
-        "source": "Newswise",
-        "image": "https://www.newswise.com/images/uploads/2026/09/10/6aa2d0544b406_gr7lrg.jpg",
-        "publishedAt": "2026-09-10T22:40:00Z",
+        "title": "AI in Science: Ways Artificial Intelligence is Changing Research",
+        "url": "https://www.analyticsinsight.net/photo/ai-in-science-ways-artificial-intelligence-is-changing-research",
+        "source": "Analytics Insight",
+        "image": "https://media.assettype.com/analyticsinsight%2F2026-09-11%2Fh12les2q%2FAI-in-Science-Ways-Artificial-Intelligence-is-Changing-Research.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-09-11T11:38:58Z",
         "category": "science",
-        "summary": "A Cleveland research team identified a biological mechanism explaining obesity relapse after dieting or discontinuing GLP-1 medications. They found that obesity creates a lasting \"memory\" in fat cells, maintaining elevated hunger signals post-weight loss. This \"memory\" can be transmitted from mother to child before birth. Blocking the asprosin pathway showed potential in preventing weight regain and inherited obesity risk.",
-        "wordCount": 59
+        "summary": "Artificial Intelligence is revolutionizing scientific research by enhancing data analysis, drug discovery, simulations, climate modeling, genomics, and laboratory automation. AI processes large datasets more quickly than traditional methods, enabling researchers to utilize machine learning algorithms for examining data from experiments, satellites, sensors, and scientific instruments. This transformation accelerates research outcomes and improves efficiency across various scientific disciplines.",
+        "wordCount": 57
       },
       {
-        "title": "The Sun's most detailed images yet reveal whirlpools never spotted before",
-        "url": "https://starlust.org/gallery/the-sun-s-most-detailed-images-yet-reveal-whirlpools-never-spotted-before-mtvyokik/",
-        "source": "starlust.org",
-        "image": "https://media.pubninja.com/galleries/brand-7/the-sun-s-most-detailed-images-yet-reveal-whirlpools-never-spotted-before-mtvyokik/thumbnail/poster.webp?v=1789071499898",
-        "publishedAt": "2026-09-10T20:56:05Z",
+        "title": "MRI scans minus the loud sound? Scientists develop a new technique to cut noise and stress",
+        "url": "https://theprint.in/feature/mri-scans-minus-the-loud-sound-scientists-develop-a-new-technique-to-cut-noise-and-stress/3040235/",
+        "source": "theprint.in",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/MRI-2.jpg",
+        "publishedAt": "2026-09-11T10:34:20Z",
         "category": "science",
-        "summary": "Scientists have captured the Sun's most detailed images to date, revealing previously unseen whirlpools on its surface. This enhanced view is crucial for understanding the Sun's dynamics, which play a vital role in maintaining the solar system's structure. The Sun influences everything from planetary orbits to seasonal changes and climate patterns, highlighting its importance in the solar system.",
+        "summary": "Researchers at the University of North Carolina School of Medicine have developed a new functional MRI technique called SORDINO, aimed at reducing noise and stress during scans. Published in Nature Neuroscience, this innovation addresses the disruptive loudness of traditional MRI machines, which can reach levels comparable to a power drill or rock concert, potentially affecting brain signal measurements.",
         "wordCount": 58
       },
       {
-        "title": "IBM, Nasa launch AI model to help map ice, craters on Moon",
-        "url": "https://www.dawn.com/news/2028923/ibm-nasa-launch-ai-model-to-help-map-ice-craters-on-moon",
-        "source": "Dawn",
-        "image": "https://i.dawn.com/large/2026/09/10233656c5455dd.webp",
-        "publishedAt": "2026-09-10T18:39:31Z",
+        "title": "September Skies Reveal Cosmic Wonders",
+        "url": "https://risingnepaldaily.com/news/86400",
+        "source": "risingnepaldaily.com",
+        "image": "https://risingnepaldaily.com/storage/media/109631/5.jpg",
+        "publishedAt": "2026-09-11T04:07:04Z",
         "category": "science",
-        "summary": "IBM and NASA have launched an open-source AI model aimed at enhancing the analysis of lunar observation data. In benchmark tests, the model demonstrated up to 23 percent greater accuracy in identifying key features on the Moon's surface compared to traditional methods. This initiative supports ongoing efforts for sustained lunar exploration and research.",
-        "wordCount": 53
+        "summary": "September offers sky-watchers a chance to explore the night skies filled with planets, stars, and constellations. This autumn month presents opportunities to observe various cosmic phenomena, enhancing the experience for enthusiasts. The clear skies allow for better visibility of celestial bodies, making it an ideal time for both amateur and seasoned astronomers to engage with the universe's wonders.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: September 11, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-september-11-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-09-11T00:30:00Z",
+        "title": "Mythri’s 418 Trailer: Opens The Doors To Hellish Horror",
+        "url": "https://www.gulte.com/news/431037/mythris-418-trailer-opens-the-doors-to-hellish-horror",
+        "source": "Gulte",
+        "image": "https://cdn.gulte.com/wp-content/uploads/2026/09/418-trailer-.jpg",
+        "publishedAt": "2026-09-11T11:55:55Z",
         "category": "entertainment",
-        "summary": "On September 11, 2026, Leos are advised to embrace commitment and take action to achieve their goals. The horoscope emphasizes that rigid strength may not yield results, and instead, practical efforts are essential. By actively engaging in tasks and demonstrating dedication, Leos can reach significant turning points in their lives more quickly than anticipated.",
-        "wordCount": 54
-      },
-      {
-        "title": "Libra Horoscope Today: September 11, 2026",
-        "url": "https://www.vogue.in/content/libra-horoscope-today-september-11-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04d23f3d66ec7d06816/16:9/w_1280,c_limit/8-Libra_16;9.png",
-        "publishedAt": "2026-09-11T00:20:00Z",
-        "category": "entertainment",
-        "summary": "On September 11, 2026, Libras are encouraged to harness their mental agility to unlock cosmic manifesting abilities. Acknowledgment of unresolved issues is emphasized, as pretending they do not exist is no longer viable. This period calls for introspection and resolution, suggesting that facing challenges directly will lead to personal growth and clarity in various aspects of life.",
+        "summary": "Mythri Movie Makers' upcoming horror thriller, \"418,\" is set to release on September 18th. The film is produced by Naveen Yerneni and Yalamanchili Ravi Shankar, with Prashanth Neel presenting it. Kirtan Nadagouda makes his directorial debut with this project. The trailer hints at a chilling narrative, promising to engage audiences with its horror elements and suspenseful storyline.",
         "wordCount": 57
       },
       {
-        "title": "Pisces Horoscope Today: September 11, 2026",
-        "url": "https://www.vogue.in/content/pisces-horoscope-today-september-11-2026",
-        "source": "vogue.in",
-        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
-        "publishedAt": "2026-09-11T00:20:00Z",
+        "title": "Horoscope Tomorrow, September 12, 2026: You may feel ready to stand on your own, trust what you've built",
+        "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-tomorrow-september-12-2026-you-may-feel-ready-to-stand-on-your-own-trust-what-youve-built-101789048014763.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/10/1600x900/logo/WhatsApp_Image_horoscope_torrow_1788100736319_17_1789048377284_1574feb9-7b9c-4059-9897-bda6018d1f7d_1789048377614_d69becf8-765e-4aef-9ab2-5a83cd730d39_a84f2488-f5ac-432d-ac4e-30b3657af7f7_8eba65f1-0733-434d-b4c9-4477c0f37fbf.jpeg",
+        "publishedAt": "2026-09-11T11:30:15Z",
         "category": "entertainment",
-        "summary": "On September 11, 2026, Pisces individuals are encouraged to embrace new opportunities and resources. Having left behind a chaotic phase, they are advised to confidently accept help and blessings that come their way. This period emphasizes the importance of asking for support, as it can lead to significant personal growth and fulfillment in various aspects of life.",
+        "summary": "On September 12, 2026, horoscopes suggest individuals may feel empowered to embrace independence and trust their personal achievements. Kishori Sud, a spiritual practitioner and intuitive guide with over five years of experience in tarot reading and holistic healing, provides insights for all sun signs. Her background includes roles in advertising and journalism, enhancing her unique perspective in tarot.",
+        "wordCount": 58
+      },
+      {
+        "title": "How Neem Karoli Baba became a hit among Hippies and tech titans",
+        "url": "https://www.indiatoday.in/india/story/hanuman-ansh-movie-neem-karoli-baba-kainchi-dham-uttarakhand-us-hippie-movement-steve-jobs-2992377-2026-09-11",
+        "source": "indiatoday.in",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/neem-karoli-baba-was-popularised-in-the-us-by-harvard-psychologist-turned-spiritual-teacher-ram-dass-115654152-16x9_0.png?VersionId=F5W2qSA.xyHkcuhUKdMs7Ts.mLwGQaaZ",
+        "publishedAt": "2026-09-11T10:57:14Z",
+        "category": "entertainment",
+        "summary": "Neem Karoli Baba, a Hindu spiritual leader born in the early 1900s in Uttar Pradesh, gained a significant following in the US despite never traveling outside India. His ashram, Kainchi Dham in Uttarakhand, attracted diverse visitors, including hippies and Silicon Valley figures. The recent success of the film \"Hanuman Ansh\" has further highlighted his influence and legacy.",
         "wordCount": 57
       }
     ]
