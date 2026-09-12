@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-09-12T00:31:09.241Z",
+  "updatedAt": "2026-09-12T12:31:01.474Z",
   "categories": {
     "world": [
       {
-        "title": "West Asia conflict LIVE: Yemen's Houthis reach strategic island at mouth of Bab al-Mandeb",
-        "url": "https://www.thehindu.com/news/international/west-asia-conflict-us-iran-war-live-updates-houthis-iran-red-sea-strait-of-hormuz-september-11-2026/article71455463.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/e72c5p/article71455456.ece/alternates/LANDSCAPE_1200/TH23-Kalyan-HouGDMG9UJ6V.3.jpg.jpg",
-        "publishedAt": "2026-09-11T12:15:21Z",
+        "title": "The mission to recover Nims Purja's body from Broad Peak",
+        "url": "https://www.bbc.com/news/articles/c1wx8gg7xw1o",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/37fa/live/48f4dc90-ac1a-11f1-a291-b542ee92de7c.jpg",
+        "publishedAt": "2026-09-11T23:39:01Z",
         "category": "world",
-        "summary": "Yemen's Houthi fighters, backed by Iran, have seized a strategic island at the mouth of the Bab al-Mandeb strait. An adviser to Iran’s Supreme Leader, Mojtaba Khamenei, described this advance as a “resounding victory.” The situation continues to evolve, with updates on the West Asia conflict being reported as of September 11, 2026.",
-        "wordCount": 53
+        "summary": "Mingma Gyalje Sherpa is leading a mission to recover the bodies of his friends, including renowned climber Nirmal Purja, who died in an avalanche on Broad Peak. As he navigates the treacherous terrain, he reflects on their shared climbing experiences. The mission is emotionally challenging, highlighting the risks and dangers faced by mountaineers in extreme conditions.",
+        "wordCount": 56
       },
       {
-        "title": "As US marks 25 years since September 11, Zohran Mamdani launches free online portal for documents, releasing the first 170,000 pages that prove ...",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-us-marks-25-years-since-september-11-zohran-mamdani-launches-free-online-portal-for-documents-releasing-the-first-170000-pages-that-prove-/articleshow/134062663.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134062727,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-11T11:11:00Z",
+        "title": "Saudi Arabia closes East-West oil pipeline after attacks in Riyadh, Madinah: ‘precautionary measure’",
+        "url": "https://www.hindustantimes.com/world-news/saudi-arabia-closes-east-west-oil-pipeline-after-attacks-in-riyadh-madinah-precautionary-measure-101789157559307.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/11/1600x900/logo/east_west_pipeline_1789157631611_a9e657ae-fb3f-40fe-b246-44b4eb07af77_1789157631781_d11069f5-12a9-4d9e-b6ec-9632db671748_42c238a9-c2fc-4732-8629-f3366cda7f83_b0a13fe7-7507-4339-b3ec-b28d6bbdc3ec.jpg",
+        "publishedAt": "2026-09-11T20:24:17Z",
         "category": "world",
-        "summary": "As the US commemorates the 25th anniversary of the September 11 attacks, New York Mayor Zohran Mamdani has launched a free online portal. This platform features documents related to the long-term health effects of the attacks, with the initial release including 170,000 pages of records. The initiative aims to provide accessible information for those affected.",
-        "wordCount": 55
+        "summary": "Saudi Arabia has closed the East-West oil pipeline following multiple attacks in Riyadh and Madinah that resulted in injuries. The government described the closure as a precautionary measure to ensure safety. The decision reflects ongoing security concerns in the region, highlighting the potential impact of violence on critical infrastructure. Further developments are anticipated as the situation unfolds.",
+        "wordCount": 57
       },
       {
-        "title": "BRICS’ share of global GDP set to rise to 28.5% by 2031: the bloc’s economic clout in 5 charts",
-        "url": "https://www.moneycontrol.com/news/business/economy/brics-share-of-global-gdp-set-to-rise-to-28-5-by-2031-the-bloc-s-economic-clout-in-5-charts-14028039.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260911094116_brics-hotels.jpg",
-        "publishedAt": "2026-09-11T11:07:37Z",
+        "title": "Twenty-five years after September 11, Americans reflect on attack that changed a nation",
+        "url": "https://www.reuters.com/world/us/americans-mark-25-years-since-september-11-attacks-amid-enduring-grief-2026-09-11/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/22NWEP43QJPDRK2VJOBNPRYOAI.jpg?auth=4fcfab38b10eaad5da5d1b061cf6aa1b9faa38d72b8caf2890d58b46aafcf111&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-09-11T18:40:36Z",
         "category": "world",
-        "summary": "BRICS is projected to increase its share of global GDP to 28.5% by 2031, up from approximately 27% in 2025. The bloc, primarily driven by China's economic strength and India's expanding economy and investments, currently has an economic value of $30.37 trillion compared to the world's $111.6 trillion. IMF forecasts indicate continued growth for BRICS.",
-        "wordCount": 55
+        "summary": "Americans commemorated the 25th anniversary of the September 11 attacks on Friday, reflecting on the tragedy that resulted in nearly 3,000 deaths. Ceremonies took place in New York, Washington, and Pennsylvania, honoring the victims of the hijacked planes that struck the World Trade Center, the Pentagon, and a field in Pennsylvania. The impact of the attacks continues to resonate today.",
+        "wordCount": 60
       }
     ],
     "business": [
       {
-        "title": "Anthropic researcher Jacob Coxon quits over AI safety: What he warned and how OpenAI, Anthropic reacted",
-        "url": "https://www.livemint.com/ai/anthropic-researcher-jacob-coxon-quits-over-ai-safety-what-he-warned-and-how-openai-anthropic-reacted-11789120948963.html",
-        "source": "Livemint",
-        "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/AI_1789128481120_7813e5d5-c9ff-4e39-ae69-fa448029ff83_1789128481305_0255a0d0-219f-493c-8ced-46ca240590bc_16f989a0-003e-470a-943e-d89a8f82c239_d06106e8-87ff-4ffa-8c86-0ed34f165b19.png",
-        "publishedAt": "2026-09-11T12:10:27Z",
+        "title": "SC's 13 queries to FSSAI: 'Give details on shape, size, colour of food label'",
+        "url": "https://timesofindia.indiatimes.com/india/scs-13-queries-to-fssai-give-details-on-shape-size-colour-of-food-label/articleshow/134099356.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134099473,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-12T00:25:00Z",
         "category": "business",
-        "summary": "Jacob Coxon has resigned from Anthropic, citing concerns that AI companies prioritize rapid development over safety, which he believes poses risks to humanity. His departure highlights ongoing debates within the industry regarding the balance between innovation and ethical considerations. Both OpenAI and Anthropic have responded to these concerns, emphasizing their commitment to responsible AI development and safety measures.",
-        "wordCount": 58
+        "summary": "The Supreme Court of India has instructed the Food Safety and Standards Authority of India (FSSAI) to provide specific details regarding the design of front-of-pack food warning labels. This includes information on their shape, size, color, and placement. Justice JB Pardiwala raised concerns about FSSAI's two-phased approach to implementing these labeling guidelines during the proceedings.",
+        "wordCount": 55
       },
       {
-        "title": "India's forex reserves surge $4.5 billion in a week to record high on robust capital inflows",
-        "url": "https://www.moneycontrol.com/news/business/economy/india-s-forex-surge-45-billion-on-week-to-hit-record-high-on-robust-capital-flows-14028084.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260207034327_rupee_dollar.jpg",
-        "publishedAt": "2026-09-11T11:57:41Z",
+        "title": "Shapoor Mistry eyes ₹25,000 crore in two years for part of SP's Tata stake",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/shapoor-mistry-eyes-25000-cr-in-two-years-for-part-of-sps-tata-stake/articleshow/134086931.cms?from=mdr",
+        "source": "economictimes.com",
+        "image": "https://img.etimg.com/thumb/msid-134105386,width-1200,height-630,imgsize-159524,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-12T00:00:00Z",
         "category": "business",
-        "summary": "India's foreign exchange reserves increased by $4.5 billion in the week ending September 4, reaching a record high of $785.7 billion. This marks the tenth consecutive week of growth, with total reserves rising nearly $120 billion during this period. The surge is attributed to robust capital inflows, bolstered by policy measures aimed at strengthening the country's balance of payments.",
+        "summary": "Shapoor Mistry is pursuing ₹25,000 crore from Tata Sons for a portion of SP Group's stake. The proposal aims to generate cash while maintaining Tata Sons' private status. Ongoing discussions focus on transaction structure and valuation for a potential buyback. SP Group is under pressure from lenders and needs to monetize its holdings based on valuations and funding requirements.",
         "wordCount": 59
       },
       {
-        "title": "GitLab urges users to patch max severity path traversal flaw",
-        "url": "https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/",
-        "source": "BleepingComputer",
-        "image": "https://www.bleepstatic.com/content/hl-images/2026/02/04/GitLab.jpg",
-        "publishedAt": "2026-09-11T11:15:22Z",
+        "title": "Nvidia in talks to invest in Anthropic’s mega IPO: Sources",
+        "url": "https://www.channelnewsasia.com/business/nvidia-invest-anthropic-ipo-ai-6379756",
+        "source": "CNA",
+        "image": "https://dam.mediacorp.sg/image/upload/s--eCkmoDvC--/c_crop,h_449,w_799,x_1,y_84/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-09-11T230326Z_1_LYNXMPEM8A1RC_RTROPTP_3_NVIDIA-FOXCONN.JPG?itok=nVAj2Jhk",
+        "publishedAt": "2026-09-11T23:03:00Z",
         "category": "business",
-        "summary": "GitLab has advised users to urgently patch their servers due to a critical path traversal vulnerability identified as CVE-2026-85706. This maximum-severity flaw was discovered by a security researcher known as 's3ntago' and reported through GitLab's bug bounty program. Users are encouraged to implement the necessary updates to safeguard their systems against potential exploitation.",
-        "wordCount": 53
+        "summary": "Nvidia is reportedly in discussions to invest up to $10 billion in Anthropic's initial public offering (IPO), potentially the largest in history. Sources indicate that Anthropic aims to raise around $100 billion, which could significantly enhance its valuation in the artificial intelligence sector. Nvidia's involvement as an anchor investor is part of these ongoing negotiations.",
+        "wordCount": 55
       }
     ],
     "technology": [
       {
-        "title": "Mercedes-AMG CLE 646 Spezialanfertigung Revealed With 637bhp; Limited to 30 Units",
-        "url": "https://www.autox.com/news/car-news/mercedes-amg-cle-646-spezialanfertigung-revealed-with-637bhp-limited-to-30-units-124515/",
-        "source": "autoX",
-        "image": "https://images.autox.com/uploads/2026/09/Mercedes-AMG-CLE-646-Spezialanfertigung-(1)-1789119362568.webp",
-        "publishedAt": "2026-09-11T11:22:00Z",
+        "title": "RBLX: Collaborative tools, intelligent creation, and engine upgrades drive platform innovation and creator empowerment",
+        "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:4158915:0-rblx-collaborative-tools-intelligent-creation-and-engine-upgrades-drive-platform-innovation-and-creator-empowerment/",
+        "source": "TradingView",
+        "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+        "publishedAt": "2026-09-11T23:44:21Z",
         "category": "technology",
-        "summary": "Mercedes-AMG has unveiled the CLE 646 Spezialanfertigung, a limited edition performance coupe featuring a 4.0-litre twin-turbo V8 engine producing 637bhp. It offers rear-wheel drive, a nine-speed gearbox, and a top speed of 310km/h. Limited to just 30 units, this model is based on the CLE 53 and boasts a wider carbon-fibre body and a minimalist interior.",
-        "wordCount": 56
+        "summary": "RBLX has introduced significant updates to enhance its platform, including collaborative branch/merge features, intelligent asset generation, and advanced avatar tools. New engine capabilities such as native persistence, offline play, and improved visual fidelity have been implemented. Additionally, enhancements in testing, security, and community support are designed to empower creators and improve overall platform quality and user experience.",
+        "wordCount": 57
       },
       {
-        "title": "Without The Witcher 3 Remaster, the Songs of the Past Expansion Would Not Have Been Possible - CDPR Reworked Engine and Mechanics",
-        "url": "https://ixbt.games/en/news/2026/09/11/434979-bez-remastera-the-witcher-3-nevozmozno-bylo-by-sozdat-rassirenie-songs-of-the-past-cdpr-dorabotala-dvizok-i-mexaniki.html",
-        "source": "ixbt.games",
-        "image": "https://media.ixbt.games/1600x900/smart/jpeg/ixbt-data/1344937/media-a8qomlq9uesti7cy6ipd2qws.png",
-        "publishedAt": "2026-09-11T11:00:28Z",
+        "title": "Sony PlayStation dropped Hideo Kojima's Physint over budget concerns and missed deadlines: Report",
+        "url": "https://www.livemint.com/technology/sony-playstation-dropped-hideo-kojimas-physint-over-budget-concerns-and-missed-deadlines-report-11789160735421.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/hideo_kojima_1789160889303_1789160912976_280d0957-6837-4b65-86db-3938e5d7f854_1789160913156_d9f1186f-d6ea-47dd-bd10-d1cb4d71e391_60bd0fb8-4eea-46e8-97b0-1db532d9c36d_cad8070e-082c-4043-9a32-c0c844d73f75.png",
+        "publishedAt": "2026-09-11T21:36:42Z",
         "category": "technology",
-        "summary": "CD Projekt RED stated that the remaster of The Witcher 3 was essential for the development of the upcoming expansion, Songs of the Past. The team enhanced various project aspects to bring their vision to life. This summer, they showcased gameplay for the expansion, which is also known as \"Ballads of the Past\" in Russian localization.",
-        "wordCount": 56
+        "summary": "PlayStation has reportedly withdrawn from Hideo Kojima's game Physint due to concerns over rising costs, missed deadlines, and long-term profitability. The decision has led to Xbox taking over publishing duties, thereby expanding its partnership with Kojima Productions. This shift marks a significant change in the development trajectory of the highly anticipated action-espionage title.",
+        "wordCount": 53
       },
       {
-        "title": "Enterprise AI is waiting for its iPhone moment",
-        "url": "https://fastcompanyme.com/technology/enterprise-ai-is-waiting-for-its-iphone-moment/",
-        "source": "Fast Company Middle East",
-        "image": "https://fastcompanyme.com/wp-content/uploads/2026/09/Enterprise-AI-is-waiting-for-its-iPhone-moment.jpg",
-        "publishedAt": "2026-09-11T09:44:10Z",
+        "title": "Apple Launches $1,999 Foldable iPhone Duo, but Analysts Question Its Mass-Market Appeal",
+        "url": "https://www.tradingview.com/news/gurufocus:a221fc378094b:0-apple-launches-1-999-foldable-iphone-duo-but-analysts-question-its-mass-market-appeal/",
+        "source": "TradingView",
+        "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+        "publishedAt": "2026-09-11T21:10:57Z",
         "category": "technology",
-        "summary": "The corporate AI market is at a pivotal moment, akin to the early days of the iPhone. Currently, it struggles to gain traction due to visible complexities and challenges. For widespread adoption, a breakthrough is needed that simplifies and conceals these issues, similar to how Apple transformed technology perception with the iPhone's launch in 2007.",
-        "wordCount": 55
+        "summary": "Apple Inc. has launched its $1,999 foldable iPhone Duo, entering the foldable phone market. The device is designed to run work, entertainment, and creative applications across its larger screen. However, analysts are questioning its mass-market appeal, suggesting that Apple needs to clarify the target audience for this high-priced product as it competes in a growing segment.",
+        "wordCount": 56
       }
     ],
     "sports": [
       {
-        "title": "Kohli charms Shinde with humility in London, shares ideas on sports, youth talent",
-        "url": "https://m.rediff.com/cricket/report/kohli-charms-shinde-with-humility-in-london-shares-ideas-on-sports-youth-talent/20260911.htm",
-        "source": "Rediff",
-        "image": "https://im.rediff.com/1200-630/cricket/2026/sep/11kohli-shinde-b.jpg",
-        "publishedAt": "2026-09-11T12:27:38Z",
+        "title": "'Future captain, maybe?': Ishan Kishan's banter with 15-year-old Vaibhav Sooryavanshi goes viral - WATCH",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/future-captain-maybe-ishan-kishans-banter-with-15-year-old-vaibhav-sooryavanshi-goes-viral-watch/articleshow/134055705.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134057250,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-12T00:00:00Z",
         "category": "sports",
-        "summary": "Virat Kohli met Maharashtra Chief Minister Eknath Shinde in London, where he showcased his humility. The two discussed various topics, including the development of Maharashtra, the importance of sports, and nurturing youth talent. Additionally, they touched upon Kohli's upcoming milestones in One Day Internationals (ODIs), highlighting the significance of sports in fostering youth engagement and talent development.",
+        "summary": "Ishan Kishan and 15-year-old Vaibhav Sooryavanshi engaged in lighthearted banter following East Zone's victory in the Duleep Trophy 2026/27. Kishan, who captained the team, celebrated the win and interacted with Sooryavanshi, highlighting a memorable moment. The exchange has since gone viral, showcasing the camaraderie and spirit of the players after their successful tournament performance.",
+        "wordCount": 54
+      },
+      {
+        "title": "Alexander Zverev holds his nerve against Karen Khachanov to reach US Open final",
+        "url": "https://www.theguardian.com/sport/2026/sep/12/alexander-zverev-holds-his-nerve-against-karen-khachanov-to-reach-us-open-final",
+        "source": "The Guardian",
+        "image": "https://i.guim.co.uk/img/media/3c2fbd568d0fc23bce82bd42f7371598107e2f3f/314_0_3558_2846/master/3558.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=293e4bd5f6df3751aa38656a0596b91f",
+        "publishedAt": "2026-09-11T23:35:00Z",
+        "category": "sports",
+        "summary": "Alexander Zverev advanced to the US Open final after defeating Karen Khachanov in a closely contested semi-final match. Zverev won with scores of 6-3, 7-6 (7), and 7-6 (6), marking his third consecutive appearance in a grand slam final. The match showcased Zverev's resilience, particularly after overcoming a set and break deficit during the intense encounter.",
+        "wordCount": 56
+      },
+      {
+        "title": "Mourinho: “Right now we have a Vinícius Júnior who is working harder than ever”",
+        "url": "https://www.managingmadrid.com/coach/112744/mourinho-right-now-we-have-a-vinicius-junior-who-is-working-harder-than-ever",
+        "source": "Managing Madrid",
+        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/09/gettyimages-2293298462.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-09-11T23:18:14Z",
+        "category": "sports",
+        "summary": "Real Madrid coach José Mourinho praised Vinícius Júnior in a pre-match press conference ahead of the game against Rayo Vallecano. He emphasized the player's hard work and dedication, referencing proverbs to illustrate his commitment. Mourinho's comments highlight the importance of Vinícius to the team as they prepare for the upcoming match, showcasing the player's development and effort.",
         "wordCount": 57
-      },
-      {
-        "title": "Power-hitting emerges as Bangladesh women's biggest concern in T20 cricket",
-        "url": "https://www.cricbuzz.com/cricket-news/140143/power-hitting-emerges-as-bangladesh-womens-biggest-concern-in-t20-cricket",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1071417/bangladesh-have-recorded-one-fifth-place-finish-and-two-semi-final-exits-in-the-last-three-editions-of-the-asia-cup-since-their-2018-triumph.jpg",
-        "publishedAt": "2026-09-11T12:23:18Z",
-        "category": "sports",
-        "summary": "The Bangladesh women's cricket team faces significant challenges, primarily due to a lack of power hitters in key batting positions and during crucial death overs. Concerns have also been raised regarding an over-reliance on a few key players, as well as issues related to pace bowling and overall fitness. These factors contributed to their recent exit from international competitions.",
-        "wordCount": 59
-      },
-      {
-        "title": "CSK deny Dhoni bid to buy a stake; but he owns some shares anyway",
-        "url": "https://www.cricbuzz.com/cricket-news/140142/csk-deny-dhoni-bid-to-buy-a-stake-but-he-owns-some-shares-anyway-cricbuzzcom",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1071383/ms-dhoni-holds-more-than-one-lakh-shares-of-csk.jpg",
-        "publishedAt": "2026-09-11T11:24:50Z",
-        "category": "sports",
-        "summary": "Chennai Super Kings (CSK) management denied reports that Mahendra Singh Dhoni sought to buy a stake in the franchise. Despite this, Dhoni reportedly holds some shares in CSK. The management is currently awaiting his decision regarding the next steps, particularly in finalizing the new head coach for the team as they prepare for upcoming seasons.",
-        "wordCount": 55
       }
     ],
     "health": [
       {
-        "title": "That 'acidity' could be a heart attack: Medanta cardiologist Dr Nishant Tyagi shares warning signs you shouldn't miss",
-        "url": "https://www.hindustantimes.com/lifestyle/health/that-acidity-could-be-a-heart-attack-medanta-cardiologist-dr-nishant-tyagi-shares-warning-signs-you-shouldnt-miss-101789122884456.html",
-        "source": "hindustantimes.com",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/11/1600x900/logo/heart_attack_1789123154220_f40f6c87-d8bb-4232-bac0-c91d300962b3_1789123154495_525ee4bd-1fc2-4b17-9cc8-ea6247dac4b4_053844dd-18d8-442a-99a1-b899f0a953c7_b9902f01-9c99-4b0c-93bc-e69daed54dc9.png",
-        "publishedAt": "2026-09-11T11:01:15Z",
+        "title": "Paracetamol in pregnancy may affect daughters’ ovarian development and future fertility, new study suggests: What we know",
+        "url": "https://timesofindia.indiatimes.com/etimes/wellness/paracetamol-in-pregnancy-may-affect-daughters-ovarian-development-and-future-fertility-new-study-suggests-what-we-know/articleshow/134097574.cms",
+        "source": "timesofindia.indiatimes.com",
+        "image": "https://static.toiimg.com/thumb/msid-134097641,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-11T23:30:00Z",
         "category": "health",
-        "summary": "Heart attacks can present with subtle symptoms, including nausea and feelings resembling acidity. Medanta cardiologist Dr. Nishant Tyagi emphasizes the importance of recognizing these warning signs, such as unusual fatigue during exercise or persistent exhaustion. Prompt medical attention is crucial, as early intervention can significantly improve outcomes and potentially save lives. Awareness of these signs is essential for prevention.",
-        "wordCount": 59
+        "summary": "A new study suggests that paracetamol use during pregnancy may impact daughters' ovarian development and future fertility. This research raises concerns about the common pain reliever, which has been widely used for various ailments. The findings highlight the need for further investigation into the potential long-term effects of paracetamol on reproductive health in female offspring.",
+        "wordCount": 55
       },
       {
-        "title": "Brain Aneurysms May Be Twice as Common as Thought",
-        "url": "https://www.emjreviews.com/neurology/news/brain-aneurysms-may-be-twice-as-common-as-previously-thought/",
-        "source": "emjreviews.com",
-        "image": "https://www.emjreviews.com/wp-content/uploads/2026/09/Neuro-1pm.jpg",
-        "publishedAt": "2026-09-11T10:56:54Z",
+        "title": "Do you wake up at night to urinate? Here’s the number of times considered normal by experts",
+        "url": "https://www.futura-sciences.com/en/do-you-wake-up-to-much-during-night-to-urinate-heres-the-number-of-times-considered-normal-by-experts-a1_24224/",
+        "source": "Futura, le média qui explore le monde",
+        "image": "https://www.futura-sciences.com/en/wp-content/uploads/2025/12/night-wake-up-pee-urinate-1.jpeg",
+        "publishedAt": "2026-09-11T18:15:13Z",
         "category": "health",
-        "summary": "Unruptured brain aneurysms may affect one in 15 healthy adults, indicating a prevalence more than double that of previous estimates. This finding comes from the largest analysis conducted on the topic, which highlights a significant increase in the occurrence of these aneurysms over the past two decades. The research underscores the need for increased awareness and monitoring.",
-        "wordCount": 57
-      },
-      {
-        "title": "Why Bats Don’t Get Sick From Viruses They Carry",
-        "url": "https://indianexpress.com/article/lifestyle/pets-animals/bat-virus-rarely-affect-bats-experts-explain-unique-immune-system-10869595/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/09/Untitled-design-14.png",
-        "publishedAt": "2026-09-11T08:23:33Z",
-        "category": "health",
-        "summary": "Scientists have discovered unique immune adaptations in bats that may explain their resistance to viruses they carry without becoming seriously ill. This research offers new insights into the evolution of immune systems and how various animals respond to diseases. Understanding these mechanisms could enhance knowledge of viral infections and inform strategies for managing diseases in other species.",
-        "wordCount": 57
+        "summary": "Nocturia, the need to wake at night to urinate, affects approximately 50 million adults in the U.S. Prevalence rates vary, with 10-20% of individuals aged 40-59 experiencing it, and over 50% in those over 60. Experts suggest that waking up once or twice per night is generally considered normal, while more frequent occurrences may indicate underlying health issues.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "AI in Science: Ways Artificial Intelligence is Changing Research",
-        "url": "https://www.analyticsinsight.net/photo/ai-in-science-ways-artificial-intelligence-is-changing-research",
-        "source": "Analytics Insight",
-        "image": "https://media.assettype.com/analyticsinsight%2F2026-09-11%2Fh12les2q%2FAI-in-Science-Ways-Artificial-Intelligence-is-Changing-Research.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-09-11T11:38:58Z",
+        "title": "Wheel-less Spherical Rover Rolls Toward Mission to Find Ice in Lunar Crater",
+        "url": "https://finance.biggo.com/news/d0a420ac-30a0-4b06-985f-9a80ff1a1050",
+        "source": "finance.biggo.com",
+        "image": "https://img.biggo.com/7XtVZaqfyRmgO-6Y-tfCgocMgWjBhhKNEiiAEyn9FKc/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5L2QwYTQyMGFjLTMwYTAtNGIwNi05ODVmLTlhODBmZjFhMTA1MF8xNzg5MTY4MTEzX2RlZmF1bHQud2VicA.jpg",
+        "publishedAt": "2026-09-11T23:05:00Z",
         "category": "science",
-        "summary": "Artificial Intelligence is revolutionizing scientific research by enhancing data analysis, drug discovery, simulations, climate modeling, genomics, and laboratory automation. AI processes large datasets more quickly than traditional methods, enabling researchers to utilize machine learning algorithms for examining data from experiments, satellites, sensors, and scientific instruments. This transformation accelerates research outcomes and improves efficiency across various scientific disciplines.",
-        "wordCount": 57
+        "summary": "Researchers at Texas A&M University have created RoboBall, a spherical rover designed for lunar exploration. Unlike traditional rovers, it has no wheels or legs, allowing it to roll and bounce through permanently shadowed areas of the Moon. The mission aims to locate ice deposits, enhancing our understanding of lunar resources and potential for future exploration.",
+        "wordCount": 55
       },
       {
-        "title": "MRI scans minus the loud sound? Scientists develop a new technique to cut noise and stress",
-        "url": "https://theprint.in/feature/mri-scans-minus-the-loud-sound-scientists-develop-a-new-technique-to-cut-noise-and-stress/3040235/",
-        "source": "theprint.in",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/MRI-2.jpg",
-        "publishedAt": "2026-09-11T10:34:20Z",
+        "title": "Compost microbe yields enzyme that tackles polyurethane foam and nylon",
+        "url": "https://phys.org/news/2026-09-compost-microbe-yields-enzyme-tackles.html",
+        "source": "phys.org",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/researchers-find-plast.jpg",
+        "publishedAt": "2026-09-11T21:00:05Z",
         "category": "science",
-        "summary": "Researchers at the University of North Carolina School of Medicine have developed a new functional MRI technique called SORDINO, aimed at reducing noise and stress during scans. Published in Nature Neuroscience, this innovation addresses the disruptive loudness of traditional MRI machines, which can reach levels comparable to a power drill or rock concert, potentially affecting brain signal measurements.",
+        "summary": "Researchers from Aarhus University and the Danish Technological Institute have identified 12 enzymes from bacteria collected in various locations, including a landfill in Kenya and a compost heap in Denmark. These enzymes show potential for breaking down challenging plastics like polyurethane foam and nylon, marking a significant advancement in efforts to improve plastic recycling and reduce environmental impact.",
         "wordCount": 58
       },
       {
-        "title": "September Skies Reveal Cosmic Wonders",
-        "url": "https://risingnepaldaily.com/news/86400",
-        "source": "risingnepaldaily.com",
-        "image": "https://risingnepaldaily.com/storage/media/109631/5.jpg",
-        "publishedAt": "2026-09-11T04:07:04Z",
+        "title": "'An exciting event:' Dark matter or not, new SURF discovery marks potential breakthrough",
+        "url": "https://www.newscenter1.tv/news/south-dakota/an-exciting-event-dark-matter-or-not-new-surf-discovery-marks-potential-breakthrough",
+        "source": "NewsCenter1",
+        "image": "https://cdn.forumcomm.com/dims4/default/d868bc1/2147483647/strip/true/crop/4579x3829+0+0/resize/1275x1066!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F50%2F8c%2Fc0aefee24405bd06bd379dcf734a%2Fimg-4834.jpeg",
+        "publishedAt": "2026-09-11T17:16:13Z",
         "category": "science",
-        "summary": "September offers sky-watchers a chance to explore the night skies filled with planets, stars, and constellations. This autumn month presents opportunities to observe various cosmic phenomena, enhancing the experience for enthusiasts. The clear skies allow for better visibility of celestial bodies, making it an ideal time for both amateur and seasoned astronomers to engage with the universe's wonders.",
-        "wordCount": 58
+        "summary": "Scientists at the Sanford Underground Research Facility (SURF) announced a potential breakthrough in particle discovery, though they have not confirmed the existence of dark matter. Julia Delgaudio, an engineering specialist, described the finding as an “exciting event.” Researchers believe they may have identified a novel particle, which could have significant implications for understanding fundamental physics.",
+        "wordCount": 55
       }
     ],
     "entertainment": [
       {
-        "title": "Mythri’s 418 Trailer: Opens The Doors To Hellish Horror",
-        "url": "https://www.gulte.com/news/431037/mythris-418-trailer-opens-the-doors-to-hellish-horror",
-        "source": "Gulte",
-        "image": "https://cdn.gulte.com/wp-content/uploads/2026/09/418-trailer-.jpg",
-        "publishedAt": "2026-09-11T11:55:55Z",
+        "title": "Horoscope Today: September 12, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-september-12-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-09-12T00:30:00Z",
         "category": "entertainment",
-        "summary": "Mythri Movie Makers' upcoming horror thriller, \"418,\" is set to release on September 18th. The film is produced by Naveen Yerneni and Yalamanchili Ravi Shankar, with Prashanth Neel presenting it. Kirtan Nadagouda makes his directorial debut with this project. The trailer hints at a chilling narrative, promising to engage audiences with its horror elements and suspenseful storyline.",
+        "summary": "On September 12, 2026, Leos are encouraged to embrace their true selves amidst worldly worries causing anxiety. The horoscope suggests that this period is an opportunity for self-acceptance, allowing individuals to express their identity without the pressure of conforming to societal expectations. The focus is on personal growth and authenticity, fostering a supportive environment for self-discovery.",
+        "wordCount": 56
+      },
+      {
+        "title": "Capricorn Horoscope Today: September 12, 2026",
+        "url": "https://www.vogue.in/content/capricorn-horoscope-today-september-12-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
+        "publishedAt": "2026-09-12T00:20:00Z",
+        "category": "entertainment",
+        "summary": "Capricorns are advised to take a step back and recharge, reflecting on their emotional experiences. The horoscope suggests that personal challenges vary for each individual, emphasizing the importance of self-care. This period is seen as an opportunity for rest and recuperation, allowing Capricorns to regain their strength and perspective. Taking time off is encouraged for overall well-being.",
         "wordCount": 57
       },
       {
-        "title": "Horoscope Tomorrow, September 12, 2026: You may feel ready to stand on your own, trust what you've built",
-        "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-tomorrow-september-12-2026-you-may-feel-ready-to-stand-on-your-own-trust-what-youve-built-101789048014763.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/10/1600x900/logo/WhatsApp_Image_horoscope_torrow_1788100736319_17_1789048377284_1574feb9-7b9c-4059-9897-bda6018d1f7d_1789048377614_d69becf8-765e-4aef-9ab2-5a83cd730d39_a84f2488-f5ac-432d-ac4e-30b3657af7f7_8eba65f1-0733-434d-b4c9-4477c0f37fbf.jpeg",
-        "publishedAt": "2026-09-11T11:30:15Z",
+        "title": "Scorpio Horoscope Today: September 12, 2026",
+        "url": "https://www.vogue.in/content/scorpio-horoscope-today-september-12-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052102d2f4db9b8e92b/16:9/w_1280,c_limit/9-Scorpio_16;9.png",
+        "publishedAt": "2026-09-12T00:20:00Z",
         "category": "entertainment",
-        "summary": "On September 12, 2026, horoscopes suggest individuals may feel empowered to embrace independence and trust their personal achievements. Kishori Sud, a spiritual practitioner and intuitive guide with over five years of experience in tarot reading and holistic healing, provides insights for all sun signs. Her background includes roles in advertising and journalism, enhancing her unique perspective in tarot.",
-        "wordCount": 58
-      },
-      {
-        "title": "How Neem Karoli Baba became a hit among Hippies and tech titans",
-        "url": "https://www.indiatoday.in/india/story/hanuman-ansh-movie-neem-karoli-baba-kainchi-dham-uttarakhand-us-hippie-movement-steve-jobs-2992377-2026-09-11",
-        "source": "indiatoday.in",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/neem-karoli-baba-was-popularised-in-the-us-by-harvard-psychologist-turned-spiritual-teacher-ram-dass-115654152-16x9_0.png?VersionId=F5W2qSA.xyHkcuhUKdMs7Ts.mLwGQaaZ",
-        "publishedAt": "2026-09-11T10:57:14Z",
-        "category": "entertainment",
-        "summary": "Neem Karoli Baba, a Hindu spiritual leader born in the early 1900s in Uttar Pradesh, gained a significant following in the US despite never traveling outside India. His ashram, Kainchi Dham in Uttarakhand, attracted diverse visitors, including hippies and Silicon Valley figures. The recent success of the film \"Hanuman Ansh\" has further highlighted his influence and legacy.",
-        "wordCount": 57
+        "summary": "Scorpio's horoscope for September 12, 2026, emphasizes prioritizing oneself after experiencing emotional pain. The message reiterates the importance of self-care and healing, suggesting that recent challenges have been difficult to navigate. Scorpios are encouraged to focus on their own needs and well-being, indicating that personal growth and recovery are essential at this time.",
+        "wordCount": 53
       }
     ]
   }
