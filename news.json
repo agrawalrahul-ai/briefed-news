@@ -1,208 +1,218 @@
 {
-  "updatedAt": "2026-09-13T00:31:02.549Z",
+  "updatedAt": "2026-09-13T12:30:55.470Z",
   "categories": {
     "world": [
       {
-        "title": "Trump expects Iran war to end after US midterm elections, says ‘oil prices will come tumbling down’",
-        "url": "https://www.hindustantimes.com/world-news/trump-expects-iran-war-to-end-after-us-midterm-elections-says-oil-prices-will-come-tumbling-down-101789209756197.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/12/1600x900/logo/IRELAND-US-DIPLOMACY-76_1789209895883_68f6076b-e5e1-4550-aa61-f0983bc8db46_1789210010829_1f00c302-c5fa-4266-8f77-f45543c08db8_d9490eb7-3fd2-40b6-bb14-2cdf37e05440_e312fb9a-ab2f-49bf-8b53-77b9eae062cf.jpg",
-        "publishedAt": "2026-09-12T11:58:31Z",
+        "title": "Delhi & Abu Dhabi discuss boost to IMEC, energy infra",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/delhi-abu-dhabi-discuss-boost-to-imec-energy-infra/articleshow/134165428.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134165426,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-12T23:35:00Z",
         "category": "world",
-        "summary": "Donald Trump stated he expects the conflict between Iran and the United States to conclude shortly after the upcoming midterm elections. He suggested that Iran is delaying resolution to influence the elections. Trump expressed confidence that once the war ends, oil prices will significantly decrease. His comments were made during a press conference in Dublin.",
-        "wordCount": 55
+        "summary": "Prime Minister Narendra Modi engaged in discussions with Abu Dhabi officials to enhance the India-Middle East-Europe Economic Corridor (IMEC) connectivity and strategic energy infrastructure. Modi emphasized the transformation of India-UAE relations in recent years, noting that both nations are elevating their ambitions to strengthen cooperation further. The talks aim to foster economic ties and infrastructure development between the countries.",
+        "wordCount": 59
       },
       {
-        "title": "BRICS declaration condemns Pahalgam terror attack, sends veiled message to Pakistan",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/brics-declaration-condemns-pahalgam-terror-attack-sends-veiled-message-to-pakistan-article-14028569.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260912114738_BRICS-terror.jpg",
-        "publishedAt": "2026-09-12T11:48:02Z",
+        "title": "Delhi rolls out red carpet for Pezeshkian, daughter: Rashtrapati Bhavan to shopping at BRICS Bazaar",
+        "url": "https://indianexpress.com/article/india/delhi-rolls-out-red-carpet-for-pezeshkian-daughter-rashtrapati-bhavan-to-shopping-at-brics-bazaar-10875666/",
+        "source": "The Indian Express",
+        "image": "https://images.indianexpress.com/2026/09/P1-murmu-pezi-new-3col.jpg",
+        "publishedAt": "2026-09-12T22:35:03Z",
         "category": "world",
-        "summary": "The BRICS declaration condemns the April 2025 terror attack in Jammu and Kashmir, urging action against terrorist entities and their safe havens. This statement coincides with a meeting between Indian Prime Minister Modi and Chinese President Xi in New Delhi, reflecting a broader improvement in India-China relations. The declaration serves as a veiled message directed at Pakistan.",
-        "wordCount": 57
-      },
-      {
-        "title": "Indian landlady in Canada held after tenant’s ‘harassment’ over barbecue use",
-        "url": "https://www.hindustantimes.com/india-news/indian-landlady-in-canada-held-after-tenant-s-harassment-over-barbecue-use-instagram-videos-101789203922747.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/12/1600x900/logo/indian_landlady_1789207604813_1a046ed5-30e5-455b-80a4-d031657cc455_1789207618576_4b451a84-72f1-449a-a9ec-97bda053c672_1381800a-4b80-4e2e-90fc-a31a97273e1f_f4fb65fd-d859-4c9b-bafd-289f0727a2f1.jpg",
-        "publishedAt": "2026-09-12T11:32:26Z",
-        "category": "world",
-        "summary": "An Indian-origin woman, Raj Tiwana, was arrested in Canada after her tenant accused her of harassment regarding barbecue use at their rental property. The tenant shared videos of the confrontations on Instagram, which gained significant attention on social media. The incident highlights ongoing tensions between landlords and tenants, particularly concerning shared amenities in rental agreements.",
+        "summary": "President Pezeshkian of Iran visited India, receiving a warm welcome, including activities at Rashtrapati Bhavan and the BRICS Bazaar. During discussions, the leaders emphasized the enduring friendship between Iran and India, with Pezeshkian expressing gratitude for Iran's support during India's BRICS presidency. The visit highlights the strengthening diplomatic ties and cooperation between the two nations.",
         "wordCount": 55
       }
     ],
     "business": [
       {
-        "title": "RBI rejects Tata Sons' application to surrender NBFC licence, reports CNBC-TV18",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/rbi-rejects-tata-sons-application-to-surrender-nbfc-licence-reports-cnbc-tv18-14028590.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2024/08/20240802125551_tata-sons.jpg",
-        "publishedAt": "2026-09-12T12:20:40Z",
+        "title": "Tata Sons NRC may ask chairman Chandrasekaran to reconsider decision to leave",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-sons-nrc-may-ask-chairman-chandrasekaran-to-reconsider-decision-to-leave/articleshow/134151694.cms?from=mdr",
+        "source": "economictimes.com",
+        "image": "https://img.etimg.com/thumb/msid-134151784,width-1200,height-630,imgsize-54172,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-13T00:00:00Z",
         "category": "business",
-        "summary": "The Reserve Bank of India (RBI) has rejected Tata Sons' application to surrender its non-banking financial company (NBFC) license. As a result, Tata Sons must adhere to RBI regulations for upper-layer NBFCs, which include the obligation to list on stock exchanges. This decision impacts Tata Sons' operational framework within the financial sector, according to a CNBC-TV18 report.",
+        "summary": "Tata Sons' Nomination and Remuneration Committee plans to request Chairman Chandrasekaran to reconsider his decision to leave. This follows the RBI's rejection of Tata Sons' NBFC license surrender, necessitating a mandatory listing. The committee believes his leadership is essential for stability during this transition period, emphasizing that his institutional knowledge will be crucial amid increased scrutiny.",
+        "wordCount": 56
+      },
+      {
+        "title": "Anthropic CEO outlines plan to slow AI development",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+        "source": "techcrunch.com",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-1.jpg?w=1024",
+        "publishedAt": "2026-09-12T19:34:44Z",
+        "category": "business",
+        "summary": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman have proposed a strategy to \"pace the frontier\" of AI development amid growing concerns about its risks. They emphasize the need for a more measured approach to AI advancements, reflecting a consensus among researchers regarding the potential dangers of rapid progress. The specifics of this pacing strategy remain to be detailed.",
+        "wordCount": 60
+      },
+      {
+        "title": "Sebi on Closing Auction Session after review: Latest update - New CAS rules",
+        "url": "https://www.livemint.com/market/stock-market-news/sebi-on-closing-auction-session-after-review-latest-update-new-cas-rules-top-5-things-what-they-mean-for-investors-11789213325153.html",
+        "source": "livemint.com",
+        "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/CAS_1789226568039_17f91746-f214-4ada-885d-aed9a308ba7a_1789226610604_27fbcee8-d10d-4349-b839-864e91a222ff_9fb4049a-7866-4c9e-b951-fbbbbf937567_16d5e173-dddf-4850-a36d-96508d70b050.png",
+        "publishedAt": "2026-09-12T15:24:23Z",
+        "category": "business",
+        "summary": "Sebi has proposed five significant changes to the settlement price determination for derivatives on expiry days after reviewing the new closing auction session. These adjustments aim to enhance the accuracy and reliability of settlement prices for both index and single-stock derivatives. The proposed changes reflect Sebi's ongoing efforts to improve market mechanisms and ensure fair trading practices.",
         "wordCount": 57
-      },
-      {
-        "title": "ET Exclusive: RBI blocks Tata Sons' bid to stay private, forcing listing of Rs 2.01 lakh crore giant",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/et-exclusive-rbi-rejects-tata-sons-application-for-voluntary-surrender-as-a-cic-paves-way-for-listing/articleshow/134129933.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-134130087,width-1200,height-630,imgsize-45652,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-09-12T12:03:51Z",
-        "category": "business",
-        "summary": "The Reserve Bank of India has denied Tata Sons' request to surrender its registration, paving the way for a potential public listing of the holding company. Tata Sons is now required to adhere to regulations for upper-layer non-banking financial companies. This ruling ensures that Tata Sons will remain under stricter regulatory oversight for a minimum of five years.",
-        "wordCount": 58
-      },
-      {
-        "title": "HDFC Bank sends two names to RBI for next MD & CEO",
-        "url": "https://www.thehindu.com/business/hdfc-bank-sends-two-names-to-rbi-for-next-md-ceo/article71459932.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/d7cgnu/article71459966.ece/alternates/LANDSCAPE_1200/2026-08-30T074158Z_637493103_RC2V5FALJDKW_RTRMADP_3_INDIA-HDFC-BANK-CEO.JPG",
-        "publishedAt": "2026-09-12T12:00:14Z",
-        "category": "business",
-        "summary": "HDFC Bank's Board has recommended two candidates to the Reserve Bank of India (RBI) for the position of Managing Director and Chief Executive Officer. This move includes the creation of a fourth Whole-time Director position to improve oversight. The candidates' names and proposed remuneration have been submitted in order of preference for RBI's approval.",
-        "wordCount": 54
       }
     ],
     "technology": [
       {
-        "title": "Triptii Dimri’s Animal 'Love Bite' Inspires Apple’s Burgundy iPhone 18? Viral Post Makes Bizarre Claim",
-        "url": "https://newsable.asianetnews.com/entertainment/triptii-dimris-animal-love-mark-inspires-apples-burgundy-iphone-18-viral-post-makes-bizarre-claim-articleshow-q219v9p",
-        "source": "Asianet Newsable",
-        "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01m2as7nh8d6n57r13tcx44hkq,imgname-untitled-design---2026-09-12t173718.532-1789215888936.png",
-        "publishedAt": "2026-09-12T12:25:05Z",
+        "title": "Microsoft confirms Windows 11's update kills audio on some PCs, and the bugs keep piling up",
+        "url": "https://www.windowslatest.com/2026/09/13/microsoft-confirms-windows-11s-update-kills-audio-on-some-pcs-and-the-bugs-keep-piling-up/",
+        "source": "Windows Latest",
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/09/Windows-11-Build-26200.9445-audio-issue.jpg",
+        "publishedAt": "2026-09-12T22:51:20Z",
         "category": "technology",
-        "summary": "An Instagram post by 'satirelogy' claimed that Apple's new iPhone 18 Pro burgundy color was inspired by actress Triptii Dimri's romantic mark in the film Animal. The post, clearly labeled as satire, included a fictional statement from Apple CEO John Ternus and garnered 3.3K likes. The claim is entirely fabricated and not based on any official information.",
-        "wordCount": 57
+        "summary": "Microsoft has confirmed that the Windows 11 update KB5124008 contains a bug that may disable audio and render microphones unresponsive on some PCs. The extent of the issue's impact on users remains unclear. Microsoft acknowledges the problem but has not yet provided a solution. Users are advised to monitor for updates regarding a potential fix.",
+        "wordCount": 55
       },
       {
-        "title": "Complete list of EA FC 27 trophies & achievements",
-        "url": "https://khelnow.com/gaming/list-ea-fc-27-trophies-achievements-202609",
-        "source": "Khel Now",
-        "image": "https://assets.khelnow.com/news/uploads/2026/07/Lead-Pic-Dim-318.jpg",
-        "publishedAt": "2026-09-12T11:00:00Z",
+        "title": "Motorola Edge 70 Neo Spotted on Geekbench and HDR10+ Database; Moto G47 Power 4GB",
+        "url": "https://www.mymobileindia.com/motorola-edge-70-neo-spotted-on-geekbench-and-hdr10-database-moto-g47-power-4gb-128gb-appears-on-epto/",
+        "source": "My Mobile India",
+        "image": "https://www.mymobileindia.com/wp-content/uploads/2026/09/motorola.webp",
+        "publishedAt": "2026-09-12T19:03:43Z",
         "category": "technology",
-        "summary": "EA FC 27 features a total of 47 trophies and achievements for PlayStation and Xbox players. The Platinum trophy, \"The Collector,\" is awarded for unlocking all other trophies, excluding additional content. Other notable achievements include completing Alex Hunter’s and Kylian Mbappé’s milestone objectives in \"The Grounds.\" Players can refer to the complete list for detailed unlocking requirements.",
-        "wordCount": 57
+        "summary": "The Motorola Edge 70 Neo has been identified on Geekbench, featuring a Snapdragon 7s Gen 3 processor, 6GB RAM, and running Android 16. It is also listed among HDR10+ certified devices. Additionally, the Moto G47 Power has surfaced on the Italian site Epto, equipped with 4GB RAM and 128GB storage, although further specifications remain unspecified.",
+        "wordCount": 55
+      },
+      {
+        "title": "Overwatch Announces New Hero Doctrine Coming to Season 5, Limited Trial Available Now",
+        "url": "https://beebom.com/overwatch-announces-new-hero-doctrine-coming-to-season-5/",
+        "source": "Beebom",
+        "image": "https://static.beebom.com/wp-content/uploads/2026/09/new-overwatch-hero-doctrine-announced-featured-image.jpg",
+        "publishedAt": "2026-09-12T18:46:20Z",
+        "category": "technology",
+        "summary": "Blizzard announced the new Overwatch hero, Doctrine, at BlizzCon 2026. He will be available with the Season 5 update on October 6, 2026. Players can participate in a limited-time Hero Trial to play as Doctrine from September 12 to 14. This trial allows fans to experience the new Support Hero ahead of his official release.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "Shreyas Iyer admits to having to make ‘tough call’ between Samson, Abhishek and Sooryavanshi: ‘Player sitting out…’",
-        "url": "https://www.hindustantimes.com/cricket/shreyas-iyer-admits-to-having-to-make-tough-call-between-samson-abhishek-and-sooryavanshi-player-sitting-out-101789212346187.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/12/1600x900/logo/PTI09-11-2026-000439B-0_1789213895096_50fbcda1-a228-4227-9429-1e79ab1baac0_1789213906275_1ed06fe9-e297-4465-811a-1989fa9f4ce7_e7dd8cac-47c7-4512-b92b-c6dc0c43e603_d6f9e3fe-5487-4c85-982a-274857fd3b79.jpg",
-        "publishedAt": "2026-09-12T11:59:38Z",
+        "title": "Mikel Arteta fumes at 'unacceptable' refereeing despite Arsenal victory as David Raya saves penalty in Sunderland clash",
+        "url": "https://www.goal.com/en/lists/mikel-arteta-arsenal-david-raya-penalty-sunderland-premier-league/blt79cf94fd0f0fb7a0",
+        "source": "Goal.com",
+        "image": "https://assets.goal.com/images/v3/getty-2294436819/crop/MM5DEMRVGY5DCMRWHE5G433XMU5DOMZSHIYTGMA=/GettyImages-2294436819.jpg",
+        "publishedAt": "2026-09-13T00:10:48Z",
         "category": "sports",
-        "summary": "India's T20I captain Shreyas Iyer discussed the challenging decision of selecting two opening batters for the first match against Afghanistan. He has three options: Sanju Samson, Abhishek Sharma, and Vaibhav Sooryavanshi. Iyer did not reveal his final choice, acknowledging the difficulty of the situation and the impact on the player who will ultimately sit out of the game.",
-        "wordCount": 58
+        "summary": "Mikel Arteta criticized refereeing standards after Arsenal's 2-0 victory over Sunderland, despite the win extending their streak to six matches. He expressed frustration with referee John Brooks' decision to award a penalty against Ezri Konsa for a challenge on Dan Ballard. Arteta deemed the officiating \"unacceptable,\" highlighting his discontent with the penalty awarded during the match.",
+        "wordCount": 56
       },
       {
-        "title": "2026 F1 Spanish Grand Prix - Madrid Free Practice 3 results",
-        "url": "https://racingnews365.com/2026-f1-spanish-grand-prix-madrid-free-practice-3-results",
-        "source": "racingnews365.com",
-        "image": "https://cdn.racingnews365.com/2026/Antonelli/XPB_1436109_HiRes.jpg?v=1789212436&width=1800&height=945&quality=75&crop=3503%2C1840%2C0%2C64",
-        "publishedAt": "2026-09-12T11:50:00Z",
+        "title": "Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final",
+        "url": "https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-12T225826Z_2108207847_UP1EM9C1RTCBD_RTRMADP_3_TENNIS-USOPEN-1789254404.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-09-12T23:30:49Z",
         "category": "sports",
-        "summary": "Kimi Antonelli topped the timesheets in a disrupted Free Practice 3 session for the 2026 F1 Spanish Grand Prix in Madrid. The session experienced two red flags, with the first caused by Lewis Hamilton, leading to significant delays for barrier repairs. Teams prepared for the upcoming race amid challenging conditions, impacting their practice strategies and performance evaluations.",
-        "wordCount": 57
+        "summary": "Elena Rybakina won the US Open women's singles final, defeating two-time defending champion Aryna Sabalenka with a score of 6-4, 5-7, 6-2. This victory marks Rybakina's third Grand Slam title and elevates her to the world number one ranking. The match showcased Rybakina's strong performance, ultimately frustrating Sabalenka throughout the contest in New York.",
+        "wordCount": 54
       },
       {
-        "title": "India vs Afghanistan 1st T20I: Delhi Traffic Police issue advisory amid BRICS Summit",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/brics-summit-delhi-traffic-police-issue-traffic-advisory-ahead-of-india-vs-afghanistan-first-t20i/articleshow/134128498.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134128747,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-12T11:37:00Z",
+        "title": "Ruthless Rybakina dethrones Sabalenka to claim first U.S. Open crown",
+        "url": "https://www.thehindu.com/sport/tennis/ruthless-rybakina-dethrones-sabalenka-to-claim-first-us-open-crown/article71461502.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/qt36ml/article71461505.ece/alternates/LANDSCAPE_1200/US_Open_Tennis_58775.jpg",
+        "publishedAt": "2026-09-12T23:05:57Z",
         "category": "sports",
-        "summary": "The Delhi Traffic Police issued a traffic advisory ahead of the India-Afghanistan T20I match at Arun Jaitley Stadium on September 13. The advisory includes traffic restrictions, diversions, and parking rules to manage congestion during the event. This measure coincides with the ongoing BRICS Summit, aiming to ensure smooth traffic flow in the area during the cricket match.",
-        "wordCount": 57
+        "summary": "Elena Rybakina won her first U.S. Open title by defeating two-time defending champion Aryna Sabalenka with a score of 6-4, 5-7, 6-2 in the final on September 12, 2026. Despite concerns over an ankle injury, Rybakina's performance secured her third Grand Slam crown, marking a significant achievement in her tennis career.",
+        "wordCount": 51
       }
     ],
     "health": [
       {
-        "title": "Dose RSV Vaccine Vial to Protect Infants",
-        "url": "https://theindianpractitioner.com/who-prequalifies-multi-dose-rsv-vaccine-vial-to-protect-infants/",
-        "source": "The Indian Practitioner",
-        "image": "https://theindianpractitioner.com/wp-content/uploads/2026/09/WHO-Prequalifies-Multi-Dose-RSV-Vaccine-Vial-to-Protect-Infants.png",
-        "publishedAt": "2026-09-12T07:16:31Z",
+        "title": "Seven cases in six days, swine flu tally rises to 17 in Jalandhar",
+        "url": "https://www.tribuneindia.com/news/jalandhar/seven-cases-in-six-days-swine-flu-tally-rises-to-17-in-jalandhar/",
+        "source": "tribuneindia.com",
+        "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkzZGE5ZGUwLWFlZjMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+        "publishedAt": "2026-09-12T21:47:13Z",
         "category": "health",
-        "summary": "The World Health Organization (WHO) has prequalified a multi-dose vial of the maternal respiratory syncytial virus (RSV) vaccine, RSVpreF (ABRYSVO). This development aims to enhance access to the vaccine, which is designed to protect infants from severe RSV infections. The introduction of a lower-cost option is expected to improve vaccination coverage and reduce the impact of RSV globally.",
+        "summary": "The number of swine flu cases in Jalandhar has increased to 17, with 10 reported as of September 6. In the last six days, seven new patients have tested positive for the virus. The local health authorities are monitoring the situation closely as the city experiences a steady rise in cases, prompting concerns among residents and health officials.",
         "wordCount": 58
       },
       {
-        "title": "India administers 80 lakh HPV vaccine doses since February",
-        "url": "https://www.manoramayearbook.in/current-affairs/india/2026/09/12/80-lakh-hpv-vaccine-doses-milestone.html",
-        "source": "Manorama Yearbook",
-        "image": "https://img.manoramayearbook.in/content/dam/yearbook/learn/current-affairs/india/images/2026/9/12/hpv-vaccine.jpg",
-        "publishedAt": "2026-09-12T06:58:47Z",
+        "title": "Bhutan Achieves WHO Validation Against Dog-Transmitted Rabies",
+        "url": "https://denkstrom.org/en/goodnews/bhutan-rabies-elimination-dog-transmitted/",
+        "source": "Denkstrom",
+        "image": "https://denkstrom.org/images/bhutan-hunde-tollwut-who-validierung-2026.webp",
+        "publishedAt": "2026-09-12T21:30:49Z",
         "category": "health",
-        "summary": "India has administered over 80 lakh doses of the Human Papillomavirus (HPV) vaccine since February, marking a significant milestone in its cervical cancer prevention efforts. The National HPV Vaccination Campaign aims to reduce the incidence of cervical cancer through widespread vaccination. This initiative reflects the country's commitment to improving public health and combating preventable diseases among its population.",
-        "wordCount": 58
-      },
-      {
-        "title": "Beyond Digestion: The Hidden Power Of The Gut In Ageing, Immunity And Cancer Care",
-        "url": "https://www.etvbharat.com/en/health/hidden-power-of-gut-ageing-immunity-cancer-care-enn26091201046",
-        "source": "ETV Bharat",
-        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/12-09-2026/1200-675-27615682-871-27615682-1789187044057.jpg",
-        "publishedAt": "2026-09-12T04:28:34Z",
-        "category": "health",
-        "summary": "Research indicates that the gut microbiome significantly influences immunity, metabolism, and overall health, extending beyond digestion. Experts suggest that targeting the gut could enhance cancer treatment, particularly in conjunction with immunotherapy. As scientific understanding of the gut's complexities advances, its connections to ageing, inflammation, and personalized cancer care are becoming increasingly relevant in medical discussions.",
+        "summary": "The World Health Organization confirmed on September 4, 2026, that Bhutan has eliminated dog-transmitted rabies as a public health threat. Since June 2023, there have been no recorded human deaths from this transmission route. While the virus remains present, the effectiveness of vaccination and accessible treatment has contributed significantly to this achievement in public health.",
         "wordCount": 55
+      },
+      {
+        "title": "Aspirus emphasizes early recognition, teamwork during Sepsis Awareness Month",
+        "url": "https://wausaupilotandreview.com/2026/09/12/aspirus-emphasizes-early-recognition-teamwork-during-sepsis-awareness-month/",
+        "source": "Wausau Pilot & Review",
+        "image": "https://cdn.wausaupilotandreview.com/wp-content/uploads/2026/09/medical-treatment-iv-sepsis.jpg",
+        "publishedAt": "2026-09-12T17:30:00Z",
+        "category": "health",
+        "summary": "Aspirus highlights the importance of early recognition and teamwork in addressing sepsis during Sepsis Awareness Month. Sepsis is a critical medical emergency resulting from the body's harmful response to infection, leading to tissue and organ damage. The CDC reports approximately 1.7 million adults and over 18,000 children are affected annually, underscoring the need for awareness and prompt treatment.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "cIGW-SC: an intelligent chaotic hybrid grey wolf and sine cosine optimizer for complex engineering design problems",
-        "url": "https://www.nature.com/articles/s41598-026-68677-2?error=cookies_not_supported&code=0ad5d873-b2ce-48fb-adc4-6e104d6131aa",
-        "source": "Nature",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-09-12T12:29:36Z",
+        "title": "Earth Billions of Years Ago, Astronomers Say — BigGo Finance",
+        "url": "https://finance.biggo.com/news/8dd4cd21-5fce-4059-9928-48bab955b96b",
+        "source": "finance.biggo.com",
+        "image": "https://img.biggo.com/32kaqohNkNy1QBRqJ1D-Qx3y3Hvx8Te3lbk9JF22r_8/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA5LzhkZDRjZDIxLTVmY2UtNDA1OS05OTI4LTQ4YmFiOTU1Yjk2Yl8xNzg5MjM3NjA3X2RlZmF1bHQuanBn.jpg",
+        "publishedAt": "2026-09-12T18:19:00Z",
         "category": "science",
-        "summary": "The cIGW-SC is a new optimization algorithm combining an Improved Grey Wolf Optimizer with the Sine Cosine Algorithm to address challenges in complex engineering design. Evaluated on 72 benchmark functions, it achieved a 94% success rate, outperforming existing methods. Its effectiveness was confirmed through statistical tests, demonstrating strong performance across various engineering applications, including gear trains and hydrothermal scheduling.",
-        "wordCount": 59
+        "summary": "New research indicates that the young Sun may have consumed a super-Earth, a planet five to ten times Earth's mass, billions of years ago. This event potentially left behind chemical traces that could help resolve longstanding questions in solar physics. The study aims to provide insights into the early solar system's formation and the dynamics of planetary interactions.",
+        "wordCount": 58
       },
       {
-        "title": "Integrated transcriptomics and metabolomics reveal key metabolic pathway responses in Myzus persicae (Sulzer) to facilitate arbovirus transmission under cold stress",
-        "url": "https://www.nature.com/articles/s42003-026-10939-w?error=cookies_not_supported&code=080b4564-239b-405d-8243-8c9408b3a235",
+        "title": "Systematic interactome analysis identifies OCRL as a DENV 2 NS4A interactor that inhibits viral replication through a mechanism independent of global actin cytoskeleton rearrangement",
+        "url": "https://www.nature.com/articles/s41598-026-71017-z?error=cookies_not_supported&code=c836a683-23ce-45f5-942f-7b31d0fa1323",
         "source": "Nature",
         "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-09-12T12:27:38Z",
+        "publishedAt": "2026-09-12T14:22:36Z",
         "category": "science",
-        "summary": "Cold stress significantly affects Myzus persicae's ability to acquire and transmit Potato virus Y (PVY). A multiomics study showed that at 5°C, aphids increased feeding frequency and probing activity, with acclimated individuals responding faster. Metabolomic and transcriptomic analyses revealed changes in ABC transporters and lipid metabolism, indicating that cold stress enhances vector competence through behavioral and molecular adaptations.",
+        "summary": "A study identified OCRL as a DENV 2 NS4A interactor that inhibits viral replication. Using mass spectrometry, 212 interacting proteins were found, including OCRL and helicases DDX18 and DDX41. OCRL's antiviral role was confirmed through siRNA knockdown, which increased DENV replication. The study suggests OCRL restricts DENV infection via lysosomal degradation, providing insights into host-virus interactions.",
+        "wordCount": 56
+      },
+      {
+        "title": "Persistent silicate weathering and carbon dioxide uptake in eolian drylands since the late Pliocene",
+        "url": "https://www.nature.com/articles/s43247-026-04058-x?error=cookies_not_supported&code=a614ea86-5f96-45cf-aa65-27f923159cb5",
+        "source": "Nature",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-09-12T12:44:27Z",
+        "category": "science",
+        "summary": "Research from the Chinese Loess Plateau indicates that variability in eolian mass accumulation rates, rather than silicate weathering intensity, primarily influences carbon dioxide consumption from silicate weathering. This process increased from approximately 3.7 to 18.8 Tg C yr⁻¹ between 4.0 and 1.0 Ma, then declined to about 13.0 Tg C yr⁻¹, aligning with late Pliocene atmospheric CO₂ reductions.",
         "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "This 4-year-old broke Kamal Haasan’s record and became India’s youngest National Award winner: Meet Treesha Thosar",
-        "url": "https://timesofindia.indiatimes.com/life-style/people/this-4-year-old-broke-kamal-haasans-record-and-became-indias-youngest-national-award-winner-meet-treesha-thosar/articleshow/134123623.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134123676,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-12T10:09:00Z",
+        "title": "Horoscope Today: September 13, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-september-13-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-09-13T00:30:00Z",
         "category": "entertainment",
-        "summary": "Treesha Thosar, a four-year-old actress, has become India's youngest National Award winner by receiving the Best Child Artist award for her performance in \"Naal 2.\" This achievement surpasses the previous record held by veteran actor Kamal Haasan. Treesha's recognition highlights her exceptional talent at a young age, marking a significant milestone in Indian cinema.",
+        "summary": "On September 13, 2026, horoscopes suggest that Taurus is experiencing significant inner shifts related to their core purpose. Resistance to these changes may lead to increased tension. Embracing the transformation and staying aligned with personal growth is advised. The stars indicate that acceptance is key to navigating this period of change and understanding one's true self.",
+        "wordCount": 56
+      },
+      {
+        "title": "'Haiwaan' box office collection day 2: Akshay Kumar, Saif Ali Khan film earns Rs 2.50 cr; 16.7% drop; worldwide gross reaches Rs 8.60 cr",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/haiwaan-box-office-collection-day-2-akshay-kumar-saif-ali-khan-film-earns-rs-2-50-cr-16-7-drop-worldwide-gross-reaches-rs-8-60-cr/articleshow/134167406.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134167485,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-13T00:23:00Z",
+        "category": "entertainment",
+        "summary": "'Haiwaan', starring Akshay Kumar and Saif Ali Khan, experienced a 16.7% drop in box office earnings on its second day, collecting Rs 2.50 crore in India. The film, directed by Priyadarshan, had an opening day collection of Rs 3.00 crore. Its worldwide gross now stands at Rs 8.60 crore, according to reports from Sacnilk.",
         "wordCount": 54
       },
       {
-        "title": "Sardaar 2 Box Office Collections: Karthi starrer spy action drama drops by 50 per cent on Day 2, grosses Rs 7.50 crore in 2 days",
-        "url": "https://www.pinkvilla.com/entertainment/box-office/sardaar-2-box-office-collections-karthi-starrer-spy-action-drama-drops-by-50-per-cent-on-day-2-grosses-rs-7-50-crore-in-2-days-1405405",
-        "source": "Pinkvilla",
-        "image": "https://www.pinkvilla.com/images/2026-09/578570459_sardaar-2.webp",
-        "publishedAt": "2026-09-12T10:07:31Z",
+        "title": "Pisces Horoscope Today: September 13, 2026",
+        "url": "https://www.vogue.in/content/pisces-horoscope-today-september-13-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
+        "publishedAt": "2026-09-13T00:20:00Z",
         "category": "entertainment",
-        "summary": "Karthi and SJ Suryah's film Sardaar 2 grossed Rs 7.50 crore over its first two days, with Day 2 collections at Rs 2.50 crore, reflecting a 50 percent decline from its opening day. The film's performance has raised concerns, as it needs to improve in the following days to achieve better box office results.",
-        "wordCount": 54
-      },
-      {
-        "title": "1980s AI photo trend: Jasprit Bumrah, Vaibhav Sooryavanshi, Shreyas Iyer get hilarious makeovers - WATCH",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/1980s-ai-photo-trend-jasprit-bumrah-vaibhav-sooryavanshi-shreyas-iyer-get-hilarious-makeovers-watch/articleshow/134121954.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134122551,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-12T09:46:00Z",
-        "category": "entertainment",
-        "summary": "Social media has embraced a new trend that uses AI to transform contemporary photographs into vintage 1980s-style portraits. Indian cricket players Jasprit Bumrah, Vaibhav Sooryavanshi, and Shreyas Iyer have participated in this amusing phenomenon, sharing their AI-generated makeovers online. The trend highlights a playful nostalgia, allowing fans to engage with a humorous reinterpretation of modern images in a retro style.",
-        "wordCount": 60
+        "summary": "On September 13, 2026, Pisces individuals are encouraged to embrace prosperity and abundance, attributed to their heart-led choices in relationships and work. The cosmos indicates that past efforts will yield positive results, suggesting a time of growth and fulfillment. This alignment emphasizes the importance of emotional connections and authenticity in achieving personal and professional success.",
+        "wordCount": 55
       }
     ]
   }
