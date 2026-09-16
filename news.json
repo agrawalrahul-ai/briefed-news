@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-09-16T00:31:09.934Z",
+  "updatedAt": "2026-09-16T12:31:06.976Z",
   "categories": {
     "world": [
       {
-        "title": "‘Don't turn outer space into warzone’: China slams US deployment of weapons in space",
-        "url": "https://timesofindia.indiatimes.com/defence/international/dont-turn-outer-space-into-warzone-china-slams-us-deployment-of-weapons-in-space/articleshow/134261321.cms",
+        "title": "Why doomsday warnings are not the only threat to the AI juggernaut",
+        "url": "https://www.bbc.com/news/articles/cv986j48l66ko",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/news/1024/branded_news/9fda/live/b901c2a0-b101-11f1-a540-61c3f7fc4e6c.jpg",
+        "publishedAt": "2026-09-15T23:39:55Z",
+        "category": "world",
+        "summary": "The global AI race faces challenges beyond doomsday warnings, influenced by localized political and environmental issues. Data centers, crucial for AI development, operate with immense energy consumption, raising concerns about sustainability. As AI technology advances, the interplay of these factors could impact its growth and implementation, highlighting the need for a balanced approach to innovation and environmental responsibility.",
+        "wordCount": 58
+      },
+      {
+        "title": "'Attempted to steal a sea drone': US military destroys two small Iranian boats",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/attempted-to-steal-a-sea-drone-us-military-destroys-two-small-iranian-boats/articleshow/134273392.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134263913,width-1280,height-720,imgsize-67389,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-15T12:19:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-134274731,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-15T22:17:00Z",
         "category": "world",
-        "summary": "China criticized the United States for its deployment of weapons in space, calling for an end to the military build-up in this area. The Chinese government expressed concerns about the potential for outer space to become a warzone and urged Washington to reconsider its actions. This statement reflects ongoing tensions between the two nations regarding space security and military activities.",
-        "wordCount": 60
-      },
-      {
-        "title": "China urges U.S. to ‘stop preparing for war in outer space’",
-        "url": "https://www.thehindu.com/news/international/china-urges-us-to-stop-preparing-for-war-in-outer-space/article71467896.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/ks6wzj/article71467938.ece/alternates/LANDSCAPE_1200/2025-06-17T102048Z_1368458796_RC2V4CANZNRE_RTRMADP_3_IRAN-NUCLEAR-CHINA-EMBASSY.JPG",
-        "publishedAt": "2026-09-15T12:02:41Z",
-        "category": "world",
-        "summary": "China has urged the United States to cease its military expansion in outer space, warning against the weaponization of this domain. This statement follows the U.S. Space Force's confirmation of deploying weapons into orbit for the first time. The call reflects ongoing tensions between Beijing and Washington, two major geopolitical rivals with competing interests in space.",
+        "summary": "The US military reported that it destroyed two small Iranian boats attempting to seize a sea drone in waters off Iran. The incident occurred this week, with the military stating that the Iranian vessels were trying to take possession of the drone ship. No injuries or further details about the engagement were provided in the announcement.",
         "wordCount": 56
       },
       {
-        "title": "Jinnah in, Mujibur Rahman out at Dhaka University museum; Pak founder's portrait shredded",
-        "url": "https://www.indiatoday.in/world/story/bangladesh-news-dhaka-university-ducsu-election-islami-chhatra-shibir-sheikh-mujibur-rahman-muhammad-ali-jinnah-2994896-2026-09-15",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/several-photographs-of-sheikh-mujibur-rahman-r-were-removed-and-replaced-with-those-of-jinnah-foll-153808484-16x9_0.jpeg?VersionId=1FUTY6hRYWnAIy9oTTpgb40ZfTIpo5og",
-        "publishedAt": "2026-09-15T11:26:17Z",
+        "title": "History is being rewritten at an archaeological site in Morocco. What the discovery of an ancient wall tells us",
+        "url": "https://phys.org/news/2026-09-history-rewritten-archaeological-site-morocco.html",
+        "source": "Phys.org",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/history-is-being-rewri-2.jpg",
+        "publishedAt": "2026-09-15T22:00:01Z",
         "category": "world",
-        "summary": "Sheikh Mujibur Rahman's photographs were replaced by those of Muhammad Ali Jinnah at Dhaka University's DUCSU Museum, leading to student protests. The removal of Jinnah's portraits was initiated by students, and the university has launched an investigation into the circumstances surrounding the controversial display. The incident has sparked significant debate regarding historical representation and national identity.",
-        "wordCount": 56
+        "summary": "Archaeological research at Oued Beht in northwestern Morocco has uncovered a significant ancient wall, indicating that communities in the region were actively shaping their environment during the second millennium BC. This discovery reveals a previously unknown aspect of the area's history and suggests that these communities were also part of broader interaction networks across the Mediterranean world.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "New Italian unicorn Exein rides the physical AI wave",
-        "url": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
-        "source": "techcrunch.com",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/09/Exein_-left-to-right-Gerardo-Gagliardo-CFO-Co-Founder-Gianni-Cuozzo-CEO-Founder-Giovanni-Alberto-Falcione-CTO-Co-Founder-.png?resize=1200,801",
-        "publishedAt": "2026-09-15T12:19:38Z",
+        "title": "Gold, silver prices settle lower as Fed hike looks locked in - Kitco PM Report",
+        "url": "https://www.kitco.com/news/article/2026-09-15/gold-silver-prices-settle-lower-fed-hike-looks-locked-kitco-pm-report",
+        "source": "kitco.com",
+        "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0&left=0.11827211827215&width=1023.7634557635&height=576&scale_width=1920&token=8a33ae11a06211700df645bd5a23476dbd7e4a750609ea997bf49d32f4638e66",
+        "publishedAt": "2026-09-15T21:20:05Z",
         "category": "business",
-        "summary": "Italian startup Exein has achieved unicorn status after raising $270 million in a funding round led by Headline, reaching a valuation of $1.7 billion. The company aims to enhance cybersecurity for physical AI, evolving from its original focus on Internet of Things (IoT) solutions. This funding marks a significant milestone for the European tech landscape.",
-        "wordCount": 55
+        "summary": "Spot gold and silver prices declined in U.S. trading on Tuesday, influenced by high crude oil prices, a stronger U.S. dollar, and a near 5% 10-year Treasury yield. Gold settled at $4,291.60 an ounce, down 0.43%, while silver closed at $63.236 an ounce, down 0.4%. North American and European equity markets also finished lower amid these pressures.",
+        "wordCount": 57
       },
       {
-        "title": "After 'AI will kill us all warnings', Anthropic CEO Dario Amodei may have just 'blamed' Mark Zuckerberg and Jensen Huang for lying about …",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-ai-will-kill-us-all-warnings-anthropic-ceo-dario-amodei-may-have-just-blamed-mark-zuckerberg-and-jensen-huang-for-lying-about-/articleshow/134261230.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134261253,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-15T11:51:00Z",
+        "title": "Cabin Ceiling Collapses Onboard Boeing 737 After Emergency Landing in Iran",
+        "url": "https://indianexpress.com/article/world/watch-boeing-737-cabin-ceiling-falls-apart-mid-flight-on-sepehran-airlines-10879510/",
+        "source": "The Indian Express",
+        "image": "https://images.indianexpress.com/2026/09/flight.jpg",
+        "publishedAt": "2026-09-15T18:09:02Z",
         "category": "business",
-        "summary": "Anthropic CEO Dario Amodei criticized tech industry leaders, including Mark Zuckerberg and Jensen Huang, following the resignation of a former employee who warned about the potential dangers of AI. Amodei's comments reflect concerns over corporate responsibility and transparency in AI development. He emphasized the need for honest discussions about AI's risks and the implications of unchecked technological advancement.",
-        "wordCount": 58
+        "summary": "A Boeing 737 experienced a cabin ceiling collapse during an emergency landing in Mashhad, Iran, after developing issues shortly after takeoff. A video from Akharin Khabar showed the ceiling lining falling onto passengers, exposing parts of the aircraft's internal structure. Reports indicated a possible tire burst may have contributed to the emergency situation, prompting the return flight.",
+        "wordCount": 57
       },
       {
-        "title": "CAS crash: Nifty plunges 462 points in less than 30 seconds. Will Sebi’s review break trend?",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-crash-nifty-plunges-462-points-in-less-than-30-seconds-will-sebis-review-break-trend/articleshow/134260167.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-134260199,width-1200,height-630,imgsize-729301,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-09-15T11:13:03Z",
+        "title": "RBI caveat in Bombay High Court limits bid to stall Tata Sons IPO",
+        "url": "https://www.business-standard.com/companies/news/rbi-caveat-in-bombay-high-court-limits-bid-to-stall-tata-sons-ipo-126091501446_1.html",
+        "source": "Business Standard",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/15/thumb/fitandfill/1200X628/1789494281-1673.jpg",
+        "publishedAt": "2026-09-15T17:45:00Z",
         "category": "business",
-        "summary": "Nifty experienced a rapid 2% decline, dropping 462 points in under 30 seconds during Tuesday's closing auction session, before recovering. This volatility raised concerns regarding the new CAS system. In response, Sebi is considering changes to expiry-day settlement and trading mechanisms to address these fluctuations. The market's instability highlights ongoing issues within the current trading framework.",
-        "wordCount": 56
+        "summary": "The Bombay High Court has acknowledged the Reserve Bank of India's (RBI) request to be heard before any decisions regarding a challenge to Tata Sons' IPO listing. This legal intervention by the RBI has limited Tata Sons' ability to contest the central bank's directives concerning the listing process, impacting the company's efforts to proceed with its initial public offering.",
+        "wordCount": 59
       }
     ],
     "technology": [
       {
-        "title": "iPhone 18 Pro Max Delivery Delay",
-        "url": "https://www.bhaskarenglish.in/tech-science/news/iphone-18-pro-max-delivery-delay-india-us-pre-order-139038311.html",
-        "source": "bhaskarenglish.in",
-        "image": "https://images.bhaskarassets.com/thumb/730x0/web2images/1884/2026/09/15/screenshot-2026-09-15-172014_1789473210.png",
-        "publishedAt": "2026-09-15T11:58:55Z",
+        "title": "OpenAI's voice model doesn't think. That's the point.",
+        "url": "https://thenewstack.io/voice-agent-latency-architectures/",
+        "source": "The New Stack",
+        "image": "https://cdn.thenewstack.io/media/2026/09/f841ac91-ethos-dg-7uyvdu2x4jg-unsplash-scaled.jpg",
+        "publishedAt": "2026-09-15T21:54:18Z",
         "category": "technology",
-        "summary": "Customers in India and the US who missed the initial pre-orders for the iPhone 18 Pro and iPhone 18 Pro Max may face delivery delays until late September or October. Apple introduced these models during its recent ‘Surprise and Shine’ event. The delays could impact those eager to receive the latest devices from the tech giant.",
-        "wordCount": 56
+        "summary": "OpenAI's GPT-Live-1 and Google's Gemini 3.8 Live represent different approaches to voice model architecture. Google’s model maintains reasoning within a single session, while OpenAI's separates it. Both companies addressed latency issues in voice agents, launching their respective solutions within five days. These developments highlight distinct strategies for enhancing voice interaction capabilities for developers and users.",
+        "wordCount": 55
       },
       {
-        "title": "Redmi Note 17 Pro, Note 17 Pro Max launched in India with up to 10,000mAh battery: Price, specs",
-        "url": "https://www.tradingview.com/news/moodys:2d1ab352314e8:0-redmi-note-17-pro-note-17-pro-max-launched-in-india-with-up-to-10-000mah-battery-price-specs/",
-        "source": "TradingView",
-        "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-        "publishedAt": "2026-09-15T11:08:46Z",
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "url": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/whatsapp-iphone-icon.jpg?resize=1200,800",
+        "publishedAt": "2026-09-15T20:12:53Z",
         "category": "technology",
-        "summary": "Xiaomi has launched the Redmi Note 17 Pro and Note 17 Pro Max in India on September 15. The Pro Max features a 10,000mAh silicon-carbon battery, while the Pro has a 9,000mAh battery. Both models expand Xiaomi's Note series, offering enhanced specifications. Pricing details and additional features were also announced during the launch event.",
-        "wordCount": 54
+        "summary": "Meta has introduced a new WhatsApp Business MCP server, enabling developers to utilize AI coding agents such as Claude, Cursor, Codex, and ChatGPT for various tasks. These AI agents can assist with setup, messaging templates, testing, and troubleshooting, streamlining the process for businesses connecting with customers. This announcement coincides with Meta's new AI-focused subscription plans.",
+        "wordCount": 55
       },
       {
-        "title": "Samsung Galaxy S26 FE Arrives in India With Exynos 2500 and 120Hz Display: Price, Offers",
-        "url": "https://in.mashable.com/tech/113962/samsung-galaxy-s26-fe-arrives-in-india-with-exynos-2500-and-120hz-display-price-offers",
-        "source": "Mashable India",
-        "image": "https://sm.mashable.com/mashable_in/seo/default/z3wq-2026-09-15t161259420_suj7.jpg",
-        "publishedAt": "2026-09-15T10:51:27Z",
+        "title": "New 'StarCraft' game announced, but it's a grim open-world shooter and it's not coming until 2030",
+        "url": "https://www.space.com/entertainment/space-games/new-starcraft-game-announced-but-its-a-grim-open-world-shooter-and-its-not-coming-until-2030",
+        "source": "space.com",
+        "image": "https://cdn.mos.cms.futurecdn.net/wmavZHnG39NmoPrTCTNbVf-1200-80.jpg",
+        "publishedAt": "2026-09-15T20:00:00Z",
         "category": "technology",
-        "summary": "Samsung has launched the Galaxy S26 FE in India, featuring the Exynos 2500 chipset and a 6.7-inch Dynamic AMOLED 2X display with a 120Hz refresh rate. The smartphone includes a 50MP camera with 3x optical zoom and runs on One UI 9 based on Android 17. Pricing and offers for the device have also been announced.",
-        "wordCount": 56
+        "summary": "Blizzard Entertainment announced a new StarCraft game at BlizzCon 2026, set to release in 2030. This upcoming title marks a departure from the series' traditional real-time strategy gameplay, shifting to a grim open-world shooter format. The announcement was part of a larger showcase that included Diablo 5 and a new Warcraft 3 expansion, generating excitement among fans.",
+        "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "IND vs AFG 2nd T20I 2026 results, highlights and scorecard as Sanju Samson's 57 makes it an easy win for India",
-        "url": "https://sports.yahoo.com/articles/ind-vs-afg-2nd-t20i-122533005.html",
-        "source": "Yahoo Sports",
-        "image": "https://s.yimg.com/lo/mysterio/api/230a77bf4a18bcb13ee99f1a9c111b15837cc98ecdc1020c2bbb16b12280e4ad/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2F9104a0a73d73a424f2488776c44bfbcd",
-        "publishedAt": "2026-09-15T12:25:33Z",
+        "title": "Jasprit Bumrah does it again! India star breaks major T20I record",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/jasprit-bumrah-does-it-again-india-star-breaks-major-t20i-record/articleshow/134270032.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134270128,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-16T00:30:00Z",
         "category": "sports",
-        "summary": "In the second T20I match between India and Afghanistan at Arun Jaitley Stadium, India secured an easy victory, largely due to Sanju Samson's impressive 57 runs. The match showcased India's strong performance, leading to a favorable outcome. Highlights and detailed scorecard information are available for fans and analysts looking to review the key moments from the game.",
+        "summary": "Jasprit Bumrah achieved a significant milestone in his T20I career during India's second T20I match against Afghanistan at the Arun Jaitley Stadium in Delhi. He opened the bowling with a maiden over, marking another record in his T20I journey. This performance further solidifies Bumrah's reputation as a leading bowler in the format, contributing to India's cricketing success.",
         "wordCount": 57
       },
       {
-        "title": "Nigar Sultana set to step down as Bangladesh T20I captain",
-        "url": "https://www.cricbuzz.com/cricket-news/140180/nigar-sultana-set-to-step-down-as-bangladesh-t20i-captain",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1074787/nigar-sultana-is-set-to-step-down-as-t20i-captain-following-the-asian-games.jpg",
-        "publishedAt": "2026-09-15T12:22:38Z",
+        "title": "6 stats from Elche 2-3 Real Madrid",
+        "url": "https://www.managingmadrid.com/real-madrid-cf-la-liga/112935/6-stats-from-elche-2-3-real-madrid",
+        "source": "Managing Madrid",
+        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/09/gettyimages-2294955036.jpg?quality=90&strip=all&crop=0%2C10.739574930271%2C100%2C78.520850139458&w=1200",
+        "publishedAt": "2026-09-15T21:34:08Z",
         "category": "sports",
-        "summary": "Nigar Sultana will step down as Bangladesh's T20I captain after the Asian Games. The 29-year-old has communicated her decision to the board, aiming to concentrate on her batting and wicketkeeping skills. Despite stepping away from the T20I captaincy, she intends to continue leading the team in One Day Internationals (ODIs) moving forward.",
-        "wordCount": 52
+        "summary": "Real Madrid secured a 3-2 victory against Elche, with Carlos Espí scoring a late winner for the second time this season. The match featured contrasting halves, as Real dominated early but allowed Elche to score two late goals. The win highlights Madrid's resilience, as they continue to compete at the top of the league standings.",
+        "wordCount": 55
       },
       {
-        "title": "'Why no one understands his position': Ashwin has one big question about Sanju Samson’s India future",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/why-no-one-understands-his-position-ashwin-has-one-big-question-about-sanju-samsons-india-future/articleshow/134261453.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134261817,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-15T12:16:00Z",
+        "title": "Max Dowman dazzles for Arsenal in rampant win over Ipswich",
+        "url": "https://www.mirror.co.uk/sport/football/match-reports/ipswich-arsenal-carabao-cup-highlights-37666877",
+        "source": "The Mirror",
+        "image": "https://i2-prod.mirror.co.uk/article37666932.ece/ALTERNATES/s1200d/0_GettyImages-2295464629.jpg",
+        "publishedAt": "2026-09-15T21:02:00Z",
         "category": "sports",
-        "summary": "Sanju Samson's international cricket career has been marked by notable talent and impressive performances, yet he faces ongoing uncertainty regarding his position in the Indian team. Despite showcasing his abilities on significant platforms, questions remain about his future with the national squad. Ashwin has raised concerns about the lack of clarity surrounding Samson's role and prospects within the team.",
-        "wordCount": 59
+        "summary": "Max Dowman scored twice as Arsenal secured a 4-2 victory over Ipswich in the Carabao Cup, advancing to the fourth round. Noni Madueke added another goal, while Mikel Merino capped off the scoring. Despite the win, Ipswich managed to net two goals, but Arsenal's performance was dominant, showcasing Dowman's talent and contributing to their progression in the tournament.",
+        "wordCount": 58
       }
     ],
     "health": [
       {
-        "title": "New study explores why the brain mixes up memories",
-        "url": "https://www.edexlive.com/news/why-does-your-brain-mix-up-memories-a-new-study-examines-how-memories-are-misplaced-in-your-brain-s-filing-cabinets",
-        "source": "EdexLive",
-        "image": "https://cf-images.assettype.com/edexlive%2F2026-09-15%2Fqa28dvs0%2FScreenshot-2026-09-15-172057.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-09-15T12:00:00Z",
+        "title": "KDIGO guidelines set fresh benchmarks for managing anaemia in CKD patients",
+        "url": "https://www.thehansindia.com/life-style/health/kdigo-guidelines-set-fresh-benchmarks-for-managing-anaemia-in-ckd-patients-1122281",
+        "source": "The Hans India",
+        "image": "https://assets.thehansindia.com/h-upload/2026/09/15/1702577-health.jpg",
+        "publishedAt": "2026-09-15T21:08:45Z",
         "category": "health",
-        "summary": "A recent study published in Cerebral Cortex examines why older adults often confuse memories. Researchers conducted brain scans revealing that shifting neural firing patterns in the hippocampus contribute to this phenomenon. The findings indicate that while memories may become less precise with age, they are not entirely forgotten, providing insight into the relationship between aging and memory recall difficulties.",
-        "wordCount": 59
+        "summary": "The Deccan Hospital in Hyderabad has announced the updated KDIGO 2026 guidelines for diagnosing and managing anaemia in chronic kidney disease (CKD) patients. Anaemia is a prevalent complication of CKD, leading to symptoms such as fatigue, weakness, and reduced concentration. The new guidelines aim to improve patient outcomes and address the associated decline in quality of life.",
+        "wordCount": 57
       },
       {
-        "title": "Researchers tested 30 nanometre magnetic particles on 94 blood samples; they detected amoxicillin allergy with 98 percent sensitivity, versus about 17 percent for a standard commercial test",
-        "url": "https://timesofindia.indiatimes.com/science/discovery/researchers-tested-30-nanometre-magnetic-particles-on-94-blood-samples-they-detected-amoxicillin-allergy-with-98-percent-sensitivity-versus-about-17-percent-for-a-standard-commercial-test/articleshow/134258452.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134258572,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-15T11:45:00Z",
+        "title": "A brain aneurysm ruptures every 18 minutes. Could you be at risk?",
+        "url": "https://www.scrippsnews.com/health/a-brain-aneurysm-ruptures-every-18-minutes-could-you-be-at-risk",
+        "source": "Scripps News",
+        "image": "https://ewscripps.brightspotcdn.com/dims4/default/5d651d1/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fee%2F74%2F17fd37f048fba06b7b9bb6b1662b%2F1630969029-95iiqc.jpg",
+        "publishedAt": "2026-09-15T20:38:19Z",
         "category": "health",
-        "summary": "Researchers developed a blood testing platform using 30 nanometre magnetic particles to detect amoxicillin allergies. In tests involving 94 blood samples, the new method achieved 98 percent sensitivity, significantly outperforming standard commercial tests, which only had about 17 percent sensitivity. This advancement could improve the identification of individuals who are genuinely allergic to amoxicillin, a widely used antibiotic.",
+        "summary": "September is Brain Aneurysm Awareness Month, highlighting that over 6 million people in the U.S. have unruptured brain aneurysms, equating to about 1 in 50 individuals. Advocacy groups emphasize the importance of awareness, as a brain aneurysm ruptures every 18 minutes, with an annual rupture rate of approximately 8 to 10 percent, underscoring the potential risk for many.",
         "wordCount": 58
       },
       {
-        "title": "New brain atlas can aid fight against Alzheimer’s disease",
-        "url": "https://theprint.in/science/new-brain-atlas-can-aid-fight-against-alzheimers-disease/3043320/",
-        "source": "ThePrint",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2025/09/Alzheimers-Trees-696x380-1.jpg",
-        "publishedAt": "2026-09-15T11:27:28Z",
+        "title": "Disadvantaged Neighborhoods Linked to Accelerated Brain Aging",
+        "url": "https://neurosciencenews.com/living-location-brain-aging-neuroscience-31213/",
+        "source": "Neuroscience News",
+        "image": "https://neurosciencenews.com/files/2026/09/brain-aging-neighborhood-neuroscience.jpg",
+        "publishedAt": "2026-09-15T20:26:26Z",
         "category": "health",
-        "summary": "Researchers have developed a new brain atlas that identifies 1,067 microproteins in the human frontal cortex, analyzing samples from individuals with and without Alzheimer’s disease. This study suggests that these microproteins, previously considered genetic clutter, may play a crucial role in understanding and potentially combating Alzheimer’s-related brain decay, particularly through their connection to immune cell dysfunction.",
-        "wordCount": 56
+        "summary": "A study involving over 2,800 brain MRIs has revealed that living in socioeconomically disadvantaged neighborhoods is linked to accelerated brain aging. The research indicates that individuals from these areas experience reduced total brain volume and increased vascular damage. These findings suggest that socioeconomic factors may significantly impact brain health and aging processes in affected populations.",
+        "wordCount": 55
       }
     ],
     "science": [
       {
-        "title": "Future cities on the Moon will run out of water faster than you think. Here's why",
-        "url": "https://www.indiatoday.in/science/story/moon-polar-ice-lunar-settlement-supply-water-ice-discovery-south-pole-2995026-2026-09-15",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/moon-base-nasa-isro-190506245-16x9.jpg?VersionId=j_czXFr368iZYnNe5uZbph8FBwPGUMaB",
-        "publishedAt": "2026-09-15T11:01:12Z",
+        "title": "In 2017, a fully automated facility for plant bioscience research was launched to the International Space Station: What NASA studied in space?",
+        "url": "https://economictimes.indiatimes.com/news/international/us/science-in-2017-a-fully-automated-facility-for-plant-bioscience-research-was-launched-to-the-international-space-station-what-nasa-studied-in-space/articleshow/134275632.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-134275709,width-1200,height-630,imgsize-310136,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-16T00:13:31Z",
         "category": "science",
-        "summary": "The Moon's permanently shadowed craters contain water ice, raising concerns about the sustainability of future lunar settlements. While plans for bases, villages, and cities are ambitious, estimates suggest that the available water supply may be limited. This poses significant challenges for long-term habitation and industry on the Moon, necessitating careful consideration of resource management and sustainability.",
-        "wordCount": 56
+        "summary": "In 2017, NASA launched the Advanced Plant Habitat to the International Space Station for plant bioscience research. This fully automated facility studied plant growth in microgravity, conducting experiments lasting up to 135 days with over 180 sensors. It focused on various plants, including radishes and tomatoes. The facility is now set to return to Earth for display in a museum.",
+        "wordCount": 60
       },
       {
-        "title": "Bay Area scientists investigate possible dark matter signal deep underground",
-        "url": "https://www.mercurynews.com/2026/09/15/has-dark-matter-been-found-bay-area-scientists-analyze-signal-deep-underground/",
-        "source": "The Mercury News",
-        "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/EBT-L-DARKMATTEREXPERIMENT-01.jpeg?w=3916&h=3133",
-        "publishedAt": "2026-09-15T11:00:33Z",
+        "title": "The Physics That Curves a Ping-Pong Ball Just Showed Up in Quantum Light",
+        "url": "https://scitechdaily.com/the-physics-that-curves-a-ping-pong-ball-just-showed-up-in-quantum-light/",
+        "source": "SciTechDaily",
+        "image": "https://scitechdaily.com/images/AI-Generated-Illustration-of-Quantum-Spin-Effect-777x437.jpg",
+        "publishedAt": "2026-09-15T22:21:17Z",
         "category": "science",
-        "summary": "Bay Area scientists are investigating a potential dark matter signal detected at the Sanford Underground Research Facility in South Dakota. A single unknown particle, isolated from light and cosmic rays, collided with a xenon atom's nucleus, resulting in the ejection of electrons. This unexpected event may provide insights into the elusive nature of dark matter in physics.",
+        "summary": "Researchers have observed the optical Magnus effect for the first time, demonstrating a small shift in laser interactions. This discovery could significantly influence the precise control of qubits in quantum computers. The effect, similar to how a spinning soccer ball curves, highlights the intricate relationship between light and quantum mechanics, potentially advancing the development of quantum technologies.",
         "wordCount": 57
-      },
-      {
-        "title": "HDSR Star Party draws astronomy enthusiasts from across India",
-        "url": "https://ddindia.co.in/2026/09/hdsr-star-party-draws-astronomy-enthusiasts-from-across-india/",
-        "source": "DD India",
-        "image": "https://ddindia.co.in/wp-content/uploads/2026/09/Gemini_Generated_Image_y3c643y3c643y3c6-1024x572.png",
-        "publishedAt": "2026-09-15T10:18:00Z",
-        "category": "science",
-        "summary": "The fourth edition of the Hanle Dark Sky Reserve (HDSR) Star Party took place from September 7 to 12 at the Indian Astronomical Observatory in Hanle, Ladakh. Approximately 40 amateur astronomers and expert astrophotographers from various states, including Chandigarh, Goa, Gujarat, Haryana, Himachal Pradesh, Karnataka, and Maharashtra, participated in the event, celebrating astronomy and stargazing.",
-        "wordCount": 55
       }
     ],
     "entertainment": [
       {
-        "title": "Manoj Muntashir gets trolled for sharing 'Adipurush' song after 'Jai Jai Ram' release from Ranbir Kapoor's 'Ramayana': 'Isko khushi doosre ki bardhast nai hoti'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manoj-muntashir-gets-trolled-for-sharing-adipurush-song-after-jai-jai-ram-release-from-ranbir-kapoors-ramayana-isko-khushi-doosre-ki-bardhast-nai-hoti/articleshow/134261867.cms",
+        "title": "Keerthy Suresh brings Tamil and Kerala pride to TIFF in a look that screamed of pure South Indian grandeur",
+        "url": "https://timesofindia.indiatimes.com/life-style/fashion/celeb-style/keerthy-suresh-brings-tamil-and-kerala-pride-to-tiff-in-a-look-that-screamed-of-pure-south-indian-grandeur/photostory/134271593.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134262044,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-15T12:20:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-134271598,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-16T00:30:00Z",
         "category": "entertainment",
-        "summary": "Manoj Muntashir faced online criticism after sharing a song from 'Adipurush' following the release of 'Jai Jai Ram', the first song from Nitesh Tiwari’s 'Ramayana'. The timing of his post drew negative reactions from netizens, who expressed their discontent, suggesting that he could not tolerate others' happiness. The contrasting releases have led to discussions among fans and critics alike.",
+        "summary": "Keerthy Suresh showcased South Indian fashion at the Toronto International Film Festival, highlighting her Tamil and Kerala heritage. She chose traditional attire over typical glamorous styles, blending cultural elements with contemporary design. Her appearance on the red carpet emphasized the richness of Indian fashion, bringing a unique perspective to the global event and celebrating her roots through art and style.",
+        "wordCount": 60
+      },
+      {
+        "title": "Horoscope Today: September 16, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-september-16-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-09-16T00:30:00Z",
+        "category": "entertainment",
+        "summary": "Horoscope for September 16, 2026, advises Aquarius to confront past heartaches instead of avoiding them. The message emphasizes that heartache is a natural aspect of life, and while one cannot change the past, acknowledging it is essential for personal growth. The stars suggest focusing on healing rather than dwelling on past pains, encouraging a more positive outlook moving forward.",
         "wordCount": 59
       },
       {
-        "title": "Nani Caught Between Two Sides Of Paradise!",
-        "url": "https://www.gulte.com/movienews/431924/nani-caught-between-two-sides-of-paradise",
-        "source": "Gulte",
-        "image": "https://cdn.gulte.com/wp-content/uploads/2026/09/nani-paradise.webp",
-        "publishedAt": "2026-09-15T11:16:48Z",
+        "title": "Aries Horoscope Today: September 16, 2026",
+        "url": "https://www.vogue.in/content/aries-horoscope-today-september-16-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/16:9/w_1280,c_limit/1-Aries_16;9.png",
+        "publishedAt": "2026-09-16T00:20:00Z",
         "category": "entertainment",
-        "summary": "Natural Star Nani and Kayadu Lohar star in the upcoming film \"The Paradise,\" directed by Srikanth Odela. The movie is set to release on the 24th, with paid premieres scheduled for the 23rd. As the release date approaches, the team is navigating various promotional activities and expectations surrounding the film, aiming for a successful launch.",
-        "wordCount": 55
-      },
-      {
-        "title": "Shah Rukh Khan breaks silence on Ranveer Singh's 'Dhurandhar', says he loved both the parts: 'Fantastic'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/shah-rukh-khan-breaks-silence-on-ranveer-singhs-dhurandhar-the-actor-says-he-loved-both-the-parts-fantastic/articleshow/134259575.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134259743,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-15T10:56:00Z",
-        "category": "entertainment",
-        "summary": "Shah Rukh Khan has expressed his admiration for the 'Dhurandhar' franchise, stating he loved both parts and found them \"fantastic.\" His comments come as the franchise continues to gain popularity in Bollywood. The success of both installments has generated significant interest among fans, who are eager to hear more from prominent figures in the industry regarding the films.",
-        "wordCount": 58
+        "summary": "Aries individuals may feel inclined to remain in their personal space. Recently, many have chosen to embark on a new phase in life, emphasizing both refinement and freedom. This shift encourages embracing the innate spark that drives them forward. Today’s horoscope suggests that this transition is significant, urging Aries to explore new opportunities while maintaining their individuality.",
+        "wordCount": 57
       }
     ]
   }
