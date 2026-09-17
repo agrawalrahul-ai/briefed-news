@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-09-17T00:31:01.952Z",
+  "updatedAt": "2026-09-17T12:31:02.945Z",
   "categories": {
     "world": [
       {
-        "title": "India voices concern over attempted drone attack on Mecca",
-        "url": "https://www.thehindu.com/news/national/india-voices-concern-over-attempted-drone-attack-on-mecca/article71472296.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/gjgaam/article71472287.ece/alternates/LANDSCAPE_1200/2026-09-15T091018Z_1186360671_RC23JNAPX5ZP_RTRMADP_3_SAUDI-MECCA-UMRAH.JPG",
-        "publishedAt": "2026-09-16T11:49:04Z",
-        "category": "world",
-        "summary": "India has voiced concern regarding a drone attack near Mecca, Saudi Arabia, emphasizing the importance of protecting the nation's sovereignty and civilian safety. The Indian government condemned such attacks, highlighting their potential threat to lives and infrastructure. This statement reflects India's commitment to supporting Saudi Arabia in maintaining security and stability within its borders amid rising regional tensions.",
-        "wordCount": 58
-      },
-      {
-        "title": "EU opens door for Canada amid trade war with Trump, proposes first-ever associate membership",
-        "url": "https://timesofindia.indiatimes.com/world/europe/eu-opens-door-for-canada-amid-trade-war-with-trump-proposes-first-ever-associate-membership/articleshow/134286827.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134286876,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-16T11:43:00Z",
-        "category": "world",
-        "summary": "European Commission President Ursula von der Leyen proposed Canada as the EU's first associate member to strengthen relations amid escalating trade tensions with the United States. This initiative aims to enhance cooperation between the EU and Canada, reflecting a strategic pivot towards Ottawa as the EU seeks to navigate challenges posed by the current trade war with the Trump administration.",
-        "wordCount": 60
-      },
-      {
-        "title": "World Bank names Nobel laureate Michael Kremer as next chief economist",
-        "url": "https://www.reuters.com/world/world-bank-names-nobel-laureate-michael-kremer-next-chief-economist-2026-09-16/",
+        "title": "Australia cracks down on student and backpacker visas to curb migration",
+        "url": "https://www.reuters.com/business/media-telecom/australia-bar-foreign-students-bringing-partners-children-while-they-study-2026-09-17/",
         "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/YPH3SFXVXBPTZE7SP3JXH762PI.jpg?auth=e6f6fd533dc5f5a32357dbc69ef19671bdaf9f78994d246ba05dd54157bfed65&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-09-16T11:39:51Z",
+        "image": "https://www.reuters.com/resizer/v2/ELBYUOJOORLO3PN4H5VB6FV4YI.jpg?auth=9a1a06a69b5890a0e527d61f5d429aac3d38638027648dfb360c19f170157d9d&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-09-17T00:21:00Z",
         "category": "world",
-        "summary": "The World Bank has appointed Nobel laureate Michael Kremer as its next chief economist, effective immediately. Kremer, a professor at the University of Chicago, succeeds Indermit Gill, who retired last month. At 61 years old, Kremer is recognized for his contributions to development economics, particularly in areas such as education and health. His new role begins amid ongoing global challenges.",
-        "wordCount": 60
+        "summary": "Australia will prohibit foreign students from bringing partners and children during their studies, according to a senior minister. Additionally, the government will tighten regulations for working holiday visas. These measures are part of a broader effort to address concerns regarding high migration levels, which have sparked increasing debate within the country. The changes aim to manage immigration more effectively.",
+        "wordCount": 59
+      },
+      {
+        "title": "Russia strikes Kyiv, other cities hours after US sanctions passed",
+        "url": "https://www.reuters.com/world/europe/russia-strikes-ukraines-kyiv-injures-three-odesa-officials-say-2026-09-17/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/REKU454ZHNMUNIG4NX3PEFAXB4.jpg?auth=6964c145b9ec733bb0a8fef61a4bcdd44f55b15d5180c27a7e5c1b464cec5572&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-09-17T00:17:00Z",
+        "category": "world",
+        "summary": "Russia launched missile and drone strikes on Kyiv and other Ukrainian cities overnight, resulting in injuries to over two dozen individuals, according to officials. This attack occurred shortly after the U.S. Congress passed a significant sanctions bill aimed at Russia. The strikes mark a continued escalation in hostilities amid ongoing tensions between the two countries.",
+        "wordCount": 55
+      },
+      {
+        "title": "Aramco closes supply tap for Indian refiners, new oil barrels to cost more",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/aramco-closes-supply-tap-for-indian-refiners-new-oil-barrels-to-cost-more/articleshow/134295702.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-134295819,width-1200,height-630,imgsize-89974,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-17T00:00:00Z",
+        "category": "world",
+        "summary": "Saudi Arabia has ceased direct oil supply to Indian refiners, leading to increased costs for new barrels. Traders are expected to deliver limited volumes via the Strait of Hormuz, employing a strategy of purchasing discounted Iraqi crude. This crude will be transferred ship-to-ship in the Gulf of Oman before reaching Indian and other customers, maintaining recent trading practices.",
+        "wordCount": 58
       }
     ],
     "business": [
       {
-        "title": "In graphs | Why private banks and foreign UPI apps stand to gain from the MDR charge",
-        "url": "https://www.thehindu.com/business/Industry/in-graphs-why-private-banks-and-foreign-upi-apps-stand-to-gain-from-the-mdr-charge/article71472283.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/wqgv4f/article71472336.ece/alternates/LANDSCAPE_1200/UPI-completes-1GVNGEK2IA.4.jpg.jpg",
-        "publishedAt": "2026-09-16T12:21:57Z",
+        "title": "Stocks in news: Infosys, Mazagon Dock, Fortis Healthcare, JSW Energy and Kalpataru Projects",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-mazagon-dock-fortis-healthcare-jsw-energy-and-kalpataru-projects/articleshow/134296725.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-134296735,width-1200,height-630,imgsize-155154,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-09-17T00:30:00Z",
         "category": "business",
-        "summary": "The Merchant Discount Rate (MDR) on UPI transactions will impact a small fraction of users. Analysis indicates that private banks, particularly Yes Bank, and select UPI applications like PhonePe and Google Pay are poised to benefit significantly from this charge. The data suggests that the financial implications will be limited to a few entities within the UPI ecosystem.",
-        "wordCount": 58
+        "summary": "On September 16, Indian markets showed a cautious recovery, with the Nifty and Sensex rising after a significant drop the previous day. The Nifty 50 increased by 99 points, or 0.43%, closing at 23,217.60. Increased investments in banking and major stocks contributed to this rebound, while companies like Infosys and Mazagon Dock faced scrutiny due to recent corporate events.",
+        "wordCount": 59
       },
       {
-        "title": "Nifty Outlook for September 17: Index moves hinge on Fed decision, oil trajectory",
-        "url": "https://www.cnbctv18.com/market/nifty-outlook-september-17-index-takes-a-breather-after-sharp-sell-off-moves-hinge-on-fed-outcome-crude-prices-19992097.htm",
-        "source": "CNBC TV18",
-        "image": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-c20c7008ddd56bcc90b5c50f3b1a6314.jpg?im=FitAndFill,width=1200,height=675",
-        "publishedAt": "2026-09-16T12:18:39Z",
+        "title": "Hospitals could be charging you 2,841% higher on commonly used consumables",
+        "url": "https://timesofindia.indiatimes.com/india/hospitals-could-be-charging-you-2841-higher-on-commonly-used-consumables/articleshow/134296969.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134305936,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-17T00:20:00Z",
         "category": "business",
-        "summary": "The Nifty index is currently near crucial support levels between 23,100 and 23,000, with no indications of a significant recovery from recent lows. Market movements are expected to be influenced by the Federal Reserve's decisions and the trajectory of oil prices. Following a sharp sell-off, the Nifty 50 experienced a brief pause in trading activity.",
+        "summary": "Hospitals in India are reportedly charging significantly higher prices for commonly used medical consumables. For example, an IV infusion set costs Rs 11 wholesale but has a maximum retail price of Rs 325, while a disposable syringe priced under Rs 7 is sold at a much higher rate. The Maharashtra FDA is revisiting the long-standing issue of medical device pricing.",
+        "wordCount": 60
+      },
+      {
+        "title": "Aramco closes supply tap for Indian refiners, new oil barrels to cost more",
+        "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/aramco-closes-supply-tap-for-indian-refiners-new-oil-barrels-to-cost-more/articleshow/134295702.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-134295819,width-1200,height-630,imgsize-89974,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-17T00:00:00Z",
+        "category": "business",
+        "summary": "Saudi Arabia has ceased direct oil supply to Indian refiners, leading to increased costs for new oil barrels. Traders are expected to deliver limited volumes through the Hormuz Strait, utilizing a strategy of purchasing discounted Iraqi crude. This crude is then transferred ship-to-ship in the Gulf of Oman for delivery to Indian and other customers.",
         "wordCount": 55
-      },
-      {
-        "title": "Plea In Supreme Court Challenges Charges On UPI Transactions Above ₹2,000",
-        "url": "https://www.livelaw.in/top-stories/plea-in-supreme-court-challenges-centres-decision-to-introduce-charges-on-upi-transactions-above-2000-550329",
-        "source": "Live Law",
-        "image": "https://www.livelaw.in/h-upload/2026/09/16/700515-upi-apps-gpay-phonepe-and-sc.jpg",
-        "publishedAt": "2026-09-16T12:16:51Z",
-        "category": "business",
-        "summary": "A writ petition has been submitted to the Supreme Court challenging Gazette notifications from the Union Ministry of Finance, issued on September 14 and 15. These notifications impose charges on commercial UPI transactions exceeding ₹2,000. The petitioner seeks to have these charges quashed, arguing that they may adversely affect users and the digital payment ecosystem in India.",
-        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "Red Light Supercharges Anti-Obesity Drug Precursor",
-        "url": "https://www.genengnews.com/topics/bioprocessing/red-light-supercharges-anti-obesity-drug-precursor/",
-        "source": "Genetic Engineering and Biotechnology News",
-        "image": "https://www.genengnews.com/wp-content/uploads/2026/09/Mike-Dubey_GBPN_IMAGE_17SEPT26.jpeg",
-        "publishedAt": "2026-09-16T12:00:57Z",
+        "title": "Apple iPhone Duo Max could rival Samsung Galaxy Z Fold Ultra",
+        "url": "https://www.sammobile.com/news/apple-iphone-duo-max-rival-galaxy-z-fold-ultra/",
+        "source": "SamMobile",
+        "image": "https://www.sammobile.com/wp-content/uploads/2026/08/Galaxy-Z-Fold-8-Ultra-review-22.jpg",
+        "publishedAt": "2026-09-17T00:17:50Z",
         "category": "technology",
-        "summary": "Researchers in New Delhi discovered that red light enhances lipstatin production in the bacterium Streptomyces, potentially improving bioprocess yields for this anti-obesity drug precursor. This finding suggests a straightforward method to increase the output of valuable compounds without the need for complex genetic engineering or nutrient modifications, offering a promising avenue for biotechnological advancements in drug production.",
+        "summary": "Apple is reportedly developing a larger foldable phone, potentially named the iPhone Duo Max, to compete with Samsung's Galaxy Z Fold 8 Ultra. While the existing iPhone Duo directly rivals the Galaxy Z Fold 8, Apple currently lacks a comparable device to the Ultra model, which features a larger display and superior camera capabilities.",
+        "wordCount": 54
+      },
+      {
+        "title": "Foxconn, Tata Electronics in overdrive for making iPhone 18 Pro and Pro Max models for exports",
+        "url": "https://economictimes.indiatimes.com/industry/cons-products/electronics/foxconn-tata-electronics-in-overdrive-for-making-iphone-18-pro-and-pro-max-models-for-exports/articleshow/134295272.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-134301632,width-1200,height-630,imgsize-117160,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-17T00:00:00Z",
+        "category": "technology",
+        "summary": "Apple's iPhone 18 Pro and iPhone 18 Pro Max are being produced continuously in India by Foxconn and Tata Electronics. The factories are shipping the devices to the US and other global markets via chartered flights ahead of their launch on Friday. This marks the first time Made-in-India Pro iPhones will be available globally from day one.",
         "wordCount": 57
       },
       {
-        "title": "Samsung Galaxy S26 FE Review: Is It Worth the INR 79,999 Price Tag?",
-        "url": "https://in.mashable.com/tech/114012/samsung-galaxy-s26-fe-review-is-it-worth-the-inr-79999-price-tag",
-        "source": "Mashable India",
-        "image": "https://sm.mashable.com/mashable_in/seo/default/gaa_qzqh.jpg",
-        "publishedAt": "2026-09-16T11:43:28Z",
+        "title": "Google’s Gemini Notebook bundle of new features for more personalized powerful learning experience",
+        "url": "https://www.edtechinnovationhub.com/news/googles-gemini-notebook-announces-bundle-of-new-features-for-a-more-personalized-and-powerful-learning-experience",
+        "source": "EdTech Innovation Hub",
+        "image": "http://static1.squarespace.com/static/65a69e0c110a6977ead9741c/t/6aaa44dbe4f49c1f511b3a9a/1789543643811/Gemini+Notebook+BTS.png?format=1500w",
+        "publishedAt": "2026-09-16T23:32:36Z",
         "category": "technology",
-        "summary": "Samsung has launched the Galaxy S26 FE in India, priced at INR 79,999. This new Fan Edition smartphone features a 6.7-inch Dynamic AMOLED 2X display with a 120Hz refresh rate. It serves as the successor to last year's Galaxy S26 FE, expanding Samsung's flagship lineup. The device aims to attract consumers seeking premium features at a competitive price.",
-        "wordCount": 58
-      },
-      {
-        "title": "Apple fans may have to wait longer for iPhone Duo, as here's what causing production slowdowns",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/apple-fans-may-have-to-wait-longer-for-iphone-duo-as-heres-what-causing-production-slowdowns/articleshow/134286394.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134286431,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-16T11:23:00Z",
-        "category": "technology",
-        "summary": "Apple's upcoming iPhone Duo, its first foldable model, may experience limited availability upon release. Analyst Jeff Pu has revised down his estimated production numbers due to various slowdowns. This could lead to delays for fans eager to purchase the device. The specific reasons for the production issues have not been detailed, but they are affecting overall supply.",
+        "summary": "Google's AI-powered research tool, Gemini Notebook, is set to introduce a new suite of features aimed at enhancing user experience. These updates will allow users to capture new sources and engage in chat functionalities with their notebooks. The rollout of these features is scheduled for the coming weeks, complementing and enhancing the existing capabilities of the tool.",
         "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "Sunil Gavaskar explains how Sanju Samson can score consistently: ‘If he keeps doing that…’",
-        "url": "https://www.hindustantimes.com/cricket/sunil-gavaskar-explains-how-sanju-samson-can-score-consistently-if-he-keeps-doing-that-101789560107228.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/Samson_1789560408816_WdDC_1789560408995_M2U6_116b313c-f61f-4e38-9aef-7944f850811c_zrdw.jpg",
-        "publishedAt": "2026-09-16T12:25:23Z",
+        "title": "'He is a God-gifted talent': Rashid Khan on Vaibhav Sooryavanshi - and the skill that is 'hardly' seen at such a young age | EXCLUSIVE",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-afghanistan/he-is-a-god-gifted-talent-rashid-khan-on-vaibhav-sooryavanshi-and-the-skill-that-is-hardly-seen-at-such-a-young-age-exclusive/articleshow/134292874.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134297037,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-17T00:30:00Z",
         "category": "sports",
-        "summary": "Sunil Gavaskar commended Sanju Samson for his composed innings against Afghanistan in the second T20I, highlighting his patience in shot selection early on. Samson scored a significant half-century, reinforcing his position in India's playing XI amid previous uncertainties regarding his selection. Gavaskar emphasized that maintaining this approach could lead to consistent performances for the young batter in future matches.",
+        "summary": "Rashid Khan praised young cricketer Vaibhav Sooryavanshi, calling him a \"God-gifted talent\" with exceptional skills rarely seen at such a young age. He noted the evolving dynamics of the India-Afghanistan rivalry, emphasizing that Afghanistan now possesses confidence and ambition, moving beyond merely hoping to compete against larger teams. This shift reflects a growing belief within the Afghan cricket team.",
         "wordCount": 59
       },
       {
-        "title": "Barcelona expect Camp Nou capacity to increase to 70,000-72,000 in early 2027 - report",
-        "url": "https://barcauniversal.com/barcelona-expect-camp-nou-capacity-to-increase-to-70000-72000-in-early-2027-report/",
-        "source": "Barca Universal",
-        "image": "https://barcauniversal.com/wp-content/uploads/2026/09/fc-barcelona-v-athletic-club-laliga-ea-sports-2026-27-2-scaled.jpg",
-        "publishedAt": "2026-09-16T12:14:34Z",
+        "title": "Boehly, Walter sell Chelsea stakes as Clearlake takes full control",
+        "url": "https://www.espn.in/football/story/_/id/49960706/chelsea-clarlake-capital-todd-boehly-mark-walter-ownership",
+        "source": "ESPN India",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0916%2Fr1717842_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-09-16T22:52:00Z",
         "category": "sports",
-        "summary": "Barcelona anticipates an increase in Spotify Camp Nou's capacity to between 70,000 and 72,000 spectators by early 2027. This expansion is part of the ongoing redevelopment of the iconic stadium. The club is making significant progress in its renovation efforts, aiming to enhance the venue's facilities and overall experience for fans as part of its long-term vision.",
-        "wordCount": 57
+        "summary": "Clearlake Capital has acquired the ownership stakes of co-owners Todd Boehly and Mark Walter, gaining full control of Chelsea FC, the Premier League club announced on Wednesday. This transaction marks a significant shift in the club's ownership structure. Clearlake, led by Behdad Eghbali and Jose E. Feliciano, previously held a minority stake before this acquisition.",
+        "wordCount": 55
       },
       {
-        "title": "F1 unveil 2027 season calendar with record number of Sprints",
-        "url": "https://racingnews365.com/f1-unveil-2027-season-calendar-with-record-number-of-sprints",
-        "source": "racingnews365.com",
-        "image": "https://cdn.racingnews365.com/2026/XPB_1402155_HiRes_2026-09-16-064327_pceh.jpg?v=1789541008&width=1800&height=945&quality=75&crop=5185%2C2723%2C0%2C369",
-        "publishedAt": "2026-09-16T12:05:51Z",
+        "title": "Michael Carrick told he made huge mistake playing two 'inept' stars against Brighton",
+        "url": "https://metro.co.uk/2026/09/16/michael-carrick-told-made-huge-mistake-playing-two-inept-stars-brighton-29625240/",
+        "source": "metro.co.uk",
+        "image": "https://metro.co.uk/wp-content/uploads/2026/09/SEI_312756882-3f3a_1789599636.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+        "publishedAt": "2026-09-16T22:14:00Z",
         "category": "sports",
-        "summary": "Formula 1 has announced its 2027 season calendar, which includes 24 grands prix and a record 10 Sprint races. The season will kick off in Bahrain on March 14 and conclude in Abu Dhabi in December. This marks a significant increase in the number of Sprint events, reflecting the sport's evolving format and structure for the upcoming season.",
-        "wordCount": 58
+        "summary": "Manchester United's Carabao Cup defeat to Brighton has drawn criticism towards defenders Leny Yoro and Ayden Heaven, who were described as 'inept' following their performances. United lost a two-goal lead, resulting in a 3-2 collapse at Old Trafford. The match ended with fans expressing their discontent through loud boos, highlighting the team's disappointing display.",
+        "wordCount": 54
       }
     ],
     "health": [
       {
-        "title": "Combating new bioweapon risks: A Q&A with Dr Miranda Smith on the European Biotech Act",
-        "url": "https://www.sipri.org/commentary/topical-backgrounder/2026/combating-new-bioweapon-risks-qa-dr-miranda-smith-european-biotech-act",
-        "source": "sipri.org",
-        "image": "https://www.sipri.org/sites/default/files/2026-09/shutterstock_2717655507.jpg",
-        "publishedAt": "2026-09-16T12:00:00Z",
+        "title": "J&J Slips as Caplyta Clears a Quality-of-Life Test",
+        "url": "https://www.tradingview.com/news/gurufocus:f59428ea7094b:0-j-j-slips-as-caplyta-clears-a-quality-of-life-test/",
+        "source": "TradingView",
+        "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+        "publishedAt": "2026-09-16T19:29:44Z",
         "category": "health",
-        "summary": "Dr. Miranda Smith discusses the European Biotech Act's importance in addressing emerging biosecurity risks linked to artificial intelligence. The Act aims to regulate access to synthetic genetic materials, such as DNA and RNA, potentially used for biological weapons. Smith outlines the Act's capabilities and limitations, emphasizing the need for robust legislation to combat new bioweapon threats effectively.",
+        "summary": "Johnson & Johnson's Caplyta has shown promising late-stage data indicating improved sexual functioning in patients with depression, according to a Reuters report. This development may enhance Caplyta's commercial appeal. Despite this positive news, J&J's shares remained relatively stable, experiencing a slight decline. The findings could influence the drug's market position in the competitive pharmaceutical landscape.",
+        "wordCount": 55
+      },
+      {
+        "title": "Santiago Millan: What Will It Take to Make Cancer Medicines Accessible to Every Child?",
+        "url": "https://oncodaily.com/voices/santiago-millan-childhood-cancer-587118",
+        "source": "Oncodaily",
+        "image": "https://oncodaily.com/pub/uploads/2026/07/7880d1e5612c4a949e72bc54df039ba3.webp",
+        "publishedAt": "2026-09-16T18:47:45Z",
+        "category": "health",
+        "summary": "Santiago Millan, Technical Lead at the WHO's Global Platform for Access to Childhood Cancer Medicines, emphasized the need for equitable access to cancer treatments for all children. He discussed the barriers preventing access and called for collaborative efforts to ensure that no child is denied life-saving medications due to financial or logistical challenges in healthcare systems worldwide.",
         "wordCount": 57
       },
       {
-        "title": "India's giving free HPV shots to adolescent girls and parents have questions: A doctor answered 5 big ones",
-        "url": "https://www.hindustantimes.com/lifestyle/health/indias-giving-free-hpv-shots-to-adolescent-girls-and-parents-have-questions-a-doctor-answered-5-big-ones-101789557149049.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/HPV_1789557754411_xdxZ_1789557754633_pcMa_91e750ce-fb7c-4a5f-9b76-65cdd0ee579a_w4sH.jpg",
-        "publishedAt": "2026-09-16T11:40:53Z",
+        "title": "J&J Slips as Caplyta Clears a Quality-of-Life Test",
+        "url": "https://www.gurufocus.com/news/9084216/jj-slips-as-caplyta-clears-a-qualityoflife-test",
+        "source": "GuruFocus",
+        "image": "https://static.gurufocus.com/logos/0C00000BO5.png?14",
+        "publishedAt": "2026-09-16T18:33:27Z",
         "category": "health",
-        "summary": "India is offering free HPV vaccinations to adolescent girls, prompting questions from parents. Dr. Seema Sharma from Paras Health Gurugram addressed common concerns, including the vaccine's impact on fertility and its novelty. HPV is a widespread infection linked to cervical cancer through high-risk strains. Understanding the medical facts about vaccines is crucial for informed decision-making regarding adolescent health.",
-        "wordCount": 58
-      },
-      {
-        "title": "Researchers find listening to certain sounds can help CSF flow during sleep",
-        "url": "https://medicalbuyer.co.in/researchers-find-listening-to-certain-sounds-can-help-csf-flow-during-sleep/",
-        "source": "medicalbuyer.co.in",
-        "image": "https://medicalbuyer.co.in/wp-content/uploads/2026/09/Researchers-find-listening-to-certain-sounds-can-help-CSF-flow-during-sleep.jpg",
-        "publishedAt": "2026-09-16T11:38:15Z",
-        "category": "health",
-        "summary": "Researchers at MIT discovered that listening to specific sounds during sleep can enhance the flow of cerebrospinal fluid (CSF). This increased flow aids the brain in removing cellular debris, including waste products like lactic acid and proteins associated with Alzheimer's disease, such as amyloid beta and tau. The findings suggest a potential method for improving brain health during sleep.",
-        "wordCount": 59
+        "summary": "Johnson & Johnson (JNJ) experienced a decline in stock value following the release of late-stage data for Caplyta. The new findings indicate that Caplyta may enhance sexual functioning in patients with depression. This development adds a significant commercial argument for the drug, which is already positioned as a treatment option for individuals suffering from depressive disorders.",
+        "wordCount": 56
       }
     ],
     "science": [
       {
-        "title": "Indian scientists reveal how Mars 'breathes' as temperatures ripple across the Red Planet",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/science/indian-scientists-reveal-how-mars-breathes-as-temperatures-ripple-across-the-red-planet-article-14031292.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2024/08/20240827120859_Sheetal-Kumari-fi-53.jpg",
-        "publishedAt": "2026-09-16T11:56:45Z",
+        "title": "15,000 years ago, enormous mammals like mammoths, large horse species dominated North America: How they went extinct",
+        "url": "https://timesofindia.indiatimes.com/etimes/animals/15000-years-ago-enormous-mammals-like-mammoths-large-horse-species-dominated-north-america-how-they-went-extinct/articleshow/134296807.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134296813,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-16T23:44:00Z",
         "category": "science",
-        "summary": "Indian scientists have utilized data from the Hope spacecraft to map significant temperature fluctuations on Mars. Their findings reveal wave-like patterns influenced by the planet's thin atmosphere and varied terrain. This research enhances the understanding of Martian climate dynamics and contributes to the broader knowledge of planetary atmospheres, showcasing how temperature changes occur across the Red Planet.",
-        "wordCount": 57
+        "summary": "Fifteen thousand years ago, North America was home to enormous mammals, including mammoths and large horse species, which dominated the landscape. This era featured a vastly different environment compared to today. The extinction of these species is attributed to various factors, including climate change and human activity, leading to significant ecological shifts and the eventual disappearance of these large mammals.",
+        "wordCount": 60
       },
       {
-        "title": "Satellites Show Earth Lost More Than 12 Trillion Tons of Ice from Greenland, Antarctica in 47 Years",
-        "url": "https://english.aawsat.com/varieties/5318947-satellites-show-earth-lost-more-12-trillion-tons-ice-greenland-antarctica-47",
-        "source": "ASHARQ AL-AWSAT English",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-09/1778294.jpeg.webp?VersionId=1an0RNDfl6IwfZ2ATkrKQeA8oxuaxJ8r",
-        "publishedAt": "2026-09-16T10:03:36Z",
+        "title": "The Indian and Pacific Oceans Are Falling Out of Sync",
+        "url": "https://scitechdaily.com/the-indian-and-pacific-oceans-are-falling-out-of-sync/",
+        "source": "SciTechDaily",
+        "image": "https://scitechdaily.com/images/Ocean-Currents-Climate-Change-777x518.jpg",
+        "publishedAt": "2026-09-16T23:31:42Z",
         "category": "science",
-        "summary": "Since 1979, Greenland and Antarctica have lost approximately 12.5 trillion tons (11.3 trillion metric tons) of ice, according to a significant scientific report. This amount of melted ice is sufficient to cover the continental United States with a layer of ice five feet deep. The findings highlight the ongoing impact of climate change on polar ice sheets.",
-        "wordCount": 57
+        "summary": "New research indicates a significant breakdown in the long-standing climate relationship between the Indian and Pacific Oceans. Historically, climate changes in the Indian Ocean mirrored those in the Pacific for centuries. However, recent findings suggest that this synchronization is weakening, marking an unusual shift in climate patterns that could have implications for weather and environmental conditions in the region.",
+        "wordCount": 59
+      },
+      {
+        "title": "Onset of 55th eruptive episode at Kīlauea is still unknown, as 5 new vents have now opened in the crater",
+        "url": "https://bigislandnow.com/2026/09/16/onset-of-55th-eruptive-episode-at-kilauea-is-still-unknown-as-5-new-vents-have-now-opened-in-the-crater/",
+        "source": "Big Island Now",
+        "image": "https://cdn.bigislandnow.com/file/bigislandnow/2026/09/new-vents-kilauea-featured-1024x576.jpg",
+        "publishedAt": "2026-09-16T21:23:41Z",
+        "category": "science",
+        "summary": "Five new vents have opened on the northwest wall of Halemaʻumaʻu crater at Kīlauea, producing small lava flows, according to the Hawaiian Volcano Observatory. The summit region remains highly pressurized, but the onset of Kīlauea's 55th eruptive episode is still unknown. Forecasting future activity is not possible at this time, as conditions continue to evolve.",
+        "wordCount": 55
       }
     ],
     "entertainment": [
       {
-        "title": "Worried fans ask for health updates as 61-year-old Disco Shanthi posts picture of her hospitalisation",
-        "url": "https://www.hindustantimes.com/entertainment/telugu-cinema/worried-fans-ask-for-health-updates-as-61-year-old-disco-shanthi-posts-picture-of-her-hospitalisation-101789557188802.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/16/1600x900/logo/Disco_Shanthi_hospital_1789557177598_hAqc_1789557185190_BIFr_3ab53cb3-894c-4753-a48f-0b479e25d579_6uZC.jpg",
-        "publishedAt": "2026-09-16T11:57:37Z",
+        "title": "Horoscope Today: September 17, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-september-17-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-09-17T00:30:00Z",
         "category": "entertainment",
-        "summary": "Veteran actor Disco Shanthi, 61, shared a social media post revealing her recent hospitalisation. She reassured fans that she has returned home after her treatment. The news prompted concern among her followers, who sought updates on her health. Disco Shanthi is known for her contributions to the film industry, and fans expressed their support during this time.",
-        "wordCount": 57
-      },
-      {
-        "title": "The Vvaan Trailer: Sidharth Malhotra and Tamannaah Bhatia starrer explores Indian folklore, supernatural elements and adventure; watch",
-        "url": "https://www.bollywoodhungama.com/news/bollywood/the-vvaan-trailer-sidharth-malhotra-and-tamannaah-bhatia-starrer-explores-indian-folklore-supernatural-elements-and-adventure-watch/",
-        "source": "Bollywood Hungama",
-        "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/09/The-Vvaan-Trailer-Sidharth-Malhotra-and-Tamannaah-Bhatia-starrer-explores-Indian-folklore-supernatural-elements-and-adventure-watch.jpg",
-        "publishedAt": "2026-09-16T11:54:26Z",
-        "category": "entertainment",
-        "summary": "The trailer for \"The Vvaan,\" featuring Sidharth Malhotra and Tamannaah Bhatia, has been released, showcasing its folklore-inspired narrative and supernatural themes. The film is set in a forest and delves into adventure elements intertwined with Indian mythology. The trailer expands on the initial teaser, providing a deeper glimpse into the film's unique setting and storyline.",
+        "summary": "On September 17, 2026, horoscopes suggest that Libras may have made impulsive choices due to heartache. However, they are now experiencing a positive turn, likened to striking gold. The advice is to maintain this momentum and focus on the opportunities presented, rather than dwelling on their fragility. Embracing the positive aspects of life is encouraged.",
         "wordCount": 55
       },
       {
-        "title": "Horoscope Tomorrow, September 17, 2026: A decision or agreement may turn in your favor if you’ve been fair and honest",
-        "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-tomorrow-september-17-2026-a-decision-or-agreement-may-turn-in-your-favor-if-you-ve-been-fair-and-honest-101789484105539.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/15/1600x900/logo/1000002233_1782914041332_1782914045666_039de9c2-b3e4-4847-89eb-ddc198f19442_1789484493371_Rvd3_b9b0a8e8-3117-4867-bcf6-303cfb6cddd0_L35M.png",
-        "publishedAt": "2026-09-16T11:34:10Z",
+        "title": "Capricorn Horoscope Today: September 17, 2026",
+        "url": "https://www.vogue.in/content/capricorn-horoscope-today-september-17-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
+        "publishedAt": "2026-09-17T00:20:00Z",
         "category": "entertainment",
-        "summary": "On September 17, 2026, horoscopes suggest that a fair and honest approach may lead to favorable decisions or agreements. Direct conversations and important information can help clarify confusion. It is advised to communicate openly and confidently make choices. However, an emotional setback might briefly impact your perspective, emphasizing the importance of resilience during this time.",
-        "wordCount": 55
+        "summary": "On September 17, 2026, Capricorns are encouraged to balance activity with introspection. Taking time to retreat and recharge is essential for gaining clarity. The horoscope suggests that while Capricorns enjoy being productive, they also value their personal space. This period is an opportunity to reflect and gain perspective before re-engaging with the outside world.",
+        "wordCount": 54
+      },
+      {
+        "title": "Aquarius Horoscope Today: September 17, 2026",
+        "url": "https://www.vogue.in/content/aquarius-horoscope-today-september-17-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e055135022eaa114c0cd/16:9/w_1280,c_limit/13-Aquarius_16;9.png",
+        "publishedAt": "2026-09-17T00:20:00Z",
+        "category": "entertainment",
+        "summary": "Aquarius individuals are encouraged to reflect on past actions and their outcomes before taking a leap of faith that resonates with them. Current feelings of disappointment may lead to a sense of emptiness and listlessness. It is essential to acknowledge these emotions while considering new opportunities that may arise, allowing for personal growth and renewed motivation.",
+        "wordCount": 56
       }
     ]
   }
