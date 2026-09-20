@@ -1,208 +1,228 @@
 {
-  "updatedAt": "2026-09-20T00:30:58.758Z",
+  "updatedAt": "2026-09-20T12:30:58.272Z",
   "categories": {
     "world": [
       {
-        "title": "US-China talks: Trade truce, AI, Iran, rare earths in focus ahead of Trump-Xi summit",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/us-china-talks-trade-truce-ai-iran-rare-earths-in-focus-ahead-of-trump-xi-summit-article-14033536.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260514030146_Trump-Xi-Jinping.jpg",
-        "publishedAt": "2026-09-19T11:49:00Z",
-        "category": "world",
-        "summary": "US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng are scheduled to meet in New York prior to the Trump-Xi summit on September 24. Key discussion topics will include trade relations, artificial intelligence, rare earth materials, and broader economic ties between the United States and China, aiming to address ongoing tensions and foster cooperation.",
-        "wordCount": 56
-      },
-      {
-        "title": "Petrol prices near Rs 400-mark in Pakistan: PTI Lawmakers ride donkey carts to Sindh Assembly",
-        "url": "https://www.moneycontrol.com/world/petrol-prices-near-rs-400-mark-in-pakistan-pti-lawmakers-ride-donkey-carts-to-sindh-assembly-article-14033532.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260919114327_Donkey-carts.jpg",
-        "publishedAt": "2026-09-19T11:43:58Z",
-        "category": "world",
-        "summary": "Petrol prices in Pakistan have reached Rs 390.79 per litre, with high-speed diesel at Rs 424.92 per litre following a recent increase. In protest against these rising fuel costs, Pakistan Tehreek-e-Insaf (PTI) lawmakers, led by Sajjad Ali Soomro, rode donkey carts to the Sindh Assembly. The demonstration highlights growing public discontent over the escalating prices of petroleum products.",
-        "wordCount": 58
-      },
-      {
-        "title": "Flames, huge plume of black smoke seen near Riyadh airport amid Houthi strikes",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/flames-huge-plume-of-black-smoke-seen-near-riyadh-airport-amid-houthi-strikes/articleshow/134352887.cms",
+        "title": "Saudi Arabia claims Houthis tried to attack its capital Riyadh with missiles",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-claims-houthis-tried-to-attack-its-capital-riyadh-with-missiles/articleshow/134362350.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134353001,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-19T11:25:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-134362355,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-19T23:23:00Z",
         "category": "world",
-        "summary": "Flames and a significant plume of black smoke were observed near King Khalid International Airport in Riyadh on Saturday, following reported strikes by Houthi forces. The incident has raised concerns about security and safety in the area. Authorities have not yet provided detailed information regarding the extent of the damage or any potential impact on airport operations.",
-        "wordCount": 57
+        "summary": "Saudi Arabia reported that Yemen's Houthi rebels attempted to launch a ballistic missile at its capital, Riyadh, marking the first such attack on the city. The missile was intercepted before it could reach its target. This incident highlights ongoing tensions in the region, as Saudi Arabia continues to face threats from the Houthi group amid the ongoing conflict in Yemen.",
+        "wordCount": 60
+      },
+      {
+        "title": "If Washington wants to escape quagmire...: Iran's 7 conditions to end war",
+        "url": "https://www.indiatoday.in/world/story/iran-seven-conditions-us-talks-end-war-frozen-funds-qatar-mediation-2998630-2026-09-20",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/mohsen-rezaei-right--an-adviser-to-irans-supreme-leader--said-the-talks-were-failing-over-the-rel-061706791-16x9.jpg?VersionId=GLooeAA3B7Xhfk4HjXLbTJiwxtBeBTOo",
+        "publishedAt": "2026-09-19T23:17:25Z",
+        "category": "world",
+        "summary": "Iran has communicated seven conditions to the United States via Qatari mediators, seeking to initiate negotiations to end the ongoing war. The message emphasizes the importance of dialogue while simultaneously warning that Tehran is prepared for a \"decisive war\" if its terms are not accepted. The conditions reflect Iran's stance on the conflict's resolution.",
+        "wordCount": 54
+      },
+      {
+        "title": "Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with ballistic missile",
+        "url": "https://www.thehindu.com/news/international/saudi-arabia-confirms-yemens-houthi-rebels-tried-to-attack-its-capital-with-ballistic-missile/article71486051.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/og15tm/article71486055.ece/alternates/LANDSCAPE_1200/2026-09-19T114802Z_1980126111_RC28MNAXZ2HR_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN.JPG",
+        "publishedAt": "2026-09-19T22:19:33Z",
+        "category": "world",
+        "summary": "Saudi Arabia confirmed on September 19, 2026, that Yemen's Houthi rebels attempted to launch a ballistic missile at Riyadh. This incident marks a significant escalation in the ongoing regional tensions between Saudi Arabia and the Tehran-backed Houthi group. It is the first missile attack targeting the capital since the recent intensification of hostilities in the region.",
+        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "2026 TVS Ronin vs Royal Enfield Hunter 350: Price, Features and Engine Specs",
-        "url": "https://bikeadvice.in/2026-tvs-ronin-vs-royal-enfield-hunter-350-price-features-and-engine-specs/",
-        "source": "BikeAdvice",
-        "image": "https://bikeadvice.in/wp-content/uploads/2026/09/Royal-Enfield-Hunter-350-VS-TVS-Ronin.jpg.jpeg",
-        "publishedAt": "2026-09-19T11:39:59Z",
+        "title": "Bilibili, 'China's YouTube', draws Indian creators despite no India launch, as India-China ties thaw and YouTube monetisation set to tighten",
+        "url": "https://economictimes.indiatimes.com/industry/media/entertainment/bilibili-chinas-youtube-draws-indian-creators-despite-no-india-launch-as-india-china-ties-thaw-and-youtube-monetisation-set-to-tighten/articleshow/134359258.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-134359312,width-1200,height-630,imgsize-96468,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-20T00:00:00Z",
         "category": "business",
-        "summary": "The 2026 TVS Ronin and Royal Enfield Hunter 350 are popular choices in India's budget-friendly cruiser segment. TVS recently launched the Ronin, which competes with the Hunter 350. A detailed comparison highlights differences in price, features, and engine specifications, catering to consumers looking for affordable yet stylish motorcycle options ahead of the upcoming Diwali festive season.",
-        "wordCount": 56
+        "summary": "Indian creators are increasingly using China's Bilibili, known as \"China's YouTube,\" to share content despite the platform not being officially available in India. They employ workarounds like VPNs and altered location settings to access the site. This trend emerges as India-China relations improve and YouTube's monetization policies become stricter, prompting creators to seek alternative platforms for revenue.",
+        "wordCount": 57
       },
       {
-        "title": "Defender\" Interior Revealed Ahead Of Launch » MotorOctane",
-        "url": "https://motoroctane.com/news/323900-mahindra-mini-defender-interior-revealed-ahead-of-launch",
-        "source": "motoroctane.com",
-        "image": "https://motoroctane.com/wp-content/uploads/2026/09/Mahindra-Vision-S-Interior-Spy-Shot.jpg",
-        "publishedAt": "2026-09-19T11:00:00Z",
+        "title": "Why the global panic over AI is not a crisis over technology",
+        "url": "https://timesofindia.indiatimes.com/home/sunday-times/all-that-matters/why-the-global-panic-over-ai-is-not-a-crisis-over-technology/articleshow/134357174.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134357204,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-19T23:30:00Z",
         "category": "business",
-        "summary": "The Mahindra Vision S-based SUV, referred to as the \"Mini Defender,\" is generating significant anticipation ahead of its launch. Multiple prototypes have been spotted across India, indicating that the vehicle is nearing its release. Further details about the compact SUV continue to emerge, building excitement among potential buyers and automotive enthusiasts as the reveal date approaches.",
-        "wordCount": 56
+        "summary": "The global concern regarding AI is not merely a technological crisis but a challenge to redefine human value. Education has traditionally focused on mastering curricula and accumulating knowledge, which was thought to ensure student success. However, the emergence of AI necessitates a reevaluation of these educational paradigms, moving beyond fear and fatalism to address the evolving role of human intellect.",
+        "wordCount": 60
       },
       {
-        "title": "Karunya KR-769 Result Today 19.09.2026; check winning numbers and prizes",
-        "url": "https://english.mathrubhumi.com/news/kerala/kerala-lottery-result-today-karunya-kr-769-september-19-2026-e2jlmllk",
-        "source": "Mathrubhumi English",
-        "image": "https://img.mathrubhumi.com/view/acePublic/alias/contentid/1tw4ymhi27pqj0s1hgx/0/kerala-lottery-karunya-jpg.jpeg?f=16%3A9&w=1200&q=0.75",
-        "publishedAt": "2026-09-19T10:35:44Z",
+        "title": "Europe Outbids Asia for LNG as Prices Surge 150%",
+        "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_nf2k7esprs.jpg",
+        "publishedAt": "2026-09-19T23:00:00Z",
         "category": "business",
-        "summary": "The Kerala Lottery Department announced the Karunya KR-769 lottery results for September 19, 2026. The draw took place at Gorky Bhavan in Thiruvananthapuram. The top prize winner will receive ₹1 crore. Live updates on winning numbers and additional prizes are available for participants. The event continues to attract significant public interest in the region.",
-        "wordCount": 54
+        "summary": "Liquefied natural gas prices on the spot market have surged by 150% due to increased seasonal demand and declining interest from Asian importers. In response, European buyers are intensifying their purchases despite the high costs, driven by necessity. The shift in demand dynamics highlights the changing landscape of global LNG markets amid fluctuating prices and regional preferences.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "Fortnite Kingdom Hearts Power Hour (September 19, 2026): Start timings for all regions",
-        "url": "https://timesofindia.indiatimes.com/sports/esports/fortnite/fortnite-kingdom-hearts-power-hour-september-19-2026-start-timings-for-all-regions/articleshow/134353934.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134354085,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-19T12:17:00Z",
+        "title": "IT admins can now remotely “Sanitize” PCs and reinstall Windows 11, thanks to two new features in Cloud Rebuild",
+        "url": "https://www.windowslatest.com/2026/09/20/it-admins-can-now-remotely-sanitize-pcs-and-reinstall-windows-11-thanks-to-two-new-features-in-cloud-rebuild/",
+        "source": "Windows Latest",
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/09/Windows-11-Cloud-Rebuild-just-got-a-major-upgrade-IT-admins-can-now-remotely-wipe-and-rebuild-PCs.jpg",
+        "publishedAt": "2026-09-19T22:37:46Z",
         "category": "technology",
-        "summary": "Epic Games has announced the Kingdom Hearts Power Hours for Fortnite, scheduled for September 19, 2026. This event marks the ongoing crossover between the two franchises on the Fortnite island. Players can participate in various activities and challenges during these designated hours, enhancing their gaming experience. Specific start times for different regions will be provided closer to the event date.",
-        "wordCount": 60
+        "summary": "Microsoft's Windows 11 Build 26340 introduces enhancements to the Cloud Rebuild tool for IT administrators. The new features include hardware-level drive sanitization, allowing for secure data removal, and remote deployment via Recovery CSP, enabling easier reinstallation of Windows 11. These updates aim to streamline the recovery process and improve management capabilities for IT professionals.",
+        "wordCount": 54
       },
       {
-        "title": "Schools adapt as Google releases Gemini; holiday e-commerce…",
-        "url": "https://www.marketscale.com/industries/business-services/the-early-scale-2026-09-19",
-        "source": "MarketScale",
-        "image": "https://res.cloudinary.com/marketscalecms/image/upload/f_auto,q_auto/v1/payload/media/news-cover-schools-scramble-as-google-unleashes-gemini-chatbot-on-students?_a=BAMAABhM0",
-        "publishedAt": "2026-09-19T11:13:15Z",
+        "title": "EA FC 27 Season 1 Premium Pass: Price, rewards, and more",
+        "url": "https://timesofindia.indiatimes.com/sports/esports/news/ea-fc-27-season-1-premium-pass-price-rewards-and-more/articleshow/134358241.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134358291,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-19T17:37:00Z",
         "category": "technology",
-        "summary": "Google's Gemini chatbot is impacting schools, prompting adaptations in educational settings. Meanwhile, Deloitte predicts holiday e-commerce sales will reach $319 billion, indicating strong consumer spending. Additionally, PMMI reports that packaging robots can significantly reduce costs over time, highlighting the ongoing trend of integrating advanced technologies in business operations. These developments reflect the evolving landscape of B2B technology and innovation.",
-        "wordCount": 59
+        "summary": "EA Sports FC 27 has launched its first Ones to Watch season, introducing the Season 1 Premium Pass. This pass features a reward track that includes various player items, packs, and Evolutions. Players can access exclusive content and rewards as they progress through the season. The Premium Pass aims to enhance the gaming experience for participants.",
+        "wordCount": 56
+      },
+      {
+        "title": "iPhone 18 Pro Battery Replacement Cost in India Rises to Rs 13,900",
+        "url": "https://www.thehansindia.com/technology/tech-news/iphone-18-pro-battery-replacement-cost-in-india-rises-to-rs-13900-1123448",
+        "source": "The Hans India",
+        "image": "https://assets.thehansindia.com/h-upload/2026/09/19/1703747-18.jpg",
+        "publishedAt": "2026-09-19T17:32:53Z",
+        "category": "technology",
+        "summary": "Apple has raised the out-of-warranty battery replacement cost for the iPhone 18 Pro and iPhone 18 Pro Max in India to Rs 13,900. This increase is significant for users planning to retain their devices long-term, as it adds to the overall expense of ownership. The higher service cost follows the already substantial initial purchase price of the devices.",
+        "wordCount": 58
       }
     ],
     "sports": [
       {
-        "title": "'Selection committee has made up its mind': Ex-India cricketer on Rishabh Pant's exclusion from West Indies ODIs",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/selection-committee-has-made-up-its-mind-ex-india-cricketer-on-rishabh-pants-exclusion-from-west-indies-odis/articleshow/134353831.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134353936,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-19T12:17:00Z",
+        "title": "Asian Games 2026 Day 2 LIVE Updates: India bag shooting silver, Suchika assures MMA medal; hockey team scores 19",
+        "url": "https://www.hindustantimes.com/sports/others/asian-games-2026-day-2-live-updates-schedule-results-medal-tally-today-20-september-latest-updates-101789860908741.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/india_hockey_asiad_1789872976325_2S8B_1789872984295_4ml5_444890b4-0bfa-48a8-9c45-1df47cb74480_UXMM.jpg",
+        "publishedAt": "2026-09-19T23:57:32Z",
         "category": "sports",
-        "summary": "Former India cricketer Aakash Chopra stated that the Indian selection committee has decided on Rishabh Pant's immediate future in white-ball cricket. Pant was excluded from the ODI squad for the upcoming series against the West Indies, indicating a significant shift in his standing within the team. Chopra's comments reflect the selectors' current stance on Pant's performance and selection.",
-        "wordCount": 58
+        "summary": "On Day 2 of the Asian Games 2026 in Aichi-Nagoya, India secured a silver medal in shooting and Suchika has guaranteed a medal in MMA. The Indian hockey team achieved a record victory, scoring 19 goals. Updates on India's performance continue to be provided as the event progresses, highlighting significant achievements in various sports disciplines.",
+        "wordCount": 55
       },
       {
-        "title": "Bangladesh announce squad for one-off Afghanistan Test",
-        "url": "https://www.icc-cricket.com/news/bangladesh-announce-squad-for-one-off-afghanistan-test",
-        "source": "ICC",
-        "image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/ldapljvtlybg65fwacpb",
-        "publishedAt": "2026-09-19T11:54:57Z",
+        "title": "Xabi Alonso disappointed with Chelsea’s ‘competitive mentality’ in Brentford defeat",
+        "url": "https://weaintgotnohistory.sbnation.com/premier-league/172399/xabi-alonso-disappointed-with-chelseas-competitive-mentality-in-brentford-defeat",
+        "source": "We Ain't Got No History",
+        "image": "https://platform.weaintgotnohistory.sbnation.com/wp-content/uploads/sites/178/2026/09/gettyimages-2295961327.jpg?quality=90&strip=all&crop=0%2C0.99911486660256%2C100%2C71.323892917341&w=1200",
+        "publishedAt": "2026-09-19T23:29:10Z",
         "category": "sports",
-        "summary": "Bangladesh Cricket Board (BCB) has announced a 15-player squad for the one-off Test against Afghanistan, scheduled for 9 October 2026 in the United Arab Emirates. Najmul Hossain Shanto will continue as the Test captain. The squad includes players such as Tanzid Hasan and Shadman Islam, marking an important match for both teams in the cricket calendar.",
+        "summary": "Xabi Alonso expressed disappointment with Chelsea's lack of competitive mentality during their defeat to Brentford. He highlighted the team's inconsistency and emphasized the importance of small details in matches. Alonso noted that giving advantages in such games is detrimental, acknowledging Brentford's ability to capitalize on limited opportunities. He stressed the need for improvement in future performances.",
         "wordCount": 56
       },
       {
-        "title": "Mohun Bagan wins Calcutta Football League after eight years, beats Mohammedan SC 3-2",
-        "url": "https://sportstar.thehindu.com/football/indian-football/mohun-bagan-wins-calcutta-football-league-cfl-beats-mohammedan-sporting-mbsg-v-msc-highlights/article71484492.ece",
-        "source": "sportstar.thehindu.com",
-        "image": "https://ss-i.thgim.com/public/incoming/y8jh35/article71484493.ece/alternates/LANDSCAPE_1200/SPZ-7304%201.jpg",
-        "publishedAt": "2026-09-19T11:31:50Z",
+        "title": "Sevilla 1-3 Barcelona: Raphinha scores another hat-trick as La Liga leaders stay perfect",
+        "url": "https://www.barcablaugranes.com/barcelona-la-liga/132883/sevilla-barcelona-la-liga-final-score-match-report-recap-reactions",
+        "source": "Barca Blaugranes",
+        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/09/gettyimages-2296118147.jpg?quality=90&strip=all&crop=0%2C9.301344829202%2C100%2C78.505019950216&w=1200",
+        "publishedAt": "2026-09-19T21:00:09Z",
         "category": "sports",
-        "summary": "Mohun Bagan Super Giant won the Calcutta Football League title after defeating Mohammedan Sporting 3-2 in a dramatic match at Barasat Stadium. Mohammedan equalised twice, but Sayan Banerjee, a substitute, scored the decisive goal for Mohun Bagan. This victory marks Mohun Bagan's first CFL title in eight years, concluding the league's final matchday on Saturday.",
-        "wordCount": 55
+        "summary": "Barcelona secured their seventh consecutive win in La Liga, defeating Sevilla 3-1. After trailing in the first half, Raphinha scored a hat-trick to lead the comeback. The victory maintains Barcelona's perfect start to the season, showcasing their resilience and dominance in the match. This performance solidifies their position at the top of the La Liga standings.",
+        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Irregular periods, acne and hair thinning? Doctor shares 5 signs of PMOS and explains when to get tested",
-        "url": "https://www.hindustantimes.com/lifestyle/health/irregular-periods-acne-and-hair-thinning-doctor-shares-5-signs-of-pmos-and-explains-when-to-get-tested-101789817570977.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/missed_periodss_1755328112610_1789817642799_tJwI_ad1415c6-df1d-4af4-bf9e-445fb2e162ec_78TN.jpg",
-        "publishedAt": "2026-09-19T12:26:30Z",
+        "title": "Don’t sip that tea very hot",
+        "url": "https://www.financialexpress.com/life/lifestyle/dont-sip-that-tea-very-hot/4343087/",
+        "source": "financialexpress.com",
+        "image": "https://images.financialexpressdigital.com/2026/09/cvcbn11.jpg",
+        "publishedAt": "2026-09-19T15:59:05Z",
         "category": "health",
-        "summary": "Irregular periods, acne, and hair thinning can indicate Polycystic Ovary Syndrome (PCOS), according to a medical expert. Subtle changes, like increased hair loss or sudden breakouts, may not seem concerning but can signal underlying issues when they occur together. It is advised to consult a doctor if these symptoms persist or worsen, as early diagnosis is crucial.",
-        "wordCount": 57
+        "summary": "Research indicates that consuming very hot beverages, particularly tea, is associated with an increased risk of esophageal cancer. The International Agency for Research on Cancer (IARC) categorizes drinks served above 65 degrees Celsius as potentially carcinogenic. However, the risk increase is not uniform for all individuals who drink hot tea, and further studies are needed for definitive conclusions.",
+        "wordCount": 58
       },
       {
-        "title": "Consuming extra vitamin D is less good than it sounds",
-        "url": "https://www.hindustantimes.com/health/consuming-extra-vitamin-d-is-less-good-than-it-sounds-101789815515412.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/pexels-photo-8244289_1789815638291_InWT_1789815658485_v7bK_2b028d65-c026-4544-afbf-423b373ff4fc_kfl4.png",
-        "publishedAt": "2026-09-19T12:00:42Z",
+        "title": "Chronic Stress Linked to Hidden Heart Inflammation Risk",
+        "url": "https://www.indianewsnetwork.com/en/chronic-stress-linked-hidden-heart-inflammation-risk-20260919",
+        "source": "India News Network",
+        "image": "https://cdn.optcms.com/www.indianewsnetwork.com/assets/2026/202609/20260919-img-20260919-a5602263692555d7.jpg",
+        "publishedAt": "2026-09-19T15:31:43Z",
         "category": "health",
-        "summary": "A recent study suggests that taking extra vitamin D supplements may not provide the expected health benefits. While vitamin D is essential for health and primarily obtained through sunlight exposure, the effectiveness of supplementation in improving health outcomes appears limited. This finding raises questions about the reliance on supplements, particularly during shorter daylight months when natural vitamin D production decreases.",
-        "wordCount": 60
+        "summary": "A UK study published in the European Journal of Preventive Cardiology reveals that chronic stress may lead to hidden heart inflammation, potentially increasing the risk of heart damage. The research highlights the importance of recognizing stress as a significant factor in cardiovascular health, suggesting that earlier prevention strategies could be beneficial in mitigating these risks associated with chronic stress.",
+        "wordCount": 59
       },
       {
-        "title": "The 5 best dinner options for your gut health",
-        "url": "https://www.vogue.in/content/the-5-best-dinner-options-for-your-gut-health",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6aab95cb1360c0d45ab8b2e4/16:9/w_1280,c_limit/Screenshot%202026-09-17%20at%2012.54.08.png",
-        "publishedAt": "2026-09-19T11:00:00Z",
+        "title": "Synergistically modified boron sludge-based magnesium oxysulfate cement for rapid road repair",
+        "url": "https://www.nature.com/articles/s41598-026-71008-0?error=cookies_not_supported&code=4d39746a-e689-4c5a-9b06-13163ab0a72a",
+        "source": "Nature",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-09-19T15:24:46Z",
         "category": "health",
-        "summary": "Experts highlight five dinner options that promote gut health and improve sleep quality. These meals can enhance digestion, which is closely linked to restful sleep. Key factors for optimal sleep include room temperature and dietary choices. By focusing on gut-friendly foods, individuals can potentially improve their overall well-being and ensure a more restorative night’s rest.",
-        "wordCount": 55
+        "summary": "A new magnesium oxysulfate cement, modified with boron sludge, has been developed for rapid road repair. This study highlights the synergistic effects of boron mud, mineral admixtures, and polymers. Optimal performance occurs with 10% boron sludge, achieving ideal setting times and high compressive strength. The research supports sustainable waste recycling and the creation of effective road repair materials.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "In 2018, NASA cooled rubidium atoms to near absolute zero aboard the ISS; creating the fifth state of matter in orbit",
-        "url": "https://timesofindia.indiatimes.com/science/in-2018-nasa-cooled-rubidium-atoms-to-near-absolute-zero-aboard-the-iss-creating-the-fifth-state-of-matter-in-orbit/articleshow/134331679.cms",
+        "title": "T. rex had a body temperature of 36.3°C, almost the same as humans; fossil tooth chemistry reveals the 66-million-year-old predator was warm-blooded and could survive in cold climates",
+        "url": "https://timesofindia.indiatimes.com/science/archaeology/t-rex-had-a-body-temperature-of-36-3c-almost-the-same-as-humans-fossil-tooth-chemistry-reveals-the-66-million-year-old-predator-was-warm-blooded-and-could-survive-in-cold-climates/articleshow/134337176.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134331756,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-19T12:30:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-134337278,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-19T19:25:00Z",
         "category": "science",
-        "summary": "In 2018, NASA's Cold Atom Lab aboard the International Space Station successfully cooled rubidium atoms to near absolute zero, creating Bose-Einstein condensates. This achievement marked a significant milestone in quantum physics, demonstrating the formation of the fifth state of matter in microgravity. The experiment enhances understanding of atomic behavior and contributes to advancements in scientific research related to quantum mechanics.",
-        "wordCount": 60
+        "summary": "A recent study has revealed that Tyrannosaurus rex had a body temperature of 36.3°C, similar to humans, indicating it was warm-blooded. This discovery, based on fossil tooth chemistry, suggests that T. rex could survive in colder climates. The findings provide new insights into the physiology of this 66-million-year-old predator, challenging previous assumptions about its temperature regulation.",
+        "wordCount": 56
       },
       {
-        "title": "This strange world has no star to orbit, yet James Webb has revealed its changing weather from 20 light-years away",
-        "url": "https://economictimes.indiatimes.com/news/international/global-trends/this-strange-world-has-no-star-to-orbit-yet-james-webb-has-revealed-its-changing-weather-from-20-light-years-away/articleshow/134353841.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-134354179,width-1200,height-630,imgsize-141242,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-09-19T12:27:16Z",
+        "title": "The T. rex had a body temperature similar to our own, study finds",
+        "url": "https://navhindtimes.in/panorama/the-t-rex-had-a-body-temperature-similar-to-our-own-study-finds/",
+        "source": "navhindtimes.in",
+        "image": "https://navhindtimes.in/wp-content/uploads/2025/11/The-Navhind-Times-Featured-Default-1.png",
+        "publishedAt": "2026-09-19T18:41:00Z",
         "category": "science",
-        "summary": "The James Webb Space Telescope observed SIMP 0136, a brown dwarf located twenty light-years away, revealing its changing weather patterns. Researchers identified that variations in temperature and cloud structure account for the atmospheric changes. The brown dwarf displays three recurring weather states as it rotates, offering a new method to study distant celestial bodies with limited direct observation capabilities.",
-        "wordCount": 59
+        "summary": "Scientists have determined that the body temperature of Tyrannosaurus rex was similar to that of modern mammals, using fossilized teeth for analysis. This finding contrasts with earlier beliefs that dinosaurs were cold-blooded and sluggish. Current research supports the idea that many dinosaurs, including T. rex, were warm-blooded and capable of regulating their body temperature effectively.",
+        "wordCount": 55
+      },
+      {
+        "title": "4 Google Maps tasks that are easier on a PC",
+        "url": "https://www.howtogeek.com/google-maps-tasks-that-are-easier-on-a-pc/",
+        "source": "How-To Geek",
+        "image": "https://static0.howtogeekimages.com/wordpress/wp-content/uploads/wm/2026/08/a-macbook-showing-google-maps-on-the-screen.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-09-19T18:00:13Z",
+        "category": "science",
+        "summary": "Using Google Maps on a PC offers advantages over mobile devices for certain tasks. Users benefit from a larger display, allowing for a more comprehensive view of maps. This enhances navigation and planning experiences. Specific tasks, such as route planning, searching for locations, and viewing multiple destinations, are often more manageable and efficient on a computer than on a smartphone.",
+        "wordCount": 60
       }
     ],
     "entertainment": [
       {
-        "title": "‘Hanuman Ansh’ team meets Maharashtra CM Devendra Fadnavis at Varsha bungalow, seeks Ganpati Bappa’s blessings amid Rs 300 crore global run – WATCH VIDEO",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hanuman-ansh-team-meets-maharashtra-cm-devendra-fadnavis-at-varsha-bungalow-seeks-ganpati-bappas-blessings-amid-rs-300-crore-global-run-watch-video/articleshow/134354037.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134354134,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-19T12:19:00Z",
+        "title": "Capricorn Horoscope Today: September 20, 2026",
+        "url": "https://www.vogue.in/content/capricorn-horoscope-today-september-20-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
+        "publishedAt": "2026-09-20T00:20:00Z",
         "category": "entertainment",
-        "summary": "The team of the devotional drama 'Hanuman Ansh', inspired by Neem Karoli Baba's spiritual journey, met Maharashtra Chief Minister Devendra Fadnavis at Varsha bungalow. They sought blessings from Ganpati Bappa as the film continues its successful global run, reportedly grossing Rs 300 crore. The film has been recognized as one of the year's unexpected successes in cinema.",
-        "wordCount": 57
+        "summary": "Capricorns are encouraged to embrace freedom and assert their individuality today. Feeling constrained by structure may lead to discomfort. Engaging in outdoor activities such as running or walking, along with enjoying fresh air and sunshine, is advised to improve mood and well-being. Taking time for oneself can help alleviate feelings of being trapped or boxed in.",
+        "wordCount": 56
       },
       {
-        "title": "Vijay Sethupathi says this about CM Vijay after claims of shading him on Bigg Boss Tamil 10; calls Jason Sanjay ‘cute’",
-        "url": "https://www.hindustantimes.com/entertainment/tamil-cinema/vijay-sethupathi-says-this-about-cm-vijay-after-claims-of-shading-him-on-bigg-boss-tamil-10-calls-jason-sanjay-cute-101789809410246.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/Vijay_Sethupathi_CM_1789809887074_yF4Z_1789809892336_4uAM_56e17ca1-83cc-49ef-9dd8-0ff75cb2d843_XTxl.jpeg",
-        "publishedAt": "2026-09-19T10:16:10Z",
+        "title": "Leo Horoscope Today: September 20, 2026",
+        "url": "https://www.vogue.in/content/leo-horoscope-today-september-20-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04db6cb334650d382b9/16:9/w_1280,c_limit/6-Leo_16;9.png",
+        "publishedAt": "2026-09-20T00:20:00Z",
         "category": "entertainment",
-        "summary": "At the audio launch of his film Baththa, Vijay Sethupathi addressed claims of shading CM Vijay on Bigg Boss Tamil 10, clarifying his stance. He also referred to CM Vijay's son, Jason Sanjay, as \"cute.\" Sethupathi's comments aimed to dispel any misunderstandings regarding his relationship with the CM and his family during the event.",
-        "wordCount": 54
+        "summary": "On September 20, 2026, Leos are encouraged to focus on self-care during challenging times. While difficulties may arise, support from loved ones can provide comfort. Adopting a slower, more intentional pace in life is advised, reinforcing personal strength and resilience. Emphasizing emotional connections and nurturing relationships will help navigate any obstacles faced today.",
+        "wordCount": 53
       },
       {
-        "title": "Atlee reveals CM Vijay's advice after SRK approached him for Jawan",
-        "url": "https://www.indiatoday.in/movies/regional-cinema/story/atlee-says-vijay-urged-him-to-direct-shah-rukh-khan-jawan-2998219-2026-09-19",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/atlee-193956491-16x9_0.jpg?VersionId=p8N1SIHuz49oKroQfxECTKnymoMnfLtr",
-        "publishedAt": "2026-09-19T08:49:31Z",
+        "title": "Sagittarius Horoscope Today: September 20, 2026",
+        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-september-20-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
+        "publishedAt": "2026-09-20T00:20:00Z",
         "category": "entertainment",
-        "summary": "Filmmaker Atlee revealed that Tamil Nadu Chief Minister Vijay advised him to accept the offer for the film Jawan when Shah Rukh Khan approached him. Atlee credited this advice as a pivotal moment in his career, highlighting Vijay's ongoing support. He shared these insights during the audio launch of Vijay Sethupathi’s film Baththa in Chennai.",
-        "wordCount": 55
+        "summary": "On September 20, 2026, Sagittarius is encouraged to focus on love in various forms. This includes appreciating simple gestures like a hug from a pet, the beauty of a blooming plant, or a caring message from a friend. The horoscope emphasizes that love manifests in many ways, highlighting its importance in daily life and emotional well-being.",
+        "wordCount": 56
       }
     ]
   }
