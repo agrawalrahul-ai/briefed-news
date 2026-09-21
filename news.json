@@ -1,167 +1,187 @@
 {
-  "updatedAt": "2026-09-21T00:31:00.460Z",
+  "updatedAt": "2026-09-21T12:31:40.333Z",
   "categories": {
     "world": [
       {
-        "title": "Police arrest Pakistan ex-PM Imran Khan's sister in Lahore ahead of party's planned march",
-        "url": "https://www.reuters.com/world/asia-pacific/police-arrest-pakistan-ex-pm-imran-khans-sister-lahore-ahead-partys-planned-2026-09-20/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/5YHB3UTUSZOPTMKDG5RJXDFPEY.jpg?auth=8485c419ab43f2e51f5621405937c1ffded72845ba962968e7144105c6647a28&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-09-20T11:09:57Z",
+        "title": "Early returns in Russia’s parliamentary election show main Kremlin party leading",
+        "url": "https://www.thehindu.com/news/international/russia-elections-votes-counting-september-21-2026/article71489876.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/h576ca/article71489877.ece/alternates/LANDSCAPE_1200/2026-09-20T170747Z_262107364_RC2ZMNA7Z9SY_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-ELECTION.JPG",
+        "publishedAt": "2026-09-21T00:11:37Z",
         "category": "world",
-        "summary": "Police arrested Aleema Khan, sister of jailed former Prime Minister Imran Khan, at her home in Lahore, according to a spokesman for the Pakistan Tehreek-e-Insaf party. The arrest occurred on September 20, just days before a planned protest march by the party scheduled for September 27. The reasons for her arrest have not been disclosed.",
-        "wordCount": 55
+        "summary": "Early results from Russia's parliamentary election indicate that the ruling United Russia party is leading, reinforcing the Kremlin's control amid significant political repression and limited opposition. The election, held during wartime, has been characterized by tightly controlled voting processes. The election commission released these results early on September 21, 2026, highlighting the party's dominance in the political landscape.",
+        "wordCount": 58
       },
       {
-        "title": "Uttarakhand glaciers retreat 23m a year on average; some lose 88m: Study",
-        "url": "https://www.hindustantimes.com/india-news/study-maps-34-years-of-uttarakhand-glacier-retreat-finds-average-of-23-23-metres-a-year-101789901903958.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/A-study-of-Uttarakhand-s-Central-Himalaya-finds-gl_1789910119124_IWRy.jpg",
-        "publishedAt": "2026-09-20T10:58:23Z",
+        "title": "France to summon Iran envoy after language centre closure in Tehran",
+        "url": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab048be-1789937854.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-09-20T22:14:40Z",
         "category": "world",
-        "summary": "A study reveals Uttarakhand's glaciers are retreating at an average rate of 23.23 meters annually, with the Khatling Glacier retreating the fastest at 88 meters per year. The research, titled “Time-dependent assessment of glacier recession in the Indian Central Himalaya,” utilized satellite imagery and observations from 1990 to 2024, noting a rise of nearly 500 meters in equilibrium line altitude.",
-        "wordCount": 60
+        "summary": "France plans to summon Iran's ambassador following the closure of a French-language centre in Tehran, which Iranian authorities claim was involved in \"illegal acts\" violating diplomatic conventions. The French Foreign Ministry stated it would take \"appropriate measures\" in response to this incident, describing it as an attack on France's cultural presence in Iran.",
+        "wordCount": 53
       },
       {
-        "title": "'Largest-ever' attack: Ukraine launches over 1,000 drones at Russia, oil refinery hit; 3 killed",
-        "url": "https://timesofindia.indiatimes.com/world/europe/largest-ever-attack-on-moscow-ukraine-sends-over-1000-drones-into-russia-overnight/articleshow/134366997.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134367070,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-20T10:53:00Z",
+        "title": "Iran shuts language centre linked to French embassy",
+        "url": "https://www.thehindu.com/news/international/iran-shuts-language-centre-linked-to-french-embassy/article71489087.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/o284iy/article71489089.ece/alternates/LANDSCAPE_1200/iStock-1089812416.jpg",
+        "publishedAt": "2026-09-20T21:10:00Z",
         "category": "world",
-        "summary": "Ukraine launched over 1,000 drones at Russia overnight, marking the largest drone attack to date. Hundreds of drones targeted Moscow, and an oil refinery was struck. Ukrainian President Volodymyr Zelenskyy confirmed the assault, which resulted in three fatalities. The attack highlights the ongoing conflict between Ukraine and Russia, escalating tensions in the region amid ongoing military operations.",
-        "wordCount": 57
+        "summary": "Iran has closed a French language centre linked to the French embassy, citing accusations of \"illegal activities.\" The decision, announced on September 20, 2026, has led to a strong reaction from Paris. Iranian authorities have stated that the closure is based on a Tehran prosecutor's directive, escalating tensions between Iran and France amid ongoing diplomatic challenges.",
+        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "Search continues for 6,000 people 4 weeks after Nepal floods",
-        "url": "https://m.rediff.com/news/commentary/2026/sep/20/liveupdates.htm",
-        "source": "Rediff",
-        "image": "https://im.rediff.com/worldrediff/pix/livelisting1.jpg",
-        "publishedAt": "2026-09-20T11:57:27Z",
+        "title": "New CCTV rules, Rs 1.3 lakh cr market: 3 stocks riding India’s shift to smarter surveillance",
+        "url": "https://www.financialexpress.com/market/stock-insights/new-cctv-rules-rs-1-3-lakh-cr-market-3-stocks-riding-indias-shift-to-smarter-surveillance/4343522/",
+        "source": "financialexpress.com",
+        "image": "https://images.financialexpressdigital.com/2026/09/cctvvv.jpg",
+        "publishedAt": "2026-09-20T23:32:55Z",
         "category": "business",
-        "summary": "Search efforts are ongoing for approximately 6,000 individuals missing four weeks after devastating floods in Nepal. The floods have caused significant destruction, displacing thousands and complicating rescue operations. Authorities are working tirelessly to locate those unaccounted for, while relief efforts continue to provide aid to affected communities. The situation remains critical as the search for survivors persists.",
+        "summary": "India's shift to smarter surveillance is creating a significant market, valued at Rs 1.3 lakh crore. New regulations are emphasizing compliance alongside camera supply, with CCTV cameras now subject to government security requirements for public procurement starting in 2024. The Standardisation Testing and Quality Certification (STQC) will oversee security testing, shaping the landscape for companies in the surveillance ecosystem.",
+        "wordCount": 59
+      },
+      {
+        "title": "States to move to new GDP series by end of FY27",
+        "url": "https://www.moneycontrol.com/news/business/economy/states-to-move-to-new-gdp-series-by-end-of-fy27-14034013.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260902133833_India-Rupee-GDP-economy.png",
+        "publishedAt": "2026-09-20T23:30:13Z",
+        "category": "business",
+        "summary": "Indian states are set to adopt a new GDP series by the end of FY27, aligning state-level GDP estimates with the Centre's revised national accounts. This transition to the 2022–23 base year aims to enhance comparability across states, providing a more accurate economic picture. The shift is expected to improve data consistency and facilitate better economic analysis.",
         "wordCount": 57
       },
       {
-        "title": "Gold price prediction: Will US-Iran war, crude oil rates impact yellow metal rates? Check technical outlook",
-        "url": "https://www.livemint.com/market/commodities/gold-price-prediction-will-us-iran-war-crude-oil-rates-impact-yellow-metal-rates-check-technical-outlook-11789900773882.html",
-        "source": "Livemint",
-        "image": "https://www.livemint.com/lm-img/img/2026/09/20/1600x900/logo/gold_1789904868496_c1hC_1789904868649_NjKg_22e8829d-797f-40d3-88f8-64b21d179aa3_audD.jfif",
-        "publishedAt": "2026-09-20T11:48:06Z",
+        "title": "SP Group backs Tata Sons listing after Noel Tata-led stake monetisation talks stall",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/sp-group-backs-tata-sons-listing-after-noel-tata-led-stake-monetisation-talks-stall/articleshow/134374859.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-134374904,width-1200,height-630,imgsize-67668,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-20T19:43:21Z",
         "category": "business",
-        "summary": "Gold prices are anticipated to remain volatile, influenced by fluctuations in Treasury yields, the US dollar, and inflation data. Traders will closely watch developments in the US-Iran conflict and crude oil prices, which may also impact gold rates. The market is expected to move within a range as these factors evolve in the coming week.",
-        "wordCount": 55
-      },
-      {
-        "title": "Tata Trusts denies any deadlock at September 17 Board meeting, disputes casting vote mandate",
-        "url": "https://www.thehindu.com/business/Industry/tata-trusts-rejects-tata-sons-boards-reappointment-of-chandrasekaran-declares-vote-void-ab-initio/article71487711.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/qvuen2/article71487755.ece/alternates/LANDSCAPE_1200/PTI09_17_2026_000279A.jpg",
-        "publishedAt": "2026-09-20T11:47:54Z",
-        "category": "business",
-        "summary": "Tata Trusts has denied any deadlock from the September 17 Board meeting and disputed the casting vote mandate. The Trusts challenged Tata Sons' reappointment of N. Chandrasekaran as chairman, declaring it void due to insufficient support from Nominee Directors. They argue that the Articles of Association necessitate affirmative backing from a majority of Trust representatives for such decisions.",
-        "wordCount": 58
+        "summary": "Shapoorji Pallonji Group has expressed support for a public listing of Tata Sons after stalled discussions on monetizing its stake. The group, which owns over eighteen percent of Tata Sons, was exploring tax-efficient structures for a stake sale. A public listing is seen as a way to achieve market valuation and attract potential investors.",
+        "wordCount": 54
       }
     ],
     "technology": [
       {
-        "title": "50 Moves, 30 Minutes and No Humans: MIT robot builds and repairs its own science experiment",
-        "url": "https://www.moneycontrol.com/science/50-moves-30-minutes-and-no-humans-mit-robot-builds-and-repairs-its-own-science-experiment-article-14033817.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260920085757_MIT.png",
-        "publishedAt": "2026-09-20T11:00:54Z",
+        "title": "Final Fantasy 7 Revelation Will 'Easily Take Over 100 Hours' for Completionists to Beat, Director Teases",
+        "url": "https://in.ign.com/final-fantasy-vii-remake-part-3/272345/final-fantasy-7-revelation-will-easily-take-over-100-hours-for-completionists-to-beat-director-tease",
+        "source": "IGN India",
+        "image": "https://sm.ign.com/t/ign_in/news/f/final-fant/final-fantasy-7-revelation-will-easily-take-over-100-hours-f_ce7h.1200.jpg",
+        "publishedAt": "2026-09-20T21:07:15Z",
         "category": "technology",
-        "summary": "MIT researchers have created a robotic laboratory capable of independently assembling and aligning optics experiments. In a demonstration, the robot successfully built a functioning laser cavity in approximately 30 minutes and was able to restore its alignment after the setup was disturbed by researchers. This advancement showcases the potential for automation in scientific experimentation without human intervention.",
-        "wordCount": 57
+        "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi stated that completionist playthroughs of the game's remake trilogy finale could \"easily take over a hundred hours.\" He mentioned that he has personally reached the game's credits 46 times, indicating the extensive content and challenges players can expect. Standard playthroughs will also require significant time investment to complete.",
+        "wordCount": 55
       },
       {
-        "title": "Don’t buy a $500 dumbphone. These apps will make your Android phone calm",
-        "url": "https://www.androidauthority.com/dont-buy-dumbphone-use-these-android-apps-instead-3711208/",
-        "source": "Android Authority",
-        "image": "https://www.androidauthority.com/wp-content/uploads/2026/09/DSC00476.jpeg",
-        "publishedAt": "2026-09-20T11:00:00Z",
+        "title": "EarFun Wave Pro X review",
+        "url": "https://www.gsmarena.com/earfun_wave_pro_x_review-news-74690.php",
+        "source": "GSMArena.com",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/09/earfun-wave-pro-x-review/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-09-20T19:37:55Z",
         "category": "technology",
-        "summary": "A minimalist phone, or \"dumbphone,\" can be appealing, but spending $500 may not be necessary. Instead, open-source, ad-free Android apps can transform devices like the Pixel 9a into calmer, less distracting tools. By focusing on essential functions such as calls, maps, and calendars, users can reduce distractions without the need for an expensive alternative.",
-        "wordCount": 54
+        "summary": "The EarFun Wave Pro X is the company's latest flagship headphone model, featuring a dual dynamic driver design aimed at enhancing low- and high-frequency sound. It includes eight microphones for improved voice pickup and active noise cancellation. The headphones are designed to provide comfort and quality at an affordable price, making them a competitive option in the market.",
+        "wordCount": 58
       },
       {
-        "title": "Google Pixel 11 Pro Fold review: A steady evolution sees flagship foldable focus on software",
-        "url": "https://www.livemint.com/mint-lounge/business-of-life/google-pixel-11-pro-fold-review-android-foldable-11789822880883.html",
-        "source": "Livemint",
-        "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/Google_pIXEL_11_Pro_Fold_1789822980823_9NyF_1789822988285_xtRl_9fb8d8cd-c050-4611-9df9-4fb062fda632_c4cf.webp",
-        "publishedAt": "2026-09-20T08:30:59Z",
+        "title": "Smartwatches are getting a bit samey... but these weird and wonderful trackers all break the mold",
+        "url": "https://tech.yahoo.com/wearables/articles/smartwatches-getting-bit-samey-weird-190000664.html",
+        "source": "Yahoo Tech",
+        "image": "https://s.yimg.com/lo/mysterio/api/50d9327ba50d9e28194f764202a5a8127c0d6bf99cb58d841bd8229c560419c3/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Ftechradar_949%2Fa84bb32b1f66d2abb4adf780813f801c.jpg",
+        "publishedAt": "2026-09-20T19:00:00Z",
         "category": "technology",
-        "summary": "The Google Pixel 11 Pro Fold focuses on enhancing software and AI rather than introducing significant hardware changes. While it is not a revolutionary upgrade, it includes a new feature called “App Handles,” allowing users to pin apps to the taskbar for flexible access. This feature, initially introduced with the Pixel Fold, aims to improve the overall user experience.",
-        "wordCount": 59
+        "summary": "Smartwatches are becoming increasingly similar, leading consumers to seek unique alternatives. Various innovative trackers are emerging, offering distinctive features that set them apart from mainstream options. While many current smartwatches boast extensive capabilities, the desire for individuality in design and functionality is prompting brands like Casio to explore unconventional designs. This trend highlights the growing demand for diverse wearable technology.",
+        "wordCount": 60
       }
     ],
     "sports": [
       {
-        "title": "Asian Games 2026: Full September 21 schedule, IST timings and Indians in action",
-        "url": "https://sportstar.thehindu.com/asian-games/news/asian-games-2026-indians-in-action-day-3-september-21-schedule-india-ist-timings/article71487261.ece",
-        "source": "Sportstar",
-        "image": "https://ss-i.thgim.com/public/incoming/yos1bl/article71487258.ece/alternates/LANDSCAPE_1200/10219_24_3_2023_17_14_7_1_DSC_0011_BPL.JPG",
-        "publishedAt": "2026-09-20T12:28:06Z",
+        "title": "ZIM vs AUS, 3rd ODI, Australia tour of Zimbabwe 2026",
+        "url": "https://www.cricbuzz.com/player-match-performance/match/152753/player/15927/bowling",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/i1/c582022/i.jpg?d=high&p=det",
+        "publishedAt": "2026-09-20T22:06:58Z",
         "category": "sports",
-        "summary": "The Asian Games 2026 in Aichi-Nagoya, Japan, will feature Indian athletes competing in 11 disciplines on September 21. Events include medal competitions in swimming, shooting, soft tennis, and wushu. The schedule outlines specific timings for each event involving Indian participants, highlighting the country's involvement in various sports during the ongoing multi-sport event.",
-        "wordCount": 52
-      },
-      {
-        "title": "I want to focus on my batting - Nigar Sultana on her decision to quit T20I captaincy",
-        "url": "https://www.cricbuzz.com/cricket-news/140234/i-want-to-focus-on-my-batting-nigar-sultana-on-her-decision-to-quit-t20i-captaincy-cricbuzzcom",
-        "source": "cricbuzz.com",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1079746/nigar-sultana-is-set-to-lead-bangladesh-for-the-last-time-in-t20is-in-the-bronze-medal-match-against-pakistan.jpg",
-        "publishedAt": "2026-09-20T12:09:05Z",
-        "category": "sports",
-        "summary": "Nigar Sultana announced her resignation as T20I captain to concentrate on her batting. Following Bangladesh's semi-final loss to India, she expressed confidence in securing a bronze medal at the Asian Games, which will be her final match in the captaincy role. Nigar had previously communicated her decision to the board, indicating her desire to step down after the tournament.",
+        "summary": "Australia is touring Zimbabwe for the 2026 ODI series, with the third match currently in progress. Live scores, scorecards, and schedules for both international and domestic cricket matches are available on Cricbuzz. The match features players like Cooper Connolly and Ervine, showcasing various deliveries and batting techniques. Fans can follow the latest news and ICC rankings on the platform.",
         "wordCount": 59
       },
       {
-        "title": "I want to focus on my batting - Nigar Sultana on her decision to quit T20I captaincy",
-        "url": "https://www.cricbuzz.com/cricket-news/140234/i-want-to-focus-on-my-batting-nigar-sultana-on-her-decision-to-quit-t20i-captaincy",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1079746/nigar-sultana-is-set-to-lead-bangladesh-for-the-last-time-in-t20is-in-the-bronze-medal-match-against-pakistan.jpg",
-        "publishedAt": "2026-09-20T12:09:05Z",
+        "title": "Madrid Daily: CTA report backs Kang-in red-card claim as derby fallout continues",
+        "url": "https://www.managingmadrid.com/latest-news/113167/real-madrid-atletico-madrid-recap-quotes-post-game-review-cta-kang-in",
+        "source": "Managing Madrid",
+        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/09/gettyimages-2296249751.jpg?quality=90&strip=all&crop=0%2C9.3456057939168%2C100%2C81.308788412166&w=1200",
+        "publishedAt": "2026-09-20T22:06:15Z",
         "category": "sports",
-        "summary": "Nigar Sultana announced her decision to resign as T20I captain to concentrate on her batting. Following Bangladesh's semi-final loss to India, she expressed confidence in securing a bronze medal at the Asian Games, which will mark her final match in the captaincy role. Nigar had previously communicated her intentions to the board regarding her future leadership.",
-        "wordCount": 56
+        "summary": "Real Madrid's 2-1 loss to Atlético Madrid has sparked ongoing disputes regarding refereeing decisions and a tunnel confrontation. The CTA report supports claims related to Kang-in's red card. Additionally, Jude Bellingham's protests highlight contrasting reactions from both teams following the match. The fallout from the derby continues as Madrid voices dissatisfaction with the officiating and subsequent incidents.",
+        "wordCount": 57
+      },
+      {
+        "title": "Gary Neville Names 6 Man Utd Players Who Will ‘Kill’ Michael Carrick",
+        "url": "https://www.givemesport.com/gary-neville-players-kill-michael-carrick-after-fulham-draw/",
+        "source": "givemesport.com",
+        "image": "https://static0.givemesportimages.com/wordpress/wp-content/uploads/2026/09/mixcollage-20-sep-2026-10-24-pm-6681.jpg?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-09-20T21:36:08Z",
+        "category": "sports",
+        "summary": "Manchester United drew 1-1 against Fulham in their latest Premier League match, continuing a challenging start to the season. An own goal by Lisandro Martínez allowed Fulham to take the lead, but Bruno Fernandes equalized for United. Gary Neville expressed frustration over the team's performance, identifying six players he believes need to improve significantly to support manager Michael Carrick.",
+        "wordCount": 59
       }
     ],
     "health": [
       {
-        "title": "HIV Injections Outperform Daily Pills for Teens in African Trial: Study",
-        "url": "https://newsable.asianetnews.com/lifestyle/hiv-injections-outperform-daily-pills-for-teens-in-african-trial-study-articleshow-2p5oes5",
-        "source": "Asianet Newsable",
-        "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-b9bcfc15-c54d-4f18-a829-144f47662e78.jpg",
-        "publishedAt": "2026-09-20T10:30:26Z",
+        "title": "How Do Our Genes Shape Our Lung Cancer Risk?",
+        "url": "https://oncodaily.com/science/the-mark-foundation-for-cancer-research-lung-cancer-589974",
+        "source": "Oncodaily",
+        "image": "https://oncodaily.com/pub/uploads/2026/09/m-2.webp",
+        "publishedAt": "2026-09-20T19:39:18Z",
         "category": "health",
-        "summary": "A clinical trial in Africa found that eight-weekly HIV injections are more effective than daily pills for adolescents. Published in The Lancet, the study reported a 1% viral rebound rate for injections compared to 6% for tablets. Researchers are advocating for broader access to this injectable treatment in low-resource settings to improve HIV management among teens.",
-        "wordCount": 56
-      },
-      {
-        "title": "HIV injections keep virus suppressed better than daily pills: Study",
-        "url": "https://www.aninews.in/news/health/hiv-injections-keep-virus-suppressed-better-than-daily-pills-study20260920154214/",
-        "source": "aninews.in",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260920101206-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-09-20T10:12:00Z",
-        "category": "health",
-        "summary": "A clinical trial in Africa found that eight-weekly HIV injections were more effective at keeping the virus suppressed than daily pills among adolescents. Researchers emphasized the need for broader access to this treatment in low- and middle-income countries. The study highlights the potential benefits of injectable therapies in managing HIV, particularly in populations with limited access to daily medication.",
+        "summary": "A landmark study indicates that a rare inherited mutation, primarily found in Southern Appalachia, may significantly influence lung cancer risk. While environmental factors like air pollution and smoking are well-known contributors, this research highlights the genetic component in certain individuals. The findings underscore the importance of understanding both genetic and environmental factors in cancer risk assessment and prevention strategies.",
         "wordCount": 59
       },
       {
-        "title": "Chronic inflammation linked to silent heart damage, study says",
-        "url": "https://www.aninews.in/news/health/chronic-inflammation-linked-to-silent-heart-damage-study-says20260920153724/",
-        "source": "ANI News",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260920100657-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-09-20T10:07:00Z",
+        "title": "Clinical Phenotypes and Care Guide",
+        "url": "https://www.emjreviews.com/neurology/news/why-post-traumatic-headache-care-fails-most-concussion-patients/",
+        "source": "EMJ",
+        "image": "https://www.emjreviews.com/wp-content/uploads/2026/09/AdobeStock_136935043.jpeg",
+        "publishedAt": "2026-09-20T19:03:34Z",
         "category": "health",
-        "summary": "A study involving nearly 480,000 UK adults has found that chronic inflammation, associated with everyday stress, socioeconomic disadvantage, and lifestyle factors, may cause silent heart damage years before any cardiovascular symptoms manifest. This research highlights the potential long-term effects of inflammation on heart health, emphasizing the need for awareness regarding the underlying factors contributing to cardiovascular disease.",
+        "summary": "Post-traumatic headache primarily resembles migraine, but standard treatments often do not yield sufficient relief. A recent cross-sectional study involving 218 adults recovering from mild traumatic brain injury highlights this issue. The findings suggest a need for revised clinical approaches to better address post-traumatic headache symptoms, as current therapies may be inadequate for effective management in affected individuals.",
         "wordCount": 57
+      },
+      {
+        "title": "Neurologists raise caution about early onset of Alzheimer’s",
+        "url": "https://timesofindia.indiatimes.com/city/kolkata/neurologists-raise-caution-about-early-onset-of-alzheimers/articleshow/134374473.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134374472,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-20T18:52:00Z",
+        "category": "health",
+        "summary": "Neurologists caution that sudden short-term memory loss may indicate early onset of Alzheimer’s disease, particularly in individuals aged 40 to 50. This trend is increasingly linked to genetic factors, stress, and cardiovascular risks. Experts emphasize that such memory issues should not be dismissed as normal aging, as they can rapidly worsen and significantly affect daily functioning.",
+        "wordCount": 56
       }
     ],
     "science": [
+      {
+        "title": "Therapy using periosteal cells cultivated in microgravity or their secretome improves bone in osteoporotic rats: a proof-of-concept study",
+        "url": "https://www.nature.com/articles/s41598-026-72000-4?error=cookies_not_supported&code=294e5018-6dd7-4ebd-92f5-1bcb00b6c38c",
+        "source": "Nature",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-09-20T15:58:59Z",
+        "category": "science",
+        "summary": "A study evaluated the effects of periosteal cells (PCs) and their secretome cultivated in microgravity on osteoporosis in rats. Sixty osteoporotic rats received various treatments. Results showed that both PCs and their secretome improved mineralized tissue and cortical bone thickness compared to controls. The secretome's effects were comparable to bisphosphonates, indicating potential for osteoporosis treatment advancements.",
+        "wordCount": 56
+      },
+      {
+        "title": "Meet Alexander Du, the 17-year-old Sewickley student who built $170 AI-powered glasses to help visually impaired users navigate after his grandmother lost her sight",
+        "url": "https://timesofindia.indiatimes.com/science/discovery/meet-alexander-du-the-17-year-old-sewickley-student-who-built-170-ai-powered-glasses-to-help-visually-impaired-users-navigate-after-his-grandmother-lost-her-sight/articleshow/134370937.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134370973,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-20T15:35:00Z",
+        "category": "science",
+        "summary": "Alexander Du, a 17-year-old student from Sewickley, Pennsylvania, has been recognized as a 2026 Presidential AI Challenge National Champion for creating IRIS, AI-powered glasses aimed at assisting blind and visually impaired individuals in navigation. Inspired by his grandmother's loss of sight, Du's invention costs $170 and represents a significant advancement in wearable technology for accessibility.",
+        "wordCount": 55
+      },
       {
         "title": "Roman telescope captures first test image - Live Science",
         "url": "https://ua.news/en/world/teleskop-roman-otrimav-pershe-testove-zobrazhennia-live-science",
@@ -169,60 +189,40 @@
         "image": "https://cdn-cabinet.ua.news/uploads/images/roman_pershe_testove_zobrazhennia_300_me_1789898967536.webp",
         "publishedAt": "2026-09-20T10:19:31Z",
         "category": "science",
-        "summary": "NASA's Nancy Grace Roman Space Telescope has successfully captured its first test image using its 300-megapixel infrared camera. The image features hundreds of stars, which appear as greenish rings due to the camera's incomplete focus. Full scientific images from the telescope are anticipated to be released in early 2027, marking a significant milestone in astronomical observation.",
-        "wordCount": 56
-      },
-      {
-        "title": "A new tooth test suggests T. rex was not cold-blooded like modern reptiles; the giant predator’s body temperature was estimated at a human-like 97°F",
-        "url": "https://economictimes.indiatimes.com/news/international/us/a-new-tooth-test-suggests-t-rex-was-not-cold-blooded-like-modern-reptiles-the-giant-predators-body-temperature-was-estimated-at-a-human-like-97f/articleshow/134351591.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-134351640,width-1200,height-630,imgsize-1601370,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-09-20T08:10:00Z",
-        "category": "science",
-        "summary": "A recent study indicates that T. rex had a body temperature of approximately 97°F (36°C), suggesting it was warm-blooded rather than cold-blooded like modern reptiles. Researchers utilized unique tooth analysis to explore the dinosaur's physiology, revealing that T. rex was likely more active than previously believed. This finding challenges long-standing assumptions about the thermal regulation of large prehistoric predators.",
-        "wordCount": 59
-      },
-      {
-        "title": "In 2026, CT scans showed 3.7-million-year-old “Little Foot” had ape-like arm strength but human-like leg loading, suggesting a mix of climbing and upright walking",
-        "url": "https://economictimes.indiatimes.com/news/international/us/in-2026-ct-scans-showed-3-7-million-year-old-little-foot-had-ape-like-arm-strength-but-human-like-leg-loading-suggesting-a-mix-of-climbing-and-upright-walking/articleshow/134351326.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-134351387,width-1200,height-630,imgsize-163746,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-09-20T07:40:00Z",
-        "category": "science",
-        "summary": "A study of the 3.7-million-year-old Australopithecus skeleton known as \"Little Foot\" reveals a combination of ape-like arm strength and human-like leg structure. This unique anatomy suggests that early hominids were capable of both climbing and upright walking. The findings contribute to a deeper understanding of human evolution and the locomotion of our ancient ancestors.",
-        "wordCount": 54
+        "summary": "NASA's Nancy Grace Roman Space Telescope has successfully captured its first test image using its 300-megapixel infrared camera. The image features hundreds of stars, appearing as greenish rings due to incomplete focusing. This marks a significant milestone for the telescope, with full scientific images anticipated to be released in early 2027, enhancing astronomical research capabilities.",
+        "wordCount": 55
       }
     ],
     "entertainment": [
       {
-        "title": "'Neem Karoli Baba's daughter has watched Hanuman Ansh 15 times and cried each time,' says producer Ragini Sona: 'We saw that she is a total replica of Baba'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neem-karoli-babas-daughter-has-watched-hanuman-ansh-15-times-and-cried-each-time-says-producer-ragini-sona-we-saw-that-she-is-a-total-replica-of-baba/articleshow/134368251.cms",
-        "source": "timesofindia.indiatimes.com",
-        "image": "https://static.toiimg.com/thumb/msid-134368355,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-20T12:16:00Z",
+        "title": "Horoscope Today: September 21, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-september-21-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-09-21T00:30:00Z",
         "category": "entertainment",
-        "summary": "Producer Ragini Sona reported that 'Hanuman Ansh' has earned over Rs 329.30 crore globally, attracting a diverse audience. Notably, Neem Karoli Baba's daughter has watched the film 15 times, expressing emotional responses each time. Sona emphasized the film's success is linked to the blessings of Neem Karoli Baba, highlighting the spiritual connection resonating with viewers.",
-        "wordCount": 55
-      },
-      {
-        "title": "‘She cried each time’: Neem Karoli Baba’s daughter watched Hanuman Ansh 15 times",
-        "url": "https://indianexpress.com/article/entertainment/bollywood/neem-karoli-babas-daughter-watched-hanuman-ansh-15-times-cried-each-time-10886098/",
-        "source": "indianexpress.com",
-        "image": "https://images.indianexpress.com/2026/09/Ragini-Sona-producer-of-Hanuman-Ansh-meets-Neem-Karoli-Babas-daughter-Giriji-ji.jpg",
-        "publishedAt": "2026-09-20T11:30:13Z",
-        "category": "entertainment",
-        "summary": "Producer Ragini Sona discussed her meeting with Girija ji, the daughter of Neem Karoli Baba, before the release of the film \"Hanuman Ansh.\" She recounted how Girija ji expressed her emotions after watching the film 15 times. Sona shared her inspiration from meeting Neem Karoli Baba at age six, while Vishal detailed his research and motivations for the project.",
-        "wordCount": 59
-      },
-      {
-        "title": "Kangana Ranaut HITS BACK at people trolling Maithili Thakur for arriving in Rolls-Royce at Lalbaugcha Raja: 'Some people a**** start to burn'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-hits-back-at-people-trolling-maithili-thakur-for-arriving-in-rolls-royce-at-lalbaugcha-raja-some-people-a-start-to-burn/articleshow/134367439.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134367497,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-20T11:27:00Z",
-        "category": "entertainment",
-        "summary": "Kangana Ranaut has defended Maithili Thakur, a young singer and Bihar MLA, after she faced online trolling for arriving at Mumbai's Lalbaugcha Raja pandal in a Rolls-Royce Cullinan. Ranaut questioned why some individuals react negatively when politicians engage in public events. Her comments highlight the ongoing discussion about public figures and their choices in transportation and appearances.",
+        "summary": "Horoscope for September 21, 2026, suggests new opportunities may arise, though some may be temporary. Not everything encountered is meant to last; some experiences serve to guide individuals from one phase to another. The stars indicate a period of transition, encouraging reflection on the significance of current events and interactions, while remaining open to change and growth.",
         "wordCount": 57
+      },
+      {
+        "title": "Pisces Horoscope Today: September 21, 2026",
+        "url": "https://www.vogue.in/content/pisces-horoscope-today-september-21-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
+        "publishedAt": "2026-09-21T00:20:00Z",
+        "category": "entertainment",
+        "summary": "Pisces individuals may encounter new opportunities today, September 21, 2026. While some opportunities may appear temporary, not everything that comes your way is intended to last. These experiences can serve a purpose, guiding you from one phase to another. Embrace the journey, as each encounter contributes to your growth, even if it seems brief or transient.",
+        "wordCount": 56
+      },
+      {
+        "title": "Aries Horoscope Today: September 21, 2026",
+        "url": "https://www.vogue.in/content/aries-horoscope-today-september-21-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/16:9/w_1280,c_limit/1-Aries_16;9.png",
+        "publishedAt": "2026-09-21T00:20:00Z",
+        "category": "entertainment",
+        "summary": "This week, Aries may experience a mental or physical journey as a challenging situation progresses unexpectedly. Despite the surreal nature of these changes, individuals are discovering new pathways to navigate through difficulties. The forecast suggests a period of peace, quiet, and contentment is on the horizon, indicating a positive shift in circumstances for those born under this sign.",
+        "wordCount": 58
       }
     ]
   }
