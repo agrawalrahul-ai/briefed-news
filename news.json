@@ -1,217 +1,227 @@
 {
-  "updatedAt": "2026-09-22T00:31:01.476Z",
+  "updatedAt": "2026-09-22T12:31:07.626Z",
   "categories": {
     "world": [
       {
-        "title": "Russia's ruling pro-Putin party wins wartime election with over 57% of vote, near-complete results show",
-        "url": "https://www.thehindu.com/news/international/russias-ruling-pro-putin-party-wins-wartime-election-with-over-57-of-vote-near-complete-results-show/article71491436.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/5lu1it/article71491460.ece/alternates/LANDSCAPE_1200/2026-09-17T201602Z_1694996086_RC2FKNAXR84E_RTRMADP_3_RUSSIA-NESTLE.JPG",
-        "publishedAt": "2026-09-21T12:22:21Z",
+        "title": "US plans to reopen two military sites in Greenland: Report",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-plans-to-reopen-two-military-sites-in-greenland-report/articleshow/134399797.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134399831,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-22T00:30:00Z",
         "category": "world",
-        "summary": "Russia's ruling United Russia party won over 57% of the votes in a Parliamentary election, according to near-complete results from the Central Election Commission. This election, framed by President Vladimir Putin as a measure of support for the ongoing war in Ukraine, allows the party to maintain its majority in the State Duma amid the conflict.",
-        "wordCount": 56
+        "summary": "The United States is set to reopen a former Cold War military base in southern Greenland and establish a new military presence at an outpost in eastern Greenland. This decision reflects a strategic move to enhance U.S. military capabilities in the Arctic region amid growing geopolitical tensions. The plans aim to bolster defense and support operations in the area.",
+        "wordCount": 59
       },
       {
-        "title": "F-35 parts diverted to Hong Kong: What is the US stealth fighter, and why a lost canopy is a worry",
-        "url": "https://www.hindustantimes.com/ht-explainers/f35-parts-diverted-to-hong-kong-what-is-the-us-stealth-fighter-and-why-a-lost-canopy-is-a-worry-101789907751627.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/20/1600x900/logo/Dubai-Airshow-10_1700046372751_1789909849787_KGGH_a7f12cb0-9788-454e-ae25-e4d8624e6b9f_4uqj.jpg",
-        "publishedAt": "2026-09-21T12:05:30Z",
+        "title": "Xi Jinping’s US visit: 479 personnel, B-2 bomber, F-22 Raptors to feature in Trump’s grand welcome",
+        "url": "https://www.moneycontrol.com/world/xi-jinping-s-us-visit-479-personnel-b-2-bomber-f-22-raptors-to-feature-in-trump-s-grand-welcome-article-14034897.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260917135244_Trump-Jinping-new-1.jpg",
+        "publishedAt": "2026-09-21T22:08:36Z",
         "category": "world",
-        "summary": "A Pentagon investigation is underway after F-35 parts, including a canopy, were diverted to Hong Kong during transit. The F-35's stealth capabilities stem from its unique design and radar-absorbent materials, which reduce its visibility to radar. The canopy is particularly concerning as it is not a routine component, raising security and operational implications for the advanced fighter jet.",
-        "wordCount": 58
+        "summary": "Chinese President Xi Jinping will visit the US from September 23 to 25, marking his first state visit in over a decade. The visit, announced by China's Ministry of Foreign Affairs, will be hosted by President Donald Trump. A grand welcome is planned, featuring 479 personnel, a B-2 bomber, and F-22 Raptors to signify the importance of the occasion.",
+        "wordCount": 59
+      },
+      {
+        "title": "Upcoming superpower: 4 European nations back India's bid for permanent UNSC seat",
+        "url": "https://www.indiatoday.in/india/story/un-security-council-india-wins-support-from-4-european-nations-for-permanent-unsc-seat-2999914-2026-09-22",
+        "source": "indiatoday.in",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/jaishankar-212040871-16x9_0.jpg?VersionId=jIW4yoVdVDsIGMd0vOBj6fDMX1BlfUOL",
+        "publishedAt": "2026-09-21T20:25:27Z",
+        "category": "world",
+        "summary": "The Visegrad Group, comprising Hungary, Poland, Slovakia, and the Czech Republic, has endorsed India's bid for a permanent seat on the UN Security Council during their first meeting with New Delhi. This support adds momentum to India's long-standing demand for reform of the global body, although challenges remain due to necessary Charter changes and differences among the P5 nations.",
+        "wordCount": 59
       }
     ],
     "business": [
       {
-        "title": "Honda CB500 Launched in India Starting At Rs. 2.75 Lakh",
-        "url": "https://www.bikewale.com/news/honda-cb500-launched-in-india-starting-at-rs-275-lakh/",
-        "source": "bikewale.com",
-        "image": "https://imgd.aeplcdn.com/642x336/n/cw/ec/224870/cb500-right-side-view.avif?isig=0&isig=0&q=80",
-        "publishedAt": "2026-09-21T12:05:42Z",
+        "title": "Noel Tata proposes splitting Tata Sons as alternative to RBI-mandated listing",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/noel-tata-proposes-splitting-tata-sons-as-alternative-to-rbi-mandated-listing/articleshow/134397079.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-134397107,width-1200,height-630,imgsize-54544,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-09-22T00:00:00Z",
         "category": "business",
-        "summary": "The Honda CB500 has been officially launched in India, with prices starting at Rs. 2.75 lakh (ex-showroom, Bengaluru) and going up to Rs. 3.01 lakh. The motorcycle is available in three variants, and bookings have commenced through Honda BigWing dealerships. This launch marks Honda's entry into the mid-range motorcycle segment in the Indian market.",
-        "wordCount": 54
+        "summary": "Noel Tata proposed restructuring Tata Sons into multiple entities as an alternative to a mandated public listing by the RBI. The Tata Sons board is divided on the restructuring versus listing option. The Shapoorji Pallonji Group advocates for a public listing. However, any potential restructuring would encounter significant regulatory and commercial complexities, complicating the decision-making process.",
+        "wordCount": 56
       },
       {
-        "title": "Electric Two-Wheeler Sales August 2026 India: TVS, Bajaj, Ather, Vida",
-        "url": "https://bikeadvice.in/electric-two-wheeler-sales-august-2026-india-tvs-bajaj-ather-vida/",
-        "source": "BikeAdvice",
-        "image": "https://bikeadvice.in/wp-content/uploads/2025/09/TVS-Orbiter-3-scaled.jpg",
-        "publishedAt": "2026-09-21T11:59:34Z",
+        "title": "India is outpacing China in steel growth. 3 stocks to watch in the boom",
+        "url": "https://www.financialexpress.com/market/stock-insights/india-is-outpacing-china-in-steel-growth-3-stocks-to-watch-in-the-boom/4344103/",
+        "source": "financialexpress.com",
+        "image": "https://images.financialexpressdigital.com/2026/09/stock3_f745dd.jpg",
+        "publishedAt": "2026-09-21T23:34:49Z",
         "category": "business",
-        "summary": "In August 2026, the electric two-wheeler market in India recorded sales of 187,214 units, demonstrating significant year-over-year growth. The Bajaj Chetak emerged as the top-selling electric scooter, while the combined sales of the TVS iQube and Orbiter exceeded 57,000 units. This trend highlights the increasing popularity of electric vehicles in the Indian two-wheeler segment.",
-        "wordCount": 54
+        "summary": "India's steel sector has achieved the fastest production growth globally this year and is expected to continue expanding between CY22 and CY25. Major companies like Tata Steel and JSW Steel have significantly increased their production capacities. Despite this growth, Steel Authority of India Limited (SAIL) trades at a discount of 23% to 42% compared to larger competitors.",
+        "wordCount": 57
       },
       {
-        "title": "Stellantis Buys Out CK Birla Stake In Citroen India Plant - Targets 43k Production By 2028",
-        "url": "https://www.rushlane.com/stellantis-takes-full-control-of-citroen-india-plant-43k-production-target-12556406.html",
-        "source": "RushLane",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/09/stellantis-india-plant-citroen-chennai.jpg",
-        "publishedAt": "2026-09-21T11:46:57Z",
+        "title": "U.S. halts flights at busy East Coast airports, says fiber line cut at construction site",
+        "url": "https://www.thehindu.com/news/international/us-halts-flights-at-busy-east-coast-airports-says-fiber-line-cut-at-construction-site/article71493081.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/fg2tpe/article71493083.ece/alternates/LANDSCAPE_1200/2026-09-14T221149Z_106270912_RC2PRHAVC2WQ_RTRMADP_3_USA-AVIATION-SAFETY.JPG",
+        "publishedAt": "2026-09-21T19:38:47Z",
         "category": "business",
-        "summary": "Stellantis has fully acquired CK Birla's stake in the Citroen India plant, gaining complete ownership of Stellantis Automobiles India. The company aims to increase annual production at its Thiruvallur facility to over 43,000 units by 2028. In the past year, Citroen and Jeep combined achieved 14,342 domestic sales, indicating a focus on expanding their market presence in India.",
-        "wordCount": 58
+        "summary": "The Federal Aviation Administration (FAA) suspended flights at major East Coast airports, including New York, Philadelphia, and Boston, on September 21, 2026. This disruption was caused by an accidentally cut fiber line at a construction site in New Jersey. The halt in operations coincided with increased travel due to arrivals for the UN General Assembly.",
+        "wordCount": 55
       }
     ],
     "technology": [
       {
-        "title": "Xiaomi 18 Pro series launch date confirmed: New privacy display and Starry River Blue colour teased",
-        "url": "https://www.tradingview.com/news/moodys:afc5cb9d15ea4:0-xiaomi-18-pro-series-launch-date-confirmed-new-privacy-display-and-starry-river-blue-colour-teased/",
-        "source": "TradingView",
-        "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-        "publishedAt": "2026-09-21T12:26:01Z",
+        "title": "Apple’s new watches are always listening",
+        "url": "https://theconversation.com/apples-new-watches-are-always-listening-292117",
+        "source": "The Conversation",
+        "image": "https://images.theconversation.com/files/761004/original/file-20260920-50-r4v30x.jpg?ixlib=rb-4.1.1&rect=0%2C417%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-09-21T23:55:53Z",
         "category": "technology",
-        "summary": "Xiaomi has confirmed the launch date for the Xiaomi 18 Pro series, set for September 23, 2026, at 7 pm local time in China (4:30 pm IST). The series is anticipated to feature the Xiaomi 18 Pro and Xiaomi 18 Pro Max. Ahead of the event, the company has teased details about the design, display, and color options.",
-        "wordCount": 58
+        "summary": "Apple's latest Watch models feature constant listening capabilities, allowing them to transcribe snippets of conversation and summarize ambient sounds throughout the day. This innovation aims to balance user convenience with privacy protection. However, the introduction of such always-on surveillance technology raises concerns about the normalization of ambient monitoring in daily life and its implications for personal privacy.",
+        "wordCount": 57
       },
       {
-        "title": "Townfall Review Scores: Metacritic 81 [2026]",
-        "url": "https://tech-insider.org/silent-hill-townfall-metacritic-81-critics-2026/",
-        "source": "tech-insider.org",
-        "image": "https://tech-insider.org/wp-content/uploads/2026/09/silent-hill-townfall-metacritic-81-critics-2026-1.webp",
-        "publishedAt": "2026-09-21T12:12:04Z",
+        "title": "RatHat is a new Android malware that records your screen touches to steal passwords",
+        "url": "https://mashable.com/tech/rathat-android-malware-records-screen-touches",
+        "source": "Mashable",
+        "image": "https://helios-i.mashable.com/imagery/articles/01NCEX5U7f1U5WofEMb9kYZ/hero-image.fill.size_1200x675.v1790030639.jpg",
+        "publishedAt": "2026-09-21T22:58:51Z",
         "category": "technology",
-        "summary": "Silent Hill: Townfall received a score of 81 on Metacritic ahead of its September 24, 2026 launch on PlayStation 5 and PC. The review embargo lifted on September 21, revealing a mix of praise and criticism from critics. The first-person survival horror spin-off has garnered attention for its unique approach, though some concerns have been raised regarding its execution.",
-        "wordCount": 59
+        "summary": "Cybersecurity researchers at Zimperium have identified a new Android malware named RatHat, which records screen touches to steal passwords. This malware is believed to be linked to threat actors based in China. Users are advised to remain vigilant and take precautions to protect their devices from this emerging threat, which poses significant risks to personal information security.",
+        "wordCount": 57
       },
       {
-        "title": "Samsung and LG vow to remove 'botnet' apps from their smart TV app stores that turned sets into an AI scraping machines — but the shocking claim that over 40% of webOS apps had botnet code raises the",
-        "url": "https://www.techradar.com/televisions/samsung-and-lg-vow-to-remove-botnet-apps-from-their-smart-tv-app-stores-that-turned-sets-into-an-ai-scraping-machines-but-the-shocking-claim-that-over-40-percent-of-webos-apps-had-botnet-code-raises-the-question-of-how-things-ever-got-this-bad",
-        "source": "TechRadar",
-        "image": "https://cdn.mos.cms.futurecdn.net/ghkY9CqeiheUvFSMCkRtNK-2560-80.jpg",
-        "publishedAt": "2026-09-21T11:46:54Z",
+        "title": "PC Requirements, Gameplay & Lynch Tribute",
+        "url": "https://www.analyticsinsight.net/gaming/control-resonant-launch-preview-pc-performance-and-remedys-david-lynch-tribute",
+        "source": "Analytics Insight",
+        "image": "https://media.assettype.com/analyticsinsight%2F2026-09-21%2F38imep70%2FControl-Resonant-Launch-Preview-PC-Performance-and-Remedy%E2%80%99s-David-Lynch-Tribute.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-09-21T22:30:00Z",
         "category": "technology",
-        "summary": "Samsung and LG have committed to eliminating 'botnet' applications from their smart TV app stores, following reports that over 40% of webOS apps contained botnet code. These malware botnets exploit smart TVs to route internet traffic. Other platforms, including Roku and Fire TV, are also affected, prompting manufacturers to take action against the compromised applications.",
-        "wordCount": 55
+        "summary": "Control Resonant, a sequel by Remedy Entertainment, is set to launch on September 24, 2026. Players will explore new areas beyond the Oldest House, including Manhattan. The game features updated PC requirements, gameplay changes, and performance enhancements for PS5. Additionally, it includes a tribute to filmmaker David Lynch, further enriching its surreal paranormal universe.",
+        "wordCount": 54
       }
     ],
     "sports": [
       {
-        "title": "India vs Bangladesh Highlights, Kabaddi at Asian Games 2026: IND 42-21 BAN; Indian team leads at half-time",
-        "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-kabaddi-live-score-highlights-india-vs-bangladesh-women/article71491032.ece",
-        "source": "Sportstar",
-        "image": "https://ss-i.thgim.com/public/incoming/ksw640/article71491034.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202025-11-24%20at%205.58.40%20PM.jpeg",
-        "publishedAt": "2026-09-21T12:27:59Z",
+        "title": "India at Asian Games: Live updates from Day 3 action on September 22, 2026 in Aichi-Nagoya",
+        "url": "https://www.espn.in/espn/story/_/id/49999514/india-asian-games-live-updates-scores-news-results-commentary-schedule-timings-september-22-2026-aichi-nagoya",
+        "source": "ESPN India",
+        "image": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0921%2Fr1719968_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-09-22T00:25:46Z",
         "category": "sports",
-        "summary": "In the women's kabaddi competition at the Asian Games 2026 in Aichi-Nagoya, Japan, India defeated Bangladesh 42-21, leading at half-time. The match featured India's first all-out against Bangladesh, which prompted a review for a bonus point that was ultimately awarded. This game marks the opening of India's group-stage campaign in the tournament.",
-        "wordCount": 52
+        "summary": "India aims to increase its medal tally on Day 3 of the 2026 Asian Games in Aichi-Nagoya, focusing on cricket and the 10m air rifle mixed team event as key opportunities for gold. The competition intensifies as various sports unfold, showcasing a range of athletic performances. Live updates will provide ongoing coverage of India's progress throughout the day.",
+        "wordCount": 58
       },
       {
-        "title": "‘I had no choice’: MMA fighter Varun Sanyal breaks silence after weight-cut blackout, calls himself ‘foolish’",
-        "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/i-had-no-choice-mma-fighter-varun-sanyal-breaks-silence-after-weight-cut-blackout-calls-himself-foolish/articleshow/134389576.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134389661,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-21T12:24:00Z",
+        "title": "Manchester City are blessed with a high",
+        "url": "https://esteemedkompany.com/2026/09/21/there-is-a-weapon-in-the-manchester-city-arsenal-that-their-rivals-do-not-have/",
+        "source": "esteemedkompany.com",
+        "image": "https://icdn.esteemedkompany.com/wp-content/uploads/2026/09/manchester-city-v-sunderland-premier-league-2026-27-5-1.jpg",
+        "publishedAt": "2026-09-21T21:47:49Z",
         "category": "sports",
-        "summary": "Indian MMA fighter Varun Sanyal has addressed his recent withdrawal from the Asian Games after experiencing a blackout during a sauna session. He described his weight-cutting attempt as “foolish” and acknowledged that he had no choice but to step back from the competition. Sanyal's incident highlights the risks associated with extreme weight management in combat sports.",
-        "wordCount": 56
+        "summary": "Manchester City secured a 5-3 victory over Sunderland at the Etihad Stadium, showcasing their potent attack. Antoine Semenyo scored twice, while Erling Haaland, Rayan Cherki, and Enzo Fernandez also contributed goals. This performance highlights the strength of City's offensive capabilities, which proved decisive in overcoming their opponents and maintaining their competitive edge in the league.",
+        "wordCount": 55
       },
       {
-        "title": "‘Hide your face’: Wasim Akram rips into Razaullah celebrations after Pakistan are hammered by England",
-        "url": "https://www.hindustantimes.com/cricket/hide-your-face-wasim-akram-rips-into-razaullah-celebrations-after-pakistan-are-hammered-by-england-101789986396841.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/09/21/1600x900/logo/WasimAkram_1789986827903_uCxn_1789986836417_zCoR_9dee031d-258b-431f-99a3-b7c596e94649_enH2.jpg",
-        "publishedAt": "2026-09-21T10:42:50Z",
+        "title": "Zaheer appointment another sign of Dhoni’s enduring influence at CSK",
+        "url": "https://www.cricbuzz.com/cricket-news/140245/at-csk-zaheer-khans-appointment-is-another-sign-of-dhonis-enduring-influence-cricbuzzcom",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1080421/the-new-head-coachs-hiring-came-at-dhonis-own-suggestion-csks-ceo-said-reuniting-two-old-india-teammates-and-confirming-who-still-has-the-final-say-at-the-franchise.jpg",
+        "publishedAt": "2026-09-21T20:43:46Z",
         "category": "sports",
-        "summary": "Wasim Akram criticized the celebrations for Razaullah following Pakistan's 3-0 defeat to England, describing them as indicative of \"accepted mediocrity\" in cricket. The series highlighted Pakistan's recurring weaknesses, particularly in batting, which struggled under pressure. The final Test at Edgbaston further emphasized these issues, leaving the team with little to celebrate upon their return from England.",
-        "wordCount": 56
+        "summary": "Chennai Super Kings' CEO confirmed that MS Dhoni recommended the hiring of Zaheer Khan, reuniting the former India teammates. This decision highlights Dhoni's continued influence within the franchise. Players noted that CSK avoids extensive reviews or celebrations after matches, maintaining a focused and composed approach to the IPL, which reflects the team's culture and Dhoni's leadership style.",
+        "wordCount": 57
       }
     ],
     "health": [
       {
-        "title": "What SIRPα reveals about how breast cancer takes hold in the brain",
-        "url": "https://www.drugtargetreview.com/news/what-sirp-reveals-about-how-breast-cancer-takes-hold-in-the-brain/2136518.article",
-        "source": "Drug Target Review",
-        "image": "https://dft2fymcn9opj.cloudfront.net/Pictures/1024x536/7/6/5/22765_shutterstock_2530773629_273212.jpg",
-        "publishedAt": "2026-09-21T11:35:57Z",
+        "title": "Human brain may have evolved from two ancient nervous systems, Stanford study finds; forebrain and hindbrain develop from separate cells in 550-million-year-old pattern",
+        "url": "https://timesofindia.indiatimes.com/science/human-brain-may-have-evolved-from-two-ancient-nervous-systems-stanford-study-finds-forebrain-and-hindbrain-develop-from-separate-cells-in-550-million-year-old-pattern/articleshow/134397474.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134397482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-21T20:09:00Z",
         "category": "health",
-        "summary": "Researchers at Wake Forest University School of Medicine have discovered a significant role for SIRPα in triple-negative breast cancer (TNBC). This cell-surface protein is linked to mitochondrial fission, tumor-cell migration, and the suppression of the brain's immune defenses. The findings suggest that SIRPα may facilitate cancer cells' survival and establishment in the brain.",
-        "wordCount": 53
-      },
-      {
-        "title": "PGIMER Sounds Alarm on Rising Dementia Burden; Stresses Early Diagnosis and Caregiver Support",
-        "url": "https://www.indianewscalling.com/news/190261-dignity-in-dementia-pgimer-sounds-alarm-on-rising-dementia-burden-stresses-early-diagnosis-and-care.aspx",
-        "source": ":: India News Calling ::",
-        "image": "https://www.indianewscalling.com/images/article/article190261.jpg",
-        "publishedAt": "2026-09-21T11:27:15Z",
-        "category": "health",
-        "summary": "On World Alzheimer’s Day, PGIMER's Department of Neurology in Chandigarh highlighted the growing burden of dementia, emphasizing the need for increased public awareness. They stressed the importance of early diagnosis and support for caregivers to improve outcomes for patients. The call to action aims to address the rising incidence of Alzheimer’s disease and other dementias in society.",
-        "wordCount": 57
-      },
-      {
-        "title": "Study suggests human brain may have evolved as two independent organs",
-        "url": "https://www.awazthevoice.in/health-news/study-suggests-human-brain-may-have-evolved-as-two-independent-organs-68080.html",
-        "source": "Awaz The Voice",
-        "image": "https://www.awazthevoice.in/upload/news/1789985282Human_brain_possibly_evolved_as_two_independent_organs,_study_suggests.webp",
-        "publishedAt": "2026-09-21T10:08:02Z",
-        "category": "health",
-        "summary": "A new study suggests the human brain may have evolved as two independent organs over hundreds of millions of years, challenging the current understanding of brain development. This research indicates that the brain's structure and function could be more complex than previously thought, potentially reshaping scientific perspectives on neurological evolution and the organization of cognitive processes in humans.",
+        "summary": "A Stanford Medicine study reveals that the human brain may have evolved from two ancient nervous systems, suggesting a dual origin. Researchers found that the forebrain and hindbrain develop from separate cells, following a pattern observed in organisms from 550 million years ago. This challenges previous beliefs about brain development and offers new insights into its evolutionary history.",
         "wordCount": 58
+      },
+      {
+        "title": "Heart disease: Understand the symptoms",
+        "url": "https://www.newindianexpress.com/lifestyle/health/2026/Sep/21/heart-disease-understand-the-symptoms",
+        "source": "The New Indian Express",
+        "image": "https://cf-images.assettype.com/newindianexpress%2F2026-01-20%2Fj0974hw7%2F202601203644613.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-09-21T18:44:59Z",
+        "category": "health",
+        "summary": "Heart disease symptoms vary between men and women, with coronary artery disease more prevalent in men. Risk factors for cardiovascular disease typically appear about a decade earlier in men due to testosterone's effects, which can elevate heart rate, blood pressure, and muscle mass. Understanding these differences is crucial for early detection and management of heart disease in both genders.",
+        "wordCount": 59
+      },
+      {
+        "title": "Collector inspects dengue prevention measures in Cuddalore",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/collector-inspects-dengue-prevention-measures-in-cuddalore/article71491027.ece",
+        "source": "thehindu.com",
+        "image": "https://th-i.thgim.com/public/incoming/dfjrli/article71491932.ece/alternates/LANDSCAPE_1200/2786_21_9_2026_17_27_51_1_CUDDALOREDENGUE.JPG",
+        "publishedAt": "2026-09-21T18:27:17Z",
+        "category": "health",
+        "summary": "Collector Sibi Adhithya Senthil Kumar inspected dengue prevention measures in Cuddalore on Monday. He urged residents to eliminate water stagnation and maintain cleanliness to prevent outbreaks. The inspection included visits to homes in Sellankuppam and Semmandalam, where he reviewed the ongoing efforts to combat dengue. The Collector emphasized community involvement in ensuring a hygienic environment.",
+        "wordCount": 55
       }
     ],
     "science": [
       {
-        "title": "NASA’s Moon orbiter found a 700-foot crater that wasn’t there before - and it's created a strange cold spot",
-        "url": "https://www.skyatnightmagazine.com/news/nasas-moon-orbiter-found-a-700-foot-crater",
-        "source": "BBC Sky at Night Magazine",
-        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/7c05fcb0-7a79-4c64-9752-81b63d70add8/cdba6171-eb2b-4793-9a2e-8f8551039388/thumbnails/71aa01da-bdb5-40a9-9294-3999e80bf93b.jpg?appId=9867779f-bbeb-44ef-a0d0-ca4e39424e99&platform=WEB&w=1200",
-        "publishedAt": "2026-09-21T12:21:00Z",
+        "title": "Long read: Slime moulds and the bitter debate over the nature of intelligence",
+        "url": "https://marcellus.in/story/long-read-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence/",
+        "source": "marcellus.in",
+        "image": "https://marcellus.in/wp-content/uploads/2022/03/Favicon.png",
+        "publishedAt": "2026-09-21T22:07:30Z",
         "category": "science",
-        "summary": "NASA scientists have discovered a new 700-foot crater on the Moon, named McGetchin, which was not present in previous observations. This crater is the largest newly-formed crater recorded in the Solar System. The discovery includes a peculiar cold spot associated with the crater, raising questions about its formation and the Moon's geological activity. Further studies are planned.",
-        "wordCount": 57
+        "summary": "The debate over intelligence encompasses both artificial intelligence (AI) and biological forms, such as slime moulds. Proponents of Artificial General Intelligence (AGI) argue it will soon surpass human cognitive abilities. While AI already excels in specific tasks, discussions continue regarding the nature of intelligence, with Silicon Valley favoring a perspective that frames it as a data and computation issue.",
+        "wordCount": 59
       },
       {
-        "title": "NIT-Srinagar to open campus observatory with 14-inch telescope",
-        "url": "https://www.thehindu.com/sci-tech/science/nit-srinagar-to-open-campus-observatory-with-14-inch-telescope/article71491214.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/ggi4rc/article71491444.ece/alternates/LANDSCAPE_1200/SRNIA_14-4-2016_13-3-10_07-NIT-SGR-14-04-2016.JPG",
-        "publishedAt": "2026-09-21T12:13:20Z",
+        "title": "Early Mars rocks reveal at least three separate water episodes",
+        "url": "https://phys.org/news/2026-09-early-mars-reveal-episodes.html",
+        "source": "Phys.org",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/nasa-discovery-reveals.jpg",
+        "publishedAt": "2026-09-21T20:30:01Z",
         "category": "science",
-        "summary": "NIT-Srinagar will inaugurate a campus observatory featuring a 14-inch Schmidt-Cassegrain telescope, developed in collaboration with the Indian Institute of Astrophysics. This facility will make NIT-Srinagar the first National Institute of Technology in India to have a dedicated observatory on campus. Officials announced the opening date as September 21, marking a significant advancement in the institute's research capabilities.",
-        "wordCount": 57
+        "summary": "NASA's Perseverance rover discovered unexpected geological features at Mars' Jezero Crater in September 2023. The \"Margin Unit,\" located along an ancient lake's shoreline, revealed sedimentary rocks composed of clay and silt. Scientists noted strong signals of carbonate minerals, which on Earth typically form in environments supportive of life, indicating at least three separate episodes of water on Mars.",
+        "wordCount": 58
       },
       {
-        "title": "Progress 96 reaches ISS with food, fuel and other supplies",
-        "url": "https://indianexpress.com/article/technology/science/russia-progress-96-spacecraft-docks-iss-resupply-mission-10887685/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/09/Progress-96.jpg",
-        "publishedAt": "2026-09-21T11:55:16Z",
+        "title": "Corporate social responsibility and organizational performance: practices and future research agenda from a twenty-year review",
+        "url": "https://www.nature.com/articles/s41599-026-08802-8?error=cookies_not_supported&code=6d371560-3f7a-472f-897d-79c198610b18",
+        "source": "Nature",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-09-21T19:50:21Z",
         "category": "science",
-        "summary": "Russia's Progress 96 spacecraft successfully docked with the International Space Station's Poisk module after a three-day journey from the Baikonur Cosmodrome. It delivered approximately three tonnes of supplies, including food, fuel, and equipment, to support the seven astronauts and cosmonauts currently aboard the ISS. This resupply mission is essential for maintaining operations and living conditions in the station.",
+        "summary": "A systematic review of corporate social responsibility (CSR) and organizational performance (OP) over the past two decades reveals significant growth in publications since 2017, primarily from the U.S. and China. Four research clusters emerged, focusing on factors affecting the CSR-OP relationship, financial and non-financial performance, and governance. Emerging trends include gender diversity and eco-innovation, guiding future research directions.",
         "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "Actor Radha accuses sister Ambika, brother of cheque fraud worth Rs 46 crore",
-        "url": "https://www.thenewsminute.com/tamil-nadu/actor-radha-accuses-sister-ambika-brother-of-cheque-fraud-worth-rs-46-crore",
-        "source": "The News Minute",
-        "image": "https://cf-images.assettype.com/thenewsminute%2F2026-09-21%2F5qezgda7%2F48078790311784382236429085870271402815369694n.jpg?rect=0%2C0%2C960%2C504&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-09-21T11:38:35Z",
+        "title": "Horoscope Today: September 22, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-september-22-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-09-22T00:30:00Z",
         "category": "entertainment",
-        "summary": "Actor Radha has filed a complaint with the Greater Chennai Police against her sister Ambika and brother Mallikarjuna Kunjan Nair, accusing them of cheque fraud amounting to Rs 46 crore. She alleges that five signed blank cheques, kept at her Chennai residence, were accessed without her consent and presented for encashment. The investigation is ongoing.",
-        "wordCount": 55
+        "summary": "On September 22, 2026, Aquarius is advised to recognize that a situation has reached its conclusion, despite mental resistance to letting go. While emotional intuition senses change, the mind clings to familiarity. The horoscope encourages embracing inner wisdom to navigate this transition, suggesting that acceptance may lead to personal growth and clarity in decision-making.",
+        "wordCount": 54
       },
       {
-        "title": "Tamannaah Bhatia’s House of Masaba look is the perfect definition of old-world romance with a modest edge",
-        "url": "https://timesofindia.indiatimes.com/life-style/fashion/celeb-style/tamannaah-bhatias-house-of-masaba-look-is-the-perfect-definition-of-old-world-romance-with-a-modest-edge/photostory/134384132.cms",
+        "title": "'Hanuman Ansh' box office collection day 46: Shobhinaw Satyaa, Chandan Anand film reaches Rs 352.30 cr worldwide",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/hanuman-ansh-box-office-collection-day-46-shobhinaw-satyaa-chandan-anand-film-reaches-rs-352-30-cr-worldwide/articleshow/134399818.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134384134,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-21T11:30:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-134399819,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-22T00:23:00Z",
         "category": "entertainment",
-        "summary": "Tamannaah Bhatia showcased a unique style in her latest House of Masaba look, blending old-world Indian glamour with modern elegance. Her ensemble emphasizes modesty while maintaining a polished silhouette, avoiding skin-baring trends. The richness of the outfit, characterized by its elegant proportions and nostalgic aesthetic, captures attention without relying on overt maximalism, highlighting a sophisticated approach to fashion.",
-        "wordCount": 58
+        "summary": "'Hanuman Ansh' has reached a worldwide box office collection of Rs 352.30 crore after 46 days. However, the film experienced a significant decline in its India net collection, earning only Rs 4 crore on Day 46, bringing its total India net collection to Rs 275.88 crore. The film is directed by Shobhinaw Satyaa and Chandan Anand.",
+        "wordCount": 56
       },
       {
-        "title": "Team 'Hanuman Ansh' meets Amit Shah in Delhi after the film crosses Rs 300 crore, Home Minister speaks about Neem Karoli Baba during interaction",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/team-hanuman-ansh-meets-amit-shah-in-delhi-after-the-film-crosses-rs-300-crore-home-minister-speaks-about-neem-karoli-baba-during-interaction/articleshow/134388275.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134388429,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-21T11:28:00Z",
+        "title": "Cancer Horoscope Today: September 22, 2026",
+        "url": "https://www.vogue.in/content/cancer-horoscope-today-september-22-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04b32f6a7f382599b6a/16:9/w_1280,c_limit/4-Cancer_16;9.png",
+        "publishedAt": "2026-09-22T00:20:00Z",
         "category": "entertainment",
-        "summary": "The team of the film 'Hanuman Ansh' met Union Home Minister Amit Shah in New Delhi after the movie surpassed Rs 300 crore at the box office. Director Vishal Chaturvedi and lead actor Shobhinaw Satyaa attended the meeting. During their interaction, Shah spoke about Neem Karoli Baba, highlighting the film's cultural significance and its impact on audiences.",
+        "summary": "Cancer individuals are encouraged to listen to their inner wisdom today, as they may feel a strong desire to retreat and reflect. This self-reflective phase can be challenging, but it is important not to let difficulties overwhelm you. The guidance suggests embracing this introspective time to gain clarity and strength, ultimately leading to personal growth and understanding.",
         "wordCount": 57
       }
     ]
