@@ -1,228 +1,228 @@
 {
-  "updatedAt": "2026-09-23T12:31:12.340Z",
+  "updatedAt": "2026-09-24T00:31:02.156Z",
   "categories": {
     "world": [
       {
-        "title": "Macron urges world to choose UN over ‘law of the jungle’",
-        "url": "https://www.thehindu.com/news/international/macron-urges-world-to-choose-un-over-law-of-the-jungle/article71497347.ece",
+        "title": "Putin's party wins again as expected. So why does Russia still hold elections?",
+        "url": "https://timesofindia.indiatimes.com/world/europe/putins-party-wins-again-as-expected-so-why-does-russia-still-hold-elections/articleshow/134435340.cms",
+        "source": "timesofindia.indiatimes.com",
+        "image": "https://static.toiimg.com/thumb/msid-134435525,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-23T12:03:00Z",
+        "category": "world",
+        "summary": "Russians participated in elections, leading to a predictable victory for President Putin's party, United Russia. The results were not surprising, raising questions about the purpose of holding elections in a system where outcomes are largely predetermined. Analysts suggest that these elections serve to maintain a facade of democratic legitimacy, despite widespread concerns about the electoral process and opposition suppression.",
+        "wordCount": 59
+      },
+      {
+        "title": "Easter Sunday blasts case: Sri Lankan court sentences each convict to 220 years in prison; all 15 to appeal against verdict",
+        "url": "https://www.thehindu.com/news/international/easter-sunday-blasts-case-sri-lanka-court-sentencing-jail-term-15-men-appeal-verdict/article71499681.ece",
         "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/57cwnl/article71497348.ece/alternates/LANDSCAPE_1200/2026-09-22T201651Z_1424024691_RC2IONA74OKZ_RTRMADP_3_UN-ASSEMBLY.JPG",
-        "publishedAt": "2026-09-22T21:52:34Z",
+        "image": "https://th-i.thgim.com/public/incoming/ie936d/article71499731.ece/alternates/LANDSCAPE_1200/2026-09-23T025102Z_1869716093_RC2KONA2T4BQ_RTRMADP_3_SRI-LANKA-EASTER-ATTACKS.JPG",
+        "publishedAt": "2026-09-23T11:54:05Z",
         "category": "world",
-        "summary": "French President Emmanuel Macron urged global unity under the United Nations, emphasizing the need to reject chaos and the \"law of the jungle.\" In his speech at the UN's annual diplomatic gathering, he advocated for humanitarian protections in conflict zones like Gaza and Ukraine, calling on nations to recommit to international laws and the UN system.",
-        "wordCount": 56
+        "summary": "A Sri Lankan court has sentenced 15 individuals to 220 years in prison each for their roles in the 2019 Easter Sunday bombings. The convicts, found guilty of terrorism-related charges, plan to appeal the verdict, according to a defense lawyer. The sentences are among the longest ever imposed in Sri Lanka for such offenses.",
+        "wordCount": 54
       },
       {
-        "title": "MEN OF BRICS: Officers who shaped Summit success",
-        "url": "https://whispersinthecorridors.in/news/the-officers-behind-india-s-successful-hosting-of-brics-summit",
-        "source": "Whispers in the Corridors",
-        "image": "https://whispersinthecorridors.in/uploads/2026/09/ce411eb2fbbbe167.jpg",
-        "publishedAt": "2026-09-22T18:25:31Z",
+        "title": "Who holds the leverage? Five cards Trump and Xi bring to the table",
+        "url": "https://timesofindia.indiatimes.com/world/us/who-holds-the-leverage-five-cards-trump-and-xi-bring-to-the-table/articleshow/134434709.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134434869,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-23T11:46:00Z",
         "category": "world",
-        "summary": "Indian bureaucrats and diplomats were instrumental in the success of the 18th Annual BRICS Summit held in India. They coordinated negotiations and built consensus among 11 diverse member states, effectively overcoming significant geopolitical divides within the expanded bloc. Their efforts included managing year-long diplomatic preparations, which contributed to the overall effectiveness and outcomes of the summit.",
-        "wordCount": 56
-      },
-      {
-        "title": "Trump's White House media ban faces long odds in court, legal experts say",
-        "url": "https://www.reuters.com/legal/government/trumps-white-house-media-ban-faces-long-odds-court-legal-experts-say-2026-09-22/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/NK7AF3QVBROODNLGOJQ2HMJLWE.jpg?auth=141653aaeb7fc2b6d4c7cc2f780b78be883e04ec2e226b48db9dd1fa24f77cd0&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-09-22T18:20:47Z",
-        "category": "world",
-        "summary": "US President Donald Trump's attempt to ban certain news outlets from the White House due to unfavorable coverage may violate legal prohibitions against government viewpoint discrimination, according to four legal experts. They suggest that the ban faces significant challenges in court, as it could be seen as an infringement on press freedoms protected under the First Amendment.",
-        "wordCount": 57
+        "summary": "Donald Trump and Xi Jinping's upcoming meeting is expected to influence the future of US-China relations. While the handshake will be brief, the discussions that follow may reveal significant bargaining positions. Both leaders hold strategic leverage that could impact their countries' rivalry. The outcomes of their negotiations may shape global dynamics in the coming years.",
+        "wordCount": 55
       }
     ],
     "business": [
       {
-        "title": "Govt set to consider auto PLI applications with Chinese investment after FDI nod",
-        "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/govt-set-to-consider-auto-pli-applications-with-chinese-investment-after-fdi-nod/articleshow/134419730.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-134419740,width-1200,height-630,imgsize-375738,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-09-23T00:00:00Z",
+        "title": "Ema raises $77M as AI starts eating into enterprise software and services",
+        "url": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671",
+        "publishedAt": "2026-09-23T12:00:00Z",
         "category": "business",
-        "summary": "The Indian government plans to review production-linked incentive applications from auto companies with Chinese investments, following President Xi Jinping's recent visit and improved bilateral relations. Applications with foreign direct investment approvals will be evaluated for potential benefits. The auto production-linked incentive scheme aims to enhance domestic manufacturing and investments, with expected increases in disbursements in upcoming financial years.",
+        "summary": "Ema, a startup leveraging AI agents to automate corporate processes in HR, IT, and finance, has raised $77 million in its latest funding round. This brings its total funding to $140 million. Ema currently serves over 50 enterprise customers, including major companies like Google and Microsoft, as it seeks to expand its role in enterprise software and services.",
         "wordCount": 58
       },
       {
-        "title": "Ban on US diesel exports would hurt, not help fuel markets, analysts say",
-        "url": "https://www.reuters.com/world/us/ban-us-diesel-exports-would-hurt-not-help-fuel-markets-analysts-say-2026-09-22/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/7HXQN46MWNOPREYFZ67UWYIRRU.jpg?auth=35718a830fa25e0d31e36d22cd0e5d9455d4a9244f4c5c304db78bd9d5a8f24c&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-09-22T22:54:00Z",
+        "title": "India's richest in 2026: Adani tops the list, 27 new billionaires emerge",
+        "url": "https://www.business-standard.com/finance/personal-finance/india-s-richest-in-2026-adani-tops-the-list-27-new-billionaires-emerge-126092300983_1.html",
+        "source": "Business Standard",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/18/thumb/featurecrop/1200X628/1779085263-4185.jpg",
+        "publishedAt": "2026-09-23T11:58:40Z",
         "category": "business",
-        "summary": "US President Donald Trump expressed support for a diesel export ban to reduce soaring prices amid a global supply shortage. However, analysts caution that this measure may not alleviate high energy costs and could exacerbate supply issues and economic disruptions worldwide. The potential impact of such a ban raises concerns about its effectiveness in addressing the current fuel market challenges.",
-        "wordCount": 60
+        "summary": "India's billionaire count has risen to 391, with 27 new billionaires emerging. Gautam Adani has regained the title of the country's richest individual, surpassing Mukesh Ambani. The growth in wealth reflects significant economic changes, as more individuals cross the $1 billion threshold. The evolving landscape highlights the competitive nature of wealth accumulation among India's elite.",
+        "wordCount": 55
       },
       {
-        "title": "Natural Gas Forecast: 200-Day Breakout Targets $3.25",
-        "url": "https://www.fxempire.com/forecasts/article/natural-gas-forecast-200-day-breakout-targets-3-25-1630922",
-        "source": "FXEmpire",
-        "image": "https://responsive.fxempire.com/v7/_fxempire_/2026/09/natural-gas-market-illustration-08-1.jpg?func=cover&q=70&width=1201",
-        "publishedAt": "2026-09-22T20:59:40Z",
+        "title": "India ramps up LPG production as Gulf supply disruptions threaten festive-season demand",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/economy/india-ramps-up-lpg-production-as-gulf-supply-disruptions-threaten-festive-season-demand-14036521.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260417082031_lpg4.jpg",
+        "publishedAt": "2026-09-23T11:39:31Z",
         "category": "business",
-        "summary": "Natural gas has reclaimed its 200-day moving average, with a confirmed breakout above $3.15 suggesting a potential rise toward $3.25. This sharp upside movement indicates a strong trend support and the likelihood of continued advancement. The session's peak reached $3.15, marking a significant point in the ongoing price development for natural gas.",
-        "wordCount": 52
+        "summary": "India is increasing its liquefied petroleum gas (LPG) production amid disruptions in Gulf supplies, which have raised concerns for festive-season demand. As the second-largest LPG importer globally, India previously relied heavily on the Persian Gulf for its supply, making it vulnerable to recent conflicts and trade challenges. The government aims to enhance domestic production to ensure availability.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "premium Signature 27 will be one the first phones powered by the Snapdragon 8 Elite Extreme Gen 6",
-        "url": "https://www.xda-developers.com/motorola-signature-27-first-phone-powered-by-snapdragon-8elite-extreme-gen-6/",
-        "source": "XDA",
-        "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/2026/09/motorola-signature-27.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-09-23T00:30:00Z",
+        "title": "Sarvam AI launches Saaras V4 speech recognition model for multilingual voice applications",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/technology/sarvam-ai-launches-saaras-v4-speech-recognition-model-for-multilingual-voice-applications-article-14036566.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260923122806_Saaras-V42.png",
+        "publishedAt": "2026-09-23T12:28:36Z",
         "category": "technology",
-        "summary": "Motorola's premium Signature 27 will feature Qualcomm's Snapdragon 8 Elite Extreme Gen 6 processor. The smartphone is set to launch in the United States, although a specific release date has not yet been announced. Its design includes a thin aluminum body and a unique camera layout with four lenses, generating mixed reactions among potential users.",
+        "summary": "Sarvam AI has launched the Saaras V4 speech recognition model, designed for multilingual voice applications. This new automatic speech recognition (ASR) model supports five output modes and accommodates 22 Indian languages. Additionally, it features low-latency streaming capabilities, enhancing its performance for real-time applications. The launch aims to improve accessibility and usability in various tech and startup sectors.",
+        "wordCount": 57
+      },
+      {
+        "title": "gen Xbox chips reportedly taped out, Kepler claims 40 TFLOPS for PS6 and 56 for Helix",
+        "url": "https://videocardz.com/newz/ps6-and-next-gen-xbox-chips-reportedly-taped-out-kepler-claims-40-tflops-for-ps6-and-56-for-helix",
+        "source": "VideoCardz.com",
+        "image": "https://cdn.videocardz.com/1/2026/09/XBOX-NEXT-PS6-LOGO.webp",
+        "publishedAt": "2026-09-23T12:19:42Z",
+        "category": "technology",
+        "summary": "KeplerL2 reports that Sony and Microsoft have completed the tape-out for the chips of their upcoming consoles, PlayStation 6 and Xbox Helix. The estimated GPU performance is 40 TFLOPS for the PS6 and 56 TFLOPS for the Xbox Helix. This development marks a significant step in the production of next-generation gaming hardware for both companies.",
         "wordCount": 55
       },
       {
-        "title": "Why Everyone’s Rushing to Grab This Top Fitness Watch Under €150 Right Now",
-        "url": "https://www.futura-sciences.com/en/why-everyones-rushing-to-grab-this-top-fitness-watch-under-e150-right-now_900410/",
-        "source": "Futura, le média qui explore le monde",
-        "image": "https://www.futura-sciences.com/en/wp-content/uploads/2026/09/why-everyone-s-rushing-to-grab-this-top-fitness-watch-under-150-right-now.webp",
-        "publishedAt": "2026-09-22T23:17:35Z",
+        "title": "Leaker Claims Xbox Helix Beats PS6 by 40% in TFLOPS on Paper, but Pricing May Decide the Real Winner",
+        "url": "https://wccftech.com/xbox-helix-ps6-40-percent-tflops-leak-pricing/",
+        "source": "Wccftech",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/09/PS6_Xbox_Next_Project_Helix-1920x1081.jpg",
+        "publishedAt": "2026-09-23T12:00:00Z",
         "category": "technology",
-        "summary": "The Garmin Forerunner 165, featuring a 1.2-inch AMOLED display and built-in GPS, is designed for various running activities, from casual jogging to structured training. Its comprehensive set of running-focused features makes it appealing to fitness enthusiasts. Currently, it is available on AliExpress at a reduced price due to a double discount, attracting significant consumer interest.",
-        "wordCount": 55
-      },
-      {
-        "title": "Deposition Process on Coating Integrity and Wear of Fe-Based Coatings",
-        "url": "https://link.springer.com/article/10.1007/s11665-026-15168-0?error=cookies_not_supported&code=19582b8f-e7cc-4f19-9d32-fe3f348afe90",
-        "source": "Springer Nature Link",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1007%2Fs11665-026-15168-0/MediaObjects/11665_2026_15168_Figa_HTML.png",
-        "publishedAt": "2026-09-22T21:05:41Z",
-        "category": "technology",
-        "summary": "Fe-based coatings are widely used in surface engineering to improve the durability of components exposed to wear. The deposition process and its impact on coating integrity and wear resistance are critical for enhancing performance. Research by Branagan, Swank, Haggard, and Fincke in 2001 highlights the effectiveness of wear-resistant amorphous and nanocomposite steel coatings in metallurgical applications.",
-        "wordCount": 56
+        "summary": "A leaker, Kepler_L2, claims the Xbox Helix outperforms the PS6 by 40% in TFLOPS on paper, with both consoles reportedly set for a late 2027 launch. The rumor has an 80% assessment rating, indicating strong evidence. However, pricing strategies may ultimately determine which console emerges as the preferred choice among consumers.",
+        "wordCount": 51
       }
     ],
     "sports": [
       {
-        "title": "‘I can start my senior career confidently’: Anahat Singh on the Asian Games and what comes next",
-        "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/i-can-start-my-senior-career-confidently-anahat-singh-on-the-asian-games-and-what-comes-next/articleshow/134416434.cms",
+        "title": "'Like we did in the Asia Cup': Pakistan to put India 'under pressure' in Asian Games, says Mike Hesson",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/asian-games-2026-mens-t20/like-we-did-in-the-asia-cup-pakistan-to-put-india-under-pressure-in-asian-games-says-mike-hesson/articleshow/134435692.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134416539,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-09-23T00:30:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-134436288,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-23T12:25:00Z",
         "category": "sports",
-        "summary": "Anahat Singh expressed confidence in starting her senior career following her victory at the World Junior Squash Championship. She emphasized that her win was not about enhancing her profile but marked the end of her junior circuit participation. Looking ahead, Singh is focused on the upcoming Asian Games and is eager to transition into senior-level competition.",
-        "wordCount": 56
+        "summary": "Pakistan head coach Mike Hesson acknowledged on Wednesday that his team needs to improve to effectively challenge India at the Asian Games. He emphasized the importance of putting India \"under pressure,\" similar to their approach in the Asia Cup. Hesson's comments reflect the team's recognition of the competitive gap they must close to succeed against their rivals.",
+        "wordCount": 57
       },
       {
-        "title": "India at Asian Games: Live updates from Day 4 action on September 23, 2026 in Aichi-Nagoya",
-        "url": "https://www.espn.in/espn/story/_/id/50006525/india-asian-games-live-updates-scores-news-results-commentary-schedule-timings-september-23-2026-aichi-nagoya",
-        "source": "ESPN India",
-        "image": "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0922%2Fr1720482_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-09-23T00:03:08Z",
+        "title": "Roshibina Devi secures silver in wushu at Asian Games 2026",
+        "url": "https://thenewsmill.com/2026/09/roshibina-devi-secures-silver-in-wushu-at-asian-games-2026/",
+        "source": "The News Mill",
+        "image": "https://thenewsmill.com/tnm-og/595095.jpg",
+        "publishedAt": "2026-09-23T11:52:34Z",
         "category": "sports",
-        "summary": "India is set for an exciting Day 4 at the Asian Games 2026 in Aichi-Nagoya, aiming to enhance their medal tally. Notable athletes, including Manu Bhaker and Mirabai Chanu, will compete in their respective events. Live updates will cover the progress and performances of the Indian contingent as they strive for success in the ongoing competition.",
-        "wordCount": 56
+        "summary": "Indian wushu athlete Roshibina Devi secured a place in the women’s 60kg Sanda final at the 2026 Asian Games after defeating Indonesia’s Thania Kusumaningtyas 2-0 in the semi-finals. This victory guarantees India at least a silver medal, matching the country’s best-ever performance in wushu at the Asian Games. The final will determine the gold medalist.",
+        "wordCount": 55
       },
       {
-        "title": "SAC vs TSC Today Match Prediction and Betting Tips, Odds and Live Score",
-        "url": "https://www.thetopbookies.com/betting-tips/cricket/sac-vs-tsc-23-Sep-2026",
-        "source": "TheTopBookies",
-        "image": "https://api.thetopbk.com/storage/cricket/teams/c__team__sac__09ad1/LIKFQt5sPz7lPRVUfxDyuxjcnSPkuDytrlOcRlZv.webp",
-        "publishedAt": "2026-09-22T23:26:55Z",
+        "title": "Asian Games 2026 Day 6: Full September 24 schedule, IST timings and Indians in action",
+        "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-indians-in-action-day-6-september-24-schedule-india-ist-timings/article71499004.ece",
+        "source": "Sportstar",
+        "image": "https://ss-i.thgim.com/public/incoming/wfh78d/article71499674.ece/alternates/LANDSCAPE_1200/PTI09_23_2026_000202B.jpg",
+        "publishedAt": "2026-09-23T11:39:27Z",
         "category": "sports",
-        "summary": "South Australia (SAC) will compete against Tasmania (TSC) in the fifth match of the Marsh One Day Cup 2026-27. The match is scheduled for September 23, 2026, at 06:00 IST, taking place at Karen Rolton Oval in Adelaide. This encounter follows South Australia's opening game against Western Australia, setting the stage for an exciting domestic one-day cricket clash.",
-        "wordCount": 58
+        "summary": "On Day 6 of the Asian Games 2026 in Aichi-Nagoya, Japan, Indian athletes will compete in 14 disciplines, including athletics, shooting, artistic gymnastics, and rowing. The schedule for September 24 outlines various events featuring Indian participants. The ongoing campaign highlights India's involvement in multiple medal events as they aim for success in this prestigious multi-sport competition.",
+        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Health Ministry warns against misuse of painkillers, antibiotics over kidney disease risk",
-        "url": "https://www.aninews.in/news/national/general-news/health-ministry-warns-against-misuse-of-painkillers-antibiotics-over-kidney-disease-risk20260923050154/",
-        "source": "ANI News",
-        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260922223754-thumbnail-320x180-70.jpg",
-        "publishedAt": "2026-09-22T23:31:00Z",
+        "title": "What makes endometriosis painful? Yale researchers have a clue",
+        "url": "https://theprint.in/science/what-makes-endometriosis-painful-yale-researchers-have-a-clue/3051242/",
+        "source": "ThePrint",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Endo.jpg",
+        "publishedAt": "2026-09-23T12:17:28Z",
         "category": "health",
-        "summary": "The Central Drugs Standard Control Organisation (CDSCO) has issued an advisory warning against the indiscriminate use of painkillers, especially Non-Steroidal Anti-Inflammatory Drugs (NSAIDs), and antibiotics. The advisory targets healthcare professionals, pharmacists, retailers, distributors, hospitals, and the public, emphasizing the potential risks associated with these medications, particularly their link to Chronic Kidney Disease (CKD).",
-        "wordCount": 53
+        "summary": "Yale School of Medicine researchers studied biopsies from 19 endometriosis patients, discovering a molecular difference in tissues that may explain varying pain levels. Some patients experience severe pain, while others report no discomfort. This finding could enhance understanding of endometriosis and lead to improved treatment options for those suffering from debilitating symptoms associated with the condition.",
+        "wordCount": 56
       },
       {
-        "title": "Sex-specific associations between DXA-derived arms fat-to-lean ratio and sarcopenia in Taiwanese patients with type 2 diabetes: a cross-sectional study",
-        "url": "https://www.nature.com/articles/s41598-026-72582-z?error=cookies_not_supported&code=fa4e2c19-5c4e-4878-abcf-336302d75c77",
-        "source": "Nature",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-09-22T20:43:33Z",
+        "title": "In a first, scientists have made brainstem cells in a petri dish",
+        "url": "https://theprint.in/science/scientists-brainstem-cells-petri-dish/3051219/",
+        "source": "ThePrint",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Brainstem-cells.jpg",
+        "publishedAt": "2026-09-23T12:06:44Z",
         "category": "health",
-        "summary": "A study of 103 Taiwanese adults with type 2 diabetes examined sex-specific associations between fat-to-lean ratios and sarcopenia. Prevalence was 15% in females and 23.3% in males. Males showed higher lean mass and grip strength, while females had higher fat ratios. The arms fat-to-lean ratio was linked to increased sarcopenia odds in males, highlighting the importance of regional body composition.",
-        "wordCount": 60
+        "summary": "Scientists at Stanford University have successfully created brainstem cells in a petri dish, marking a significant advancement in neuroscience. Published in Nature Neuroscience, the research explores the development of various brain regions and whether they originate from a single family of cells or involve multiple sources. This breakthrough could enhance understanding of brain complexity and development.",
+        "wordCount": 56
       },
       {
-        "title": "Global, regional, and national impact of epidemic disasters on health workforce equality between 1990 and 2019: An ecological and modeling study",
-        "url": "https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1005134",
-        "source": "PLOS",
-        "image": "https://journals.plos.org/plosmedicine/article/figure/image?id=10.1371/journal.pmed.1005134.g005&size=inline",
-        "publishedAt": "2026-09-22T17:38:03Z",
+        "title": "IMA and Abbott push for adult flu vaccination",
+        "url": "https://health.economictimes.indiatimes.com/news/industry/ima-and-abbott-push-for-adult-flu-vaccination/134436268",
+        "source": "ET HealthWorld",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-134436268,imgsize-65938,width-1200,height=627,overlay-ethealth,resizemode-75/industry/ima-and-abbott-push-for-adult-flu-vaccination.jpg",
+        "publishedAt": "2026-09-23T12:01:48Z",
         "category": "health",
-        "summary": "A study by Manman Chen, Wanzhou Wang, and colleagues analyzed the impact of infectious disease epidemics on health workforce changes across 194 countries from 1990 to 2019. Findings indicate that epidemic events resulted in significant health workforce losses globally, with the most pronounced effects in low- and middle-income countries, highlighting disparities in health workforce equity during epidemic crises.",
-        "wordCount": 58
+        "summary": "The Indian Medical Association (IMA) has partnered with Abbott to promote annual flu vaccination among adults during Indian Immunization Week, running from September 21 to 27. This initiative aims to raise awareness about the significance of flu vaccinations and address concerning gaps in adult immunization rates. The campaign highlights the need for increased vaccination efforts in India.",
+        "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "The role of shape and interaction directionality in the crystalline phase behaviour of octahedral metal-organic cages",
-        "url": "https://www.nature.com/articles/s41467-026-77857-7?error=cookies_not_supported&code=34d048b6-520f-40b8-9d38-a2395128653e",
-        "source": "nature.com",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-09-22T22:38:25Z",
+        "title": "Cambridge Researchers Look Inside Living Antarctic Cells for First Time",
+        "url": "https://www.azooptics.com/News.aspx?newsID=30792",
+        "source": "AZoOptics",
+        "image": "https://www.azooptics.com/images/news/ImageForNews_30792_17901672206373622.png",
+        "publishedAt": "2026-09-23T12:11:00Z",
         "category": "science",
-        "summary": "Researchers have developed a computational methodology combining semi-empirical dimer calculations and coarse-grained modeling to predict the packing behavior of metal-organic cages (MOCs). This approach enhances understanding of how molecular shape and interaction directionality affect crystalline phase behavior. The findings aim to facilitate the rational design of MOCs with tailored solid-state structures and properties, addressing challenges in crystal engineering.",
+        "summary": "Engineers have developed the first microscope capable of imaging living cells in sub-zero conditions, enabling the study of Antarctic fish. This breakthrough allows scientists to capture high-resolution images of these cells for the first time, revealing insights into their survival mechanisms in extreme environments. The technology opens new avenues for research in cell biology and environmental science.",
+        "wordCount": 57
+      },
+      {
+        "title": "New AI tool predicts hydrogen positions to speed up drug discovery",
+        "url": "https://www.news-medical.net/news/20260923/New-AI-tool-predicts-hydrogen-positions-to-speed-up-drug-discovery.aspx",
+        "source": "news-medical.net",
+        "image": "https://www.news-medical.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+        "publishedAt": "2026-09-23T11:47:00Z",
+        "category": "science",
+        "summary": "Researchers at New York University have developed an AI tool that predicts hydrogen atom positions in drug-like molecules. This model learns chemical patterns linked to molecular stability, enhancing the drug discovery process. The findings, published in the journal Chemistry, aim to streamline the identification of effective drug candidates by improving the accuracy of hydrogen placement in chemical structures.",
         "wordCount": 58
       },
       {
-        "title": "NASA finds evidence of repeated water activity on Mars",
-        "url": "https://qazinform.com/news/nasa-finds-evidence-of-repeated-water-activity-on-mars-ca969d",
-        "source": "Qazinform",
-        "image": "https://img.inform.kz/kazinform-photobank/media/2026-09-22/f90353bc-0536-49d7-858f-97b16c8bb3af.jpeg",
-        "publishedAt": "2026-09-22T21:56:09Z",
+        "title": "Clinical documentation quality in routine care with AI scribe support: a large‑scale Spanish analysis",
+        "url": "https://www.nature.com/articles/s41598-026-72180-z?error=cookies_not_supported&code=a914465e-4c53-4c91-8a54-d1777dd66311",
+        "source": "Nature",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-09-23T11:45:24Z",
         "category": "science",
-        "summary": "NASA's Perseverance rover has discovered evidence of water interaction in rocks at Mars' Jezero Crater on at least three occasions. This finding, reported by Qazinform News Agency, enhances understanding of Mars' history with water. The evidence was found in the \"Margin Unit,\" a geological area near the ancient lake's shoreline, where scientists anticipated sedimentary rocks but found igneous ones instead.",
-        "wordCount": 60
-      },
-      {
-        "title": "A Feather in Dinosaur Poop May Explain How Birds Beat Extinction",
-        "url": "https://sg.news.yahoo.com/feather-dinosaur-poop-may-explain-203200137.html",
-        "source": "sg.news.yahoo.com",
-        "image": "https://s.yimg.com/lo/mysterio/api/f963ff42b48f31f5290edf9af46d6c8bcfa1758f2dfd19644af38fae22bc0b86/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fa_z_animals_articles_598%2F3dcd94346520f627aa627a6f9f46e36e.jpg",
-        "publishedAt": "2026-09-22T20:32:00Z",
-        "category": "science",
-        "summary": "A researcher discovered a fossilized dinosaur dung ball in Montana in 2016, which contained a feather. This finding may provide insights into how some bird species survived the mass extinction event that wiped out dinosaurs. The preserved feather could help scientists understand the evolutionary advantages that allowed certain birds to thrive while others perished.",
-        "wordCount": 54
+        "summary": "A study in a large Spanish healthcare network evaluated the impact of an AI-assisted scribe system on outpatient clinical documentation quality. Analyzing over 2.3 million consultations, results showed significant improvements in semantic agreement (89.3%), readability, and structured quality scores. Manual audits indicated enhanced documentation of past medical history and allergies, supporting better patient outcomes and efficient resource use.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: September 23, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-september-23-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-09-23T00:30:00Z",
+        "title": "Samay Raina’s 'India’s Got Latent 2' faces fresh controversy as complaint targets Mukesh Chhabra and OTT platform over alleged inappropriate language",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/samay-rainas-indias-got-latent-2-faces-fresh-controversy-as-complaint-targets-mukesh-chhabra-and-ott-platform-over-alleged-inappropriate-language/articleshow/134437260.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134437484,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-23T12:27:00Z",
         "category": "entertainment",
-        "summary": "On September 23, 2026, Libra individuals are encouraged to embrace their season, feeling a sense of arrival. They may experience positive emotions and a desire to express their best selves. This period is marked by a deep appreciation for life and its elements, suggesting a time of personal growth and fulfillment. Overall, it’s a favorable time for Libras.",
-        "wordCount": 58
-      },
-      {
-        "title": "Sagittarius Horoscope Today: September 23, 2026",
-        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-september-23-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
-        "publishedAt": "2026-09-23T00:20:00Z",
-        "category": "entertainment",
-        "summary": "Sagittarius individuals may find their ideas developing slowly. The horoscope suggests a need to choose a life of ease and comfort, highlighting the tension between exploration and feeling trapped in survival mode. The guidance encourages reflection on personal desires and the importance of balancing adventure with stability, urging Sagittarians to consider their current state and future aspirations.",
+        "summary": "Samay Raina’s comedy show 'India’s Got Latent 2' is facing controversy following a complaint against casting director Mukesh Chhabra and Netflix India. The complaint alleges the use of inappropriate language in a recent episode. This scrutiny adds to the ongoing discussions about content standards on streaming platforms and the responsibilities of creators in managing language and themes.",
         "wordCount": 57
       },
       {
-        "title": "Libra Horoscope Today: September 23, 2026",
-        "url": "https://www.vogue.in/content/libra-horoscope-today-september-23-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04d23f3d66ec7d06816/16:9/w_1280,c_limit/8-Libra_16;9.png",
-        "publishedAt": "2026-09-23T00:20:00Z",
+        "title": "Will Virat Kohli appear on Rohit Sharma’s TV show?",
+        "url": "https://www.crictracker.com/cricket-news/will-virat-kohli-appear-on-rohit-sharmas-tv-show-family-full-house/",
+        "source": "CricTracker",
+        "image": "https://media.crictracker.com/media/attachments/1790166218450_Rohit-Sharma-and-Virat-Kohli.jpeg",
+        "publishedAt": "2026-09-23T12:17:00Z",
         "category": "entertainment",
-        "summary": "Today, September 23, 2026, marks the beginning of Libra season, bringing a sense of arrival and fulfillment. Libras may feel an inner transformation, ready to express their best selves. This period is characterized by a deep appreciation for life and its elements, fostering positivity and enthusiasm. Embrace this energy to enhance personal connections and experiences.",
-        "wordCount": 55
+        "summary": "Virat Kohli has been invited to appear on Rohit Sharma's television show, 'Family Full House with Rohit Sharma,' which premiered on September 19 at 9:30 PM on Sony Entertainment Television and Sony LIV. The possibility of Kohli's appearance remains uncertain, and further details about his participation have not been disclosed. Fans are eager to know if he will join.",
+        "wordCount": 59
+      },
+      {
+        "title": "'I literally couldn't step out of the house for four days': 'Lust Stories 3' star Radhika Apte opens up about trauma of leaked intimate scene as people around her began seeing, discussing the clip, re",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/i-literally-couldnt-step-out-of-the-house-for-four-days-lust-stories-3-star-radhika-apte-opens-up-about-trauma-of-leaked-intimate-scene-as-people-around-her-began-seeing-discussing-the-clip-recalls-asking-staff-to-protect-her/articleshow/134434640.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134435147,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-09-23T11:36:00Z",
+        "category": "entertainment",
+        "summary": "Radhika Apte discussed the emotional impact of a leaked intimate scene from her film, revealing it caused her significant distress. She described feeling unable to leave her home for four days as the clip circulated and was discussed by those around her. Apte emphasized the personal nature of such leaks, highlighting their potential to affect one's private life.",
+        "wordCount": 58
       }
     ]
   }
