@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-10-02T00:31:03.876Z",
+  "updatedAt": "2026-10-02T12:31:25.828Z",
   "categories": {
     "world": [
       {
-        "title": "Trouble ahead of midterm elections? Americans are turning against Donald Trump's handling of economy, prices",
-        "url": "https://timesofindia.indiatimes.com/world/us/trouble-ahead-of-midterm-elections-americans-are-turning-against-trumps-handling-of-economy-prices/articleshow/134617482.cms",
+        "title": "US energy department engineer held for alleged Houthi links, drone and explosives support",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-energy-department-engineer-held-for-alleged-houthi-links-drone-and-explosives-support/articleshow/134629759.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134617926,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-01T11:46:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-134629771,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-02T00:19:00Z",
         "category": "world",
-        "summary": "A recent poll indicates growing dissatisfaction among Americans regarding President Donald Trump's management of the economy and inflation. His economic approval ratings have significantly declined, with a majority expressing discontent over rising prices. This shift in public sentiment could pose challenges for Trump ahead of the upcoming midterm elections, as economic issues remain a critical concern for voters.",
-        "wordCount": 58
+        "summary": "A US Department of Energy electrical engineer, Ellaboudy, was arrested for allegedly providing material support to the Iran-backed Houthi rebels. He traveled to Yemen in September 2022, intending to assist the Houthis in enhancing their communications capabilities. Investigators revealed he informed FBI informants about needing to be smuggled into and out of Yemen during his activities.",
+        "wordCount": 56
       },
       {
-        "title": "Iran’s Araghchi leaves US after talks stall: Did Rubio order delegation out? Washington says they ‘overstayed’",
-        "url": "https://www.moneycontrol.com/world/iran-s-araghchi-leaves-us-after-talks-stall-did-rubio-order-delegation-out-washington-says-they-overstayed-article-14042895.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261001111905_Araghchi-4.jpg",
-        "publishedAt": "2026-10-01T11:19:30Z",
+        "title": "Araghchi said Iran would allow access to nuclear inspectors for sanctions relief",
+        "url": "https://www.jpost.com/middle-east/iran-news/article-910387",
+        "source": "The Jerusalem Post",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/739543",
+        "publishedAt": "2026-10-01T23:04:51Z",
         "category": "world",
-        "summary": "Iran's delegation departed New York as planned, while a US official stated they had \"overstayed their welcome.\" This discrepancy highlights ongoing tensions between the two nations regarding the resumption of nuclear talks. Reports suggest Senator Marco Rubio may have influenced the decision to expel the Iranian delegation, further complicating the already strained diplomatic relations between Washington and Tehran.",
-        "wordCount": 58
+        "summary": "Iranian Foreign Minister Abbas Araghchi announced that Iran would permit access to nuclear inspectors at bombed facilities in exchange for sanctions relief. This statement, reported by Bloomberg, reflects the country's significant economic challenges, although Araghchi did not directly address the state of Iran's economy. The proposal indicates a potential shift in Iran's approach to international negotiations.",
+        "wordCount": 56
       },
       {
-        "title": "Indian-origin truck driver jailed for 6 years in Canada after fatal crash that killed mom, 11-year-old son",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-truck-driver-jailed-for-6-years-in-canada-after-fatal-crash-that-killed-mom-11-year-old-son/articleshow/134616610.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134616801,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-01T11:06:00Z",
+        "title": "Putin Kaliningrad nuclear warning: Russia would use all weapons if attacked",
+        "url": "https://www.indiatoday.in/world/story/putin-kaliningrad-nuclear-warning-russia-all-weapons-if-attacked-3007794-2026-10-02",
+        "source": "indiatoday.in",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/putin-russia-012727105-16x9_0.jpg?VersionId=ULkd5U68LhCetKZohjCzD.sjRzIQnWD3",
+        "publishedAt": "2026-10-01T22:32:58Z",
         "category": "world",
-        "summary": "Baljeet Singh, a 30-year-old Indian-origin truck driver, was sentenced to six years in prison by a Quebec court after admitting to playing a mobile game while driving. His distraction caused a seven-vehicle pileup, resulting in the deaths of a mother and her 11-year-old son, along with multiple injuries to others involved in the crash.",
+        "summary": "Russian President Vladimir Putin warned that Russia would utilize all available weapons, including nuclear options, if Kaliningrad or any other territory faced direct attack. This statement, made during the Valdai Forum in Moscow, comes amid rising tensions related to Ukraine. NATO responded, stating that such nuclear threats are unhelpful and exacerbate the current situation.",
         "wordCount": 54
       }
     ],
     "business": [
       {
-        "title": "Ace investor Shankar Sharma decodes market performance, highlights where money-making opportunities lie",
-        "url": "https://www.livemint.com/market/stock-market-news/ace-investor-shankar-sharma-decodes-market-performance-highlights-where-money-making-opportunities-lie-11790853717563.html",
+        "title": "Venu, Vijay Singh query Noel's merger plan to avoid Tata Sons IPO",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/venu-vijay-singh-query-noels-merger-plan-to-avoid-tata-sons-ipo/articleshow/134629518.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134629522,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-01T23:07:00Z",
+        "category": "business",
+        "summary": "Tata Trusts vice-chairmen Venu Srinivasan and Vijay Singh have raised concerns regarding chairman Noel Tata's plan to merge two Tata Sons subsidiaries. This move aims to circumvent an initial public offering (IPO) for Tata Sons. Additionally, the Reserve Bank of India recently rejected Tata Sons' deregistration application, mandating compliance with regulations for non-banking finance companies in the upper layer category.",
+        "wordCount": 60
+      },
+      {
+        "title": "Gold holds firm despite elevated yields as Fed bets soften - Kitco PM Report",
+        "url": "https://www.kitco.com/news/article/2026-10-01/gold-holds-firm-despite-elevated-yields-fed-bets-soften-kitco-pm-report",
+        "source": "Kitco",
+        "image": "https://image-api.prod.kitco.com/image/5768df25-c265-4c2d-a489-e51917a45667.jpeg?top=0.16333938294011&left=0&width=1024&height=575.67332123412&scale_width=1920&token=f885b522c23ebf89fbf675a71b10fd5ea3d0a4452da629d3687eda4738079a67",
+        "publishedAt": "2026-10-01T21:13:16Z",
+        "category": "business",
+        "summary": "Spot gold and silver prices rose in late U.S. trading, supported by easing Federal Reserve rate-hike expectations. Gold traded near $4,159.11 an ounce, up 0.10%, while silver was at $60.980, up 0.18%. North American equities finished higher, recovering from early losses, while European markets declined due to rising global bond yields. Jobless claims fell, indicating labor market resilience.",
+        "wordCount": 58
+      },
+      {
+        "title": "Anup Saha and Anup Bagchi: ICICI, IIT, IIM and more - What's common between two big banks bosses of HDFC and Kotak",
+        "url": "https://www.livemint.com/companies/one-day-two-anups-one-saha-one-bagchi-at-helm-of-two-big-banks-meet-ex-icici-and-iit-iim-alumni-banks-banked-upon-11790878388600.html",
         "source": "Livemint",
-        "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Shankar_Sharma_1779878757189_1779878775784_4f49b289-e7d2-4f63-aed0-c9c88d1f0ec1_1790854411539_91O1_8f40e499-0d1c-4ba5-9733-777ec19e4be0_fTQX.jpg",
-        "publishedAt": "2026-10-01T12:07:43Z",
+        "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/name_1790879436921_SJwI_1790879465080_kTWV_f2a37169-edc2-4b8f-9e05-d2ae1b10db14_EC8B.png",
+        "publishedAt": "2026-10-01T18:43:21Z",
         "category": "business",
-        "summary": "Investor Shankar Sharma analyzes the Indian stock market's recent downturn, noting an 18% decline from its peak in January. He attributes this to a period of negligible returns following previous strong performance. Sharma encourages investors to seek alternative opportunities, particularly in fixed income, as market dynamics shift. He emphasizes the importance of adapting investment strategies in the current environment.",
-        "wordCount": 59
-      },
-      {
-        "title": "Kia India Sep 2026 Sales At New High Of 32k Units - Seltos, Sonet Lead, Sorento Joins The Party",
-        "url": "https://www.rushlane.com/kia-india-sep-2026-sales-at-new-high-of-32k-units-12557240.html",
-        "source": "RushLane",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/09/new-kia-sorento-dealer-launch-price-16.jpg",
-        "publishedAt": "2026-10-01T12:01:59Z",
-        "category": "business",
-        "summary": "Kia India achieved record monthly sales in September 2026, reaching 32,000 units, marking a 41% year-on-year growth. Quarterly sales increased by 38.51%, while total volumes from January to September surpassed 253,000 units. The Seltos and Sonet models led sales, with the Sorento also contributing to the overall performance, reflecting strong demand in the Indian automotive market.",
-        "wordCount": 56
-      },
-      {
-        "title": "Oil Rises as China Fuel Supply Concerns Mount",
-        "url": "https://www.tradingview.com/news/te_news:588749:0-oil-rises-as-china-fuel-supply-concerns-mount/",
-        "source": "TradingView",
-        "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
-        "publishedAt": "2026-10-01T11:01:26Z",
-        "category": "business",
-        "summary": "Crude oil prices rose above $91 a barrel on Thursday due to concerns over tighter fuel supplies in China, exacerbating global market disruptions. Reports indicate that PetroChina has withdrawn multiple gasoline and jet-fuel cargoes planned for October, as Beijing aims to preserve domestic inventory. This situation has heightened worries about the stability of global oil supply chains.",
-        "wordCount": 57
+        "summary": "Anup Kumar Saha and Anup Bagchi, leaders of HDFC and Kotak banks, share notable backgrounds. Both have previously worked at ICICI Bank and are graduates of prestigious institutions, IIT and IIM. Their careers reflect a strong foundation in finance and management, contributing to their current roles in leading major banking institutions in India.",
+        "wordCount": 53
       }
     ],
     "technology": [
       {
-        "title": "CD Projekt Red Drops First Lighting Adjustments For The Witcher 3 Remastered, While a New Mod Makes Settings Tuning Painless",
-        "url": "https://wccftech.com/cd-projekt-red-first-lighting-adjustments-the-witcher-3-remastered-settings-tuning-painless/",
-        "source": "Wccftech",
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/The-Witcher-3-Remastered-First-Patch-Lighting.jpg",
-        "publishedAt": "2026-10-01T12:23:00Z",
+        "title": "OnePlus 16’s 9,000mAh Battery Is Now Officially Confirmed",
+        "url": "https://www.androidpure.com/oneplus-16-battery-confirmed/",
+        "source": "androidpure.com",
+        "image": "https://i0.wp.com/www.androidpure.com/wp-content/uploads/2026/10/oneplus-16-rear-camera-module-glowing-render.jpg?fit=1200%2C675&ssl=1",
+        "publishedAt": "2026-10-01T20:29:57Z",
         "category": "technology",
-        "summary": "CD Projekt Red released patch 5.00b for The Witcher 3 Remastered, introducing lighting adjustments and a Real-Time Graphics Menu Preview mod. Shortly after, a hotfix, 5.00c, was launched to address additional issues, notably enhancing performance for NVIDIA Hairworks. These updates aim to improve the gaming experience by refining visual elements and providing easier settings tuning for players.",
+        "summary": "The OnePlus 16's battery capacity has been officially confirmed at 9,000mAh by OnePlus executive Li Jie Louis. This marks an increase of 1,700mAh compared to the OnePlus 15. The announcement comes ahead of the device's launch in China, scheduled for October 12. Previously, the battery capacity had been speculated through leaks reported by various sources.",
+        "wordCount": 55
+      },
+      {
+        "title": "Windows 11 26H2 is now available",
+        "url": "https://videocardz.com/newz/windows-11-26h2-is-now-available",
+        "source": "VideoCardz.com",
+        "image": "https://cdn.videocardz.com/1/2026/08/WINDOWS-11-26H2-HERO.webp",
+        "publishedAt": "2026-10-01T19:18:10Z",
+        "category": "technology",
+        "summary": "Microsoft has released Windows 11 version 26H2, known as the Windows 11 2026 Update, starting September 29. This update is available for eligible PCs currently running Windows 11 versions 24H2 or 25H2. Users of these versions will only need to perform one restart to complete the update process, as it is delivered as a small enablement package.",
         "wordCount": 57
       },
       {
-        "title": "WhatsApp introduces parental controls for pre",
-        "url": "https://www.medianama.com/2026/10/223-whatsapp-parental-controls-teen/",
-        "source": "MediaNama",
-        "image": "https://www.medianama.com/wp-content/uploads/2025/07/WhatsApp.jpg",
-        "publishedAt": "2026-10-01T12:05:08Z",
+        "title": "Samsung still testing Exynos 2700 for the Galaxy S27 Ultra",
+        "url": "https://sammyguru.com/samsung-keeps-exynos-2700-in-consideration-for-galaxy-s27-ultra/",
+        "source": "SammyGuru",
+        "image": "https://sammyguru.com/wp-content/uploads/2026/02/Galaxy-S26-Ultra-SammyGuru-59.jpg",
+        "publishedAt": "2026-10-01T18:06:58Z",
         "category": "technology",
-        "summary": "WhatsApp is launching global parental controls aimed at managing pre-teens' contacts and groups, as well as teens' privacy settings, Meta AI access, Status, and Channels. The new features include parent-managed accounts for pre-teens, enabling parents or guardians to oversee who can contact their children. This rollout is taking place gradually across various regions worldwide.",
-        "wordCount": 54
-      },
-      {
-        "title": "iPhone 17 at Rs 84900 in Flipkart sale: 2 reasons to buy it before price goes back to Rs 1 lakh",
-        "url": "https://www.indiatoday.in/technology/news/story/iphone-17-at-rs-84900-in-flipkart-big-billion-days-sale-2-reasons-to-buy-it-before-price-goes-back-to-rs-1-lakh-3007457-2026-10-01",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/iphone-17-102337344-16x9.jpg?VersionId=lRvTBWidGEORZTO_Tk_51QMgOAOpc1LY",
-        "publishedAt": "2026-10-01T12:04:50Z",
-        "category": "technology",
-        "summary": "Flipkart will offer the iPhone 17 at Rs 84,999 during its Big Billion Days sale starting October 9, a significant reduction from the current price of Rs 99,900. This discount is attributed to ongoing pressure on smartphone pricing due to memory costs. Consumers are encouraged to purchase the device before the price returns to approximately Rs 1 lakh.",
-        "wordCount": 58
+        "summary": "Samsung is currently testing a prototype of the Galaxy S27 Ultra that appears to feature the Exynos 2700 processor. This development suggests that the device may not be limited to Snapdragon chips only. The testing phase indicates Samsung's ongoing commitment to its in-house Exynos line, potentially offering consumers more options for the upcoming flagship smartphone.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "Asian Games 2026 Day 14: Full October 2 schedule, IST timings and Indians in action",
-        "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-indians-in-action-day-14-october-2-schedule-india-ist-timings/article71532707.ece",
-        "source": "sportstar.thehindu.com",
-        "image": "https://ss-i.thgim.com/public/incoming/zhxi6v/article71532882.ece/alternates/LANDSCAPE_1200/IMG_PARVEEN_HOODA_2_1_6IF6FLM1.jpg",
-        "publishedAt": "2026-10-01T12:23:17Z",
+        "title": "Asian Games 2026 Live Updates Day 14: India wins first-ever gold in women's team recurve archery; wrestling, sepaktakraw and golf results",
+        "url": "https://sportstar.thehindu.com/asian-games/asian-games-live-updates-day-14-october-2-2026-match-scores-events-news-highlights/article71535622.ece",
+        "source": "Sportstar",
+        "image": "https://ss-i.thgim.com/public/incoming/czkpnm/article71535649.ece/alternates/LANDSCAPE_1200/2026-10-02T012910Z_865083070_UP1EMA2044LK2_RTRMADP_3_GAMES-ASIA.JPG",
+        "publishedAt": "2026-10-01T23:54:24Z",
         "category": "sports",
-        "summary": "On October 2, Day 14 of the Asian Games 2026 in Aichi-Nagoya, Japan, Indian athletes will compete in 12 disciplines, including archery, boxing, wrestling, cycling, hockey, and taekwondo. The events feature multiple medal opportunities for India as participants aim to secure victories across various sports. The schedule includes specific timings in Indian Standard Time (IST).",
+        "summary": "India secured its first-ever gold medal in women's team recurve archery at the 2026 Asian Games. Live updates from Day 14 include results from wrestling, sepaktakraw, and golf. Notable moments include Dipanshi attempting to draw inspiration from Vinesh Phogat's upset at the Paris Olympics while facing Japanese wrestler Susaki, who scored points during their match.",
         "wordCount": 55
       },
       {
-        "title": "Faf du Plessis Trent Boult and Kieron Pollard in SA20 mini-auction shortlist",
-        "url": "https://www.cricinfo.com/story/faf-du-plessis-trent-boult-and-kieron-pollard-in-sa20-mini-auction-shortlist-1556754",
-        "source": "Cricinfo",
-        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/412400/412472.6.jpg",
-        "publishedAt": "2026-10-01T12:18:14Z",
+        "title": "Know India scores, updates and results from Day 13",
+        "url": "https://www.olympics.com/en/news/asian-games-2026-live-scores-updates-results-india-october-2",
+        "source": "olympics.com",
+        "image": "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/v1790902469/primary/grzsaz1ti5vkmgufti71",
+        "publishedAt": "2026-10-01T23:47:00Z",
         "category": "sports",
-        "summary": "Faf du Plessis, Trent Boult, and Kieron Pollard are featured in the shortlist for the SA20 mini-auction, set for October 7. A total of 156 players will be available for selection, including notable South African cricketers like Imran Tahir and Rassie van der Dussen. The auction aims to enhance team rosters for the upcoming season.",
+        "summary": "On Day 13 of the Asian Games 2026, India focused on hockey, archery, boxing, and wrestling. Kashish Malik advanced to the mixed virtual taekwondo quarter-finals after defeating Hong Kong's Lam Siu Wei 2-0. She is now one victory away from winning a medal. Updates on scores, results, and medal winners were provided throughout the day.",
         "wordCount": 55
       },
       {
-        "title": "Asian Games 2026, Day 13 Wrap: India Win Five Medals; Men's Hockey & Cricket Teams Reach Finals",
-        "url": "https://www.news18.com/sports/other-sports/asian-games-2026-day-13-wrap-india-win-five-medals-mens-hockey-cricket-teams-reach-finals-ws-l-10363147.html",
-        "source": "News18",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/10/India-win-5-medals-on-13th-day-of-Asian-Games-2026-2026-10-ef7dd0940641cda60bf8e0884af898ef-1200x675.jpg",
-        "publishedAt": "2026-10-01T12:11:02Z",
+        "title": "prediction, team news, lineups",
+        "url": "https://www.sportsmole.co.uk/football/brazil/preview/india-vs-brazil-prediction-team-news-lineups_606083.html",
+        "source": "Sports Mole",
+        "image": "https://www.sportsmole.co.uk/thumbor/9kK2liYLtE6quzE8Or6uQLiJFaE=/720x410/smart/filters:format(webp)/https%3A%2F%2Fsportsmole-media-prod.s3.gra.io.cloud.ovh.net%2Fuploads%2F2026%2F10%2Fvinicius-6abedea341b4b182230178.png",
+        "publishedAt": "2026-10-01T22:40:12Z",
         "category": "sports",
-        "summary": "India's medal tally at the Asian Games 2026 reached 65, comprising 10 gold, 23 silver, and 32 bronze, securing a position in the top-10 standings. On Day 13, India won five medals, with notable achievements in skiff sailing and Greco-Roman wrestling. Additionally, both the men's hockey and cricket teams advanced to the finals, contributing to the overall success.",
-        "wordCount": 58
+        "summary": "Brazil will face India in their first-ever meeting during an international friendly at Kolkata's Salt Lake Stadium on Saturday. The Brazilian team arrives after consecutive victories against Australia, while India recently drew with Panama. The match is anticipated to showcase both teams' strategies and player lineups, as they prepare for this significant encounter in international football.",
+        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "South Asia accounts for 84% of chewing tobacco deaths worldwide, Lancet study finds",
-        "url": "https://theprint.in/feature/south-asia-accounts-for-84-of-chewing-tobacco-deaths-worldwide-lancet-study-finds/3059260/",
-        "source": "ThePrint",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/10/BJP-MLA-Muslim-garba-2.jpg",
-        "publishedAt": "2026-10-01T11:49:16Z",
+        "title": "Temperament, childhood adversity may offer clues to psychiatric vulnerability: NIMHANS study",
+        "url": "https://www.thehindu.com/sci-tech/health/temperament-childhood-adversity-may-offer-clues-to-psychiatric-vulnerability-nimhans-study/article71532420.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/49vn54/article71532424.ece/alternates/LANDSCAPE_1200/AFP_C9LX9G9.jpg",
+        "publishedAt": "2026-10-02T00:30:00Z",
         "category": "health",
-        "summary": "A Lancet study reveals that South Asia accounts for 84% of global chewing tobacco-related deaths. Analyzing data from 204 countries between 1990 and 2023, researchers found that despite advancements in tobacco control, global tobacco use has remained stable over the past two decades. Approximately 241 million individuals aged 15 and older are currently using chewing tobacco worldwide.",
-        "wordCount": 57
+        "summary": "A study by NIMHANS suggests that temperament and childhood adversity may indicate vulnerability to psychiatric disorders. Researchers found that shared family traits across various disorders and specific risk patterns could be identified. The findings, published in the Journal of Affective Disorders, highlight the importance of understanding these factors in assessing psychiatric risks and developing preventive strategies for mental health issues.",
+        "wordCount": 60
       },
       {
-        "title": "Symptoms, Myths & Early Detection",
-        "url": "https://www.brandsynario.com/lifestyle/health/breast-cancer-in-young-women/",
-        "source": "Brandsynario",
-        "image": "https://www.brandsynario.com/wp-content/uploads/2026/10/breast-cancer-2.jpg",
-        "publishedAt": "2026-10-01T11:41:46Z",
+        "title": "Breast Cancer Awareness Month: Doctors share 5 health tips for working women to reduce risk",
+        "url": "https://www.tradingview.com/news/moodys:b1c74f7962b2c:0-breast-cancer-awareness-month-doctors-share-5-health-tips-for-working-women-to-reduce-risk/",
+        "source": "tradingview.com",
+        "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+        "publishedAt": "2026-10-01T20:17:08Z",
         "category": "health",
-        "summary": "Breast cancer rates among women under 50 are increasing globally, including in Pakistan. This trend challenges previous assumptions about the disease's onset age. Awareness of symptoms and debunking common myths are crucial for early detection, which significantly improves survival rates. Understanding these factors is essential for empowering younger women to recognize risks and seek timely medical attention.",
-        "wordCount": 57
+        "summary": "October marks Breast Cancer Awareness Month, focusing on education about breast health, early detection, and support for affected individuals. Doctors emphasize five health tips specifically for working women to help reduce their risk of breast cancer. The initiative aims to raise awareness and encourage proactive measures among women to prioritize their health during this important month.",
+        "wordCount": 56
+      },
+      {
+        "title": "Vaping may harm heart health too, not just lungs, doctors warn",
+        "url": "https://www.firstpost.com/health/vaping-may-harm-heart-health-too-not-just-lungs-doctors-warn-14049800.html",
+        "source": "Firstpost",
+        "image": "https://images.firstpost.com/uploads/2026/10/Representational-Image-49-2026-10-35b46cb1c3d9183ac32334276cab7090-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+        "publishedAt": "2026-10-01T18:31:21Z",
+        "category": "health",
+        "summary": "Doctors warn that vaping, often associated with lung health, may also negatively impact heart health. Nicotine in e-cigarettes can elevate heart rate and blood pressure while constricting blood vessels. The long-term cardiovascular effects of vaping are still under investigation, highlighting the need for awareness, especially among young people regarding the potential risks to their heart and vascular health.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "Fossil teeth from ancient North American coastlines suggest some dinosaurs supplemented land diets with seaweed and other marine food, revealing a coastal feeding link that existed more than 100 milli",
-        "url": "https://timesofindia.indiatimes.com/science/archaeology/fossil-teeth-from-ancient-north-american-coastlines-suggest-some-dinosaurs-supplemented-land-diets-with-seaweed-and-other-marine-food-revealing-a-coastal-feeding-link-that-existed-more-than-100-million-years-ago/articleshow/134615732.cms",
-        "source": "timesofindia.indiatimes.com",
-        "image": "https://static.toiimg.com/thumb/msid-134615931,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-01T11:30:00Z",
+        "title": "Why You Really Say “Achoo”: The Surprising Reason Behind Every Sneeze",
+        "url": "https://www.futura-sciences.com/en/why-you-really-say-achoo-the-surprising-reason-behind-every-sneeze_39291/",
+        "source": "Futura, le média qui explore le monde",
+        "image": "https://www.futura-sciences.com/en/wp-content/uploads/2026/09/why-you-really-say-achoo-the-surprising-reason-behind-every-sneeze.webp",
+        "publishedAt": "2026-10-01T23:19:52Z",
         "category": "science",
-        "summary": "Fossil teeth from ancient North American coastlines indicate that some dinosaurs may have supplemented their land diets with marine food, including seaweed. This discovery suggests a coastal feeding link existed over 100 million years ago. Researchers studied fossils from environments related to the Western Interior Seaway, an extensive inland sea that separated North America during the Cretaceous period.",
+        "summary": "Sneezing, represented by various sounds in different languages, follows a universal biological mechanism. This reflex action is triggered by irritants in the nasal passages, leading to a forceful expulsion of air. Despite cultural variations in spelling the sound, the underlying process remains consistent globally. Sneezing serves as a common bodily response that many people take for granted.",
+        "wordCount": 57
+      },
+      {
+        "title": "Astronomers spot giant bow shock around magnetic white dwarf 730 light-years away, revealing mysterious outflow lasting over 1000 years",
+        "url": "https://timesofindia.indiatimes.com/science/space/astronomers-spot-giant-bow-shock-around-magnetic-white-dwarf-730-light-years-away-revealing-mysterious-outflow-lasting-over-1000-years/articleshow/134617112.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134617193,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-01T20:30:00Z",
+        "category": "science",
+        "summary": "Astronomers using the European Southern Observatory's Very Large Telescope have captured images of a giant bow shock surrounding a magnetic white dwarf located 730 light-years away. This shock wave, which has persisted for over 1,000 years, cannot be explained by known astrophysical mechanisms. The findings contribute to the understanding of stellar remnants and their interactions with surrounding material.",
         "wordCount": 58
       },
       {
-        "title": "Algae Based Biofuel Manufacturing Plant Setup in India",
-        "url": "https://www.imarcgroup.com/insight/algae-based-biofuel-manufacturing-plant-setup-cost-india",
-        "source": "IMARC Group",
-        "image": "https://www.imarcgroup.com/webassets/image/logo.webp",
-        "publishedAt": "2026-10-01T11:14:58Z",
+        "title": "How sugar from outer space may have helped build life on Earth; study finds ribose kept boron dissolved in early waters",
+        "url": "https://timesofindia.indiatimes.com/science/space/how-sugar-from-outer-space-may-have-helped-build-life-on-earth-study-finds-ribose-kept-boron-dissolved-in-early-waters/articleshow/134617033.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134617227,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-01T16:30:00Z",
         "category": "science",
-        "summary": "India is establishing algae-based biofuel manufacturing plants, with setup costs ranging from INR 20-300 crore. These plants will have a capacity of 100-1,000 tons per day and a payback period of 6-10 years. This initiative aims to support the country’s clean energy transition, enhance biofuel blending efforts, and meet the growing demand for sustainable aviation fuel.",
-        "wordCount": 56
-      },
-      {
-        "title": "Moon Manufacturing: NASA Develops New Space Material",
-        "url": "https://stratnewsglobal.com/technology/moon-manufacturing-nasa-material/",
-        "source": "StratNews Global",
-        "image": "https://stratnewsglobal.com/wp-content/uploads/2026/10/sngtech-web-thumb-adi-12.png",
-        "publishedAt": "2026-10-01T10:16:39Z",
-        "category": "science",
-        "summary": "NASA has developed a new material that combines biodegradable plastic with simulated lunar and Martian dust. This innovative material aims to assist astronauts in manufacturing and repairing equipment on the Moon and Mars, utilizing resources found on those celestial bodies. The advancement could enhance sustainability and efficiency in space exploration and support future missions to these environments.",
-        "wordCount": 57
+        "summary": "A study suggests that ribose, a simple sugar delivered to early Earth by meteorites, may have significantly contributed to the emergence of life. Researchers found that ribose helped keep boron dissolved in primordial waters, which could have been crucial for biochemical processes. This discovery indicates that the role of extraterrestrial sugars in life's origins is more complex than previously understood.",
+        "wordCount": 60
       }
     ],
     "entertainment": [
       {
-        "title": "Swara Bhasker recalls director being inappropriate, banging on her door while drunk: ‘He asked for hug, I was scared’",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/swara-bhasker-recalls-director-being-inappropriate-banging-on-her-door-while-drunk-hug-scared-rise-and-fall-101790853210547.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/01/1600x900/logo/Swara_Bhaskar_1790853264630_Oxi5_1790853264788_5S37_59cb0377-ae46-4aa0-b2c9-957aeccba9a6_FYMN.jpg",
-        "publishedAt": "2026-10-01T12:16:33Z",
+        "title": "Horoscope Today: October 2, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-october-2-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-10-02T00:30:00Z",
         "category": "entertainment",
-        "summary": "Swara Bhasker shared an unsettling experience on the reality show Rise and Fall, recalling a director's inappropriate behavior after the success of Tanu Weds Manu. She described an incident where the director, intoxicated, banged on her door and requested a hug, leaving her feeling scared. Bhasker’s account highlights issues of misconduct in the film industry.",
-        "wordCount": 55
+        "summary": "On October 2, 2026, Taurus may experience a shift towards a more hopeful future, bringing a sense of positivity. However, feelings of mental exhaustion persist, creating a contrast between hope and fatigue. This duality may lead to introspection as Taurus navigates current challenges while recognizing the potential for improvement in their circumstances.",
+        "wordCount": 52
       },
       {
-        "title": "\"Just remember him leaving and the next time I saw him was in…\": Nimrat Kaur recalls tragic loss of her father in Kashmir and how the tragedy shaped her understanding of loss",
-        "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/just-remember-him-leaving-and-the-next-time-i-saw-him-was-in-nimrat-kaur-recalls-tragic-loss-of-her-father-in-kashmir-and-how-the-tragedy-shaped-her-understanding-of-loss/articleshow/134618338.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134618802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-01T12:13:00Z",
+        "title": "Cancer Horoscope Today: October 2, 2026",
+        "url": "https://www.vogue.in/content/cancer-horoscope-today-october-2-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04b32f6a7f382599b6a/16:9/w_1280,c_limit/4-Cancer_16;9.png",
+        "publishedAt": "2026-10-02T00:20:00Z",
         "category": "entertainment",
-        "summary": "Actor Nimrat Kaur reflected on the loss of her father, Major Bhupender Singh, who was killed in a terror attack in Kashmir when she was 11 years old. She described the moment he left for duty and the profound impact his death had on her understanding of loss. Kaur's experience has shaped her perspective on grief and resilience.",
+        "summary": "Cancer horoscope for October 2, 2026, suggests a need for reflection on personal purpose. Individuals may feel trapped or disconnected from their original goals. There is an indication of something significant being offered or held onto, yet past emotional wounds may still influence current feelings. The horoscope encourages self-examination to navigate these challenges effectively.",
+        "wordCount": 54
+      },
+      {
+        "title": "Capricorn Horoscope Today: October 2, 2026",
+        "url": "https://www.vogue.in/content/capricorn-horoscope-today-october-2-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
+        "publishedAt": "2026-10-02T00:20:00Z",
+        "category": "entertainment",
+        "summary": "Today, Capricorns are advised to reassess their nurturing roles, which may have become burdensome over time. What once brought joy may now feel overwhelming, suggesting a need for balance and self-care. It’s important to recognize the weight of responsibilities and consider taking a step back to alleviate stress. Prioritizing personal well-being is essential for maintaining harmony in life.",
         "wordCount": 58
-      },
-      {
-        "title": "'It Can't Be A Guy Killing Everyone...'",
-        "url": "https://m.rediff.com/movies/report/abhishek-pathak-it-cant-be-a-guy-killing-everyone-drishyam/20261001.htm",
-        "source": "Rediff",
-        "image": "https://im.rediff.com/1200-630/movies/2026/oct/01drishyam3-1.jpg",
-        "publishedAt": "2026-10-01T11:59:00Z",
-        "category": "entertainment",
-        "summary": "Abhishek Pathak emphasizes the importance of providing audiences with fresh experiences in \"Drishyam The Conclusion,\" while maintaining emotional consistency. He believes that each installment should offer something new, avoiding repetitive storytelling. Pathak's approach focuses on evolving the narrative to engage viewers, ensuring that the franchise continues to resonate without losing the core emotional impact that fans expect.",
-        "wordCount": 57
       }
     ]
   }
