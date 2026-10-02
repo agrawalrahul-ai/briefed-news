@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-10-01T12:31:06.028Z",
+  "updatedAt": "2026-10-02T00:31:03.876Z",
   "categories": {
     "world": [
       {
-        "title": "Trump announces $200bn in energy investments from South Korea",
-        "url": "https://www.aljazeera.com/economy/2026/9/30/trump-set-to-announce-200bn-in-energy-investments-from-south-korea",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6abd78f17d15-1790802161.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-10-01T00:29:54Z",
+        "title": "Trouble ahead of midterm elections? Americans are turning against Donald Trump's handling of economy, prices",
+        "url": "https://timesofindia.indiatimes.com/world/us/trouble-ahead-of-midterm-elections-americans-are-turning-against-trumps-handling-of-economy-prices/articleshow/134617482.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134617926,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-01T11:46:00Z",
         "category": "world",
-        "summary": "President Donald Trump announced $200 billion in energy investments from South Korea, including $54 billion for a liquefied natural gas (LNG) project in Alaska. The announcement was made at the White House on Wednesday, as Trump aims to highlight the Republican Party's economic achievements ahead of the upcoming US midterm elections. The investments are part of broader economic initiatives.",
-        "wordCount": 59
+        "summary": "A recent poll indicates growing dissatisfaction among Americans regarding President Donald Trump's management of the economy and inflation. His economic approval ratings have significantly declined, with a majority expressing discontent over rising prices. This shift in public sentiment could pose challenges for Trump ahead of the upcoming midterm elections, as economic issues remain a critical concern for voters.",
+        "wordCount": 58
       },
       {
-        "title": "Second judge blocks Trump's $100,000 fee for new H-1B worker visas",
-        "url": "https://www.reuters.com/legal/government/second-judge-blocks-trumps-100000-fee-new-h-1b-worker-visas-2026-10-01/",
-        "source": "reuters.com",
-        "image": "https://www.reuters.com/resizer/v2/NK4Y4IOFCBN2BMXOTQQRE7MONU.jpg?auth=7dce5b750329b1d4a59f8cec8445ac6c6ed80e59cd722c83d0d40a79830098ca&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-10-01T00:23:00Z",
+        "title": "Iran’s Araghchi leaves US after talks stall: Did Rubio order delegation out? Washington says they ‘overstayed’",
+        "url": "https://www.moneycontrol.com/world/iran-s-araghchi-leaves-us-after-talks-stall-did-rubio-order-delegation-out-washington-says-they-overstayed-article-14042895.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261001111905_Araghchi-4.jpg",
+        "publishedAt": "2026-10-01T11:19:30Z",
         "category": "world",
-        "summary": "A second federal judge has blocked President Donald Trump's $100,000 fee on new H-1B visas for highly skilled foreign workers. This ruling follows a similar decision by another judge, challenging the legality of the fee. The H-1B visa program is crucial for employers seeking specialized talent from abroad, and the fee's imposition has faced significant legal scrutiny.",
-        "wordCount": 57
+        "summary": "Iran's delegation departed New York as planned, while a US official stated they had \"overstayed their welcome.\" This discrepancy highlights ongoing tensions between the two nations regarding the resumption of nuclear talks. Reports suggest Senator Marco Rubio may have influenced the decision to expel the Iranian delegation, further complicating the already strained diplomatic relations between Washington and Tehran.",
+        "wordCount": 58
       },
       {
-        "title": "Iran’s Disappearing Oil Is Becoming Everyone’s Problem",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Irans-Disappearing-Oil-Is-Becoming-Everyones-Problem.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-30_5fifiuzgxe.jpg",
-        "publishedAt": "2026-10-01T00:00:00Z",
+        "title": "Indian-origin truck driver jailed for 6 years in Canada after fatal crash that killed mom, 11-year-old son",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-truck-driver-jailed-for-6-years-in-canada-after-fatal-crash-that-killed-mom-11-year-old-son/articleshow/134616610.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134616801,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-01T11:06:00Z",
         "category": "world",
-        "summary": "Iran's declining oil exports are impacting global markets, particularly as China's demand for crude increases. The reduction in Iranian oil threatens to disrupt the Strait of Hormuz, through which 13 million barrels per day flow. This situation raises concerns about potential price shocks in the global oil market, as buyers compete for limited supplies amid geopolitical tensions.",
-        "wordCount": 57
+        "summary": "Baljeet Singh, a 30-year-old Indian-origin truck driver, was sentenced to six years in prison by a Quebec court after admitting to playing a mobile game while driving. His distraction caused a seven-vehicle pileup, resulting in the deaths of a mother and her 11-year-old son, along with multiple injuries to others involved in the crash.",
+        "wordCount": 54
       }
     ],
     "business": [
       {
-        "title": "Stock Market Today: All You Need To Know Before Going Into Trade On Oct 1",
-        "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-before-going-into-trade-on-oct-1-12122081",
-        "source": "NDTV Profit",
-        "image": "https://c.ndtvimg.com/2026-01/44d309c8_economical-research-2025-03-14-15-04-57-utc.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-10-01T00:30:01Z",
+        "title": "Ace investor Shankar Sharma decodes market performance, highlights where money-making opportunities lie",
+        "url": "https://www.livemint.com/market/stock-market-news/ace-investor-shankar-sharma-decodes-market-performance-highlights-where-money-making-opportunities-lie-11790853717563.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/10/01/1600x900/logo/Shankar_Sharma_1779878757189_1779878775784_4f49b289-e7d2-4f63-aed0-c9c88d1f0ec1_1790854411539_91O1_8f40e499-0d1c-4ba5-9733-777ec19e4be0_fTQX.jpg",
+        "publishedAt": "2026-10-01T12:07:43Z",
         "category": "business",
-        "summary": "On October 1, the stock market experienced a decline, with the Nifty 50 falling 95 points to 22,620, marking its lowest level since March and a three-day losing streak. Key brokerage calls and trade setups are highlighted for investors. Market participants are advised to stay informed about stocks in the news and overall market trends before trading.",
-        "wordCount": 57
+        "summary": "Investor Shankar Sharma analyzes the Indian stock market's recent downturn, noting an 18% decline from its peak in January. He attributes this to a period of negligible returns following previous strong performance. Sharma encourages investors to seek alternative opportunities, particularly in fixed income, as market dynamics shift. He emphasizes the importance of adapting investment strategies in the current environment.",
+        "wordCount": 59
       },
       {
-        "title": "Stocks in news: Infosys, HDFC Bank, Jio Financial, IRFC, NCC and Blue Dart",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-infosys-hdfc-bank-jio-financial-irfc-ncc-and-blue-dart/articleshow/134599953.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-134600135,width-1200,height-900,imgsize-160202,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-10-01T00:30:00Z",
+        "title": "Kia India Sep 2026 Sales At New High Of 32k Units - Seltos, Sonet Lead, Sorento Joins The Party",
+        "url": "https://www.rushlane.com/kia-india-sep-2026-sales-at-new-high-of-32k-units-12557240.html",
+        "source": "RushLane",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/09/new-kia-sorento-dealer-launch-price-16.jpg",
+        "publishedAt": "2026-10-01T12:01:59Z",
         "category": "business",
-        "summary": "Indian equity benchmarks fell over two sessions, driven by profit booking and rising oil prices. The Nifty 50 index closed down by 95.75 points at 22,620.45. Jio Financial Services and Allianz Europe B.V. invested in their joint venture for business operations. Additionally, Infosys expanded its partnership with ABN AMRO to enhance AI-driven transformation initiatives.",
-        "wordCount": 54
+        "summary": "Kia India achieved record monthly sales in September 2026, reaching 32,000 units, marking a 41% year-on-year growth. Quarterly sales increased by 38.51%, while total volumes from January to September surpassed 253,000 units. The Seltos and Sonet models led sales, with the Sorento also contributing to the overall performance, reflecting strong demand in the Indian automotive market.",
+        "wordCount": 56
       },
       {
-        "title": "Foreign insurers welcome, but policy unclear",
-        "url": "https://www.cnbc.com/2026/10/01/india-insurance-prudential-aviva-axa.html",
-        "source": "CNBC",
-        "image": "https://image.cnbcfm.com/api/v1/image/108370023-1790746078602-gettyimages-1233981067-20210714_dli-mz-mn_heavyrain-05z.jpeg?v=1790746088&w=1920&h=1080",
-        "publishedAt": "2026-10-01T00:23:00Z",
+        "title": "Oil Rises as China Fuel Supply Concerns Mount",
+        "url": "https://www.tradingview.com/news/te_news:588749:0-oil-rises-as-china-fuel-supply-concerns-mount/",
+        "source": "TradingView",
+        "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+        "publishedAt": "2026-10-01T11:01:26Z",
         "category": "business",
-        "summary": "Foreign insurers are preparing for upcoming policy changes in India's insurance market, which remains uncertain. The Indian insurance sector has been evolving, attracting international interest, yet the specifics of these changes are not clearly defined. This situation reflects the ongoing developments within one of the world's fastest-growing economies, as foreign companies seek to navigate the regulatory landscape.",
+        "summary": "Crude oil prices rose above $91 a barrel on Thursday due to concerns over tighter fuel supplies in China, exacerbating global market disruptions. Reports indicate that PetroChina has withdrawn multiple gasoline and jet-fuel cargoes planned for October, as Beijing aims to preserve domestic inventory. This situation has heightened worries about the stability of global oil supply chains.",
         "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "Emulation already solved the problem DLSS 5 is selling, and it did it for free years ago",
-        "url": "https://www.xda-developers.com/emulation-solved-the-problem-dlss-5-is-selling-years-ago-and-for-free/",
-        "source": "xda-developers.com",
-        "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/09/gran-turismo-3-rpcs-3-emulated-on-pc.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-09-30T20:30:19Z",
+        "title": "CD Projekt Red Drops First Lighting Adjustments For The Witcher 3 Remastered, While a New Mod Makes Settings Tuning Painless",
+        "url": "https://wccftech.com/cd-projekt-red-first-lighting-adjustments-the-witcher-3-remastered-settings-tuning-painless/",
+        "source": "Wccftech",
+        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/The-Witcher-3-Remastered-First-Patch-Lighting.jpg",
+        "publishedAt": "2026-10-01T12:23:00Z",
         "category": "technology",
-        "summary": "Emulators have been providing free remasters of games without compromising frame rates, addressing issues similar to those marketed by DLSS 5. Users have successfully integrated DLSS 5 into various games by utilizing tools like ReShade or replacing existing DLSS files with Neural Rendering variants. This practice has allowed for enhanced visual experiences of classic games, showcasing the capabilities of emulation.",
-        "wordCount": 60
+        "summary": "CD Projekt Red released patch 5.00b for The Witcher 3 Remastered, introducing lighting adjustments and a Real-Time Graphics Menu Preview mod. Shortly after, a hotfix, 5.00c, was launched to address additional issues, notably enhancing performance for NVIDIA Hairworks. These updates aim to improve the gaming experience by refining visual elements and providing easier settings tuning for players.",
+        "wordCount": 57
       },
       {
-        "title": "Tech launches in October 2026: Vivo S2 FE, Motorola Edge 70 Neo, Google Fitbit Air",
-        "url": "https://www.cnbctv18.com/technology/tech-launches-in-october-2026-vivo-s2-fe-motorola-edge-70-neo-google-fitbit-air-20002189.htm",
-        "source": "CNBC TV18",
-        "image": "https://images.cnbctv18.com/uploads/2026/09/vivo-s2-2026-09-dc718ee9a9ceeddace04861b891618fe.jpg?im=FitAndFill,width=1200,height=675",
-        "publishedAt": "2026-09-30T18:41:11Z",
+        "title": "WhatsApp introduces parental controls for pre",
+        "url": "https://www.medianama.com/2026/10/223-whatsapp-parental-controls-teen/",
+        "source": "MediaNama",
+        "image": "https://www.medianama.com/wp-content/uploads/2025/07/WhatsApp.jpg",
+        "publishedAt": "2026-10-01T12:05:08Z",
         "category": "technology",
-        "summary": "In October 2026, the technology sector will see multiple product launches in India, coinciding with the Diwali shopping season. Notable releases include the Vivo S2 FE, Motorola Edge 70 Neo, Lenovo Googlebook, Vivo V80, Microsoft Surface Mouse, and Google Fitbit Air. These new devices aim to cater to consumer demand during the festive period.",
+        "summary": "WhatsApp is launching global parental controls aimed at managing pre-teens' contacts and groups, as well as teens' privacy settings, Meta AI access, Status, and Channels. The new features include parent-managed accounts for pre-teens, enabling parents or guardians to oversee who can contact their children. This rollout is taking place gradually across various regions worldwide.",
         "wordCount": 54
       },
       {
-        "title": "Gotta Go Fast and Hunt Demons This October in These Free PlayStation Plus Games",
-        "url": "https://www.cnet.com/tech/gaming/gotta-go-fast-and-hunt-demons-this-october-in-these-free-playstation-plus-games/",
-        "source": "cnet.com",
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/d9cf749a1a4850fd0969ccb3a83cb907c56f640a.webp",
-        "publishedAt": "2026-09-30T18:40:52Z",
+        "title": "iPhone 17 at Rs 84900 in Flipkart sale: 2 reasons to buy it before price goes back to Rs 1 lakh",
+        "url": "https://www.indiatoday.in/technology/news/story/iphone-17-at-rs-84900-in-flipkart-big-billion-days-sale-2-reasons-to-buy-it-before-price-goes-back-to-rs-1-lakh-3007457-2026-10-01",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/iphone-17-102337344-16x9.jpg?VersionId=lRvTBWidGEORZTO_Tk_51QMgOAOpc1LY",
+        "publishedAt": "2026-10-01T12:04:50Z",
         "category": "technology",
-        "summary": "In October, PlayStation Plus subscribers can enjoy free access to the game Hunt: Showdown 1896, which features monster hunting, aligning with the Halloween season. The game offers a thrilling experience, perfect for the longer nights and spooky atmosphere of the month. Players can immerse themselves in ghost stories and confront ghouls and monsters from the comfort of home.",
+        "summary": "Flipkart will offer the iPhone 17 at Rs 84,999 during its Big Billion Days sale starting October 9, a significant reduction from the current price of Rs 99,900. This discount is attributed to ongoing pressure on smartphone pricing due to memory costs. Consumers are encouraged to purchase the device before the price returns to approximately Rs 1 lakh.",
         "wordCount": 58
       }
     ],
     "sports": [
       {
-        "title": "Green, Renshaw pick up injuries ahead of Test series",
-        "url": "https://www.cricinfo.com/story/green-and-renshaw-suffer-injury-concerns-ahead-of-test-series-1556662",
+        "title": "Asian Games 2026 Day 14: Full October 2 schedule, IST timings and Indians in action",
+        "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-indians-in-action-day-14-october-2-schedule-india-ist-timings/article71532707.ece",
+        "source": "sportstar.thehindu.com",
+        "image": "https://ss-i.thgim.com/public/incoming/zhxi6v/article71532882.ece/alternates/LANDSCAPE_1200/IMG_PARVEEN_HOODA_2_1_6IF6FLM1.jpg",
+        "publishedAt": "2026-10-01T12:23:17Z",
+        "category": "sports",
+        "summary": "On October 2, Day 14 of the Asian Games 2026 in Aichi-Nagoya, Japan, Indian athletes will compete in 12 disciplines, including archery, boxing, wrestling, cycling, hockey, and taekwondo. The events feature multiple medal opportunities for India as participants aim to secure victories across various sports. The schedule includes specific timings in Indian Standard Time (IST).",
+        "wordCount": 55
+      },
+      {
+        "title": "Faf du Plessis Trent Boult and Kieron Pollard in SA20 mini-auction shortlist",
+        "url": "https://www.cricinfo.com/story/faf-du-plessis-trent-boult-and-kieron-pollard-in-sa20-mini-auction-shortlist-1556754",
         "source": "Cricinfo",
-        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/423200/423269.6.jpg",
-        "publishedAt": "2026-10-01T00:05:32Z",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/412400/412472.6.jpg",
+        "publishedAt": "2026-10-01T12:18:14Z",
         "category": "sports",
-        "summary": "Australia's cricket team faces injury concerns ahead of the Test series, with Cameron Green sustaining a groin injury while batting and unable to field, despite plans to bowl. Meanwhile, Matt Renshaw left the field due to a wrist injury and did not return. Both players' conditions will be monitored as the team prepares for upcoming matches.",
-        "wordCount": 56
+        "summary": "Faf du Plessis, Trent Boult, and Kieron Pollard are featured in the shortlist for the SA20 mini-auction, set for October 7. A total of 156 players will be available for selection, including notable South African cricketers like Imran Tahir and Rassie van der Dussen. The auction aims to enhance team rosters for the upcoming season.",
+        "wordCount": 55
       },
       {
-        "title": "Asian Games 2026 Day 12 Live Updates: India's day to begin with medal events in archery, taekwondo, shooting",
-        "url": "https://khelnow.com/asian-games/day-12-october-1-live-asian-games-202610",
-        "source": "khelnow.com",
-        "image": "https://assets.khelnow.com/news/uploads/2026/10/Asian-Games-2026-Day-12-Live.jpg",
-        "publishedAt": "2026-09-30T23:56:13Z",
+        "title": "Asian Games 2026, Day 13 Wrap: India Win Five Medals; Men's Hockey & Cricket Teams Reach Finals",
+        "url": "https://www.news18.com/sports/other-sports/asian-games-2026-day-13-wrap-india-win-five-medals-mens-hockey-cricket-teams-reach-finals-ws-l-10363147.html",
+        "source": "News18",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/10/India-win-5-medals-on-13th-day-of-Asian-Games-2026-2026-10-ef7dd0940641cda60bf8e0884af898ef-1200x675.jpg",
+        "publishedAt": "2026-10-01T12:11:02Z",
         "category": "sports",
-        "summary": "On Day 12 of the Asian Games 2026, India will compete in archery, taekwondo, shooting, hockey, cricket, and wrestling. The men's hockey and volleyball teams are set to face Pakistan. India secured four gold medals on the previous day, moving up to eighth place in the overall standings. Live updates will be available throughout the day's events.",
-        "wordCount": 57
-      },
-      {
-        "title": "India vs West Indies: Shubman Gill hits 223 not out on day of records as hosts chase down 406 to beat West Indies in second ODI",
-        "url": "https://www.skysports.com/cricket/news/13593773/india-vs-west-indies-shubman-gill-hits-223-not-out-on-day-of-records-as-hosts-chase-down-406-to-beat-west-indies-in-second-odi",
-        "source": "Sky Sports",
-        "image": "https://e0.365dm.com/26/09/1600x900/skysports-shubman-gill-india_7365263.jpg?20260930204450",
-        "publishedAt": "2026-09-30T21:35:21Z",
-        "category": "sports",
-        "summary": "India successfully chased down 406 runs, defeating West Indies by eight wickets in the second ODI, marking the second highest successful run chase in ODI history. Shubman Gill scored 223 not out off 133 balls, while Rohit Sharma contributed significantly with 255 runs off 158 balls. The match showcased numerous batting records in front of a capacity crowd.",
+        "summary": "India's medal tally at the Asian Games 2026 reached 65, comprising 10 gold, 23 silver, and 32 bronze, securing a position in the top-10 standings. On Day 13, India won five medals, with notable achievements in skiff sailing and Greco-Roman wrestling. Additionally, both the men's hockey and cricket teams advanced to the finals, contributing to the overall success.",
         "wordCount": 58
       }
     ],
     "health": [
       {
-        "title": "Hearing Loss in the Elderly",
-        "url": "https://www.dailyexcelsior.com/hearing-loss-in-the-elderly/",
-        "source": "Daily Excelsior",
-        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTc4YjY1MTkwLWJkMjUtMTFmMS1iZDA1LWIxMjRhNDIyZDM2Yi5qcGc=",
-        "publishedAt": "2026-09-30T23:20:04Z",
+        "title": "South Asia accounts for 84% of chewing tobacco deaths worldwide, Lancet study finds",
+        "url": "https://theprint.in/feature/south-asia-accounts-for-84-of-chewing-tobacco-deaths-worldwide-lancet-study-finds/3059260/",
+        "source": "ThePrint",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/10/BJP-MLA-Muslim-garba-2.jpg",
+        "publishedAt": "2026-10-01T11:49:16Z",
         "category": "health",
-        "summary": "On October 1, 2026, the International Day of Older Persons highlights the often-overlooked issue of hearing loss among the elderly. As people age, they experience various changes, including auditory decline. This condition can significantly impact their quality of life and social interactions. Awareness and attention to hearing health are essential for improving the well-being of older adults.",
+        "summary": "A Lancet study reveals that South Asia accounts for 84% of global chewing tobacco-related deaths. Analyzing data from 204 countries between 1990 and 2023, researchers found that despite advancements in tobacco control, global tobacco use has remained stable over the past two decades. Approximately 241 million individuals aged 15 and older are currently using chewing tobacco worldwide.",
         "wordCount": 57
       },
       {
-        "title": "WHO announces expansion of prequalification programme for medical devices",
-        "url": "https://www.eatg.org/hiv-news/who-announces-expansion-of-prequalification-programme-for-medical-devices/",
-        "source": "eatg.org",
-        "image": "https://www.eatg.org/wp-content/uploads/2024/08/fef69265-c1d5-4b95-b09e-9ccbd65aba59.jpg",
-        "publishedAt": "2026-09-30T23:08:08Z",
+        "title": "Symptoms, Myths & Early Detection",
+        "url": "https://www.brandsynario.com/lifestyle/health/breast-cancer-in-young-women/",
+        "source": "Brandsynario",
+        "image": "https://www.brandsynario.com/wp-content/uploads/2026/10/breast-cancer-2.jpg",
+        "publishedAt": "2026-10-01T11:41:46Z",
         "category": "health",
-        "summary": "The World Health Organization (WHO) has expanded its prequalification programme to encompass a broader array of life-saving medical devices. This includes contraceptives and innovative technologies for tuberculosis screening. The initiative aims to improve access to essential medical tools in various health systems, enhancing the quality of care and supporting global health efforts in combating diseases.",
-        "wordCount": 55
-      },
-      {
-        "title": "Microsoft : How AI could help scientists find viruses to fight drug-resistant infections",
-        "url": "https://www.marketscreener.com/news/microsoft-how-ai-could-help-scientists-find-viruses-to-fight-drug-resistant-infections-ce785ad3d880f621",
-        "source": "marketscreener.com",
-        "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-        "publishedAt": "2026-09-30T20:13:11Z",
-        "category": "health",
-        "summary": "Microsoft is exploring how artificial intelligence can assist scientists in identifying bacteriophages, viruses that target bacteria, as a potential solution to combat drug-resistant infections. These infections pose a significant threat to global health, necessitating innovative treatments when traditional antibiotics fail. The use of AI may enhance the discovery and application of these phages in medical research.",
-        "wordCount": 56
+        "summary": "Breast cancer rates among women under 50 are increasing globally, including in Pakistan. This trend challenges previous assumptions about the disease's onset age. Awareness of symptoms and debunking common myths are crucial for early detection, which significantly improves survival rates. Understanding these factors is essential for empowering younger women to recognize risks and seek timely medical attention.",
+        "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "Cold War Spy Satellite FARRAH III Breaks Apart in Orbit, Cause Unknown",
-        "url": "https://www.gadgetreview.com/cold-war-spy-satellite-farrah-iii-breaks-apart-in-orbit-cause-unknown",
-        "source": "Gadget Review",
-        "image": "https://www.gadgetreview.com/wp-content/uploads/Cold-War-Spy-Satellite-FARRAH-III-Breaks-Apart-in-Orbit-Cause-Unknown-scaled.jpg",
-        "publishedAt": "2026-09-30T18:55:57Z",
+        "title": "Fossil teeth from ancient North American coastlines suggest some dinosaurs supplemented land diets with seaweed and other marine food, revealing a coastal feeding link that existed more than 100 milli",
+        "url": "https://timesofindia.indiatimes.com/science/archaeology/fossil-teeth-from-ancient-north-american-coastlines-suggest-some-dinosaurs-supplemented-land-diets-with-seaweed-and-other-marine-food-revealing-a-coastal-feeding-link-that-existed-more-than-100-million-years-ago/articleshow/134615732.cms",
+        "source": "timesofindia.indiatimes.com",
+        "image": "https://static.toiimg.com/thumb/msid-134615931,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-01T11:30:00Z",
         "category": "science",
-        "summary": "The Cold War-era spy satellite USA-32, known as FARRAH III, disintegrated in low-Earth orbit on September 13, 2026, at approximately 2113 UTC. The satellite, launched during the Reagan administration, scattered debris at an altitude of 775 kilometers. U.S. Space Forces–Space confirmed the fragmentation event, but the cause of the breakup remains unknown.",
-        "wordCount": 52
+        "summary": "Fossil teeth from ancient North American coastlines indicate that some dinosaurs may have supplemented their land diets with marine food, including seaweed. This discovery suggests a coastal feeding link existed over 100 million years ago. Researchers studied fossils from environments related to the Western Interior Seaway, an extensive inland sea that separated North America during the Cretaceous period.",
+        "wordCount": 58
       },
       {
-        "title": "Plants can sense touch, and scientists have discovered what happens next",
-        "url": "https://www.earth.com/plants/plants-can-sense-touch-and-scientists-have-discovered-what-happens-next/",
-        "source": "Earth.com",
-        "image": "https://www.earth.com/img/16x9/1920/media-2026/2026/09/30140350/Plant-touch.jpg",
-        "publishedAt": "2026-09-30T18:05:39Z",
+        "title": "Algae Based Biofuel Manufacturing Plant Setup in India",
+        "url": "https://www.imarcgroup.com/insight/algae-based-biofuel-manufacturing-plant-setup-cost-india",
+        "source": "IMARC Group",
+        "image": "https://www.imarcgroup.com/webassets/image/logo.webp",
+        "publishedAt": "2026-10-01T11:14:58Z",
         "category": "science",
-        "summary": "Scientists have found that plants can sense touch within a minute, activating protein signals that alter gene activity and influence subsequent growth. While plants appear stationary, they constantly interact with their environment, responding to factors like wind, rain, and animal contact. This ability to sense touch is crucial for their survival, as they cannot move away from external forces.",
-        "wordCount": 59
+        "summary": "India is establishing algae-based biofuel manufacturing plants, with setup costs ranging from INR 20-300 crore. These plants will have a capacity of 100-1,000 tons per day and a payback period of 6-10 years. This initiative aims to support the country’s clean energy transition, enhance biofuel blending efforts, and meet the growing demand for sustainable aviation fuel.",
+        "wordCount": 56
       },
       {
-        "title": "Butterfly Wing Patterns Create 'Motion Illusion' That Throws Off Predator Attacks",
-        "url": "https://finance.biggo.com/news/a824eed6-3c76-4846-ba42-e9806cf914d1",
-        "source": "finance.biggo.com",
-        "image": "https://img.biggo.com/2YJ7XttirDxK6SPiSSPeKPm97lQ7IPHE4cspFwn5Vnk/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2E4MjRlZWQ2LTNjNzYtNDg0Ni1iYTQyLWU5ODA2Y2Y5MTRkMV8xNzkwNzg1ODQyX2RlZmF1bHQuanBn.jpg",
-        "publishedAt": "2026-09-30T16:25:00Z",
+        "title": "Moon Manufacturing: NASA Develops New Space Material",
+        "url": "https://stratnewsglobal.com/technology/moon-manufacturing-nasa-material/",
+        "source": "StratNews Global",
+        "image": "https://stratnewsglobal.com/wp-content/uploads/2026/10/sngtech-web-thumb-adi-12.png",
+        "publishedAt": "2026-10-01T10:16:39Z",
         "category": "science",
-        "summary": "A study by researchers from the University of Exeter and the University of Essex, published in Nature, reveals that butterfly wing patterns serve as advanced defense mechanisms. These vivid patterns, combined with the butterflies' wingbeats, create a \"motion illusion\" that confuses predators, enhancing the butterflies' chances of evading attacks. This research highlights the evolutionary significance of these visual adaptations.",
-        "wordCount": 59
+        "summary": "NASA has developed a new material that combines biodegradable plastic with simulated lunar and Martian dust. This innovative material aims to assist astronauts in manufacturing and repairing equipment on the Moon and Mars, utilizing resources found on those celestial bodies. The advancement could enhance sustainability and efficiency in space exploration and support future missions to these environments.",
+        "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Monthly Horoscope: October 2026",
-        "url": "https://www.vogue.in/content/monthly-horoscope-october-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04ca620a6deaf26eb1c/16:9/w_1280,c_limit/5-Career_16;9.png",
-        "publishedAt": "2026-10-01T00:30:00Z",
+        "title": "Swara Bhasker recalls director being inappropriate, banging on her door while drunk: ‘He asked for hug, I was scared’",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/swara-bhasker-recalls-director-being-inappropriate-banging-on-her-door-while-drunk-hug-scared-rise-and-fall-101790853210547.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/01/1600x900/logo/Swara_Bhaskar_1790853264630_Oxi5_1790853264788_5S37_59cb0377-ae46-4aa0-b2c9-957aeccba9a6_FYMN.jpg",
+        "publishedAt": "2026-10-01T12:16:33Z",
         "category": "entertainment",
-        "summary": "In October 2026, Taurus is advised to ease their grip on various aspects of life, including relationships and finances. The month emphasizes the importance of letting go of fear and insecurity, suggesting that a more relaxed approach may lead to better outcomes. Holding too tightly to situations may create challenges, highlighting the need for balance and adaptability.",
-        "wordCount": 57
+        "summary": "Swara Bhasker shared an unsettling experience on the reality show Rise and Fall, recalling a director's inappropriate behavior after the success of Tanu Weds Manu. She described an incident where the director, intoxicated, banged on her door and requested a hug, leaving her feeling scared. Bhasker’s account highlights issues of misconduct in the film industry.",
+        "wordCount": 55
       },
       {
-        "title": "Horoscope Today: October 1, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-october-1-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-10-01T00:30:00Z",
+        "title": "\"Just remember him leaving and the next time I saw him was in…\": Nimrat Kaur recalls tragic loss of her father in Kashmir and how the tragedy shaped her understanding of loss",
+        "url": "https://timesofindia.indiatimes.com/life-style/parenting/moments/just-remember-him-leaving-and-the-next-time-i-saw-him-was-in-nimrat-kaur-recalls-tragic-loss-of-her-father-in-kashmir-and-how-the-tragedy-shaped-her-understanding-of-loss/articleshow/134618338.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134618802,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-01T12:13:00Z",
         "category": "entertainment",
-        "summary": "On October 1, 2026, horoscopes suggest that Pisces should focus on decluttering various aspects of life, including routines and schedules. The current feelings of stagnation may stem from tolerating unsatisfactory situations for too long. The advice emphasizes the importance of simplifying life to enhance overall well-being and clarity, rather than seeking new productivity methods or skills.",
-        "wordCount": 56
-      },
-      {
-        "title": "Capricorn Horoscope Today: October 1, 2026",
-        "url": "https://www.vogue.in/content/capricorn-horoscope-today-october-1-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
-        "publishedAt": "2026-10-01T00:20:00Z",
-        "category": "entertainment",
-        "summary": "Capricorns are encouraged to embrace new opportunities and explore beyond their current achievements. While hard work has brought them to this point, it should not be the sole reason to stay. The horoscope suggests that there is much to look forward to, highlighting their strength in observation and awareness, which can lead to positive developments in their lives.",
+        "summary": "Actor Nimrat Kaur reflected on the loss of her father, Major Bhupender Singh, who was killed in a terror attack in Kashmir when she was 11 years old. She described the moment he left for duty and the profound impact his death had on her understanding of loss. Kaur's experience has shaped her perspective on grief and resilience.",
         "wordCount": 58
+      },
+      {
+        "title": "'It Can't Be A Guy Killing Everyone...'",
+        "url": "https://m.rediff.com/movies/report/abhishek-pathak-it-cant-be-a-guy-killing-everyone-drishyam/20261001.htm",
+        "source": "Rediff",
+        "image": "https://im.rediff.com/1200-630/movies/2026/oct/01drishyam3-1.jpg",
+        "publishedAt": "2026-10-01T11:59:00Z",
+        "category": "entertainment",
+        "summary": "Abhishek Pathak emphasizes the importance of providing audiences with fresh experiences in \"Drishyam The Conclusion,\" while maintaining emotional consistency. He believes that each installment should offer something new, avoiding repetitive storytelling. Pathak's approach focuses on evolving the narrative to engage viewers, ensuring that the franchise continues to resonate without losing the core emotional impact that fans expect.",
+        "wordCount": 57
       }
     ]
   }
