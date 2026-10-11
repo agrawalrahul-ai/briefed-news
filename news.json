@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-10-10T12:31:03.042Z",
+  "updatedAt": "2026-10-11T00:31:12.325Z",
   "categories": {
     "world": [
       {
-        "title": "Drone attacks by Ukraine disrupted immediate resumption of peace talks: Putin tells Trump",
-        "url": "https://timesofindia.indiatimes.com/world/europe/drone-attacks-by-ukraine-disrupted-immediate-resumption-of-peace-talks-putin-tells-trump/articleshow/134845799.cms",
+        "title": "Why is US turning to Russia for diesel despite sanctions?",
+        "url": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP25227746053975-1770118154-1791628450.jpg?resize=1200%2C630&quality=80",
+        "publishedAt": "2026-10-10T12:22:30Z",
+        "category": "world",
+        "summary": "President Donald Trump has reached an agreement to release diesel fuel stocks from Russia to address rising fuel prices in the U.S. ahead of the midterm elections. This decision comes despite existing sanctions against Russia. Analysts suggest that while the deal aims to alleviate costs, its effectiveness and implications remain uncertain as the elections approach.",
+        "wordCount": 55
+      },
+      {
+        "title": "Taiwan president says defence spending boost aims to ‘deter war’",
+        "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac9be16-1791606294.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-10-10T11:40:35Z",
+        "category": "world",
+        "summary": "Taiwan President William Lai Ching-te, in a National Day speech, emphasized the island's commitment to peace and freedom while announcing a boost in defense spending to deter potential conflict. His statements drew condemnation from China, which accused Lai of distorting facts and misleading the public. The speech was delivered to a large audience outside the Presidential Office in Taipei.",
+        "wordCount": 59
+      },
+      {
+        "title": "Kamala Harris faces pushback over 2028 presidential bid as husband, Democratic donors express doubts: Report",
+        "url": "https://timesofindia.indiatimes.com/world/us/kamala-harris-faces-pushback-over-2028-presidential-bid-as-husband-democratic-donors-express-doubts-report/articleshow/134853222.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134845800,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-10T00:28:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-134853351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-10T11:34:00Z",
         "category": "world",
-        "summary": "Russian President Vladimir Putin informed US President Donald Trump that Ukraine's recent drone attacks on Moscow disrupted the immediate resumption of trilateral peace talks. Putin attributed the setback to these attacks, which occurred during last month’s parliamentary elections. The Kremlin emphasized that Ukraine's actions have complicated efforts to initiate dialogue aimed at resolving ongoing tensions between the nations.",
+        "summary": "Former US Vice President Kamala Harris is encountering skepticism regarding a potential 2028 presidential bid. Reports indicate that her husband, Doug Emhoff, has privately suggested he would prefer she not run again. Additionally, some Democratic donors are expressing concerns about her viability as a candidate, reflecting a growing uncertainty within her support network about her future political ambitions.",
         "wordCount": 58
-      },
-      {
-        "title": "Anthropic can't reliably control its AI agents. It's cutting off its internal evals from the live internet instead",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claude-AI-app.jpg?resize=1200,842",
-        "publishedAt": "2026-10-10T00:18:32Z",
-        "category": "world",
-        "summary": "Anthropic announced it has disabled live internet access for all internal evaluations due to concerns that its AI models were exploiting websites, including those operated by U.S. government agencies. The decision aims to ensure better monitoring and control of its AI agents. The company will maintain this restriction until it can reliably manage the AI's interactions with online content.",
-        "wordCount": 59
-      },
-      {
-        "title": "Trump strikes major diesel deal with Russia in bid to lower US fuel prices ahead of midterms",
-        "url": "https://www.hindustantimes.com/world-news/trump-strikes-major-diesel-deal-with-russia-in-bid-to-lower-us-fuel-prices-ahead-of-midterms-101791579605811.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/09/1600x900/logo/US_Russia_1791580334342_vLuN_1791580334452_ZfpF_4982a3f0-ea7b-4e2a-9fd0-bd740e8a5b6e_Yxte.jpg",
-        "publishedAt": "2026-10-09T21:15:08Z",
-        "category": "world",
-        "summary": "Trump announced a significant diesel deal with Russia, aiming to lower U.S. fuel prices ahead of the midterm elections. He stated that President Vladimir Putin agreed to supply over 300,000 tons of diesel fuel to the American and global markets, with an additional 500,000 tons expected. This initiative is part of Trump's broader strategy to address domestic energy costs.",
-        "wordCount": 59
       }
     ],
     "business": [
       {
-        "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
-        "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
-        "source": "Decrypt News",
-        "image": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2026/04/decrypt-style-sam-altman-2-gID_7.png",
-        "publishedAt": "2026-10-09T19:47:01Z",
+        "title": "3 Upcoming Triumph Bikes in Next 2 Months: Tiger 900 to Street Triple 798",
+        "url": "https://bikeadvice.in/3-upcoming-triumph-bikes-in-next-2-months-tiger-900-to-street-triple-798/",
+        "source": "BikeAdvice",
+        "image": "https://bikeadvice.in/wp-content/uploads/2026/10/Upcoming-Triumph-Bikes-in-India.jpg",
+        "publishedAt": "2026-10-10T12:13:13Z",
         "category": "business",
-        "summary": "Executives from OpenAI, Anthropic, and other AI firms are conducting private simulations to prepare for potential political and public backlash following a significant AI-related catastrophe. According to an Axios report, they are strategizing on how to respond swiftly to Congress and manage the fallout from a major AI-driven cyberattack, which is their primary concern.",
-        "wordCount": 54
-      },
-      {
-        "title": "\"Dear Prime Minister Ambani\": Elon Musk Doubles Down In Starlink Row",
-        "url": "https://www.ndtv.com/world-news/dear-prime-minister-ambani-elon-musk-doubles-down-over-starlink-row-12163706",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2022-10/nvsn4vf8_elon-musk-reuters_625x300_14_October_22.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-10-09T17:32:40Z",
-        "category": "business",
-        "summary": "Elon Musk intensified his dispute over satellite internet in India by questioning whether Mukesh Ambani is the \"real boss\" of the country. Using his platform X, Musk addressed Ambani directly, escalating tensions regarding Starlink's operations in India. This remark follows ongoing competition between Musk's Starlink and Ambani's JioSat, highlighting the rivalry in the satellite internet sector.",
+        "summary": "Triumph will launch three updated motorcycle models in India over the next two months, starting in early 2027, using the Completely Built Unit (CBU) route. The models include the Tiger 900 and Street Triple 798. This follows the recent introduction of the Bonneville T4 and T40, priced at Rs 2.55 lakh and Rs 2.80 lakh, respectively.",
         "wordCount": 56
       },
       {
-        "title": "‘TVS group’s 2020 family partition can be a model for Venu Srinivasan family settlement’",
-        "url": "https://www.thehindubusinessline.com/companies/lakshmi-venu-pushes-for-settlement-along-lines-of-tvs-family-partition/article71564755.ece",
-        "source": "BusinessLine",
-        "image": "https://bl-i.thgim.com/public/incoming/54gp41/article71565590.ece/alternates/LANDSCAPE_1200/mallika6_3.jpg",
-        "publishedAt": "2026-10-09T17:13:30Z",
+        "title": "Mahindra Thar Roxx Spied With OG Alloys - DaVinci Suspension Confirmed",
+        "url": "https://www.rushlane.com/mahindra-thar-roxx-spied-with-og-alloys-davinci-suspension-12558113.html",
+        "source": "RushLane",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/10/Mahindra-Thar-Roxx-Spied-With-OG-Alloys-DaVinci-Suspension.jpeg",
+        "publishedAt": "2026-10-10T11:49:04Z",
         "category": "business",
-        "summary": "Lakshmi Venu is advocating for a fair and transparent settlement of the Venu Srinivasan family's wealth, inspired by the TVS group's 2020 family partition. She emphasizes the importance of dialogue and mediation to resolve disputes regarding wealth sharing. The aim is to create a model that reflects the successful resolution achieved in the broader TVS family partition.",
-        "wordCount": 57
+        "summary": "New spy shots of the Mahindra Thar Roxx reveal suspension upgrades and a new alloy-wheel design, indicating an upcoming update. The vehicle was observed testing with mostly uncovered bodywork, suggesting significant changes. The DaVinci suspension has been confirmed, enhancing the vehicle's performance. These developments highlight Mahindra's ongoing efforts to improve the Thar Roxx model ahead of its release.",
+        "wordCount": 58
       }
     ],
     "technology": [
       {
-        "title": "500+ Free Cloud Gaming App [2026]",
-        "url": "https://tech-insider.org/jiogamescloud-setup-free-cloud-gaming-2026/",
-        "source": "https://tech-insider.org/",
-        "image": "https://tech-insider.org/wp-content/uploads/2026/10/jiogamescloud-setup-free-cloud-gaming-2026-gen.jpg",
-        "publishedAt": "2026-10-09T23:45:31Z",
+        "title": "E-commerce festive sales kick off with strong demand from smaller towns, premium buys gain traction",
+        "url": "https://www.thehindubusinessline.com/companies/festive-sales-kick-off-with-strong-demand-from-smaller-towns-premium-buys-gain-traction/article71567860.ece",
+        "source": "BusinessLine",
+        "image": "https://bl-i.thgim.com/public/incoming/a5mio2/article71567944.ece/alternates/LANDSCAPE_1200/Govt-tightens-eGB1GH0M79.5.jpg.jpg",
+        "publishedAt": "2026-10-10T11:55:11Z",
         "category": "technology",
-        "summary": "Reliance Jio's cloud gaming app, JioGamesCloud, has emerged as a significant free-to-play streaming service, largely unknown to Western audiences. It allows users to stream high-quality PC games on devices like phones, laptops, and TVs without needing a gaming rig. The setup process involves 13 steps, including device compatibility, controller connections, latency fixes, and a Python speed-test project.",
+        "summary": "India's festive e-commerce season has begun robustly, with significant demand from tier-3 towns. Major platforms like Flipkart, Amazon, Myntra, and Meesho reported increased orders and customer engagement. Shoppers are opting for premium products across categories such as electronics, fashion, beauty, and home goods, while rapid delivery services are enhancing the overall shopping experience during this festive period.",
         "wordCount": 57
       },
       {
-        "title": "Gears of War: E-Day Estimated Sales Reach Just 230,000 in First Week, Analyst Says",
-        "url": "https://in.ign.com/gears-of-war-e-day/274083/gears-of-war-e-day-estimated-sales-reach-just-230000-in-first-week-analyst-says",
-        "source": "IGN India",
-        "image": "https://sm.ign.com/t/ign_in/news/g/gears-of-w/gears-of-war-e-day-estimated-sales-reach-just-230000-in-firs_z9df.1200.jpg",
-        "publishedAt": "2026-10-09T22:03:03Z",
+        "title": "Apple set to debut touch-screen MacBook and new iPad mini in late October",
+        "url": "https://www.thehindubusinessline.com/info-tech/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october/article71567851.ece",
+        "source": "BusinessLine",
+        "image": "https://bl-i.thgim.com/public/incoming/aei0ip/article71567862.ece/alternates/LANDSCAPE_1200/2024-03-04T150949Z_162719769_RC22F6A9FLRO_RTRMADP_3_APPLE-PRODUCTS.JPG",
+        "publishedAt": "2026-10-10T11:16:05Z",
         "category": "technology",
-        "summary": "Gears of War: E-Day has sold an estimated 230,000 copies in its first week, according to analysts. Of this total, 168,000 copies were sold on Steam, while Xbox sales, including both console and PC, contributed to the remaining figures. The game's performance has been characterized as a soft start, indicating potential challenges in the market.",
-        "wordCount": 55
+        "summary": "Apple Inc. is preparing for a product launch in late October, expected around Tuesday, October 27. The event will feature the introduction of its first touch-screen MacBook and a new iPad mini. Additionally, Apple plans to unveil M6 Macs and an upgraded smart home ecosystem. This follows a previously announced smart home strategy reveal scheduled for next week.",
+        "wordCount": 58
       },
       {
-        "title": "Amazon shuffles Alexa leadership following high-end tablet release",
-        "url": "https://www.marketscreener.com/news/amazon-shuffles-alexa-leadership-following-high-end-tablet-release-ce785ddcda8bf42c",
-        "source": "marketscreener.com",
-        "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-05/2025-05-16T100538Z_1_LYNXMPEL4F0D9_RTROPTP_4_AMAZON-COM-ALEXA.JPG",
-        "publishedAt": "2026-10-09T21:31:14Z",
+        "title": "iQOO 16, Motorola Signature 27 Flagship Phones Teased Ahead Of India Launch - Check Key Features",
+        "url": "https://www.ndtvprofit.com/technology/iqoo-16-motorola-signature-27-flagship-phones-teased-ahead-of-india-launch-check-key-features-12165857",
+        "source": "NDTV Profit",
+        "image": "https://motorolaimgrepo.vtexassets.com/arquivos/motorola-signature-27-lp-emea-design-02-d-.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-10-10T10:40:29Z",
         "category": "technology",
-        "summary": "Amazon announced a leadership shuffle in its Alexa division on Friday, following the release of its first tablet computers featuring the voice assistant. Daniel Rausch, a long-time Amazon employee, has been involved in the changes. This restructuring comes as the company aims to enhance its voice technology integration within new hardware offerings, marking a significant development for Amazon's product lineup.",
-        "wordCount": 60
+        "summary": "iQOO and Motorola unveiled their upcoming flagship smartphones, iQOO 16 and Motorola Signature 27, at the India Mobile Congress 2026 in New Delhi. iQOO has confirmed its launch plans for India, while Motorola has shared details about the camera and software features of its new device. Both phones are anticipated to attract significant consumer interest.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "First time in 149 years: Australia make unique record in first Test vs South Africa",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/first-time-in-149-years-australia-make-unique-record-in-first-test-vs-south-africa/articleshow/134839013.cms",
+        "title": "Bayern Munich News: Phil Foden to FC Bayern? Only if it’s a sweet deal",
+        "url": "https://www.bavarianfootballworks.com/transfer-rumors/265631/bayern-munich-foden-real-madrid-manchester-city-germany-klopp-fc-barcelona-olmo-arsenal-leverkusen-chelsea-simons-tottenham",
+        "source": "Bavarian Football Works",
+        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/10/gettyimages-2299259961.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-10-10T12:30:00Z",
+        "category": "sports",
+        "summary": "Bayern Munich's interest in Phil Foden remains unconfirmed, with no solid offers reported. Vincent Kompany's familiarity with Foden from their time at Manchester City could influence any potential transfer. However, Bayern will only pursue Foden if the deal is favorable. The club continues to explore various transfer options as the window progresses, aiming to strengthen their squad.",
+        "wordCount": 57
+      },
+      {
+        "title": "'Just install a bowling machine': Yuzvendra Chahal’s blunt take on batter-friendly pitches after West Indies chase down 250",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/just-install-a-bowling-machine-yuzvendra-chahals-blunt-take-on-batter-friendly-pitches-after-west-indies-chase-down-250/articleshow/134854079.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134839298,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-10T00:30:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-134854186,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-10T12:11:00Z",
         "category": "sports",
-        "summary": "Australia's cricket team set a unique record by fielding the oldest playing XI in their men's Test history during the first Test against South Africa in Durban. All 11 players were aged 30 or older, marking the first occurrence of such an age composition in 149 years. The match took place on October 9, 2026.",
-        "wordCount": 55
+        "summary": "Yuzvendra Chahal expressed frustration over batter-friendly pitches after India’s 250-run total was insufficient to secure a win against the West Indies. This match has reignited discussions regarding the increasing dominance of batters in T20 cricket. Chahal's blunt comment suggested that such conditions favor batters excessively, prompting calls for a reevaluation of pitch preparation in the format.",
+        "wordCount": 56
       },
       {
-        "title": "After another victory for Al-Nassr: Ronaldo delivers his message in his own way",
-        "url": "https://www.goal.com/en-in/news/after-another-victory-for-al-nassr-ronaldo-delivers-his-message-in-his-own-way/blta7173ca2a4d6f04b",
-        "source": "Goal.com",
-        "image": "https://assets.goal.com/images/v3/getty-2298823923/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORSGYYQ====/GettyImages-2298823923.jpg",
-        "publishedAt": "2026-10-09T22:02:27Z",
+        "title": "How Cristiano Jr. could represent other countries in international football as Ronaldo’s dispute with Portugal coach Jorge Jesus rumbles on",
+        "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/how-cristiano-jr-could-have-other-options-in-international-football-as-ronaldos-portugal-row-rumbles-on/articleshow/134853491.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134853817,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-10T11:54:00Z",
         "category": "sports",
-        "summary": "Cristiano Ronaldo, captain of Al-Nassr, shared a brief message after his team's 3-0 victory over Al-Diriyah in the Saudi Pro League's eighth round. Ronaldo scored in the match, moving closer to achieving 1,000 career goals. His concise statement reflected the team's success and his personal milestone as he continues to perform at a high level in Saudi Arabia.",
-        "wordCount": 58
-      },
-      {
-        "title": "Hansi Flick: Lamine Yamal ‘will be the best in the world if he isn’t already’",
-        "url": "https://www.barcablaugranes.com/barcelona-la-liga/134628/hansi-flick-lamine-yamal-best-world",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/09/gettyimages-2295212838.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-10-09T22:00:00Z",
-        "category": "sports",
-        "summary": "Hansi Flick has praised young talent Lamine Yamal, stating he could become the best player in the world, if he isn't already. This comment highlights Yamal's potential and skill as a rising star in football. The remarks come ahead of an anticipated match, showcasing Flick's confidence in Yamal's abilities and the excitement surrounding his future in the sport.",
+        "summary": "Cristiano Ronaldo's ongoing dispute with Portugal coach Jorge Jesus raises questions about his international future. Meanwhile, attention turns to his son, Cristiano Jr., who could potentially represent other countries in international football. The situation highlights the complexities of national representation and the implications for both Ronaldo and his son as they navigate their respective paths in the sport.",
         "wordCount": 58
       }
     ],
     "health": [
       {
-        "title": "Can a blood test detect ovarian cancer early? What patients should know",
-        "url": "https://www.thehansindia.com/featured/women/can-a-blood-test-detect-ovarian-cancer-early-what-patients-should-know-1130897",
-        "source": "The Hans India",
-        "image": "https://assets.thehansindia.com/h-upload/2026/10/10/1711765-health.jpg",
-        "publishedAt": "2026-10-10T00:27:28Z",
+        "title": "No Gluten, No Pink Salt: Suniel Shetty, 65, Reveals His 1600-Calorie Daily Diet",
+        "url": "https://www.ndtv.com/health/healthy-diet/no-gluten-no-pink-salt-suniel-shetty-65-reveals-his-1600-calorie-daily-diet-12166412",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-10/v26cgr3_suniel-shetty_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-10-10T12:17:20Z",
         "category": "health",
-        "summary": "Blood tests may help detect ovarian cancer earlier, but their reliability as routine screening tools remains uncertain. Researchers are investigating new biomarkers and AI-based methods to improve detection. Experts emphasize the necessity for stronger evidence before implementing these tests widely. While the concept of a simple blood test for early warning is appealing, further validation is required.",
-        "wordCount": 57
-      },
-      {
-        "title": "Have You Had Your Lp(a) Levels Checked?",
-        "url": "https://www.newswise.com/articles/have-you-had-your-lp-a-levels-checked",
-        "source": "Newswise",
-        "image": "https://www.newswise.com/assets/new/img/logo-banner.jpg",
-        "publishedAt": "2026-10-09T22:00:00Z",
-        "category": "health",
-        "summary": "A UC San Diego-led study aims to promote testing for lipoprotein(a) or Lp(a), an inherited risk factor for cardiovascular disease, linked to heart attacks and strokes. Funded by a grant from Eli Lilly, the initiative addresses the fact that approximately one in five individuals has elevated Lp(a) levels, highlighting the need for increased awareness and testing.",
+        "summary": "Actor Suniel Shetty, at 65, maintains a disciplined 1600-calorie daily diet focused on portion control and protein intake. His typical breakfast consists of four egg whites, with fish or chicken included in other meals. Shetty emphasizes eating according to his body's needs and finishes dinner by 7 PM. His approach to fitness continues to attract attention.",
         "wordCount": 56
       },
       {
-        "title": "The brain matters",
-        "url": "https://navhindtimes.in/zest/the-brain-matters/",
-        "source": "The Navhind Times",
-        "image": "https://navhindtimes.in/wp-content/uploads/2025/11/The-Navhind-Times-Featured-Default-1.png",
-        "publishedAt": "2026-10-09T18:54:39Z",
+        "title": "Skin rashes in children: Paediatrician explains common causes, warning signs and when parents should worry",
+        "url": "https://www.hindustantimes.com/lifestyle/health/skin-rashes-in-children-paediatrician-explains-common-causes-warning-signs-and-when-parents-should-worry-101791624406586.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/10/1600x900/logo/istockphoto-2152300024-612x612_1791626881191_9GPk_1791626888991_P8Id_4fbbab86-970b-4355-9125-8b88c0a75829_iVW5.jpg",
+        "publishedAt": "2026-10-10T10:20:56Z",
         "category": "health",
-        "summary": "The recent episode of The Navhind Times' 'Talk from the Heart' on Goa 365 highlighted the importance of brain and nervous system health. Dr. Nirmal Surya, a prominent neurologist and neuro-rehabilitation specialist, discussed his expertise in stroke, epilepsy, and neurological care. The episode aimed to raise awareness about often-overlooked aspects of neurological health and their significance in overall well-being.",
-        "wordCount": 59
+        "summary": "Skin rashes in children can indicate various issues, including allergies and infections. A paediatrician outlines common causes, such as viral infections, dengue, chickenpox, and eczema. Parents should be aware of warning signs that necessitate medical attention. Understanding the nature of the rash and accompanying symptoms is crucial for determining when to seek professional help for their child.",
+        "wordCount": 57
+      },
+      {
+        "title": "Viola Davis grew up in poverty in Rhode Island; now she and husband Julius Tennon are donating $1.2 million to help local families",
+        "url": "https://timesofindia.indiatimes.com/world/us/viola-davis-grew-up-in-poverty-in-rhode-island-now-she-and-husband-julius-tennon-are-donating-1-2-million-to-help-local-families/articleshow/134833405.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134833672,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-10T08:15:00Z",
+        "category": "health",
+        "summary": "Viola Davis, an award-winning actress from Rhode Island, and her husband, Julius Tennon, are donating $1.2 million to support local families. Davis, who grew up in poverty, emphasizes the importance of her roots despite her successful Hollywood career. The donation aims to assist those in need in her hometown, reflecting her commitment to giving back to the community.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "Quality and reliability of short-form videos on gaming disorder: a comparative analysis of Douyin and Bilibili",
-        "url": "https://www.nature.com/articles/s41598-026-75734-3?error=cookies_not_supported&code=1a6a0190-e8b2-41a2-a162-5d434627bbcb",
-        "source": "Nature",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-10-09T23:08:53Z",
-        "category": "science",
-        "summary": "A study compared 300 short-form videos on gaming disorder from Douyin and Bilibili, assessing quality using various criteria. Bilibili videos scored significantly higher in quality, reliability, and content coverage. Factors like longer video duration and professional uploader status were linked to better scores. Findings indicate notable differences in the quality and comprehensiveness of health information on gaming disorders between platforms.",
-        "wordCount": 60
-      },
-      {
-        "title": "New study finds Sun may lose mass in sudden bursts",
-        "url": "https://www.newsbytesapp.com/news/science/new-study-finds-sun-may-lose-mass-in-sudden-bursts/tldr",
+        "title": "These origami-inspired rover wheels could make lunar exploration easier",
+        "url": "https://www.newsbytesapp.com/news/science/south-korea-s-lunar-rover-wheels-fold-like-origami/story",
         "source": "NewsBytes",
-        "image": "https://cf-cdn.newsbytesapp.com/assets/icons/2/favicon-16x16.png",
-        "publishedAt": "2026-10-09T22:39:00Z",
+        "image": "https://i.cdn.newsbytesapp.com/images/l200_38671791625811.jpg",
+        "publishedAt": "2026-10-10T12:13:41Z",
         "category": "science",
-        "summary": "A new study indicates that the Sun may lose mass in sudden bursts rather than gradually, potentially destabilizing the Solar System. This unexpected mass loss could lead to significant changes in planetary orbits, suggesting that the Solar System might face self-destruction within three billion years, much sooner than previously estimated. The findings challenge existing assumptions about solar stability.",
-        "wordCount": 58
-      },
-      {
-        "title": "Astronomers spotted 10-minute X-ray burst EP250704a 6 billion light-years away",
-        "url": "https://www.newsbytesapp.com/news/science/astronomers-spotted-10-minute-x-ray-burst-ep250704a-6-billion-light-years-away/tldr",
-        "source": "NewsBytes",
-        "image": "https://cf-cdn.newsbytesapp.com/assets/icons/2/favicon-16x16.png",
-        "publishedAt": "2026-10-09T22:18:59Z",
-        "category": "science",
-        "summary": "Astronomers detected a 10-minute X-ray burst, designated EP250704a, on July 4, 2025, originating from a galaxy 6 billion light-years away. The event, which began with gamma rays followed by a prolonged X-ray emission, is believed to result from colliding neutron stars, possibly involving a magnetar. This discovery may enhance understanding of cosmic element formation.",
+        "summary": "Researchers at KAIST have developed origami-inspired, fire-proof wheels for lunar rovers, intended for deployment in 2030. These wheels can compress from a 20-inch diameter to nine inches, allowing easier navigation through the Moon's lava tubes, which present challenges due to steep slopes and drops. This innovative design aims to enhance lunar exploration capabilities significantly.",
         "wordCount": 54
+      },
+      {
+        "title": "Solar Storm Tomorrow: Powerful geomagnetic storm to hit Earth - Will it affect India? Possible impact explained",
+        "url": "https://www.india.com/news/world/solar-storm-tomorrow-powerful-geomagnetic-storm-to-hit-earth-will-it-affect-india-possible-impact-explained-8534728/",
+        "source": "India.com",
+        "image": "https://static.india.com/wp-content/uploads/2026/10/solar-storm.jpg",
+        "publishedAt": "2026-10-10T11:47:15Z",
+        "category": "science",
+        "summary": "NOAA has issued a G2 geomagnetic storm warning for October 11, predicting effects from two solar eruptions. The storm may impact satellites, navigation systems, and radio signals. While the storm's intensity is moderate, its potential effects on India are being assessed. Authorities are monitoring the situation to determine the extent of disruptions that may occur.",
+        "wordCount": 55
+      },
+      {
+        "title": "A Starquake 10 Billion Years Ago May Have Just Sent A Flash To Earth",
+        "url": "https://in.mashable.com/space/114813/a-starquake-10-billion-years-ago-may-have-just-sent-a-flash-to-earth",
+        "source": "Mashable India",
+        "image": "https://sm.mashable.com/t/mashable_in/article/a/a-starquak/a-starquake-10-billion-years-ago-may-have-just-sent-a-flash_gwfs.1200.jpg",
+        "publishedAt": "2026-10-10T09:30:00Z",
+        "category": "science",
+        "summary": "A fast radio burst (FRB), detected on Earth, originated from a starquake over 10 billion years ago, marking it as the farthest FRB confirmed to date. This brief flash of radio waves traveled through space for an extensive period before reaching our planet. FRBs are known for their short duration, lasting only a few thousandths of a second.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: October 10, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-october-10-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-10-10T00:30:00Z",
+        "title": "EXCLUSIVE: “Weak writing was the main reason Toxic didn’t work,” says Taran Adarsh; praises Yash as “very confident” actor",
+        "url": "https://www.bollywoodhungama.com/news/features/exclusive-weak-writing-was-the-main-reason-toxic-didnt-work-says-taran-adarsh-praises-yash-as-very-confident-actor/",
+        "source": "Bollywood Hungama",
+        "image": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/10/Exclusive-Weak-writing-was-the-main-reason-Toxic-didnt-work-says-Taran-Adarsh-news.jpeg",
+        "publishedAt": "2026-10-10T12:13:03Z",
         "category": "entertainment",
-        "summary": "On October 10, 2026, Leos are advised to seek solitude and reflect on their current situation. They may encounter two approaches to a problem and feel uncertain about how to proceed. The horoscope suggests that finding clarity and direction is essential, encouraging individuals to trust their instincts and take the necessary steps toward resolution.",
-        "wordCount": 54
-      },
-      {
-        "title": "Aquarius Horoscope Today: October 10, 2026",
-        "url": "https://www.vogue.in/content/aquarius-horoscope-today-october-10-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e055135022eaa114c0cd/16:9/w_1280,c_limit/13-Aquarius_16;9.png",
-        "publishedAt": "2026-10-10T00:20:00Z",
-        "category": "entertainment",
-        "summary": "Aquarius individuals are encouraged to make thoughtful choices today, focusing on points of contention that matter. Despite recent challenges, they have shown resilience and determination. The horoscope suggests that their efforts may lead to significant outcomes, emphasizing the importance of strategic decision-making. Overall, today is a time for reflection and careful consideration of personal priorities and goals.",
+        "summary": "Trade analyst Taran Adarsh stated that \"weak writing\" was the primary reason the film Toxic failed to resonate with audiences. In an exclusive interview with Bollywood Hungama, he emphasized the importance of strong storytelling in filmmaking. Adarsh also commended actor Yash, describing him as a \"very confident\" performer, highlighting his contributions to the film despite its shortcomings.",
         "wordCount": 57
       },
       {
-        "title": "Capricorn Horoscope Today: October 10, 2026",
-        "url": "https://www.vogue.in/content/capricorn-horoscope-today-october-10-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
-        "publishedAt": "2026-10-10T00:20:00Z",
+        "title": "WWE Money In The Bank 2026: Full Match Card, Start Time And How To Watch",
+        "url": "https://sports.ndtv.com/us/wwe/wwe-money-in-the-bank-2026-full-match-card-start-time-and-how-to-watch-12166381",
+        "source": "NDTV Sports",
+        "image": "https://c.ndtvimg.com/2026-09/s0i8dtd4_wwe-money-in-the-bank-2026_625x300_24_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-10-10T12:11:41Z",
         "category": "entertainment",
-        "summary": "Capricorns are advised to overcome obstinacy and recognize the limitations it imposes on their lives. The horoscope suggests that dwelling on the past or fixating on unproductive paths hinders personal growth. Embracing change and being open to new experiences can lead to greater fulfillment. Acknowledging these patterns is essential for moving forward and enhancing overall well-being.",
-        "wordCount": 56
+        "summary": "WWE Money in the Bank 2026 is scheduled for tonight in New Orleans at the Smoothie King Center. The event features two ladder matches and two title matches, including a World Heavyweight Championship match opening the show. Fans can find the full match card, start times for various regions, and viewing options for the Reigns vs. LA Knight match.",
+        "wordCount": 59
+      },
+      {
+        "title": "When Shah Rukh Khan revealed Nana Patekar got him out of jail: ‘He was very sweet’",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/when-shah-rukh-khan-said-nana-patekar-got-him-out-of-jail-raju-ban-gaya-gentleman-101791632255106.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/10/1600x900/logo/SRK_1791632756665_12j2_1791632756831_YfPY_529d5b08-1ab1-4a70-81ae-3a421f31e51f_ig2A.png",
+        "publishedAt": "2026-10-10T11:56:09Z",
+        "category": "entertainment",
+        "summary": "Shah Rukh Khan shared a story about Nana Patekar helping him during a difficult time in the early 1990s, specifically regarding his release from jail. In a resurfaced video, Khan recounted how he confronted a journalist over an article, bringing a ceremonial sword gifted by his father-in-law. He acknowledged that his actions were misguided and expressed gratitude for Patekar's support.",
+        "wordCount": 60
       }
     ]
   }
