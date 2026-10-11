@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-10-11T00:31:12.325Z",
+  "updatedAt": "2026-10-11T12:30:55.263Z",
   "categories": {
     "world": [
       {
-        "title": "Why is US turning to Russia for diesel despite sanctions?",
-        "url": "https://www.aljazeera.com/news/2026/10/10/why-is-us-turning-to-russia-for-diesel-despite-sanctions",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP25227746053975-1770118154-1791628450.jpg?resize=1200%2C630&quality=80",
-        "publishedAt": "2026-10-10T12:22:30Z",
-        "category": "world",
-        "summary": "President Donald Trump has reached an agreement to release diesel fuel stocks from Russia to address rising fuel prices in the U.S. ahead of the midterm elections. This decision comes despite existing sanctions against Russia. Analysts suggest that while the deal aims to alleviate costs, its effectiveness and implications remain uncertain as the elections approach.",
-        "wordCount": 55
-      },
-      {
-        "title": "Taiwan president says defence spending boost aims to ‘deter war’",
-        "url": "https://www.aljazeera.com/news/2026/10/10/taiwan-president-says-defence-spending-boost-aims-to-deter-war",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ac9be16-1791606294.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-10-10T11:40:35Z",
-        "category": "world",
-        "summary": "Taiwan President William Lai Ching-te, in a National Day speech, emphasized the island's commitment to peace and freedom while announcing a boost in defense spending to deter potential conflict. His statements drew condemnation from China, which accused Lai of distorting facts and misleading the public. The speech was delivered to a large audience outside the Presidential Office in Taipei.",
-        "wordCount": 59
-      },
-      {
-        "title": "Kamala Harris faces pushback over 2028 presidential bid as husband, Democratic donors express doubts: Report",
-        "url": "https://timesofindia.indiatimes.com/world/us/kamala-harris-faces-pushback-over-2028-presidential-bid-as-husband-democratic-donors-express-doubts-report/articleshow/134853222.cms",
+        "title": "Nepal cuts 12 year wait, to declare those missing in flood 'dead' after 45 days",
+        "url": "https://timesofindia.indiatimes.com/world/south-asia/nepal-cuts-12yr-wait-to-declare-those-missing-in-flood-dead-after-45-days/articleshow/134863459.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134853351,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-10T11:34:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-134863468,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-10T22:25:00Z",
         "category": "world",
-        "summary": "Former US Vice President Kamala Harris is encountering skepticism regarding a potential 2028 presidential bid. Reports indicate that her husband, Doug Emhoff, has privately suggested he would prefer she not run again. Additionally, some Democratic donors are expressing concerns about her viability as a candidate, reflecting a growing uncertainty within her support network about her future political ambitions.",
-        "wordCount": 58
+        "summary": "Nepal's government has shortened the waiting period for declaring individuals missing in disasters as deceased from 12 years to 45 days. This change affects families of 5,285 missing persons, including at least 189 Indians, following the floods on August 26. The new policy aims to provide closure for families affected by such tragic events more swiftly.",
+        "wordCount": 56
+      },
+      {
+        "title": "From India to France: Why are Gen Z students angry?",
+        "url": "https://www.newindianexpress.com/explainers/2026/Oct/10/from-india-to-france-why-are-gen-z-students-angry",
+        "source": "The New Indian Express",
+        "image": "https://cf-images.assettype.com/newindianexpress%2F2026-10-05%2Fqh1u73nm%2FANI_20261005044339.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-10-10T19:27:09Z",
+        "category": "world",
+        "summary": "Gen Z students in India and France are expressing anger over poor educational conditions. Following the Cockroach Janata Party's \"School Thik Karo\" campaign in India, high school students in Créteil, a Paris suburb, initiated protests to draw attention to similar issues in France. Although not directly linked, both movements reflect a shared frustration with inadequate schooling environments.",
+        "wordCount": 57
+      },
+      {
+        "title": "Christa Pike, Who Survived Lethal Injection, Returns To US Prison",
+        "url": "https://www.ndtv.com/world-news/christa-pike-who-survived-lethal-injection-returns-to-us-prison-12167772",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-10/eftkd2g_christa-pike-reuters_625x300_03_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-10-10T18:55:42Z",
+        "category": "world",
+        "summary": "Christa Pike, 50, returned to prison after surviving a botched lethal injection attempt in Tennessee on September 30. She was administered two doses of pentobarbital, which typically results in death, but failed to kill her. Following her discharge from the hospital, her lawyers confirmed her return to prison, where she remains a convicted murderer.",
+        "wordCount": 54
       }
     ],
     "business": [
       {
-        "title": "3 Upcoming Triumph Bikes in Next 2 Months: Tiger 900 to Street Triple 798",
-        "url": "https://bikeadvice.in/3-upcoming-triumph-bikes-in-next-2-months-tiger-900-to-street-triple-798/",
-        "source": "BikeAdvice",
-        "image": "https://bikeadvice.in/wp-content/uploads/2026/10/Upcoming-Triumph-Bikes-in-India.jpg",
-        "publishedAt": "2026-10-10T12:13:13Z",
+        "title": "Rs 22 lakh-crore global green hydrogen boom: 3 stocks eyeing India’s 5 MTPA goal",
+        "url": "https://www.financialexpress.com/market/stock-insights/rs-22-lakh-crore-global-green-hydrogen-boom-3-stocks-eyeing-indias-5-mtpa-goal/4358157/",
+        "source": "The Financial Express",
+        "image": "https://images.financialexpressdigital.com/2026/10/h222222.jpg",
+        "publishedAt": "2026-10-11T00:00:00Z",
         "category": "business",
-        "summary": "Triumph will launch three updated motorcycle models in India over the next two months, starting in early 2027, using the Completely Built Unit (CBU) route. The models include the Tiger 900 and Street Triple 798. This follows the recent introduction of the Bonneville T4 and T40, priced at Rs 2.55 lakh and Rs 2.80 lakh, respectively.",
+        "summary": "India's green hydrogen initiative, backed by a ₹17,490 crore investment, aims for 5 million tonnes (MTPA) production by 2030 under the National Green Hydrogen Mission. Three companies are strategically positioning themselves to tap into the ₹22 lakh crore global market by enhancing capacity and developing hydrogen projects, aligning with the global shift towards clean energy solutions.",
         "wordCount": 56
       },
       {
-        "title": "Mahindra Thar Roxx Spied With OG Alloys - DaVinci Suspension Confirmed",
-        "url": "https://www.rushlane.com/mahindra-thar-roxx-spied-with-og-alloys-davinci-suspension-12558113.html",
-        "source": "RushLane",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/10/Mahindra-Thar-Roxx-Spied-With-OG-Alloys-DaVinci-Suspension.jpeg",
-        "publishedAt": "2026-10-10T11:49:04Z",
+        "title": "Emergency Oil Releases Risk Draining the World’s Last Supply Cushion",
+        "url": "https://oilprice.com/Energy/Crude-Oil/Emergency-Oil-Releases-Risk-Draining-the-Worlds-Last-Supply-Cushion.html",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-10_a6q7atcfgv.jpg",
+        "publishedAt": "2026-10-10T23:00:00Z",
         "category": "business",
-        "summary": "New spy shots of the Mahindra Thar Roxx reveal suspension upgrades and a new alloy-wheel design, indicating an upcoming update. The vehicle was observed testing with mostly uncovered bodywork, suggesting significant changes. The DaVinci suspension has been confirmed, enhancing the vehicle's performance. These developments highlight Mahindra's ongoing efforts to improve the Thar Roxx model ahead of its release.",
-        "wordCount": 58
+        "summary": "Aramco has cautioned that the global oil supply cushion is critically low, with inventories possibly requiring two years to recover after the reopening of the Hormuz Strait. The International Energy Agency, in collaboration with the G7, announced an additional release of 100 million barrels of oil products, part of a broader plan to release 400 million barrels.",
+        "wordCount": 57
+      },
+      {
+        "title": "Will gold prices fall further? Check reasons behind the recent dip, forecasts and more",
+        "url": "https://www.livemint.com/money/will-gold-prices-fall-further-check-reasons-behind-the-recent-dip-forecasts-and-more-11791656627754.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/pexels-photo-5301351_1791657139875_tS7Q_1791657154268_WZjk_28f7becc-f60c-42f4-a7e3-4de28ed00cb8_DmJz.jpeg",
+        "publishedAt": "2026-10-10T18:32:52Z",
+        "category": "business",
+        "summary": "Gold prices have declined significantly in 2026, dropping approximately 5% recently and 13.6% over six months, influenced by rising US bond yields, a stronger dollar, inflation concerns, and profit-taking by investors. As of October 10, spot gold was priced around $4,194.65 per ounce. This decline has prompted investors to reconsider their buying, waiting, or selling strategies.",
+        "wordCount": 56
       }
     ],
     "technology": [
       {
-        "title": "E-commerce festive sales kick off with strong demand from smaller towns, premium buys gain traction",
-        "url": "https://www.thehindubusinessline.com/companies/festive-sales-kick-off-with-strong-demand-from-smaller-towns-premium-buys-gain-traction/article71567860.ece",
-        "source": "BusinessLine",
-        "image": "https://bl-i.thgim.com/public/incoming/a5mio2/article71567944.ece/alternates/LANDSCAPE_1200/Govt-tightens-eGB1GH0M79.5.jpg.jpg",
-        "publishedAt": "2026-10-10T11:55:11Z",
+        "title": "Apple's October 13 Smart Home Event: HomePad, New Apple TV 4K, and LG",
+        "url": "https://finance.biggo.com/news/7112b22b-356d-49aa-a81a-5978ee4b1e9a",
+        "source": "BigGo Finance",
+        "image": "https://img.biggo.com/ik4MFQ1-YXA1ehwihMbqeKy7-ysXmBJ0mGcwC_ht34M/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzcxMTJiMjJiLTM1NmQtNDlhYS1hODFhLTU5NzhlZTRiMWU5YV8xNzkxNjU3MzUyX2RlZmF1bHQuanBn.jpg",
+        "publishedAt": "2026-10-10T18:15:00Z",
         "category": "technology",
-        "summary": "India's festive e-commerce season has begun robustly, with significant demand from tier-3 towns. Major platforms like Flipkart, Amazon, Myntra, and Meesho reported increased orders and customer engagement. Shoppers are opting for premium products across categories such as electronics, fashion, beauty, and home goods, while rapid delivery services are enhancing the overall shopping experience during this festive period.",
-        "wordCount": 57
-      },
-      {
-        "title": "Apple set to debut touch-screen MacBook and new iPad mini in late October",
-        "url": "https://www.thehindubusinessline.com/info-tech/apple-set-to-debut-touch-screen-macbook-and-new-ipad-mini-in-late-october/article71567851.ece",
-        "source": "BusinessLine",
-        "image": "https://bl-i.thgim.com/public/incoming/aei0ip/article71567862.ece/alternates/LANDSCAPE_1200/2024-03-04T150949Z_162719769_RC22F6A9FLRO_RTRMADP_3_APPLE-PRODUCTS.JPG",
-        "publishedAt": "2026-10-10T11:16:05Z",
-        "category": "technology",
-        "summary": "Apple Inc. is preparing for a product launch in late October, expected around Tuesday, October 27. The event will feature the introduction of its first touch-screen MacBook and a new iPad mini. Additionally, Apple plans to unveil M6 Macs and an upgraded smart home ecosystem. This follows a previously announced smart home strategy reveal scheduled for next week.",
+        "summary": "Apple will host a significant smart home event on October 13, featuring the HomePad, a 6-inch smart display, and an updated Apple TV 4K. The event aims to enhance its connected home offerings, showcasing various smart home accessories developed in collaboration with LG Electronics. This marks Apple's most substantial initiative in the smart home sector in recent years.",
         "wordCount": 58
       },
       {
-        "title": "iQOO 16, Motorola Signature 27 Flagship Phones Teased Ahead Of India Launch - Check Key Features",
-        "url": "https://www.ndtvprofit.com/technology/iqoo-16-motorola-signature-27-flagship-phones-teased-ahead-of-india-launch-check-key-features-12165857",
-        "source": "NDTV Profit",
-        "image": "https://motorolaimgrepo.vtexassets.com/arquivos/motorola-signature-27-lp-emea-design-02-d-.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-10-10T10:40:29Z",
+        "title": "​Malware Embedded in Budget Android Firmware Affects Thousands Worldwide",
+        "url": "https://the420.in/budget-android-firmware-malware-midnight-mimosa/",
+        "source": "The420.in",
+        "image": "https://the420.in/wp-content/uploads/2026/10/Jbjbjbjnb.webp",
+        "publishedAt": "2026-10-10T16:59:03Z",
         "category": "technology",
-        "summary": "iQOO and Motorola unveiled their upcoming flagship smartphones, iQOO 16 and Motorola Signature 27, at the India Mobile Congress 2026 in New Delhi. iQOO has confirmed its launch plans for India, while Motorola has shared details about the camera and software features of its new device. Both phones are anticipated to attract significant consumer interest.",
-        "wordCount": 55
+        "summary": "Researchers have identified Midnight Mimosa malware embedded in budget Android firmware, impacting thousands of devices across 150 countries. This malware operates silently, facilitating ad fraud and proxy abuse. The discovery raises significant security concerns regarding budget smartphones, as the malware is integrated directly into the device firmware, making it difficult for users to detect and remove.",
+        "wordCount": 56
+      },
+      {
+        "title": "Samsung Galaxy Watch Ultra 2 review: A familiar design with meaningful upgrades",
+        "url": "https://economictimes.indiatimes.com/magazines/panache/samsung-galaxy-watch-ultra-2-review-a-familiar-design-with-meaningful-upgrades/articleshow/134858149.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-134858207,width-1200,height-900,imgsize-85393,overlay-etpanache/articleshow.jpg",
+        "publishedAt": "2026-10-10T16:55:17Z",
+        "category": "technology",
+        "summary": "The Samsung Galaxy Watch Ultra 2 features a larger battery, brighter display, and improved fitness capabilities while maintaining its predecessor's rugged design. Priced at Rs 64,999, it includes dual-frequency GPS, LTE connectivity, and new trail-running and hydration-tracking functions. However, limited design changes and lack of iPhone support raise questions about its competitiveness in the premium smartwatch market.",
+        "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "Bayern Munich News: Phil Foden to FC Bayern? Only if it’s a sweet deal",
-        "url": "https://www.bavarianfootballworks.com/transfer-rumors/265631/bayern-munich-foden-real-madrid-manchester-city-germany-klopp-fc-barcelona-olmo-arsenal-leverkusen-chelsea-simons-tottenham",
-        "source": "Bavarian Football Works",
-        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/10/gettyimages-2299259961.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-10-10T12:30:00Z",
+        "title": "Player Ratings: Real Madrid 1-0 Villarreal",
+        "url": "https://www.managingmadrid.com/real-madrid-cf-la-liga/113902/player-ratings-real-madrid-1-0-villarreal",
+        "source": "Managing Madrid",
+        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/10/gettyimages-2299021310.jpg?quality=90&strip=all&crop=0%2C10.737568883469%2C100%2C78.524862233062&w=1200",
+        "publishedAt": "2026-10-11T00:15:00Z",
         "category": "sports",
-        "summary": "Bayern Munich's interest in Phil Foden remains unconfirmed, with no solid offers reported. Vincent Kompany's familiarity with Foden from their time at Manchester City could influence any potential transfer. However, Bayern will only pursue Foden if the deal is favorable. The club continues to explore various transfer options as the window progresses, aiming to strengthen their squad.",
+        "summary": "Real Madrid secured a 1-0 victory against Villarreal, showcasing solid performance from key players. The match highlighted the team's defensive strength and strategic play. Fans are encouraged to engage respectfully, adhering to community guidelines. Trolling or disrespectful behavior towards contributors or rival fans is prohibited and may result in penalties. The focus remains on quality analysis and fan interaction.",
+        "wordCount": 59
+      },
+      {
+        "title": "Hansi Flick talks Jules Kounde, Lamine Yamal and Gabriel Jesus after Barcelona beat Getafe",
+        "url": "https://www.barcablaugranes.com/barcelona-la-liga/134761/hansi-flick-jules-kounde-lamine-yamal-and-gabriel-jesus",
+        "source": "Barca Blaugranes",
+        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/10/gettyimages-2299555717.jpg?quality=90&strip=all&crop=0%2C3.304739136549%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-10-10T21:00:00Z",
+        "category": "sports",
+        "summary": "Hansi Flick discussed players Jules Kounde, Lamine Yamal, and Gabriel Jesus following Barcelona's victory over Getafe. He highlighted several positive aspects from the match, emphasizing the team's performance. The article also reminded readers to engage respectfully with contributors and fellow fans, noting that trolling, especially on rival sites, is against community guidelines and could lead to penalties.",
         "wordCount": 57
       },
       {
-        "title": "'Just install a bowling machine': Yuzvendra Chahal’s blunt take on batter-friendly pitches after West Indies chase down 250",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-west-indies/just-install-a-bowling-machine-yuzvendra-chahals-blunt-take-on-batter-friendly-pitches-after-west-indies-chase-down-250/articleshow/134854079.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134854186,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-10T12:11:00Z",
+        "title": "Immediate Reaction: Real Madrid 1-0 Villarreal",
+        "url": "https://www.managingmadrid.com/real-madrid-cf-la-liga/113890/immediate-reaction-real-madrid-1-0-villarreal",
+        "source": "Managing Madrid",
+        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/10/gettyimages-2299570288.jpg?quality=90&strip=all&crop=0%2C29.057591623037%2C100%2C41.884816753927&w=1200",
+        "publishedAt": "2026-10-10T20:57:53Z",
         "category": "sports",
-        "summary": "Yuzvendra Chahal expressed frustration over batter-friendly pitches after India’s 250-run total was insufficient to secure a win against the West Indies. This match has reignited discussions regarding the increasing dominance of batters in T20 cricket. Chahal's blunt comment suggested that such conditions favor batters excessively, prompting calls for a reevaluation of pitch preparation in the format.",
+        "summary": "Real Madrid secured a 1-0 victory against Villarreal, with Diomande scoring the only goal. The match was challenging for Madrid, who played with ten men. Following the game, further analysis, player ratings, interviews, and a podcast are expected. This match marked Real Madrid's return to action after an extended international break, highlighting their resilience and determination.",
         "wordCount": 56
-      },
-      {
-        "title": "How Cristiano Jr. could represent other countries in international football as Ronaldo’s dispute with Portugal coach Jorge Jesus rumbles on",
-        "url": "https://timesofindia.indiatimes.com/sports/football/top-stories/how-cristiano-jr-could-have-other-options-in-international-football-as-ronaldos-portugal-row-rumbles-on/articleshow/134853491.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134853817,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-10T11:54:00Z",
-        "category": "sports",
-        "summary": "Cristiano Ronaldo's ongoing dispute with Portugal coach Jorge Jesus raises questions about his international future. Meanwhile, attention turns to his son, Cristiano Jr., who could potentially represent other countries in international football. The situation highlights the complexities of national representation and the implications for both Ronaldo and his son as they navigate their respective paths in the sport.",
-        "wordCount": 58
       }
     ],
     "health": [
       {
-        "title": "No Gluten, No Pink Salt: Suniel Shetty, 65, Reveals His 1600-Calorie Daily Diet",
-        "url": "https://www.ndtv.com/health/healthy-diet/no-gluten-no-pink-salt-suniel-shetty-65-reveals-his-1600-calorie-daily-diet-12166412",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-10/v26cgr3_suniel-shetty_625x300_10_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-10-10T12:17:20Z",
+        "title": "Combating Cancer among women",
+        "url": "https://www.dailyexcelsior.com/combating-cancer-among-women/",
+        "source": "Daily Excelsior",
+        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTlmZjVkOWIwLWM0ZmYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+        "publishedAt": "2026-10-10T23:09:19Z",
         "category": "health",
-        "summary": "Actor Suniel Shetty, at 65, maintains a disciplined 1600-calorie daily diet focused on portion control and protein intake. His typical breakfast consists of four egg whites, with fish or chicken included in other meals. Shetty emphasizes eating according to his body's needs and finishes dinner by 7 PM. His approach to fitness continues to attract attention.",
+        "summary": "Dr. Deepak Bharti emphasizes that cancer is no longer viewed as hopeless due to advancements in medical treatments. Innovations in screening, vaccination, surgery, radiation, chemotherapy, targeted therapy, and immunotherapy have improved the prevention, early detection, and control of many gynaecological cancers. The focus is on reaching women to enhance awareness and access to these life-saving interventions.",
         "wordCount": 56
       },
       {
-        "title": "Skin rashes in children: Paediatrician explains common causes, warning signs and when parents should worry",
-        "url": "https://www.hindustantimes.com/lifestyle/health/skin-rashes-in-children-paediatrician-explains-common-causes-warning-signs-and-when-parents-should-worry-101791624406586.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/10/1600x900/logo/istockphoto-2152300024-612x612_1791626881191_9GPk_1791626888991_P8Id_4fbbab86-970b-4355-9125-8b88c0a75829_iVW5.jpg",
-        "publishedAt": "2026-10-10T10:20:56Z",
+        "title": "95% of Alzheimer's Cases Could Be Prevented Through Lifestyle. Neuroscientist Reveals the 3 Free Changes That Protect Your Brain",
+        "url": "https://boxlifemagazine.com/neuroscientist-brain-protection-lifestyle-guide/",
+        "source": "BoxLife Magazine",
+        "image": "https://boxlifemagazine.com/wp-content/uploads/2026/10/image-51-1024x572.png",
+        "publishedAt": "2026-10-10T16:54:39Z",
         "category": "health",
-        "summary": "Skin rashes in children can indicate various issues, including allergies and infections. A paediatrician outlines common causes, such as viral infections, dengue, chickenpox, and eczema. Parents should be aware of warning signs that necessitate medical attention. Understanding the nature of the rash and accompanying symptoms is crucial for determining when to seek professional help for their child.",
+        "summary": "Louisa Nicola, a prominent neuroscientist, claims that 95% of Alzheimer's cases could be prevented through lifestyle changes. In a recent discussion, she highlighted three free modifications that can protect brain health and combat cognitive decline and dementia. Nicola aims to shift public perception regarding brain health and emphasizes the importance of proactive measures for maintaining cognitive function.",
         "wordCount": 57
       },
       {
-        "title": "Viola Davis grew up in poverty in Rhode Island; now she and husband Julius Tennon are donating $1.2 million to help local families",
-        "url": "https://timesofindia.indiatimes.com/world/us/viola-davis-grew-up-in-poverty-in-rhode-island-now-she-and-husband-julius-tennon-are-donating-1-2-million-to-help-local-families/articleshow/134833405.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-134833672,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-10T08:15:00Z",
+        "title": "More than just baby blues",
+        "url": "https://www.financialexpress.com/life/lifestyle/more-than-just-baby-blues/4358311/",
+        "source": "The Financial Express",
+        "image": "https://images.financialexpressdigital.com/2026/10/baby.jpg",
+        "publishedAt": "2026-10-10T16:54:14Z",
         "category": "health",
-        "summary": "Viola Davis, an award-winning actress from Rhode Island, and her husband, Julius Tennon, are donating $1.2 million to support local families. Davis, who grew up in poverty, emphasizes the importance of her roots despite her successful Hollywood career. The donation aims to assist those in need in her hometown, reflecting her commitment to giving back to the community.",
-        "wordCount": 58
+        "summary": "Postpartum depression can affect mothers regardless of prior mental health issues. The Lindsay Clancy trial, which began in June 2023, highlights this condition's severity. Clancy is accused of killing her three children, with her defense claiming she suffered from severe postpartum psychosis. The case underscores the importance of recognizing both visible and invisible symptoms of postpartum mental health disorders.",
+        "wordCount": 59
       }
     ],
     "science": [
       {
-        "title": "These origami-inspired rover wheels could make lunar exploration easier",
-        "url": "https://www.newsbytesapp.com/news/science/south-korea-s-lunar-rover-wheels-fold-like-origami/story",
-        "source": "NewsBytes",
-        "image": "https://i.cdn.newsbytesapp.com/images/l200_38671791625811.jpg",
-        "publishedAt": "2026-10-10T12:13:41Z",
+        "title": "Genetically modified microbe could help make Mars habitable, researchers say",
+        "url": "https://economictimes.indiatimes.com/science/genetically-modified-microbe-could-help-make-mars-habitable-researchers-say/articleshow/134860230.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-134860230,width-1200,height-900,imgsize-48296,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-10-10T19:47:10Z",
         "category": "science",
-        "summary": "Researchers at KAIST have developed origami-inspired, fire-proof wheels for lunar rovers, intended for deployment in 2030. These wheels can compress from a 20-inch diameter to nine inches, allowing easier navigation through the Moon's lava tubes, which present challenges due to steep slopes and drops. This innovative design aims to enhance lunar exploration capabilities significantly.",
+        "summary": "Researchers at Pioneer Labs in Emeryville, California, have developed a genetically modified bacterium named sPL.001 that thrives in simulated Martian conditions. This microorganism can break down toxic substances found in Martian soil analogs and produce bioplastics, potentially aiding in the creation of sustainable habitats for future space settlements on Mars.",
+        "wordCount": 50
+      },
+      {
+        "title": "Earth",
+        "url": "https://www.newindianexpress.com/lifestyle/science/2026/Oct/10/a-distant-icy-world-has-weather-much-like-earths",
+        "source": "The New Indian Express",
+        "image": "https://cf-images.assettype.com/newindianexpress%2F2025-08-13%2Fndsrvwu8%2FEarth-Observation-satellite.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-10-10T17:44:24Z",
+        "category": "science",
+        "summary": "A study of WISE 0855, a Jupiter-sized exoplanet 7.5 light-years away, has uncovered atmospheric processes similar to those on Earth and Jupiter. Researchers utilized the James Webb Space Telescope to analyze its weather patterns, revealing that at least two simultaneous processes shape its atmosphere. This discovery enhances understanding of exoplanetary atmospheres and their dynamics.",
         "wordCount": 54
       },
       {
-        "title": "Solar Storm Tomorrow: Powerful geomagnetic storm to hit Earth - Will it affect India? Possible impact explained",
-        "url": "https://www.india.com/news/world/solar-storm-tomorrow-powerful-geomagnetic-storm-to-hit-earth-will-it-affect-india-possible-impact-explained-8534728/",
-        "source": "India.com",
-        "image": "https://static.india.com/wp-content/uploads/2026/10/solar-storm.jpg",
-        "publishedAt": "2026-10-10T11:47:15Z",
+        "title": "Scientists examined a 165-million-year-old fossil from China and found a broad swimming tail plus bony throat structures; the Jurassic mammal predecessor could feed and swallow in ways seen in modern",
+        "url": "https://timesofindia.indiatimes.com/science/archaeology/scientists-examined-a-165-million-year-old-fossil-from-china-and-found-a-broad-swimming-tail-plus-bony-throat-structures-the-jurassic-mammal-predecessor-could-feed-and-swallow-in-ways-seen-in-modern-mammals/articleshow/134789743.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-134791552,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-10T16:28:00Z",
         "category": "science",
-        "summary": "NOAA has issued a G2 geomagnetic storm warning for October 11, predicting effects from two solar eruptions. The storm may impact satellites, navigation systems, and radio signals. While the storm's intensity is moderate, its potential effects on India are being assessed. Authorities are monitoring the situation to determine the extent of disruptions that may occur.",
+        "summary": "Scientists studied a 165-million-year-old fossil from China, identifying a mammal predecessor with a broad swimming tail and bony throat structures. These features suggest that this Jurassic creature could feed and swallow in ways comparable to modern mammals. The findings provide insights into the evolutionary adaptations of early mammals and their functional similarities to contemporary species.",
         "wordCount": 55
-      },
-      {
-        "title": "A Starquake 10 Billion Years Ago May Have Just Sent A Flash To Earth",
-        "url": "https://in.mashable.com/space/114813/a-starquake-10-billion-years-ago-may-have-just-sent-a-flash-to-earth",
-        "source": "Mashable India",
-        "image": "https://sm.mashable.com/t/mashable_in/article/a/a-starquak/a-starquake-10-billion-years-ago-may-have-just-sent-a-flash_gwfs.1200.jpg",
-        "publishedAt": "2026-10-10T09:30:00Z",
-        "category": "science",
-        "summary": "A fast radio burst (FRB), detected on Earth, originated from a starquake over 10 billion years ago, marking it as the farthest FRB confirmed to date. This brief flash of radio waves traveled through space for an extensive period before reaching our planet. FRBs are known for their short duration, lasting only a few thousandths of a second.",
-        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "EXCLUSIVE: “Weak writing was the main reason Toxic didn’t work,” says Taran Adarsh; praises Yash as “very confident” actor",
-        "url": "https://www.bollywoodhungama.com/news/features/exclusive-weak-writing-was-the-main-reason-toxic-didnt-work-says-taran-adarsh-praises-yash-as-very-confident-actor/",
-        "source": "Bollywood Hungama",
-        "image": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/10/Exclusive-Weak-writing-was-the-main-reason-Toxic-didnt-work-says-Taran-Adarsh-news.jpeg",
-        "publishedAt": "2026-10-10T12:13:03Z",
+        "title": "Aries Horoscope Today: October 11, 2026",
+        "url": "https://www.vogue.in/content/aries-horoscope-today-october-11-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/16:9/w_1280,c_limit/1-Aries_16;9.png",
+        "publishedAt": "2026-10-11T00:20:00Z",
         "category": "entertainment",
-        "summary": "Trade analyst Taran Adarsh stated that \"weak writing\" was the primary reason the film Toxic failed to resonate with audiences. In an exclusive interview with Bollywood Hungama, he emphasized the importance of strong storytelling in filmmaking. Adarsh also commended actor Yash, describing him as a \"very confident\" performer, highlighting his contributions to the film despite its shortcomings.",
+        "summary": "On October 11, 2026, Aries individuals are encouraged to reflect on their past experiences, recognizing a meaningful pattern in their life's journey. The article suggests that seemingly random events have contributed to their current path, emphasizing the importance of understanding these connections for future growth. Aries are urged to embrace this perspective as they move forward.",
+        "wordCount": 56
+      },
+      {
+        "title": "Sagittarius Horoscope Today: October 11, 2026",
+        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-october-11-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
+        "publishedAt": "2026-10-11T00:20:00Z",
+        "category": "entertainment",
+        "summary": "Sagittarius individuals are encouraged to embrace their vibrant energy today. Some may need to rein in their enthusiasm, while others should seek to expand their horizons. Opportunities abound, and it's essential to remain open to possibilities. Balancing passion with practicality will help navigate the day effectively. Reflecting on personal goals and desires can lead to fulfilling experiences.",
         "wordCount": 57
       },
       {
-        "title": "WWE Money In The Bank 2026: Full Match Card, Start Time And How To Watch",
-        "url": "https://sports.ndtv.com/us/wwe/wwe-money-in-the-bank-2026-full-match-card-start-time-and-how-to-watch-12166381",
-        "source": "NDTV Sports",
-        "image": "https://c.ndtvimg.com/2026-09/s0i8dtd4_wwe-money-in-the-bank-2026_625x300_24_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-10-10T12:11:41Z",
+        "title": "Pisces Horoscope Today: October 11, 2026",
+        "url": "https://www.vogue.in/content/pisces-horoscope-today-october-11-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
+        "publishedAt": "2026-10-11T00:20:00Z",
         "category": "entertainment",
-        "summary": "WWE Money in the Bank 2026 is scheduled for tonight in New Orleans at the Smoothie King Center. The event features two ladder matches and two title matches, including a World Heavyweight Championship match opening the show. Fans can find the full match card, start times for various regions, and viewing options for the Reigns vs. LA Knight match.",
-        "wordCount": 59
-      },
-      {
-        "title": "When Shah Rukh Khan revealed Nana Patekar got him out of jail: ‘He was very sweet’",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/when-shah-rukh-khan-said-nana-patekar-got-him-out-of-jail-raju-ban-gaya-gentleman-101791632255106.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/10/1600x900/logo/SRK_1791632756665_12j2_1791632756831_YfPY_529d5b08-1ab1-4a70-81ae-3a421f31e51f_ig2A.png",
-        "publishedAt": "2026-10-10T11:56:09Z",
-        "category": "entertainment",
-        "summary": "Shah Rukh Khan shared a story about Nana Patekar helping him during a difficult time in the early 1990s, specifically regarding his release from jail. In a resurfaced video, Khan recounted how he confronted a journalist over an article, bringing a ceremonial sword gifted by his father-in-law. He acknowledged that his actions were misguided and expressed gratitude for Patekar's support.",
-        "wordCount": 60
+        "summary": "On October 11, 2026, Pisces individuals are encouraged to reflect on their feelings following the recent new moon in Libra. Over the next three to four lunar cycles, it is advised to take notes on emotional responses during full and new moons. This practice may help clarify the inner voice and enhance self-awareness during these lunar phases.",
+        "wordCount": 57
       }
     ]
   }
