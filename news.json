@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-10-18T12:30:59.745Z",
+  "updatedAt": "2026-10-19T00:31:03.579Z",
   "categories": {
     "world": [
       {
-        "title": "France protests turn violent: Fires, looting and 1,200 arrests; Macron vows action",
-        "url": "https://timesofindia.indiatimes.com/world/europe/france-protests-turn-violent-fires-looting-and-1200-arrests-macron-vows-action/articleshow/135020350.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135021220,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-17T22:16:00Z",
+        "title": "\"Hatred In Their Hearts\": Trump Blames Immigrants For Unrest In France",
+        "url": "https://www.ndtv.com/world-news/france-protests-france-violence-hatred-in-their-hearts-trump-blames-immigrants-for-unrest-in-france-12202873",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-10/r2j86juk_trump-france-protests_650x400_18_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-10-18T12:21:04Z",
         "category": "world",
-        "summary": "French President Emmanuel Macron has pledged strict measures against individuals involved in recent violent protests, which included arson, looting, and attacks on public buildings. Notable incidents occurred in Limoges, where fires damaged a town hall, causing part of the roof to collapse. Authorities reported approximately 1,200 arrests amid escalating unrest, with cars set ablaze and businesses vandalized.",
-        "wordCount": 57
+        "summary": "US President Donald Trump attributed the recent unrest in France to immigration, stating that it involves individuals from \"an entirely different world.\" The unrest, which included burnt barricades and looted shops, originated from student protests demanding more teachers and improved school conditions. Trump's comments came as France faced significant turmoil, with a historic town hall also being set ablaze.",
+        "wordCount": 59
       },
       {
-        "title": "'He kept on hitting': Indian flydubai pilot Smit Machchhar reveals what happened mid-flight as he was stabbed",
-        "url": "https://timesofindia.indiatimes.com/india/he-kept-on-hitting-indian-flydubai-pilot-smit-machchhar-reveals-what-happened-mid-flight-as-he-was-stabbed/articleshow/135018356.cms",
+        "title": "France's unrest spills across borders as protests turn violent in Belgium, Italy",
+        "url": "https://timesofindia.indiatimes.com/world/europe/frances-unrest-spills-across-borders-as-protests-turn-violent-in-belgium-italy/articleshow/135027820.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135018586,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-17T17:50:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135028661,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-18T12:16:00Z",
         "category": "world",
-        "summary": "Indian pilot Smit Machchhar, recovering in Abu Dhabi, detailed his harrowing experience aboard a Flydubai flight where he was attacked by his co-pilot. He described the incident as a sudden fight for survival, recounting the repeated blows to his head. The attack transformed a routine journey into a life-threatening situation, highlighting the risks faced by airline crew members.",
-        "wordCount": 58
+        "summary": "Violent protests against rising living costs and public services have spread from France to Belgium and Italy. In Milan, clashes occurred between police and \"Italia in Piazza\" protesters, leading to significant unrest. Demonstrators expressed frustration over economic conditions, prompting confrontations with law enforcement. The situation highlights a growing wave of discontent across Europe regarding economic challenges and public service issues.",
+        "wordCount": 60
+      },
+      {
+        "title": "Who is Mehrdad Akhlaghi, Iran’s new tech-focused defence minister?",
+        "url": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/s1-1792317761.jpg?resize=1200%2C675",
+        "publishedAt": "2026-10-18T12:12:58Z",
+        "category": "world",
+        "summary": "Mehrdad Akhlaghi Ketabchi has been appointed as Iran’s new defence minister, focusing on ballistic missiles, aerospace technology, and defence-industrial production. His appointment comes amid rising tensions with the United States. The 68-year-old was approved by parliament during an online session, reflecting the ongoing challenges faced by the Iranian government in the current geopolitical landscape.",
+        "wordCount": 54
       }
     ],
     "business": [
       {
-        "title": "From Deoghar to Udupi: Family offices bet Rs 2,000 crore on hotels in pilgrimage towns",
-        "url": "https://economictimes.indiatimes.com/industry/services/hotels-/-restaurants/from-deoghar-to-udupi-family-offices-bet-rs-2000-crore-on-hotels-in-pilgrimage-towns/articleshow/135018465.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-135018569,width-1200,height-900,imgsize-364286,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-10-18T00:30:00Z",
+        "title": "Crude oil prices brace for volatile week as supply disruptions remain a concern: Analysts",
+        "url": "https://www.moneycontrol.com/news/business/commodities/crude-oil-prices-may-surge-to-120-as-west-asia-tensions-threaten-supplies-analysts-14054814.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260603022129_oil_crude.jpg",
+        "publishedAt": "2026-10-18T11:20:43Z",
         "category": "business",
-        "summary": "Nearly Rs 2,000 crore has been invested in hotels across major pilgrimage towns in India over the past 12-18 months, according to Noesis Hotel Advisors. This trend reflects the growing interest of wealthy business families in hospitality ventures linked to religious destinations, indicating a strategic move to capitalize on the increasing influx of pilgrims and tourists in these areas.",
-        "wordCount": 59
+        "summary": "Crude oil prices are expected to experience volatility this week due to ongoing supply disruptions in West Asia and stalled negotiations between the US and Iran. The Strait of Hormuz, a crucial shipping route, poses significant uncertainty, as any interruptions could further tighten global oil supplies. Analysts warn that these factors will keep markets on high alert.",
+        "wordCount": 57
       },
       {
-        "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
-        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-16_2lw6yw3rjs.jpg",
-        "publishedAt": "2026-10-17T23:00:00Z",
+        "title": "Brazilian Man Sells Everything, Travels 1,900 Km To Meet Girlfriend. She Turned Out To Be AI",
+        "url": "https://www.ndtv.com/offbeat/brazilian-man-sells-everything-travels-1-900-km-to-meet-girlfriend-she-turned-out-to-be-ai-12202634",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-10/2n20b2pg_edimar-martins_625x300_18_October_26.jpeg",
+        "publishedAt": "2026-10-18T11:13:22Z",
         "category": "business",
-        "summary": "Oil prices are projected to remain high through 2027, driven by ongoing supply risks linked to the U.S. and Israeli conflict with Iran. Initially, market sentiment suggested a quick resolution, bolstered by a June ceasefire. However, the persistence of the war has led to a reevaluation, maintaining pressure on oil prices amid uncertainties in supply dynamics.",
-        "wordCount": 56
+        "summary": "A 49-year-old Brazilian man, Edimar Martins, sold all his possessions and traveled over 1,200 miles (1,931 km) to meet a woman he believed was his future partner. After struggling with loneliness following his mother's death, he was convinced she could help him start anew. Upon arrival, he discovered that the woman was an AI-generated character.",
+        "wordCount": 55
       },
       {
-        "title": "Jamnagar on Rubio's two-day itinerary: Musk mellows on Reliance, ‘appreciates’ post",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/jamnagar-on-rubios-two-day-itinerary-musk-mellows-on-reliance-appreciates-post/articleshow/135022222.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135022229,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-17T22:54:00Z",
+        "title": "India Bars Sugar-Based Ethanol From 2026-27 Tender For Petrol Blend",
+        "url": "https://www.ndtv.com/india-news/india-bars-sugar-based-ethanol-from-2026-27-tender-for-petrol-blend-12202614",
+        "source": "NDTV",
+        "image": "https://i.ndtvimg.com/i/2015-12/cellulosic-ethanol-factory-afp_650x400_41449224168.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-10-18T11:07:42Z",
         "category": "business",
-        "summary": "US Secretary of State Marco Rubio is visiting India, including a stop at the world's largest oil refinery in Jamnagar. Meanwhile, Elon Musk has softened his approach regarding Starlink's access in India, expressing appreciation for Reliance's efforts. This marks a shift in Musk's previously inconsistent stance on the satellite internet service's entry into the Indian market.",
-        "wordCount": 56
+        "summary": "India's Bharat Petroleum Corporation Ltd (BPCL) has issued a tender for approximately 11 billion litres of ethanol for the 2026-27 supply year, aimed at achieving a 20% ethanol blend in petrol. However, the tender excludes ethanol derived from sugarcane juice, sugar syrup, and B-heavy molasses, as the government aims to protect domestic sugar interests.",
+        "wordCount": 54
       }
     ],
     "technology": [
       {
-        "title": "AirPods 5 vs AirPods Pro 3: Is the Pro Worth $100 More?",
-        "url": "https://memeburn.com/airpods-5-vs-airpods-pro-3/",
-        "source": "Memeburn",
-        "image": "https://memeburn.com/wp-content/uploads/2026/10/AirPods-5-vs-AirPods-Pro-3.jpg",
-        "publishedAt": "2026-10-17T18:39:37Z",
+        "title": "TECNO SPARK 50s 5G Budget Smartphone Launched In India: Check Price, Specifications, Features",
+        "url": "https://www.gizbot.com/mobile/news/tecno-spark-50s-5g-budget-smartphone-launched-in-india-check-price-specifications-features-014-129251.html",
+        "source": "Gizbot",
+        "image": "https://images.gizbot.com/img/2026/10/tecno-spark-50s-5g-launched-jpg-1792319500043_1792319500965-1200x675.jpg",
+        "publishedAt": "2026-10-18T12:20:29Z",
         "category": "technology",
-        "summary": "The AirPods 5, priced at $149, are recommended for most iPhone users due to their noise cancellation, IP57 durability, and new software features, making them a better value compared to the AirPods Pro 3. The Pro 3 costs $100 more but may offer additional benefits depending on individual preferences. Buyers should consider fit, battery life, and pricing.",
-        "wordCount": 57
+        "summary": "TECNO has launched the SPARK 50s 5G smartphone in India, targeting budget-conscious consumers. It features a 6,500mAh battery and a rugged design for enhanced durability. Priced at Rs. 19,999, the device aims to provide strong connectivity and reliable daily performance. The phone will be available through offline retail channels, catering to users seeking affordable 5G options.",
+        "wordCount": 56
       },
       {
-        "title": "Verizon Prices iPhone Handoff at $10 Monthly, Double T",
-        "url": "https://finance.biggo.com/news/6eeac272-e85b-45b6-8dea-c237a378ffc9",
-        "source": "BigGo Finance",
-        "image": "https://img.biggo.com/5jTY-rXWb75222GEakRTFOvsTYK5yD8rmfc3htNTNrQ/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwLzZlZWFjMjcyLWU4NWItNDViNi04ZGVhLWMyMzdhMzc4ZmZjOV8xNzkyMjYxOTE5X2RlZmF1bHQud2VicA.jpg",
-        "publishedAt": "2026-10-17T18:15:00Z",
+        "title": "TECNO Spark 50S 5G review: Sleek design, capable camera and decent performance",
+        "url": "https://www.mid-day.com/tech/tech-news/article/tecno-spark-50s-5g-review-sleek-design-capable-camera-and-decent-performance-23655428",
+        "source": "Mid-Day",
+        "image": "https://images.mid-day.com/images/images/2026/oct/TECNO_2_1792318931802_d.jpg",
+        "publishedAt": "2026-10-18T10:22:00Z",
         "category": "technology",
-        "summary": "Verizon Communications Inc. will charge customers $10 monthly for Apple's iPhone Handoff feature, which allows number-sharing on iOS 27. This fee is double the $5 charged by T-Mobile US Inc. for the same capability. The pricing positions Verizon as the most expensive option for this feature among major carriers, highlighting a competitive landscape in mobile service offerings.",
-        "wordCount": 57
+        "summary": "TECNO launched the Spark 50S 5G in India, featuring a 120Hz display, 6,500mAh battery, and MediaTek Dimensity 6400 processor. The smartphone is designed for the mid-range market, offering a sleek appearance and a 50MP camera. It aims to attract consumers looking for a balance of performance and style in an affordable device.",
+        "wordCount": 52
       },
       {
-        "title": "India important growth market; Sony sees growth room in premium TVs, home audio: Daijiro Nakano",
-        "url": "https://electronics.economictimes.indiatimes.com/news/consumer-electronics/india-important-growth-market-sony-sees-growth-room-in-premium-tvs-home-audio-daijiro-nakano/134986562",
-        "source": "electronics.economictimes.indiatimes.com",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-134986562,imgsize-43890,width-1200,height=627,overlay-etelectronics,resizemode-75/news/consumer-electronics/india-important-growth-market-sony-sees-growth-room-in-premium-tvs-home-audio-daijiro-nakano.jpg",
-        "publishedAt": "2026-10-17T15:50:12Z",
+        "title": "Samsung rolls out Diwali offers on Bespoke AI appliances with cashback, zero down payment",
+        "url": "https://timesofindia.indiatimes.com/technology/appliances/samsung-rolls-out-diwali-offers-on-bespoke-ai-appliances-with-cashback-zero-down-payment/articleshow/135027074.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135027086,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-18T10:17:00Z",
         "category": "technology",
-        "summary": "Sony identifies India as a key growth market, focusing on premium televisions and home audio systems. Daijiro Nakano emphasized that the BRAVIA brand's potential lies in larger screen formats combined with high picture quality and performance. He noted that the company aims to drive premiumisation through technological innovation rather than competing solely on price.",
-        "wordCount": 54
+        "summary": "Samsung India has introduced festive offers on its Bespoke AI home appliances in anticipation of Diwali. The promotions include cashback of up to Rs 20,000, zero down payment options, and extended warranty benefits. These offers aim to enhance consumer purchasing experiences during the festive season, making it more accessible for customers to acquire Samsung's innovative home appliance technology.",
+        "wordCount": 58
       }
     ],
     "sports": [
       {
-        "title": "Chris Woakes autobiography: Former England seamer slams Rob Key over 'shabby' exit",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/chris-woakes-autobiography-former-england-seamer-slams-rob-key-over-shabby-exit/articleshow/135017118.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135017299,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-18T00:30:00Z",
+        "title": "Jose Mourinho admits Vinicius Junior should've joined Arsenal before Real Madrid U",
+        "url": "https://www.mirror.co.uk/sport/football/transfer-news/mourinho-vinicius-arsenal-real-madrid-37784370",
+        "source": "Daily Mirror",
+        "image": "https://i2-prod.mirror.co.uk/article37784538.ece/ALTERNATES/s1200d/1_AS-Roma-v-Real-Madrid-CF-UEFA-Champions-League-202627-League-Phase-MD2.jpg",
+        "publishedAt": "2026-10-18T12:29:00Z",
         "category": "sports",
-        "summary": "Former England fast bowler Chris Woakes criticized Rob Key for the manner in which he was informed of his exclusion from the national team, labeling it as “cold” and “shabby.” Woakes expressed disappointment over the lack of communication regarding his future in the sport, highlighting the emotional impact of the decision on his career and personal feelings.",
+        "summary": "Jose Mourinho stated that Vinicius Junior should have joined Arsenal instead of signing a new contract with Real Madrid. Arsenal made an effort to acquire the 26-year-old during the summer transfer window, but he ultimately chose to remain with Real Madrid. Mourinho's comments highlight the missed opportunity for Arsenal in securing the talented forward before his contract renewal.",
+        "wordCount": 58
+      },
+      {
+        "title": "Perry powers nervy Australia to 1-0 lead",
+        "url": "https://www.cricinfo.com/series/new-zealand-women-in-australia-2026-27-1528690/australia-women-vs-new-zealand-women-1st-t20i-1528722/match-report",
+        "source": "Cricinfo",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/423900/423914.6.jpg",
+        "publishedAt": "2026-10-18T12:01:26Z",
+        "category": "sports",
+        "summary": "Australia Women secured a 1-0 lead in their series against New Zealand Women, winning by three runs. Australia, chasing 163, faced challenges, collapsing to 145 for 7 before finishing at 165 for 8. Ellyse Perry scored 52 runs, while Beth Mooney contributed 38. New Zealand's Jess Kerr took 3 wickets for 25 runs in a tense match.",
         "wordCount": 57
       },
       {
-        "title": "'There is pressure on us': Pakistan's ICC trophy drought adds to players' burden",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/there-is-pressure-on-us-pakistans-icc-trophy-drought-adds-to-players-burden/articleshow/135014275.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135014458,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-18T00:30:00Z",
+        "title": "Ranji Trophy, Round 2, Day 1 Highlights: Shubman Gill disappoints; Priyansh Arya, Rinku Singh and Badoni hit tons",
+        "url": "https://www.hindustantimes.com/cricket/ranji-trophy-live-score-second-round-day-1-latest-updates-scorecard-today-october-18-shubman-gill-101792287682959.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/18/1600x900/logo/Gill_1792324386344_JBYT_1792324386464_srL5_3cd6e9d4-89c3-4a5b-916a-6b39343f2265_xyHL.jpg",
+        "publishedAt": "2026-10-18T11:53:44Z",
         "category": "sports",
-        "summary": "Fakhar Zaman, an experienced top-order batter, expressed confidence that Pakistan can break their ICC trophy drought at the upcoming 50-overs World Cup, scheduled to be hosted by South Africa, Zimbabwe, and Namibia. He acknowledged the pressure on the team but emphasized their potential to succeed. Zaman's remarks highlight the team's aspirations as they prepare for the tournament.",
-        "wordCount": 57
-      },
-      {
-        "title": "Five Bullet Points From Real Madrid’s Win Over Roma",
-        "url": "https://www.managingmadrid.com/kiyans-observations/114264/real-madrid-as-roma-problems-2026-tactics",
-        "source": "Managing Madrid",
-        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/10/gettyimages-2299670310.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-10-17T23:18:04Z",
-        "category": "sports",
-        "summary": "Real Madrid secured a victory against Roma, prompting a new post-match analysis series. This 12th edition highlights key observations, including insights on the club's history, players on loan, and tactical strategies. The series aims to provide relevant thoughts and reflections on the match. Previous editions are accessible for those interested in further analysis of Real Madrid's performances.",
-        "wordCount": 57
+        "summary": "In the Ranji Trophy Round 2, Day 1, Shubman Gill's return was disappointing as he scored only one run and was dismissed after five balls against Chhattisgarh. In contrast, Priyansh Arya, Rinku Singh, and Badoni each scored centuries, contributing significantly to their teams. The day's play concluded with notable performances overshadowing Gill's brief innings.",
+        "wordCount": 54
       }
     ],
     "health": [
       {
-        "title": "Sendurai Mani։ Understanding Tumor Cell Adaptation and Identity Changes to Develop More Durable Treatments",
-        "url": "https://oncodaily.com/science/sendurai-mani-610865",
-        "source": "Oncodaily",
-        "image": "https://oncodaily.com/pub/uploads/2026/10/60c6e6b7a33e455c9673394cfda434d2.webp",
-        "publishedAt": "2026-10-17T22:19:44Z",
+        "title": "Congo Confirms Ebola Outbreak Spreads to Eighth Province",
+        "url": "https://english.aawsat.com/world/5330773-congo-confirms-ebola-outbreak-spreads-eighth-province",
+        "source": "ASHARQ AL-AWSAT English",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-10/1833293.jpeg.webp?VersionId=_tX4U_Dc62Vx9ec6n4gC8fQ.Qbsw7F2d",
+        "publishedAt": "2026-10-18T09:06:05Z",
         "category": "health",
-        "summary": "Sendurai Mani, Associate Director of Translational Oncology at Legorreta Cancer Center, emphasized the dynamic nature of cancer during a LinkedIn post. He highlighted that tumor cells evolve and adapt, sometimes altering their identity to resist treatments. Mani's insights aim to enhance understanding of adaptive resistance, contributing to the development of more effective and durable cancer therapies.",
-        "wordCount": 56
+        "summary": "The Ebola outbreak in the Democratic Republic of Congo has reached its eighth province, North Ubangi, according to the country's public health institute. This development presents new challenges for health authorities already working to manage the outbreak. The National Institute for Biomedical Research has confirmed two cases in North Ubangi, including one fatality.",
+        "wordCount": 53
       },
       {
-        "title": "Cancer pioneer Dr. Rachna Shroff's legacy grows days after her death",
-        "url": "https://www.newsnationnow.com/us-news/west/renowned-cancer-researcher-dies-from-disease-she-dedicated-life-to-defeating/",
-        "source": "NewsNation",
-        "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2026/10/2024-UACC-Annual-Awards-Dinner-24.jpg.webp?w=1280",
-        "publishedAt": "2026-10-17T19:39:08Z",
+        "title": "Chest pain that comes and goes without warning: When should you seek medical help, and when is it a cause for concern",
+        "url": "https://www.hindustantimes.com/lifestyle/health/chest-pain-that-comes-and-goes-without-warning-when-should-you-seek-medical-help-and-when-is-it-a-cause-for-concern-101792307008195.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/18/1600x900/logo/pexels-photo-6001530_1792307200144_DWUq_1792307215198_tPFB_afb4ab4e-9f05-42da-97f9-393b53503d81_Q6e1.jpeg",
+        "publishedAt": "2026-10-18T09:05:33Z",
         "category": "health",
-        "summary": "Dr. Rachna Shroff, a prominent cancer researcher, passed away on October 11 at age 47 due to the aggressive cancer she dedicated her career to combating. Following her death, the medical community is paying tribute to her contributions and legacy in cancer research. Shroff's work has significantly impacted the field, inspiring colleagues and patients alike.",
-        "wordCount": 55
+        "summary": "Chest pain that resolves on its own can still signal a heart issue, according to a cardiothoracic surgeon. Common misconceptions about heart attacks, often influenced by media portrayals, may lead individuals to underestimate symptoms. It is crucial to monitor any recurring or unexplained chest pain and seek medical advice when necessary, as early intervention can be vital for heart health.",
+        "wordCount": 60
       },
       {
-        "title": "Fat first, protein first or carbs first?",
-        "url": "https://www.financialexpress.com/life/lifestyle/fat-first-protein-first-or-carbs-first/4363922/",
-        "source": "The Financial Express",
-        "image": "https://images.financialexpressdigital.com/2026/10/ytbtd.jpg",
-        "publishedAt": "2026-10-17T19:04:10Z",
+        "title": "World Menopause Day: Ayush Ministry stresses awareness, comprehensive care and research",
+        "url": "https://ddindia.co.in/2026/10/world-menopause-day-ayush-ministry-stresses-awareness-comprehensive-care-and-research/",
+        "source": "DD India",
+        "image": "https://ddindia.co.in/wp-content/uploads/2026/10/menopause-day.jpg",
+        "publishedAt": "2026-10-18T07:58:01Z",
         "category": "health",
-        "summary": "Research indicates that the order of food consumption—fat, protein, or carbohydrates—can impact digestion and stomach emptying, influencing carbohydrate absorption rates. However, consuming fats first does not decrease the overall absorption of dietary fat by the body. Despite the order of intake, fats are still effectively digested and absorbed, maintaining their nutritional value regardless of consumption sequence.",
-        "wordCount": 56
+        "summary": "On World Menopause Day, October 18, the Ministry of Ayush emphasized the need for increased awareness, open discussions, and timely care regarding menopause. The ministry focused on the importance of physical health, emotional well-being, and overall quality of life. Through the Central Council for Research in Ayurvedic Sciences, it aims to promote preventive care and research into Ayurvedic methods.",
+        "wordCount": 59
       }
     ],
     "science": [
       {
-        "title": "Earth's oldest evidence of life is written in stone - but it's at risk of disappearing",
-        "url": "https://www.dailyexcelsior.com/earths-oldest-evidence-of-life-is-written-in-stone-but-its-at-risk-of-disappearing/amp",
-        "source": "Daily Excelsior",
-        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTc0ODIzZmYwLWNhN2EtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-        "publishedAt": "2026-10-17T22:30:53Z",
+        "title": "Honeybees are pushing out wild pollinators in race for nectar",
+        "url": "https://www.newsbytesapp.com/news/science/honeybees-are-pushing-out-wild-pollinators-in-competition-for-resources/story",
+        "source": "NewsBytes",
+        "image": "https://i.cdn.newsbytesapp.com/images/l86520261018152332.jpeg",
+        "publishedAt": "2026-10-18T10:34:04Z",
         "category": "science",
-        "summary": "Scientists have discovered Earth's oldest evidence of life, dating back over 3.5 billion years, found in ancient rocks. This evidence, crucial for understanding early life forms, is now at risk due to environmental factors and human activities. Preservation efforts are essential to protect these geological records, which provide insights into the planet's biological history and evolution.",
+        "summary": "A recent study indicates that rising honeybee populations are displacing wild pollinators, such as bumblebees, in their competition for nectar. Honeybees tend to dominate interactions, collecting more pollen and nectar. Additionally, other flower visitors actively avoided honeybees in 28.4% of encounters on bramble and 35.6% on ivy, highlighting their impact on wild pollinator populations.",
+        "wordCount": 54
+      },
+      {
+        "title": "Gas knots discovered in Pa 30 linked to SN 1181",
+        "url": "https://ua.news/en/technologies/u-pa-30-poviazanomu-z-nadnovoiu-1181-roku-viiavili-gazovi-vuzli-live-science",
+        "source": "UA.NEWS",
+        "image": "https://cdn-cabinet.ua.news/uploads/images/gasovi_vuzly_u_zalyshku_nadnovoi_1181_ro_1792317964656.webp",
+        "publishedAt": "2026-10-18T10:16:23Z",
+        "category": "science",
+        "summary": "The Gemini North telescope in Hawaii has captured detailed images of Pa 30, a supernova remnant linked to SN 1181. The images reveal that the filaments consist of chains of small gas knots rather than continuous streams of material. This discovery enhances understanding of the structure and composition of supernova remnants and their evolution over time.",
         "wordCount": 56
       },
       {
-        "title": "Earth's oldest evidence of life is written in stone - but it's at risk of disappearing",
-        "url": "https://www.dailyexcelsior.com/earths-oldest-evidence-of-life-is-written-in-stone-but-its-at-risk-of-disappearing/",
-        "source": "Daily Excelsior",
-        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTc0ODIzZmYwLWNhN2EtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-        "publishedAt": "2026-10-17T22:30:53Z",
+        "title": "Satellite radiation: blocking the view",
+        "url": "https://www.thehindu.com/sci-tech/science/satellite-radiation-blocking-the-view/article71599497.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/sci-tech/science/afm53q/article71599494.ece/alternates/LANDSCAPE_1200/yifu-wu-L3gq2u2H6Us-unsplash.jpg",
+        "publishedAt": "2026-10-18T09:00:00Z",
         "category": "science",
-        "summary": "Earth's oldest evidence of life, found in ancient rocks, is at risk of disappearing due to environmental factors and human activities. These fossils provide crucial insights into early life forms that existed long before complex ecosystems developed. Researchers emphasize the importance of protecting these sites to preserve our understanding of Earth's biological history and the evolution of life.",
-        "wordCount": 58
-      },
-      {
-        "title": "ash Plume to 14,000 ft (4,300 m) as of Oct 17, 21:00 UTC",
-        "url": "https://www.volcanodiscovery.com/kilauea/news/380926/vaac-advisory-2026-051.html",
-        "source": "Volcano Discovery",
-        "image": "https://volcanodiscovery.de/maps/volcanomap-8-131.jpg",
-        "publishedAt": "2026-10-17T22:01:33Z",
-        "category": "science",
-        "summary": "Kilauea Volcano in Hawai'i is currently experiencing eruptive activity, with an ash plume reaching 14,000 feet (4,300 meters) as of October 17, 21:00 UTC. The Hawaiian Volcano Observatory (HVO) continues to monitor the situation closely. This report covers the ongoing volcanic activity and eruptions occurring within Kīlauea’s Kaluapele summit caldera, with updates provided regularly.",
-        "wordCount": 54
+        "summary": "A study published in the Monthly Notices of the Royal Astronomical Society highlights that communications satellites in low-earth orbit emit radio signals that disrupt astronomical observations across various frequencies. Conducted under the SNIFFLES project, the findings indicate that regulating licensed transmissions and stray radiation from onboard electronics is essential to protect the interests of astronomers.",
+        "wordCount": 55
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: October 18, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-october-18-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-10-18T00:30:00Z",
-        "category": "entertainment",
-        "summary": "On October 18, 2026, Aquarians are advised to avoid self-criticism and acknowledge feelings of tiredness. The horoscope suggests a need for peace and quiet, emphasizing the importance of reorganizing priorities rather than retreating. This period encourages reflection and adjustment to better align with personal goals and well-being, highlighting the significance of self-care and thoughtful planning.",
-        "wordCount": 55
-      },
-      {
-        "title": "'Drishyam 3: The Conclusion' box office collection day 16: Ajay Devgn's film earns Rs 5 cr; worldwide gross reaches Rs 528.77 cr; third Saturday shows growth",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/drishyam-3-the-conclusion-box-office-collection-day-16-ajay-devgns-film-earns-rs-5-cr-worldwide-gross-reaches-rs-528-77-cr-third-saturday-shows-growth/articleshow/135022564.cms",
+        "title": "Vidyut Jammwal is 'more Dhalsim than Dhalsim', says 'Street Fighter' director Kitao Sakurai: 'He owns it, and he’s so proud of it'",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/vidyut-jammwal-is-more-dhalsim-than-dhalsim-says-street-fighter-director-kitao-sakurai-he-owns-it-and-hes-so-proud-of-it/articleshow/135028366.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135022572,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-18T00:22:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135028425,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-18T11:58:00Z",
         "category": "entertainment",
-        "summary": "Ajay Devgn's film 'Drishyam 3: The Conclusion' saw a box office increase on its third Saturday, earning Rs 5 crore in India on Day 16, a 61.3% rise from Friday's Rs 3.10 crore. The worldwide gross of the film has now reached Rs 528.77 crore, indicating positive growth for the crime thriller in its ongoing run.",
-        "wordCount": 56
+        "summary": "Vidyut Jammwal is set to make his Hollywood debut as Dhalsim in the upcoming film 'Street Fighter.' Director Kitao Sakurai praised Jammwal for embodying the character, stating he brings the necessary realism to the role. Sakurai emphasized Jammwal's connection with Dhalsim, highlighting the actor's pride in portraying the iconic character ahead of the film's release on October.",
+        "wordCount": 57
       },
       {
-        "title": "Capricorn Horoscope Today: October 18, 2026",
-        "url": "https://www.vogue.in/content/capricorn-horoscope-today-october-18-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
-        "publishedAt": "2026-10-18T00:20:00Z",
+        "title": "Horoscope Tomorrow, October 19, 2026: A quiet realization may help you make an important decision without seeking outside approval",
+        "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-tomorrow-october-19-2026-a-quiet-realization-may-help-you-make-an-important-decision-without-seeking-outside-approval-101792232898869.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/17/1600x900/logo/horoscope_tomorrow_1787826697470_1787826697570_57aa471f-fa2c-4602-8ed7-e94a7c6b250a_1792233023240_Yo9H_06f833cf-cead-469d-9f76-58f3cc77acfc_RcpW.jpeg",
+        "publishedAt": "2026-10-18T11:31:14Z",
         "category": "entertainment",
-        "summary": "On October 18, 2026, Capricorns are encouraged to embrace a new journey after a period of reflection. The recent pause in life has provided the opportunity to think critically and prepare for upcoming challenges. With renewed energy, Capricorns are ready to move forward, making choices that align with their refreshed perspective and aspirations for growth.",
-        "wordCount": 55
+        "summary": "On October 19, 2026, horoscopes suggest that a quiet realization may guide individuals in making important decisions independently. The day emphasizes strengthening relationships through mutual understanding and honest communication. Engaging in partnerships or conversations could help resolve concerns and foster support. Professionally, collaboration is encouraged, potentially leading to beneficial breakthroughs and enhanced teamwork across various sun signs.",
+        "wordCount": 57
+      },
+      {
+        "title": "Jailer 2 Box Office Collection Day 3 Updates: Rajinikanth’s film eyes Rs 400 crore mark; Nelson shares photo with Rajini",
+        "url": "https://indianexpress.com/article/entertainment/tamil/jailer-2-box-office-collection-day-3-updates-rajinikanth-film-earns-rs-317-crore-10926078/",
+        "source": "The Indian Express",
+        "image": "https://images.indianexpress.com/2026/10/Jailer-2-blog.jpg",
+        "publishedAt": "2026-10-18T11:10:01Z",
+        "category": "entertainment",
+        "summary": "Rajinikanth's film \"Jailer 2\" has grossed over Rs 317.15 crore worldwide in its first three days. On Sunday, the film earned Rs 28.09 crore net in India from 8,541 shows. The total net collection in India now stands at Rs 400 crore. Director Nelson shared a photo with Rajinikanth, highlighting the film's success.",
+        "wordCount": 53
       }
     ]
   }
