@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-10-22T00:31:05.921Z",
+  "updatedAt": "2026-10-22T12:31:19.221Z",
   "categories": {
     "world": [
       {
-        "title": "Turkey, Qatar, Pakistan, Indonesia sign defence cooperation accord, Ankara says",
-        "url": "https://www.reuters.com/world/asia-pacific/turkey-qatar-pakistan-indonesia-sign-defence-cooperation-accord-ankara-says-2026-10-21/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/24RBQH6HGBLVNFXOBPJ4NVEEW4.jpg?auth=ef3dc8dfaa7c3fad04cbe164be8ed0dfcbd5594157c3a83970fe5a901a6ccf15&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-10-21T12:29:02Z",
+        "title": "'First time in long time, we're maybe close to deal': Donald Trump on Ukraine conflict",
+        "url": "https://www.moneycontrol.com/world/first-time-in-long-time-we-re-maybe-close-to-deal-donald-trump-on-ukraine-conflict-article-14057078.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260807062957_citizen-trump.jpg",
+        "publishedAt": "2026-10-22T00:26:40Z",
         "category": "world",
-        "summary": "Turkey, Qatar, Pakistan, and Indonesia signed a defence cooperation agreement on Wednesday, aimed at enhancing their defensive capabilities, according to the Turkish Defence Ministry. The accord is intended to strengthen military collaboration among the four nations. This agreement reflects a commitment to mutual security and support in defence matters, as stated by officials from the participating countries.",
-        "wordCount": 57
-      },
-      {
-        "title": "Donald Trump Goes Into Graphic Detail About US Senator Jon Husted's Body",
-        "url": "https://www.ndtv.com/world-news/i-looked-at-his-a-donald-trump-goes-into-graphic-detail-about-us-senator-jon-husteds-body-12215621",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-10/pnitcmno_trump-afp_625x300_21_October_26.jpeg",
-        "publishedAt": "2026-10-21T12:26:04Z",
-        "category": "world",
-        "summary": "During a rally in Greenville, North Carolina, former President Donald Trump made graphic comments about Ohio Senator Jon Husted's physique while supporting Republican Senate candidate Michael Whatley. Trump expressed admiration for Husted's body, stating he was \"studying\" it, which drew attention due to the unusual nature of his remarks. Husted is currently campaigning in the midterms.",
+        "summary": "US President Donald Trump stated that the United States might be nearing a peace deal regarding the Ukraine conflict, marking a significant development. He also expressed openness to a high-level meeting with Russia and China to discuss denuclearization, calling such discussions a positive step. However, Trump did not confirm the likelihood of these meetings taking place.",
         "wordCount": 56
       },
       {
-        "title": "Vivek Ramaswamy heckled at campaign event in Ohio over controversial ad featuring Amy Acton's estranged mother",
-        "url": "https://www.hindustantimes.com/trending/us/vivek-ramaswamy-heckled-at-campaign-event-in-ohio-over-controversial-ad-featuring-amy-actons-estranged-mother-101792583899567.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/21/1600x900/logo/Vivek_Ramaswamy_1762334462149_1762334462312_1792583993471_v0Q1_a3a3b304-6299-4531-b17f-2bc4df22bd3e_trlw.jpg",
-        "publishedAt": "2026-10-21T12:17:46Z",
+        "title": "Indian Embassy issues advisory amid France protests as Macron slams Trump",
+        "url": "https://www.indiatoday.in/world/story/indian-embassy-issues-advisory-for-nationals-amid-france-protests-as-macron-slams-trump-3022369-2026-10-22",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/donald-trump-mocked-emmanuel-macron-193720440-original-sixteen-to-nine.jpg?VersionId=qyj60zI_mnnLC_P4dF5xSmFAAubuMivY",
+        "publishedAt": "2026-10-21T23:00:03Z",
         "category": "world",
-        "summary": "Vivek Ramaswamy, a Republican gubernatorial candidate in Ohio, faced heckling at a campaign event due to a controversial ad featuring the estranged mother of his Democratic opponent, Amy Acton. The ad includes accusations from Donna Arthur, claiming her daughter has lied. The incident highlights growing criticism surrounding the campaign strategy as tensions rise in the gubernatorial race.",
-        "wordCount": 57
+        "summary": "The Indian Embassy in Paris has issued an advisory for Indian nationals in France, urging them to remain vigilant and avoid protest areas amid ongoing violent protests and clashes. The advisory comes as fresh rallies and a nationwide strike threaten to escalate unrest over living costs. Localized curfews have also been imposed following recent disturbances.",
+        "wordCount": 55
+      },
+      {
+        "title": "Pak, Turkiye, Qatar, Indonesia sign def pact, experts say ‘Badr MoU’ won’t put New Delhi",
+        "url": "https://timesofindia.indiatimes.com/defence/news/pak-turkiye-qatar-indonesia-sign-def-pact-experts-say-badr-mou-wont-put-new-delhi-jakarta-missile-contracts-in-jeopardy/articleshow/135100751.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135100816,width-1280,height-720,imgsize-87812,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-21T21:53:00Z",
+        "category": "world",
+        "summary": "Turkiye, Qatar, Pakistan, and Indonesia signed the 'Badr Memorandum of Understanding' in Doha to enhance defense cooperation. Experts, including Sudhir Kumar Mishra, expressed that this agreement is unlikely to jeopardize India's recent defense deals with Indonesia concerning advanced weaponry. The focus remains on strengthening regional defense ties without significantly impacting existing agreements between India and Indonesia.",
+        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "Top 10 Scooters September 2026 India - Activa, Jupiter, Access, iQube",
-        "url": "https://bikeadvice.in/top-10-scooters-september-2026-india-activa-jupiter-access-iqube/",
-        "source": "BikeAdvice",
-        "image": "https://bikeadvice.in/wp-content/uploads/2026/04/Simple-Ultra-Electric-Scooter.jpg",
-        "publishedAt": "2026-10-21T12:29:02Z",
+        "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+        "url": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+        "publishedAt": "2026-10-21T22:45:34Z",
         "category": "business",
-        "summary": "In September 2026, Honda Activa achieved a record market share of nearly 42 percent in India’s scooter segment. The total sales for the top 10 scooters reached 842,293 units, reflecting a robust year-over-year growth of 32.5 percent. Other popular models included Jupiter, Access, and iQube, contributing to the overall increase in scooter sales during the month.",
-        "wordCount": 56
-      },
-      {
-        "title": "Core sector output growth hits 30-month high of 7.9% in September, driven by coal, power",
-        "url": "https://www.moneycontrol.com/news/business/core-sector-output-growth-hits-30-month-high-of-7-9-in-september-driven-by-coal-power-14056876.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260520054405_coal.jpg",
-        "publishedAt": "2026-10-21T12:06:15Z",
-        "category": "business",
-        "summary": "India's core sector output growth reached 7.9% in September 2026, the highest in 30 months, up from a revised 5.9% in August. Six of the nine core industries experienced expansion, primarily due to significant increases in coal and power production. However, fertiliser production continued to decline, marking its seventh consecutive month of contraction.",
-        "wordCount": 53
-      },
-      {
-        "title": "FX Daily: Dollar shows fresh vulnerability to oil price drops",
-        "url": "https://think.ing.com/articles/fx-daily-dollar-shows-fresh-vulnerability-to-oil-price-drops/",
-        "source": "ing think",
-        "image": "https://think.ing.com/uploads/hero/_w800h450/Dollar_and_oil_290921.jpg",
-        "publishedAt": "2026-10-21T11:54:49Z",
-        "category": "business",
-        "summary": "The dollar is exhibiting weakness, influenced by recent fluctuations in oil prices and lingering concerns over AI-related issues, particularly following CoreWeave bond instability. Despite this, the EUR/USD remains stable, even as French spreads widen. Market dynamics indicate a potential unwinding of overvalued short-term positions, contributing to the dollar's vulnerability in the current trading environment.",
+        "summary": "Meta is planning to create a new class of non-voting stock to finance its extensive investments in artificial intelligence. This strategy aims to support the company's ambitious AI initiatives as it reported its third-quarter earnings. The introduction of this stock type is part of Meta's broader effort to enhance its AI models and services.",
         "wordCount": 54
+      },
+      {
+        "title": "Judge orders Meta to pay $25 billion in trial related to 8-year-old data privacy scandal",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/judge-orders-meta-to-pay-25-billion-in-trial-related-to-8-year-old-data-privacy-scandal/articleshow/135098967.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135098976,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-21T18:27:00Z",
+        "category": "business",
+        "summary": "A New Mexico state court has mandated that Meta, the parent company of Facebook, pay a $25 billion penalty. This ruling is a result of a prolonged legal dispute related to the Cambridge Analytica data privacy scandal, which occurred nearly eight years ago. The judgment highlights ongoing concerns regarding data privacy and corporate accountability in the tech industry.",
+        "wordCount": 58
+      },
+      {
+        "title": "Meta ordered to pay $25 billion in data misuse case linked to Trump's 2016 campaign",
+        "url": "https://www.indiatoday.in/world/story/meta-ordered-to-pay-25-billion-in-facebook-data-privacy-case-linked-to-trumps-2016-campaign-3022347-2026-10-21",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/meta-enterprise-platform-295117161-16x9_2.jpg?VersionId=oQCjDsZ8x7uSxdGiyIcHKZE08657KOM3",
+        "publishedAt": "2026-10-21T18:18:49Z",
+        "category": "business",
+        "summary": "Meta has been ordered to pay $25 billion in a New Mexico case related to data misuse by Cambridge Analytica during Donald Trump’s 2016 presidential campaign. The now-defunct firm acquired personal information from millions of Facebook accounts without user consent for voter profiling and targeting. This ruling highlights ongoing legal repercussions surrounding data privacy and electoral practices.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "Spotify cracking down on users sharing family plan who don't live in same household",
-        "url": "https://www.ladbible.com/technology/spotify-account-family-plan-household-changes-music-entertainment-132156-20261021",
-        "source": "LADbible",
-        "image": "https://resizer.ladbiblegroup.com/ogimage/v3/assets/bltcd74acc1d0a99f3a/blt10f4c79841aad6e6/6ad8ad9a80763646dca9943f/spotify-music-entertainment-changes.jpg",
-        "publishedAt": "2026-10-21T12:28:06Z",
+        "title": "Strands Hint Today: Answers for Oct. 21, No. 962",
+        "url": "https://www.cnet.com/tech/gaming/todays-nyt-strands-hints-spangram-and-answers-for-wednesday-oct-21-962/",
+        "source": "CNET",
+        "image": "https://www.cnet.com/wp-content/uploads/sites/2/859c9110-e596-432b-8690-95e6102759c9.jpg",
+        "publishedAt": "2026-10-21T18:44:00Z",
         "category": "technology",
-        "summary": "Spotify is tightening its policies on family plan accounts, warning users that sharing accounts with individuals outside the same household will be restricted. The family plan, which accommodates up to six users, is intended for those living at the same address. This move aims to ensure compliance with the service's terms and conditions regarding account sharing.",
-        "wordCount": 56
+        "summary": "The NYT Strands puzzle No. 962 for October 21, 2026, features a theme related to items commonly stored away in homes. The article provides hints, including the spangram, and lists all answers for today’s puzzle. This information is intended to assist players in solving the Strands puzzle effectively and enhance their overall experience.",
+        "wordCount": 53
       },
       {
-        "title": "Football Manager 27 free launch preview - Date, platform & everything you need to know",
-        "url": "https://khelnow.com/gaming/football-manager-27-free-launch-preview-date-platform-202610",
-        "source": "Khel Now",
-        "image": "https://assets.khelnow.com/news/uploads/2026/09/Football-Manager-27-Lead.jpg",
-        "publishedAt": "2026-10-21T12:27:02Z",
+        "title": "Uncovering Chemical Threats and Narcotics in the Field",
+        "url": "https://www.azom.com/article.aspx?ArticleID=25511",
+        "source": "AZoM",
+        "image": "https://www.azom.com/images/Article_Images/ImageForArticle_25511_17899782441929706.jpg",
+        "publishedAt": "2026-10-21T18:24:00Z",
         "category": "technology",
-        "summary": "Football Manager 27 will be available for free from October 29 at 6 PM GMT until November 3, 2026, on PC and Mac. Players can download the game during this period to experience the launch preview. Sports Interactive has confirmed these details, providing an opportunity for fans to engage with the game before its official release.",
+        "summary": "Handheld chemical analyzers enhance the identification of narcotics and chemical threats, enabling field response teams to make safer and more efficient decisions. Industry expert Mike Bates discusses their role in supporting law enforcement, hazmat, and customs operations. These devices facilitate quicker threat identification and bolster confidence in responses, ultimately improving safety and effectiveness in critical situations.",
         "wordCount": 56
-      },
-      {
-        "title": "Next-Generation Xbox Console Could Cost Rs 1.7 Lakh: Report",
-        "url": "https://www.ndtv.com/offbeat/next-generation-xbox-codenamed-project-helix-could-cost-rs-1-7-lakh-report-12215424",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-03/di8gqk4c_as_625x300_07_March_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-10-21T11:54:07Z",
-        "category": "technology",
-        "summary": "The next-generation Xbox console, codenamed 'Project Helix', is estimated to cost between $1,200 (Rs 1.13 lakh) and $1,800 (Rs 1.69 lakh), according to internal estimates. Asha Sharma, who recently succeeded Phil Spencer as Microsoft Gaming CEO, announced the console. Details regarding its specifications and development progress have not yet been disclosed, as reported by Fortune.",
-        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "Four issues Man Utd boss Michael Carrick must overcome against Como after 'toxic culture' claim",
-        "url": "https://www.mirror.co.uk/sport/football/news/man-utd-como-michael-carrick-37794785",
-        "source": "Daily Mirror",
-        "image": "https://i2-prod.mirror.co.uk/article37794918.ece/ALTERNATES/s1200d/0_GettyImages-2301180164.jpg",
-        "publishedAt": "2026-10-21T12:24:00Z",
+        "title": "Aussies provide update on Smith for final day of second Test",
+        "url": "https://www.icc-cricket.com/news/aussies-provide-update-on-smith-for-final-day-of-second-test",
+        "source": "ICC",
+        "image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/aqtb6lh3qlseaiphoxkl",
+        "publishedAt": "2026-10-21T23:06:54Z",
         "category": "sports",
-        "summary": "Manchester United will face Como in the Champions League on Wednesday, with manager Michael Carrick under significant pressure following claims of a \"toxic culture\" within the club. Carrick must address four key issues to secure a much-needed victory, as United has only won two of their last ten matches across all competitions, intensifying the urgency for a positive result.",
-        "wordCount": 59
-      },
-      {
-        "title": "Steve Smith joins Ricky Ponting, Allan Border in elite Australian club, fifth-fastest to 11K Test runs",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/steve-smith-joins-ricky-ponting-allan-border-in-elite-australian-club-fifth-fastest-to-11k-test-runs/articleshow/135092159.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135092436,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-21T12:23:00Z",
-        "category": "sports",
-        "summary": "Steve Smith achieved a significant milestone by becoming the third Australian and the 12th player globally to score 11,000 runs in Test cricket. This accomplishment occurred during the second Test against South Africa. Smith joins legends Ricky Ponting and Allan Border in this elite group, marking him as the fifth-fastest player to reach this landmark in Test history.",
+        "summary": "Australia anticipates that Steve Smith will be ready to bat on the final day of the second Test against South Africa in Gqeberha. Smith did not bat late on the fourth day due to injury concerns, but the team remains optimistic about his fitness. Australia aims to secure a draw in the match as they face South Africa.",
         "wordCount": 58
       },
       {
-        "title": "‘Gutless’: Aussies ‘throw in the towel’ as follow-on disaster has stars ‘playing for their careers’",
-        "url": "https://www.foxsports.com.au/cricket/australia/gutless-aussies-throw-in-the-towel-as-followon-disaster-has-stars-playing-for-their-careers/news-story/6f3ead805e9fdb3de3f823f04a91509a",
-        "source": "Fox Sports",
-        "image": "https://content.api.news/v3/images/bin/f9592d7567c424c6a0242788417e3aed",
-        "publishedAt": "2026-10-21T11:55:49Z",
+        "title": "How to watch IND vs NZ T20I 2026 live: Start time, TV channels and streaming details for India tour of New Zealand",
+        "url": "https://sports.yahoo.com/articles/watch-ind-vs-nz-t20i-223001968.html",
+        "source": "Yahoo Sports",
+        "image": "https://s.yimg.com/lo/mysterio/api/91c3cfa73327221fefe0ff7752df6a3411d8de9349dbf6ef70a7e3380cd44783/lightyear_networkapi/resizefill_w1200_h675%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_cricket_news_articles_506%2Ffd64e329aff9ba6442df5342b9091407",
+        "publishedAt": "2026-10-21T22:30:01Z",
         "category": "sports",
-        "summary": "Australia's batting performance at St George’s Park has been criticized as \"pretty gutless\" by former South African bowler Vernon Philander. The team faces pressure, with players reportedly \"playing for their careers\" following a disappointing follow-on. Despite the absence of injured star Steve Smith, the Australian squad's struggles have raised concerns about their future performance and competitiveness.",
-        "wordCount": 56
+        "summary": "India will start a five-match T20I series against New Zealand on October 22, 2026. Fans can watch the matches live through various TV channels and streaming platforms. Specific details regarding start times and broadcasting options will be provided to ensure viewers can follow the series. This information is essential for those interested in watching the games live.",
+        "wordCount": 57
+      },
+      {
+        "title": "Mikel Arteta provides worrying Bukayo Saka update after Arsenal star forced off",
+        "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-bukayo-saka-arsenal-37797576",
+        "source": "Daily Mirror",
+        "image": "https://i2-prod.mirror.co.uk/article37797649.ece/ALTERNATES/s1200d/1_Screenshot-2026-10-21-at-224853.jpg",
+        "publishedAt": "2026-10-21T21:59:00Z",
+        "category": "sports",
+        "summary": "Bukayo Saka was substituted due to injury just 10 minutes into Arsenal's 2-2 draw against Bayern Munich in the Champions League. Manager Mikel Arteta expressed concern over Saka's condition, highlighting the potential impact on the team. The extent of the injury remains unclear, and further assessments will determine Saka's availability for upcoming matches.",
+        "wordCount": 53
       }
     ],
     "health": [
       {
-        "title": "Why OR air purification fails to reduce surgical infections",
-        "url": "https://medicalbuyer.co.in/why-or-air-purification-fails-to-reduce-surgical-infections/",
-        "source": "Medical Buyer",
-        "image": "https://medicalbuyer.co.in/wp-content/uploads/2026/10/Operating-room-airflow-beyond-filtration-1000x600.png",
-        "publishedAt": "2026-10-21T11:41:32Z",
+        "title": "Why AI Must Contextualize, Not Automate, Crisis Hotlines",
+        "url": "https://hitconsultant.net/2026/10/21/time-for-crisis-hotline-to-change-jeremy-kreyling-neuroflow-ai-context-suicide-prevention/",
+        "source": "HIT Consultant",
+        "image": "https://hitconsultant.net/wp-content/uploads/2026/10/Jeremy-1-320x320-1.png",
+        "publishedAt": "2026-10-21T17:44:24Z",
         "category": "health",
-        "summary": "A study involving over 110,000 surgeries revealed that advanced air purification and sterilization systems in operating rooms did not lower rates of surgical site infections, postoperative complications, or mortality. The findings indicate that hospitals should prioritize preventing direct contamination of surgical wounds instead. This research was published in the journal Anesthesiology, highlighting ongoing concerns about surgical site infections.",
+        "summary": "NeuroFlow SVP Jeremy Kreyling emphasizes the importance of contextualizing AI in crisis hotlines rather than automating responses. He argues that AI should synthesize patient context before outreach, while advocating against the use of voice AI in these sensitive situations. The role of hotline responders, typically clinicians, is crucial for providing immediate support to members identified as at risk.",
         "wordCount": 58
       },
       {
-        "title": "Researchers identify subtype of depression linked to body's internal clock",
-        "url": "https://health.economictimes.indiatimes.com/news/industry/researchers-identify-subtype-of-depression-linked-to-bodys-internal-clock/135091339",
-        "source": "ET HealthWorld",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135091339,imgsize-28204,width-1200,height=627,overlay-ethealth,resizemode-75/industry/researchers-identify-subtype-of-depression-linked-to-bodys-internal-clock.jpg",
-        "publishedAt": "2026-10-21T11:39:57Z",
+        "title": "You don’t need 10,000 steps a day to protect your heart",
+        "url": "https://www.earth.com/lifestyle/you-dont-need-10000-steps-a-day-to-protect-your-heart/",
+        "source": "Earth.com",
+        "image": "https://www.earth.com/img/16x9/1920/media-2026/2026/10/21133652/daily-steps-1.jpg",
+        "publishedAt": "2026-10-21T17:39:12Z",
         "category": "health",
-        "summary": "Researchers have identified a new subtype of depression termed 'circadian depression', associated with the body's 24-hour internal clock that regulates sleep-wake cycles. This discovery, resulting from clinical and genetic analyses, may impact treatment efficacy and patient outcomes. Understanding this subtype could lead to more tailored approaches in managing depression, enhancing the effectiveness of therapeutic interventions.",
+        "summary": "A new cardiology statement indicates that walking 7,000 steps daily may provide most heart health benefits, challenging the common 10,000-step guideline. Research shows significant health advantages can be achieved with lower step counts. This finding suggests that individuals aiming for better cardiovascular health may not need to reach the higher target, making exercise more accessible.",
         "wordCount": 55
       },
       {
-        "title": "As Ebola spreads in Congo, grieving families face a growing mental health toll",
-        "url": "https://www.thehindu.com/sci-tech/health/as-ebola-spreads-in-congo-grieving-families-face-a-growing-mental-health-toll/article71607188.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/lqysqh/article71607223.ece/alternates/LANDSCAPE_1200/2026-10-21T045618Z_1772179031_RC2G4OAZODI8_RTRMADP_3_HEALTH-EBOLA-NIGERIA.JPG",
-        "publishedAt": "2026-10-21T11:23:59Z",
+        "title": "Urinary haloacetic acid concentrations and asthenozoospermia risk: a case-control study in China",
+        "url": "https://www.nature.com/articles/s41370-026-00997-x?error=cookies_not_supported&code=cf19d94a-7432-4e53-95ea-2545406cde74",
+        "source": "Nature",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41370-026-00997-x/MediaObjects/41370_2026_997_Figa_HTML.png",
+        "publishedAt": "2026-10-21T16:27:29Z",
         "category": "health",
-        "summary": "Ebola's resurgence in eastern Congo is causing significant psychological distress among grieving families, exacerbated by stigma and fear. A schoolteacher, whose five relatives were diagnosed, expressed deep concern for their well-being. The outbreak disrupts traditional mourning practices, intensifying the emotional burden. Families face isolation and heightened anxiety as they navigate the challenges posed by the disease and community perceptions.",
-        "wordCount": 59
+        "summary": "A case-control study in China investigated the association between urinary haloacetic acids (HAAs) and asthenozoospermia risk. Analyzing 135 cases and 270 controls, higher levels of trichloroacetic acid (TCAA) and dichloroacetic acid (DCAA) were linked to increased risk. Co-exposure to both compounds showed a 2.62-fold higher risk, indicating significant joint effects on male reproductive health.",
+        "wordCount": 54
       }
     ],
     "science": [
       {
-        "title": "5 surprising health benefits of playing volleyball",
-        "url": "https://www.newsbytesapp.com/news/lifestyle/playing-volleyball-can-do-this-to-your-health/story",
+        "title": "Study finds solar system may destabilize within 3 billion years",
+        "url": "https://www.newsbytesapp.com/news/science/study-finds-solar-system-may-destabilize-within-3-billion-years/tldr",
         "source": "NewsBytes",
-        "image": "https://i.cdn.newsbytesapp.com/images/l12620261021153220.jpeg",
-        "publishedAt": "2026-10-21T10:03:16Z",
+        "image": "https://cf-cdn.newsbytesapp.com/assets/icons/2/favicon-16x16.png",
+        "publishedAt": "2026-10-22T00:02:25Z",
         "category": "science",
-        "summary": "Playing volleyball provides several health benefits beyond enjoyment. The sport promotes cardiovascular health through constant movement, including sprints, jumps, and lateral actions that elevate heart rates. This aerobic activity strengthens heart muscles and enhances circulation. Additionally, volleyball can improve coordination, boost mental health, and foster social connections, making it a comprehensive exercise option for overall well-being.",
-        "wordCount": 56
-      },
-      {
-        "title": "Why Nasa astronauts are studying tumours, printing blood vessels in space",
-        "url": "https://www.indiatoday.in/science/story/iss-astronauts-cancer-research-bioprinting-nasa-spacewalk-expedition75-medical-3021796-2026-10-21",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/why-nasa-astronauts-are-studying-tumours--printing-blood-vessels-in-space-210904197-16x9_0.jpeg?VersionId=1.sLsFuoEy6DWpJ6gd_oV64_gqXLNGIL",
-        "publishedAt": "2026-10-21T09:37:30Z",
-        "category": "science",
-        "summary": "NASA astronauts on the International Space Station (ISS) are conducting research on cancer and printing blood vessel cells. This work aims to advance medical knowledge and improve healthcare on Earth. The experiments in microgravity may provide insights into tumor behavior and vascular development, potentially benefiting future space missions and contributing to advancements in medical treatments for various conditions.",
+        "summary": "A recent study indicates that the Solar System may destabilize within 3 billion years, significantly sooner than previously believed. As the Sun ages and transitions to a white dwarf, it will lose mass in unpredictable bursts, potentially disrupting the gravitational balance that maintains planetary orbits. This finding challenges established views regarding the long-term stability of our Solar System.",
         "wordCount": 58
       },
       {
-        "title": "NASA’s Perseverance Mars rover just shattered the all-time off-world driving record",
-        "url": "http://www.sciencedaily.com/releases/2026/10/261020084818.htm",
-        "source": "Science Daily",
-        "image": "https://www.sciencedaily.com/images/1920/nasa-perseverance-rover-on-mars.webp",
-        "publishedAt": "2026-10-21T09:24:01Z",
+        "title": "JWST detects heavy elements near Milky Way’s central black hole",
+        "url": "https://ua.news/en/technologies/jwst-viiaviv-vazhki-elementi-bilia-chornoyi-diri-v-tsentri-chumatskogo-shliakhu-live-science",
+        "source": "UA.NEWS",
+        "image": "https://cdn-cabinet.ua.news/uploads/images/jwst_vyyavyv_vazhki_elementy_bilya_chorn_1792618944924.webp",
+        "publishedAt": "2026-10-21T21:48:01Z",
         "category": "science",
-        "summary": "NASA’s Perseverance rover has set a new record for off-world driving, surpassing Opportunity’s 28.06-mile mark in just five and a half years. This achievement, reached on its 2,006th Martian day, highlights Perseverance's advanced self-driving capabilities. The rover is currently exploring some of the oldest rocks in the solar system, seeking evidence of ancient Martian environments that may have supported life.",
-        "wordCount": 60
+        "summary": "The James Webb Space Telescope has identified heavy elements in gas surrounding Sagittarius A*, the supermassive black hole at the Milky Way's center. This discovery indicates that the composition of the detected gas closely resembles that of nearby stars. The findings contribute to understanding the chemical environment around black holes and the processes influencing star formation in the galaxy.",
+        "wordCount": 59
+      },
+      {
+        "title": "An affinity for warm climes has helped crocs thrive for eons",
+        "url": "https://www.devdiscourse.com/article/international/3996014-an-affinity-for-warm-climes-has-helped-crocs-thrive-for-eons",
+        "source": "Devdiscourse",
+        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_11_6036339.jpg&width=920&format=jpeg",
+        "publishedAt": "2026-10-21T21:00:16Z",
+        "category": "science",
+        "summary": "Crocodilians, including modern crocodiles, alligators, caimans, and gharials, have thrived for over 240 million years. Recent research highlights their affinity for warm climates as a key factor in their evolutionary success. This adaptability has allowed them to survive various environmental changes and challenges throughout history, contributing to their status as one of the most enduring groups of reptiles.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "Arijit Singh’s ₹11.8 lakh concert package sells out fast; Diljit Dosanjh keeps ticket prices capped at ₹18,000",
-        "url": "https://www.hindustantimes.com/entertainment/music/arijit-singh-11-8-lakh-concert-package-sells-out-fast-diljit-dosanjh-keeps-ticket-prices-capped-at-18000-101792580298816.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/21/1600x900/logo/Diljit_Dosanjh_Arijit_Singh_1792581341996_AOUQ_1792581345441_sF4E_53001b08-bf08-4e2a-8397-69890cbd3410_VXh4.jpg",
-        "publishedAt": "2026-10-21T12:05:59Z",
+        "title": "From Kerala to the Victoria’s Secret runway: Why Ravleen Varghese is making waves in international media",
+        "url": "https://timesofindia.indiatimes.com/life-style/fashion/buzz/from-kerala-to-the-victorias-secret-runway-why-ravleen-varghese-is-making-waves-in-international-media/photostory/135098111.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135098114,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-22T00:30:00Z",
         "category": "entertainment",
-        "summary": "Arijit Singh and Diljit Dosanjh are set to perform across India, with significant differences in ticket prices. Arijit’s highest concert package is priced at ₹11.8 lakh and has sold out quickly. In contrast, Diljit has limited his top ticket price to ₹18,000, making it more accessible for fans. Both artists aim to reach diverse audiences nationwide.",
-        "wordCount": 56
-      },
-      {
-        "title": "'He Embarrassed Her': Vijay Deverakonda Trolled For Saying Rashmika Mandanna Asked Him To Marry Her '100 Times'",
-        "url": "https://www.ndtv.com/entertainment/he-embarrassed-her-vijay-deverakonda-trolled-for-saying-rashmika-mandanna-asked-him-to-marry-her-100-times-12215464",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-10/m4r2u5h8_rashmika_625x300_21_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-10-21T12:00:28Z",
-        "category": "entertainment",
-        "summary": "Rashmika Mandanna disclosed that she proposed marriage to Vijay Deverakonda multiple times over a year before they decided to tie the knot. This revelation was made in the trailer for the upcoming episode of \"Koffee With Karan 9.\" The discussion has led to mixed reactions online, with some comparing it to the relationship dynamics of Ranveer Singh and Deepika Padukone.",
-        "wordCount": 60
-      },
-      {
-        "title": "Horoscope Tomorrow, October 22, 2026: On this day, a change in perspective may reveal an option you had not previously considered",
-        "url": "https://www.hindustantimes.com/astrology/horoscope/horoscope-tomorrow-october-22-2026-on-this-day-a-change-in-perspective-may-reveal-an-option-you-had-not-previously-considered-101792420668253.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/19/1600x900/logo/Horoscope_Tomorrow_1792421842258_SdEh_1792421842430_Y2mZ_45fa9c2a-6008-483c-91e0-7ca5cde584cb_4Xwk.jpeg",
-        "publishedAt": "2026-10-21T11:33:19Z",
-        "category": "entertainment",
-        "summary": "On October 22, 2026, horoscopes suggest a shift in perspective may uncover previously overlooked options. The day encourages individuals to detach from distractions and reflect on essential matters. Clarity may arise through independent work or reevaluating personal decisions. Emphasis is placed on allowing oneself to progress at a comfortable pace, rather than adhering to external pressures or expectations.",
+        "summary": "Ravleen Varghese, a 25-year-old model from Kodumon, Kerala, made history by walking the runway at the 2026 Victoria’s Secret Fashion Show in Los Angeles on October 18. She is the first Malayali model to participate in the iconic event. Varghese's journey in fashion began at 18 while studying at the National Institute of Fashion Technology in New Delhi.",
         "wordCount": 58
+      },
+      {
+        "title": "Virgo Horoscope Today: October 22, 2026",
+        "url": "https://www.vogue.in/content/virgo-horoscope-today-october-22-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
+        "publishedAt": "2026-10-22T00:20:00Z",
+        "category": "entertainment",
+        "summary": "On October 22, 2026, Virgos may reflect on recent emotional fulfillment, prioritizing deeper meaning in their lives. This focus on what truly matters has shaped their experiences. As they navigate current influences, Virgos are encouraged to continue seeking emotional satisfaction and personal significance, ensuring their choices align with their values and aspirations for a more meaningful existence.",
+        "wordCount": 57
+      },
+      {
+        "title": "Pisces Horoscope Today: October 22, 2026",
+        "url": "https://www.vogue.in/content/pisces-horoscope-today-october-22-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
+        "publishedAt": "2026-10-22T00:20:00Z",
+        "category": "entertainment",
+        "summary": "On October 22, 2026, Pisces individuals are encouraged to take time for themselves to restore and recharge. This period of self-reflection has led to a revitalized intuition, which is described as sparkling and bright. The horoscope emphasizes the importance of personal space in regaining a sense of well-being and clarity in life, suggesting positive developments ahead.",
+        "wordCount": 56
       }
     ]
   }
