@@ -1,227 +1,197 @@
 {
-  "updatedAt": "2026-10-28T00:31:11.263Z",
+  "updatedAt": "2026-10-28T12:31:09.171Z",
   "categories": {
     "world": [
       {
-        "title": "Putin warns against excluding Russia from gas market, hints at Arctic deal with US",
-        "url": "https://timesofindia.indiatimes.com/world/europe/putin-warns-against-excluding-russia-from-gas-market-hints-at-arctic-deal-with-us/articleshow/135234235.cms",
+        "title": "Flavio Bolsonaro Flees To US After Losing Brazil Election",
+        "url": "https://www.ndtv.com/world-news/flavio-bolsonaro-lands-in-us-after-losing-brazil-election-reports-12245887",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-10/o3fgkn9_flavio-bolsonaro-_625x300_28_October_26.jpeg",
+        "publishedAt": "2026-10-28T00:21:15Z",
+        "category": "world",
+        "summary": "Flavio Bolsonaro, the defeated right-wing presidential candidate and son of former President Jair Bolsonaro, has reportedly fled to the United States after losing the election. This departure occurred despite a court order prohibiting him from leaving Brazil. US media outlets, including CNN and the Washington Post, confirmed his arrival late Tuesday, although his exact landing location remains undisclosed.",
+        "wordCount": 58
+      },
+      {
+        "title": "'You Understand Who You're Dealing With?': Cuba Minister, US Envoy Trade Barbs In Fiery UN Clash",
+        "url": "https://www.news18.com/world/cuban-foreign-minister-bruno-rodriguez-parrilla-us-envoy-mike-waltz-trade-barbs-in-fiery-unga-clash-ws-l-10400569.html",
+        "source": "News18",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/10/clash-2026-10-12b2274fbc5c1a0d75439b81395b7e45-1200x675.jpg",
+        "publishedAt": "2026-10-27T23:34:16Z",
+        "category": "world",
+        "summary": "A heated exchange between US and Cuban representatives interrupted a UN General Assembly debate regarding the US embargo on Cuba. The confrontation escalated into a shouting match, leading to a suspension of the discussion. The incident highlighted ongoing tensions between the two nations, with both sides trading barbs and emphasizing their differing perspectives on the embargo's impact.",
+        "wordCount": 57
+      },
+      {
+        "title": "Flavio Bolsonaro flees Brazil after Lula defeat, US offers visas to family",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/flavio-bolsonaro-flees-brazil-after-lula-defeat-us-offers-visas-to-family/articleshow/135247888.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135234323,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-27T12:27:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135247962,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-27T23:20:00Z",
         "category": "world",
-        "summary": "Russian President Vladimir Putin cautioned that excluding Russia from the global gas market could lead to serious repercussions. He also indicated a willingness to explore potential cooperation with the United States regarding resources in the Arctic. Putin's remarks were made during a summit focused on gas markets, emphasizing Russia's significant role in global energy discussions.",
-        "wordCount": 55
-      },
-      {
-        "title": "Iran security chief meets Supreme Leader after talks with Mecca pact countries",
-        "url": "https://www.reuters.com/world/asia-pacific/iran-security-chief-meets-supreme-leader-after-talks-with-mecca-pact-countries-2026-10-27/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/JHT6CSSLLFLHNKINVQ4DQLINVY.jpg?auth=d4600a8bba45385d3374bfd0a33c20268737028dc768204a5c069961732e8582&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-10-27T12:16:06Z",
-        "category": "world",
-        "summary": "Iranian Security Council chief Mohsen Rezaei met with Supreme Leader Ayatollah Mojtaba Khamenei on Tuesday, marking Khamenei's first public appearance since his succession in March. This meeting followed Rezaei's discussions with representatives from Saudi Arabia, Turkey, and Pakistan regarding the Mecca pact. The talks aimed to address regional cooperation and security issues among the involved nations.",
-        "wordCount": 56
-      },
-      {
-        "title": "Two Britons charged in connection with assisting Iran over U.K. airbase incident",
-        "url": "https://www.thehindu.com/news/international/two-men-charged-with-uk-national-security-offences-over-incident-at-us-run-military-base-in-england/article71630852.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/m6ahh9/article71630904.ece/alternates/LANDSCAPE_1200/Britain-Security-Arrests_91269.jpg",
-        "publishedAt": "2026-10-27T10:36:40Z",
-        "category": "world",
-        "summary": "Two London men, Nouman Essghir and Mohmed Ahmad Abdulkarim, both 24, have been charged under the U.K. National Security Act related to a suspected plot at RAF Fairford on September 27, 2026. The charges come amid heightened national security tensions linked to Iran. The incident is part of ongoing concerns regarding security at U.K. military installations.",
-        "wordCount": 56
+        "summary": "Brazilian senator Flavio Bolsonaro has left Brazil for the United States following his defeat in the presidential election to incumbent Luiz Inacio Lula da Silva. He is currently in Miami with his family. In response to the situation, the US government has offered visas to Bolsonaro's family, facilitating their stay in the country after the electoral loss.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "Here's what Jio Platforms paid in legal fees for its ₹30,000 crore IPO",
-        "url": "https://www.barandbench.com/news/heres-what-jio-platforms-paid-in-legal-fees-for-its-30000-crore-ipo",
-        "source": "Bar and Bench",
-        "image": "https://media.assettype.com/barandbench%2F2026-06-20%2Fp8vdbox1%2FChatGPT-Image-Jun-20-2026-013635-PM.png?rect=0%2C0%2C1536%2C806&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-10-27T12:20:15Z",
-        "category": "business",
-        "summary": "Jio Platforms incurred significant legal fees for its ₹30,000 crore IPO, with five law firms, including Shardul Amarchand Mangaldas, Cyril Amarchand Mangaldas, and Khaitan & Co., providing counsel. In comparison, legal fees represented 5.88 percent of Swiggy's IPO expenses and 5.02 percent for Vishal Mega Mart's, while Life Insurance Corporation's fees accounted for 3.60 percent of its expenses.",
-        "wordCount": 58
-      },
-      {
-        "title": "Larsen & Toubro Q2 Results: Profit surges 33% YoY to Rs 5,202 crore, revenue grows 16%",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/larsen-toubro-q2-results-profit-surges-33-yoy-to-rs-5202-crore-revenue-grows-16/articleshow/135233297.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-135233331,width-1200,height-900,imgsize-304848,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-10-27T12:09:00Z",
-        "category": "business",
-        "summary": "Larsen & Toubro reported a 33% year-on-year increase in consolidated profit after tax for Q2, reaching Rs 5,202 crore. Revenue grew by 16%, attributed to strong performance across various sectors. The company also achieved its highest quarterly order inflow and noted substantial international participation in its orders for the quarter ending September 30, 2026.",
-        "wordCount": 54
-      },
-      {
-        "title": "L&T Q2 Print: Net Profit, Revenue Beat Estimates; Orderbook Jumps 28%",
-        "url": "https://www.ndtvprofit.com/business/l-t-q2-print-net-profit-revenue-beat-estimates-orderbook-jumps-28-12243192",
+        "title": "Stock Market Today: All You Need To Know Going Into Trade On Oct 28",
+        "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-oct-28-12245321",
         "source": "NDTV Profit",
-        "image": "https://c.ndtvimg.com/2026-05/3jggvu4k_larsen-toubro_650x400_05_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-10-27T11:51:07Z",
+        "image": "https://c.ndtvimg.com/2025-12/1e43c555_stock-market-crash-2025-01-08-02-25-24-utc.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-10-28T00:30:01Z",
         "category": "business",
-        "summary": "L&T reported a 33% increase in net profit, reaching Rs 5,202 crore in the second quarter of FY27. Revenue also saw a 16% rise, totaling Rs 78,750 crore. The company's order book grew by 28%, reflecting strong demand and operational performance. These results surpassed market estimates, indicating a positive trajectory for the company's financial health and growth potential.",
-        "wordCount": 58
+        "summary": "On October 28, Indian stock market indices Sensex and Nifty 50 concluded a volatile trading session with little change. Key stocks were highlighted, along with significant brokerage recommendations and a comprehensive trade setup. Market participants are advised to stay informed about ongoing developments and trends that may impact trading decisions as they prepare for the day ahead.",
+        "wordCount": 57
+      },
+      {
+        "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+        "url": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+        "source": "BleepingComputer",
+        "image": "https://www.bleepstatic.com/content/hl-images/2026/10/27/gmo.jpg",
+        "publishedAt": "2026-10-27T23:35:51Z",
+        "category": "business",
+        "summary": "The GMO Group has advised customers to disconnect from the internet and shut down their computers due to a ransomware threat. A threat actor breached the company's Onamae Desktop Cloud and warned of an impending attack. The company confirmed the breach and is urging immediate action to protect customer data and systems from potential ransomware infiltration.",
+        "wordCount": 56
+      },
+      {
+        "title": "Gold rises above $4,050 ahead of Fed rate decision",
+        "url": "https://www.fxstreet.com/news/gold-rises-above-4-050-ahead-of-fed-rate-decision-202610272318",
+        "source": "FXStreet",
+        "image": "https://editorial.fxsstatic.com/images/i/gold-03_Medium.jpg",
+        "publishedAt": "2026-10-27T23:18:03Z",
+        "category": "business",
+        "summary": "Gold prices rose to approximately $4,065 during the early Asian session on Wednesday, supported by declining oil prices. Market participants are closely monitoring the Federal Reserve's policy meeting scheduled for later that day, seeking insights into the future direction of U.S. interest rates. The outcome of this meeting could significantly influence gold market dynamics moving forward.",
+        "wordCount": 56
       }
     ],
     "technology": [
       {
-        "title": "Pokémon Unite to shut down on March 23, 2027: Aeos gem sales stopped, farewell event from November 12",
-        "url": "https://timesofindia.indiatimes.com/technology/gaming/pokmon-unite-to-shut-down-on-march-23-2027-aeos-gem-sales-stopped-farewell-event-from-november-12/articleshow/135234248.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135234337,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-27T12:27:00Z",
+        "title": "Restriction Toggle, Letting China",
+        "url": "https://finance.biggo.com/news/fceda4d0-5201-4eb0-beea-cc34a3b23267",
+        "source": "BigGo Finance",
+        "image": "https://img.biggo.com/imCh_kgfp3UGOq9HBSa8xTau_Jgr5Gmt1grjGVO6Sss/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTEwL2ZjZWRhNGQwLTUyMDEtNGViMC1iZWVhLWNjMzRhM2IyMzI2N18xNzkzMTQ1NjY1X2RlZmF1bHQud2VicA.jpg",
+        "publishedAt": "2026-10-27T23:55:00Z",
         "category": "technology",
-        "summary": "Pokémon Unite will cease operations on March 23, 2027, at 5:30 am IST, affecting both Nintendo Switch and mobile platforms. The Pokémon Company and TiMi Studio Group announced the shutdown, halting Aeos gem sales immediately. A farewell event is scheduled to begin on November 12, allowing players to participate in final activities before the game's closure.",
+        "summary": "Apple released iOS 27.2 on October 27, introducing a new feature for China-market users. The update includes a \"Restrict Motion Data\" option found under Settings—Privacy & Security—Motion & Fitness. This feature allows users to manage their motion data settings more effectively, reflecting Apple's ongoing adjustments to comply with local regulations and user privacy preferences in China.",
         "wordCount": 56
       },
       {
-        "title": "Xiaomi 18 May Launch With Snapdragon 8 Elite Gen 6 Chipset, Dual 200MP Rear Cameras: All We Know",
-        "url": "https://www.gizbot.com/mobile/news/xiaomi-18-may-launch-with-snapdragon-8-elite-gen-6-chipset-dual-200mp-rear-cameras-all-we-know-129461.html",
-        "source": "Gizbot",
-        "image": "https://images.gizbot.com/img/2026/10/xiaomi-18-lead-no-text-1200x675-32771793096958.jpg",
-        "publishedAt": "2026-10-27T11:30:18Z",
+        "title": "GTA 6's rumored file size ahead of November 19 launch sparks comparisons with previous editions",
+        "url": "https://www.hindustantimes.com/sports/us-sports/gta-6s-rumored-file-size-ahead-of-november-19-launch-sparks-comparisons-with-previous-editions-101793138869526.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/27/1600x900/logo/maxresdefault_1751868653789_1751868660300_1793138994625_84AM_d5db2c40-84c6-459a-8508-e423d31420cc_7BBy.jpg",
+        "publishedAt": "2026-10-27T23:12:33Z",
         "category": "technology",
-        "summary": "Xiaomi is set to launch the Xiaomi 18 on May 18, featuring a Snapdragon 8 Elite Gen 6 chipset and dual 200MP rear cameras. The smartphone is expected to have a battery capacity of up to 7,200mAh. This launch follows Oppo's recent introduction of the Find X10 series, which also includes 200MP camera technology.",
-        "wordCount": 54
+        "summary": "Grand Theft Auto 6 is set to launch on November 19, with preloading available from November 12. The game, the first mainline entry in nearly 13 years, has generated buzz regarding its rumored file size, prompting comparisons with previous editions. As the release date approaches, anticipation continues to build among fans eager to experience the new installment.",
+        "wordCount": 57
       },
       {
-        "title": "This is Windows 11's revised internet speed test: Here's how to use the new built-in solution that works without a browser",
-        "url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-is-getting-a-built-in-internet-speed-test-that-works-without-a-browser",
-        "source": "Windows Central",
-        "image": "https://cdn.mos.cms.futurecdn.net/FnHH2iFignFxTxWFGdajnQ-1684-80.jpg",
-        "publishedAt": "2026-10-27T11:30:00Z",
+        "title": "GTA VI May Require 210 GB of Storage on PlayStation 5",
+        "url": "https://mezha.ua/en/news/gta-vi-na-ps5-mozhe-potrebuvati-210-gb-vilnogo-miscya-316609/",
+        "source": "Mezha",
+        "image": "https://img.mezha.ua/mezha/images/doc/9/a/331895/9a8e39549ffccdfe1a64bf1177e36932.jpeg?w=1200&q=85&stamp=1793137453",
+        "publishedAt": "2026-10-27T22:18:00Z",
         "category": "technology",
-        "summary": "Microsoft is introducing a built-in internet speed test tool for Windows 11, replacing the previous Bing redirect. This new feature allows users to check their download speed, upload speed, and ping directly from Quick Settings without needing a browser. The redesigned tool is currently being rolled out in preview as part of the Windows 11 updates.",
-        "wordCount": 56
+        "summary": "Grand Theft Auto VI may require 210 GB of storage on PlayStation 5, as reported by PlayStation Game Size. Preloading for the game is expected to begin on November 12, leading up to its official release on November 19. This size would make it one of the largest modern games in terms of download requirements.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "Ahead of the Chelsea clash: Manchester United settle Carrick's sacking situation",
-        "url": "https://www.goal.com/en/news/before-facing-chelsea-manchester-united-settle-carrick-s-position-on-dismissal/blt547349eb988acdd1",
+        "title": "\"A very sad day\": Arteta speaks after Arsenal's resounding collapse",
+        "url": "https://www.goal.com/en/news/a-very-sad-day-arteta-speaks-after-arsenal-s-shock-collapse/bltc3e3187e295fc0a7",
         "source": "Goal.com",
-        "image": "https://assets.goal.com/images/v3/getty-2302075437/crop/MM5DGMBQGA5DCNRYHA5G433XMU5DAORRGU3A====/GettyImages-2302075437.jpg",
-        "publishedAt": "2026-10-27T12:30:14Z",
+        "image": "https://assets.goal.com/images/v3/getty-2302278759/crop/MM5DGMBQGA5DCNRYHA5G433XMU5DAORSGI4Q====/GettyImages-2302278759.jpg",
+        "publishedAt": "2026-10-28T00:02:26Z",
         "category": "sports",
-        "summary": "Michael Carrick will continue as Manchester United's interim manager for the upcoming Premier League match against Chelsea next Saturday. The club has decided to allow Carrick, aged 45, to lead the team as they seek stability following recent challenges. This decision comes amid discussions regarding the future management of the club and aims to provide continuity during this period.",
+        "summary": "Arsenal manager Mikel Arteta expressed disappointment following his team's unexpected exit from the Carabao Cup, losing to Fleetwood Town, a fourth-tier club. The match concluded with a penalty shootout, which determined the outcome in favor of Fleetwood. Arteta characterized the day as \"very sad,\" reflecting on the significance of the defeat for the club and its supporters.",
+        "wordCount": 57
+      },
+      {
+        "title": "Mikel Arteta facing fierce criticism as Arsenal boss hints at what he told Max Dowman",
+        "url": "https://www.mirror.co.uk/sport/football/news/mikel-arteta-max-dowman-arsenal-37816881",
+        "source": "The Mirror",
+        "image": "https://i2-prod.mirror.co.uk/article37816876.ece/ALTERNATES/s1200d/0_GettyImages-2302289868.jpg",
+        "publishedAt": "2026-10-27T23:06:00Z",
+        "category": "sports",
+        "summary": "Mikel Arteta faced criticism following Arsenal's exit from the Carabao Cup after Max Dowman received a red card during the match against Fleetwood. Arteta expressed a desire to review the incident, highlighting the contentious nature of the decision. The team's performance and Dowman's dismissal have sparked discussions regarding the management's response and the implications for the squad moving forward.",
         "wordCount": 59
-      },
-      {
-        "title": "\"We Will Make This Matchup\": Khamzat Chimaev Vows To Chase Sean Strickland Across Weight Divisions For Rematch",
-        "url": "https://sports.ndtv.com/us/mma/we-will-make-this-matchup-khamzat-chimaev-vows-to-chase-sean-strickland-across-weight-divisions-for-rematch-12243368",
-        "source": "NDTV Sports",
-        "image": "https://c.ndtvimg.com/2026-09/7gcc3b3_khamzat-chimaev_625x300_24_September_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-10-27T12:11:49Z",
-        "category": "sports",
-        "summary": "Khamzat Chimaev has declared his intention to pursue a rematch with UFC middleweight champion Sean Strickland, stating he will follow him across weight divisions, including light heavyweight and heavyweight. This comes amid Strickland's contract dispute with the UFC, which has postponed his title defense against Nassourdine Imavov. Chimaev is determined to make the matchup happen.",
-        "wordCount": 55
-      },
-      {
-        "title": "Barcelona could earn €11 million as PSG consider move for former winger - report",
-        "url": "https://barcauniversal.com/barcelona-could-earn-e11-million-as-psg-consider-move-for-former-winger-report/",
-        "source": "Barca Universal",
-        "image": "https://barcauniversal.com/wp-content/uploads/2026/10/rc-celta-de-vigo-v-real-betis-balompie-laliga-ea-sports-2026-27-1000x600.jpg",
-        "publishedAt": "2026-10-27T11:49:23Z",
-        "category": "sports",
-        "summary": "Paris Saint-Germain is evaluating a transfer for Real Betis winger Ez Abde following Khvicha Kvaratskhelia's serious knee injury. Barcelona could benefit financially, potentially earning €11 million if Abde is sold for €55 million. Reports indicate that PSG is looking to strengthen their attacking options ahead of upcoming matches, with Abde being considered as a viable candidate.",
-        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Air Pollution can harm your kidneys too: Nephrologists explain the link, and what people with CKD must know",
-        "url": "https://www.firstpost.com/health/air-pollution-can-harm-your-kidneys-too-nephrologists-explain-the-link-and-what-people-with-ckd-must-know-14055775.html",
-        "source": "Firstpost",
-        "image": "https://images.firstpost.com/uploads/2026/10/How-air-pollution-may-affect-your-kidneys-and-why-CKD-patients-need-extra-care-2026-10-4061a2505a9aa64b3c58050b78de0e75-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-        "publishedAt": "2026-10-27T12:23:45Z",
+        "title": "Early detection vital in fight against breast cancer: Experts",
+        "url": "https://www.thehansindia.com/news/cities/kurnool/early-detection-vital-in-fight-against-breast-cancer-experts-1136560",
+        "source": "The Hans India",
+        "image": "https://assets.thehansindia.com/h-upload/2026/10/27/1718232-opink.jpg",
+        "publishedAt": "2026-10-27T22:51:09Z",
         "category": "health",
-        "summary": "Air pollution is increasingly recognized as a risk factor for kidney health, particularly in relation to chronic kidney disease (CKD). Nephrologists highlight that prolonged exposure to polluted air can exacerbate kidney issues. Patients with CKD should be aware of the associated risks, warning signs, and necessary precautions to mitigate the impact of air pollution on their health.",
+        "summary": "KMC held a state-level conference, “Holistic Approach to Breast Cancer,” highlighting the importance of early detection, timely medical intervention, and strong family support in fighting breast cancer. Medical experts stressed the need for increased public awareness to address the rising health challenge among women globally. The conference aimed to educate and promote proactive measures against breast cancer.",
         "wordCount": 57
       },
       {
-        "title": "Heated tobacco products damage blood vessels after a single use",
-        "url": "https://theprint.in/feature/heated-tobacco-products-blood-vessels-study-finds/3083090/",
-        "source": "ThePrint",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/10/Cigarettes.jpg",
-        "publishedAt": "2026-10-27T12:14:29Z",
+        "title": "Early breast cancer: How to make space for treatment without losing sight of yourself",
+        "url": "https://www.thehansindia.com/featured/women/early-breast-cancer-how-to-make-space-for-treatment-without-losing-sight-of-yourself-1136522",
+        "source": "The Hans India",
+        "image": "https://assets.thehansindia.com/h-upload/2026/10/27/1718196-cancer.jpg",
+        "publishedAt": "2026-10-27T21:44:20Z",
         "category": "health",
-        "summary": "A study from Johannes Gutenberg University, published in the European Journal of Preventive Cardiology, indicates that heated tobacco products can cause immediate damage to blood vessels and blood cells after just one use. These products, often promoted as safer alternatives to traditional cigarettes, may pose significant health risks, challenging their perceived safety among consumers.",
-        "wordCount": 54
-      },
-      {
-        "title": "Addressing the growing fracture burden",
-        "url": "https://www.hindustantimes.com/ht-insight/public-health/addressing-the-growing-fracture-burden-101793103089433.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/27/1600x900/logo/Osteoporosis_compression_fracture_1737031984427_1793103223408_vJcR_527994ce-89fc-4706-b18e-fc1246d93c08_9J7o.webp",
-        "publishedAt": "2026-10-27T12:13:54Z",
-        "category": "health",
-        "summary": "Osteoporosis is a significant health concern that gradually weakens bones, increasing fracture risk without noticeable symptoms. Often referred to as a \"silent disease,\" it can progress for years undetected. The article, authored by Dr. Ankit Rai from Abbott India, emphasizes the importance of addressing this growing burden and raising awareness about osteoporosis to prevent fractures and related complications.",
-        "wordCount": 58
+        "summary": "Breast cancer treatment impacts various aspects of a woman's life, including daily routines, relationships, and emotional health. It is essential to understand treatment options, manage side effects, and seek appropriate support to maintain quality of life during this challenging journey. Balancing medical care with personal responsibilities can help women navigate their experiences without losing sight of themselves.",
+        "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "\"Britain’s own dinosaur\" mystery solved after 100 years - Scientists identify a new long-clawed predator in Europe",
-        "url": "https://www.moneycontrol.com/science/britain-s-own-dinosaur-mystery-solved-after-100-years-scientists-identify-a-new-long-clawed-predator-in-europe-article-14061401.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261027121137_Britain-dian.jpg",
-        "publishedAt": "2026-10-27T12:13:01Z",
+        "title": "Scientists discover 237-million-year-old fully marine amphibian",
+        "url": "https://www.thehindubusinessline.com/news/science/scientists-discover-first-known-fully-marine-amphibian-that-lived-237-million-years-ago/article71633244.ece",
+        "source": "BusinessLine",
+        "image": "https://bl-i.thgim.com/public/incoming/7373c5/article71633248.ece/alternates/LANDSCAPE_1200/2026-10-27T110003Z_2001584242_RC25BOA3YWU2_RTRMADP_3_SCIENCE-AMPHIBIAN.JPG",
+        "publishedAt": "2026-10-27T19:57:12Z",
         "category": "science",
-        "summary": "A dinosaur fossil housed at London’s Natural History Museum since 1924 has been identified as a new species, Invictibellatrix amberina. This discovery provides insights into megaraptoran evolution and the distribution of these predators across ancient continents. The finding contributes to the understanding of dinosaur diversity in Europe and highlights the significance of long-clawed predators in prehistoric ecosystems.",
+        "summary": "Scientists have discovered a 237-million-year-old fully marine amphibian, characterized by its body armor, which allowed it to thrive in seawater. This finding challenges previous beliefs, as amphibians typically rely on permeable skin for breathing and drinking, a trait that is less effective in saltwater environments. This discovery marks a significant addition to the understanding of amphibian evolution.",
         "wordCount": 57
       },
       {
-        "title": "Who was Bibha Chowdhuri? The Indian physicist who studied cosmic rays and had a star named in her honour",
-        "url": "https://www.educationtimes.com/learning/who-was-bibha-chowdhuri-the-indian-physicist-who-studied-cosmic-rays-and-had-a-star-named-in-her-honour/articleshow/135233085.cms",
-        "source": "Education Times",
-        "image": "https://static.toiimg.com/thumb/msid-135233338,width-1280,height-720,imgsize-103,resizemode-6,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-27T12:01:00Z",
+        "title": "US-Based Startup Faces Backlash For Testing Nighttime Sunlight: \"Idiotic Project\"",
+        "url": "https://www.ndtv.com/science/us-based-startup-faces-backlash-for-testing-nighttime-sunlight-idiotic-project-12245048",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-10/h2qfghp8_space_625x300_27_October_26.jpeg",
+        "publishedAt": "2026-10-27T16:50:03Z",
         "category": "science",
-        "summary": "Bibha Chowdhuri was a pioneering Indian physicist known for her research on cosmic rays and high-energy particles. She made significant contributions to the field during a time when women faced limited opportunities in science. Her work earned her recognition, including a star named in her honor, highlighting her impact on physics and inspiring future generations of scientists.",
-        "wordCount": 57
-      },
-      {
-        "title": "Bats may have first evolved in Europe 60 million years ago, new DNA study reveals",
-        "url": "https://www.moneycontrol.com/science/bats-may-have-first-evolved-in-europe-60-million-years-ago-new-dna-study-reveals-article-14061398.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261027114042_bat.png",
-        "publishedAt": "2026-10-27T11:41:06Z",
-        "category": "science",
-        "summary": "A genomic study of 103 bat species indicates that bats first evolved in Europe approximately 60 million years ago. This finding challenges previous theories regarding their origins, flight capabilities, and echolocation. The research provides new insights into the evolutionary history of bats, highlighting the significance of European habitats in shaping the development of these unique mammals.",
-        "wordCount": 56
+        "summary": "Reflect Orbital, a US-based startup, faces criticism after testing nighttime sunlight in a rural California area. Residents reported seeing a bright light from nearby mountains, leading to backlash against the project. The Federal Communications Commission (FCC) approved the startup's proposal in July to launch a demonstration satellite next year, aiming to showcase innovative lighting technology.",
+        "wordCount": 55
       }
     ],
     "entertainment": [
       {
-        "title": "Janhvi Kapoor says Shikhar Pahariya took break from studies in London and moved to Juhu to be near her after Sridevi’s death",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/janhvi-kapoor-says-shikhar-pahariya-took-break-from-studies-in-london-and-moved-to-juhu-to-be-near-her-after-sridevi-s-death-101793099343035.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/27/1600x900/logo/GHsH7V1XEAAiMmn_1793100435939_cZZP_1793100461803_2oYu_1305531a-9bd0-4d71-97fe-2b44cf687b94_OkEe.jpg",
-        "publishedAt": "2026-10-27T12:11:25Z",
+        "title": "Horoscope Today: October 28, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-october-28-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-10-28T00:30:00Z",
         "category": "entertainment",
-        "summary": "Janhvi Kapoor revealed on Koffee With Karan that Shikhar Pahariya took a break from his studies in London and relocated to Juhu to be closer to her after the death of her mother, Sridevi. Kapoor is set to appear on the show with her co-star Varun Dhawan, discussing her personal life and relationships.",
-        "wordCount": 53
+        "summary": "On October 28, 2026, horoscopes suggest that Leos should embrace structure and patience, despite their aversion to hierarchy and tradition. The guidance encourages living life vibrantly, rather than in monotones. By incorporating a bit of old-school discipline, Leos may find unexpected benefits and progress in various aspects of their lives, leading to positive outcomes and growth.",
+        "wordCount": 56
       },
       {
-        "title": "Ranbir Kapoor has hilarious explanation for Sai Pallavi choosing to become actor over a doctor on Amitabh Bachchan's KBC 18. Watch",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/ranbir-kapoor-has-hilarious-explanation-for-sai-pallavi-choosing-to-become-actor-over-a-doctor-on-amitabh-bachchans-kbc-18-watch-101793091933722.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/27/1600x900/logo/Big_B_Ramayanaa_1793092485676_1Gtn_1793092503395_dA9V_77ed6a01-65cc-4e7c-b5d4-5c5e912ae993_HntW.jpg",
-        "publishedAt": "2026-10-27T12:06:52Z",
+        "title": "Pisces Horoscope Today: October 28, 2026",
+        "url": "https://www.vogue.in/content/pisces-horoscope-today-october-28-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
+        "publishedAt": "2026-10-28T00:20:00Z",
         "category": "entertainment",
-        "summary": "On Kaun Banega Crorepati 18, Sai Pallavi explained her transition from studying medicine to acting, stating, “God wrote it that you act.” This response left host Amitabh Bachchan puzzled. Ranbir Kapoor, present during the discussion, added a humorous twist to the conversation, highlighting the unexpected nature of her career choice. The exchange showcased lighthearted banter among the participants.",
-        "wordCount": 58
+        "summary": "Today's horoscope for Pisces emphasizes the importance of choices, highlighting that outcomes stem from decisions rather than consequences. It encourages a shift in perspective, suggesting that even minor changes in wording can alter perceptions of situations. Instead of worrying about making the 'wrong' choice, Pisces is advised to embrace their decisions and focus on positive results.",
+        "wordCount": 56
       },
       {
-        "title": "Trivia and puzzle app dubdub raises seed funding led by 3one4 Capital, Antler and Stellaris",
-        "url": "https://entrackr.com/snippets/trivia-and-puzzle-app-dubdub-raises-seed-funding-led-by-3one4-capital-antler-and-stellaris-12758123",
-        "source": "Entrackr",
-        "image": "https://img-cdn.publive.online/fit-in/1200x675/entrackr/media/media_files/2026/10/27/dubdub-2026-10-27-17-08-30.png",
-        "publishedAt": "2026-10-27T12:05:13Z",
+        "title": "Sagittarius Horoscope Today: October 28, 2026",
+        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-october-28-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
+        "publishedAt": "2026-10-28T00:20:00Z",
         "category": "entertainment",
-        "summary": "Trivia and puzzle app dubdub has raised $1.3 million in seed funding, co-led by 3one4 Capital, Antler, and Stellaris Venture Partners. The platform features content in over 20 categories, including cricket, Bollywood, and mythology. The funding will be utilized for hiring in product and engineering, as well as enhancing interactive features and expanding the app's offerings.",
+        "summary": "Sagittarius individuals are poised for a fresh start, with their mind, heart, and soul aligned for new beginnings. While chaos and conflict may linger as an undercurrent, the focus is on personal growth and transformation. This period encourages patience as they await significant changes that could emerge from current situations, fostering hope for positive developments ahead.",
         "wordCount": 56
       }
     ]
