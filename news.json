@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-10-29T12:31:09.042Z",
+  "updatedAt": "2026-10-30T00:31:29.323Z",
   "categories": {
     "world": [
       {
-        "title": "Vance reaches out to Iran hardliner amid Trump's strike threat: Report",
-        "url": "https://www.indiatoday.in/world/story/jd-vance-reaches-out-to-iran-hard-liner-as-trump-weighs-fresh-strikes-report-3027326-2026-10-29",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/donald-trump-and-jd-vance-154341759-16x9.png?VersionId=w0bspPZMKirCFbLGey.O4C5FowY984eM",
-        "publishedAt": "2026-10-29T00:21:29Z",
-        "category": "world",
-        "summary": "US Vice President JD Vance has reached out to Iranian security chief Mohsen Rezaei to explore the possibility of reopening diplomatic negotiations, as directed by President Donald Trump. This initiative comes amid discussions of a potential military strike against Iran. The communication aims to assess whether both parties can establish a framework for restarting talks, according to US officials.",
-        "wordCount": 59
-      },
-      {
-        "title": "A diver searching the bottom of England’s River Wear has pulled up a huge three-legged iron cauldron that lay hidden underwater for hundreds of years, and researchers are still trying to work out how",
-        "url": "https://timesofindia.indiatimes.com/science/archaeology/a-diver-searching-the-bottom-of-englands-river-wear-has-pulled-up-a-huge-three-legged-iron-cauldron-that-lay-hidden-underwater-for-hundreds-of-years-and-researchers-are-still-trying-to-work-out-how-it-got-there/articleshow/135270204.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135270743,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-28T23:29:00Z",
-        "category": "world",
-        "summary": "A diver exploring England’s River Wear discovered a large three-legged iron cauldron, submerged for centuries. Researchers are investigating its origins and historical significance, as it may provide insights into the material culture and ruling dynasties of the area. The find highlights the hidden aspects of community history that lie beneath the surface of modern landscapes.",
-        "wordCount": 55
-      },
-      {
-        "title": "Trump Takes Credit For Netanyahu's Poll Performance, Says He'll 'Take A Look' At Coalition Talks",
-        "url": "https://www.news18.com/world/trump-takes-credit-for-netanyahus-poll-performance-says-hell-take-a-look-at-coalition-talks-ws-l-10402325.html",
+        "title": "US Midterms: Can Democrats Take The Senate? New Poll Shows Blues Ahead In Two Key Races, Two Toss-Ups",
+        "url": "https://www.news18.com/world/us-midterms-can-democrats-take-the-senate-new-poll-shows-blues-ahead-in-two-key-races-two-toss-ups-ws-klrt-10403584.html",
         "source": "News18",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/10/bibi-and-trump-1-2026-10-7a21c536061f062ec711bddb69cd9954-1200x675.jpg",
-        "publishedAt": "2026-10-28T22:28:07Z",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/10/Barack-Obama-Jon-Ossoff-Democrat-Poll-AP-PHOTO-2026-10-a5ba3d2d768e3be407bcea9fd63ff02f-1200x675.jpg",
+        "publishedAt": "2026-10-29T12:12:22Z",
         "category": "world",
-        "summary": "Donald Trump commented on Israeli Prime Minister Benjamin Netanyahu's electoral performance, stating he was in \"pretty good shape\" as early results indicated his bloc leading the opposition. Trump expressed his willingness to \"take a look\" at coalition talks following the elections. His remarks suggest a belief in his influence on Netanyahu's political standing amid the electoral process.",
+        "summary": "CNN polling indicates that Democrats are leading in key Senate races in Michigan and Texas, while Maine and Kansas are classified as toss-ups. With the midterm elections approaching in less than a week, the results of these races could significantly impact the balance of power in the Senate, as both parties vie for control.",
+        "wordCount": 54
+      },
+      {
+        "title": "US First Lady praised for Oleshky relief truce as Moscow strikes Ukrainian commuters",
+        "url": "https://www.reuters.com/world/europe/top-russian-official-takes-us-journalists-into-besieged-ukrainian-city-ahead-2026-10-29/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/GNWERZOTNJKR5EVMMQLRLLZAPA.jpg?auth=6a6150c954074b5cec37dde61415f8ab5f69efe5e6e802f0c847c0cb00e61143&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-10-29T12:11:09Z",
+        "category": "world",
+        "summary": "Russia and Ukraine praised US First Lady Melania Trump for brokering a truce in the Russian-held town of Oleshky. The agreement aims to facilitate the delivery of food and medicines to the area, which is experiencing severe deprivation. Additionally, the truce allows for the evacuation of hundreds of residents, marking a significant humanitarian effort amid ongoing conflict.",
         "wordCount": 57
+      },
+      {
+        "title": "Trump moves to end H-1B visa deference: What it means for Indians stuck in the Green Card backlog",
+        "url": "https://timesofindia.indiatimes.com/world/us/trump-moves-to-end-h-1b-visa-deference-what-it-means-for-indians-stuck-in-the-green-card-backlog/articleshow/135302881.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135303632,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-29T11:20:00Z",
+        "category": "world",
+        "summary": "Trump's recent move to end H-1B visa deference impacts Indian professionals in the U.S., as H-1B extensions are vital for maintaining legal status. This change complicates their journey toward permanent residency, or green cards, amidst an already lengthy backlog. The decision raises concerns for those relying on these extensions to secure their future in the country.",
+        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "Bloomberg, two trading firms agree to pay Trump’s Truth Social for faster access to president’s posts, sources say",
-        "url": "https://www.reuters.com/business/finance/bloomberg-two-trading-firms-agree-pay-trumps-truth-social-faster-access-2026-10-29/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/Q2F2Z2RCPZN67AMO7DNQ47FMYU.jpg?auth=f4c6356cd581ada0470c84550eaac861803262833d10302c6e3cf23bdbc767e6&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-10-29T00:21:00Z",
+        "title": "IndiGo CEO says ‘no choice’ but to consider fare hikes as fuel costs surge",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/indigo-ceo-says-no-choice-but-to-consider-fare-hikes-as-fuel-costs-surge/articleshow/135307300.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135307487,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-29T12:08:00Z",
         "category": "business",
-        "summary": "Truth Social, the social media platform created by President Donald Trump, has partnered with Bloomberg and two Wall Street firms to provide expedited access to the president's posts. This service is reportedly priced at up to $100,000 per month. The arrangement aims to enhance the distribution of Trump's content to interested parties in the financial and news sectors.",
+        "summary": "IndiGo CEO Willie Walsh has indicated that the airline may need to increase ticket prices due to a significant rise in fuel costs, which have surged by 67.2 percent compared to the previous year. Walsh stated that the airline has “no choice” but to consider fare hikes as it navigates the financial pressures stemming from these escalating expenses.",
         "wordCount": 58
       },
       {
-        "title": "Narayana Murthy’s family office makes the most of a listing-day dip with a Rs 119 crore buy",
-        "url": "https://www.financialexpress.com/market/stock-insights/narayana-murthys-family-office-makes-the-most-of-a-listing-day-dip-with-a-rs-119-crore-buy/4371619/",
-        "source": "The Financial Express",
-        "image": "https://images.financialexpressdigital.com/2026/10/aa3_008292.jpg",
-        "publishedAt": "2026-10-28T23:40:00Z",
+        "title": "IndiGo CEO says airline has ‘no choice’ but to raise fares as fuel bill jumps 67%",
+        "url": "https://www.hindustantimes.com/india-news/no-choice-left-but-to-look-to-increase-fares-indigo-ceo-on-very-significant-rise-in-fuel-bill-101793275288653.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/29/1600x900/indigo_ceo_1793275333177_uY0a_1793275333309_lJRA_b38c20a8-7cf2-41da-8313-8d8f634779ab_XsSz.JPG",
+        "publishedAt": "2026-10-29T12:03:22Z",
         "category": "business",
-        "summary": "On October 23, 2026, Narayana Murthy's family office, Catamaran Ventures, purchased shares worth Rs 119 crore in Bonfiglioli Transmissions, which debuted below its issue price. The acquisition included 21,34,318 shares bought in two lots, averaging Rs 581.35 and Rs 534.72. This move contrasted with a previous investment in a precision engineering stock that had significantly increased in value.",
-        "wordCount": 58
-      },
-      {
-        "title": "Gold slips as Warsh questions tight Fed policy, defends 2% target",
-        "url": "https://www.fxstreet.com/news/gold-slips-toward-4-000-as-oil-above-100-clouds-fed-rate-outlook-202610281732",
-        "source": "FXStreet",
-        "image": "https://editorial.fxsstatic.com/images/i/discover-72_Medium.png",
-        "publishedAt": "2026-10-28T19:58:30Z",
-        "category": "business",
-        "summary": "Gold (XAU/USD) prices fell 0.21% on Wednesday, trading at $4,039, following comments from Federal Reserve Chair Kevin Warsh. He stated he cannot label financial conditions as tight, despite the tightening of credit conditions. Warsh also defended the Fed's 2% inflation target, indicating ongoing discussions about monetary policy and its implications for the economy and markets.",
+        "summary": "IndiGo's CEO Willie Walsh announced that the airline must raise fares due to a 67.2% increase in fuel costs, totaling nearly ₹9,967 crore. The airline managed to recover only about 60% of this increase through fares and other measures. IndiGo reported a net loss of ₹1,879 crore for the September quarter, highlighting the financial strain.",
         "wordCount": 55
+      },
+      {
+        "title": "New Electric Scooter Spied Testing With Car-Like 225L Boot Space",
+        "url": "https://www.rushlane.com/new-electric-scooter-spied-testing-with-car-like-225l-boot-space-12559783.html",
+        "source": "RushLane",
+        "image": "https://www.rushlane.com/wp-content/uploads/2026/10/qargos-f9-electric-cargo-scooter-spied-cover.jpg",
+        "publishedAt": "2026-10-29T11:49:48Z",
+        "category": "business",
+        "summary": "The Qargos F9 electric cargo scooter has been spotted testing, featuring a 6.1 kWh battery pack, 225L boot space, and a 120 kg cargo capacity. It offers a range of 150 km, highlighting the growth of India's electric mobility sector. This model represents the expanding genre of electric scooters designed specifically for cargo and delivery purposes.",
+        "wordCount": 56
       }
     ],
     "technology": [
       {
-        "title": "AI-Cited Pages More Often Got Straight To The Answer",
-        "url": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
-        "source": "Search Engine Journal",
-        "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2026/10/ai-cited-pages-question-answer.jpg",
-        "publishedAt": "2026-10-28T20:42:47Z",
+        "title": "I installed One UI 9 on my Galaxy S24; it feels like I got a Galaxy S26 upgrade for free",
+        "url": "https://www.androidpolice.com/installed-one-ui-9-on-galaxy-s24-and-feels-like-galaxy-s26-upgrade-for-free/",
+        "source": "Android Police",
+        "image": "https://static0.anpoimages.com/wordpress/wp-content/uploads/2026/10/several-samsung-galaxy-s24-ultra-phones-surrounding-the-one-ui-9-logo.png?w=1600&h=900&fit=crop",
+        "publishedAt": "2026-10-29T12:00:10Z",
         "category": "technology",
-        "summary": "An analysis by TJ Robertson of 193,507 AI-generated answers revealed that pages cited by AI frequently provided direct answers in their opening lines. The study compared these cited pages to those not cited, finding a smaller difference in directness. The analysis involved two rounds of blind ratings to assess the effectiveness of the responses from various AI platforms.",
-        "wordCount": 58
-      },
-      {
-        "title": "[OPINION] Ice Caves Could Remind Fans Why Minecraft Has 'Mine' in Its Name",
-        "url": "https://beebom.com/ice-caves-could-remind-fans-why-minecraft-has-mine-in-its-name/",
-        "source": "Beebom",
-        "image": "https://static.beebom.com/wp-content/uploads/2026/10/Ice-Caves-Make-Mining-Fun-in-Minecraft.jpg?w=1200&quality=75",
-        "publishedAt": "2026-10-28T20:00:00Z",
-        "category": "technology",
-        "summary": "Minecraft Ice Caves could reinvigorate the mining aspect of the game, enhancing the experience of diamond hunting with icy hazards, hidden ores, and rewards. The article suggests that the thrill of exploration and discovery has diminished over time. By reintroducing exciting cave environments, players may be encouraged to engage more with mining, a core element of Minecraft.",
+        "summary": "Samsung started rolling out One UI 9 for older Galaxy phones in October 2026. An installation on the Galaxy S24 Ultra revealed that many features from the upcoming Galaxy S26, particularly AI tools, are now available on the two-year-old device. The update provides significant enhancements, making the S24 Ultra feel like a newer model with advanced capabilities.",
         "wordCount": 57
       },
       {
-        "title": "Apple introduces touchscreen MacBook Pro with PROLED XDR display",
-        "url": "https://www.thenationalnews.com/future/technology/2026/10/28/macbook-pro-touch-glowing-apple/",
-        "source": "The National",
-        "image": "https://www.thenationalnews.com/resizer/v2/YYDVZVCXC4R3NTUASWVXPSQ3MQ.jpg?auth=c85aac8dc7bf762432f296733efabb3c5869169f7065d3673be824f1c58f3709&smart=true&width=1200&height=630",
-        "publishedAt": "2026-10-28T19:54:53Z",
+        "title": "Flipkart Big Bang Diwali Sale 2026: iPhone 17 at ₹79,999; iPhone Air at ₹99,900 - check offers",
+        "url": "https://www.livemint.com/technology/tech-news/flipkart-big-bang-diwali-sale-2026-iphone-17-at-rs-79-999-iphone-air-at-rs-99-900-check-offers-11793270813184.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/10/29/1600x900/logo/iphone_1793270940736_QhLH_1793270940908_Jlcl_35d76e84-ba43-422c-acbf-d2ab781c58e3_q6pY.png",
+        "publishedAt": "2026-10-29T11:19:11Z",
         "category": "technology",
-        "summary": "Apple has launched its first touchscreen laptop, the MacBook Pro featuring a PROLED XDR display. The announcement was made during an event in Los Angeles, with the company's hardware chief highlighting a new way to interact with content. The device is now available for pre-order, marking a significant addition to Apple's product lineup.",
-        "wordCount": 53
+        "summary": "Flipkart's Big Bang Diwali Sale 2026 commenced on October 28 and will last for 20 days, featuring discounts of up to 60% on various products. The iPhone 17 is priced at ₹79,999, while the iPhone 15 is available for ₹59,999. The sale includes offers on laptops, wearables, and home appliances, enhancing the shopping experience for customers.",
+        "wordCount": 56
+      },
+      {
+        "title": "Cheap Code, Expensive Confidence",
+        "url": "https://www.oreilly.com/radar/cheap-code-expensive-confidence/",
+        "source": "O'Reilly Media",
+        "image": "https://www.oreilly.com/radar/wp-content/uploads/sites/3/2026/10/Cheap-code-expensive-confidence-image-created-with-Gemini-1600x893.jpeg",
+        "publishedAt": "2026-10-29T10:56:22Z",
+        "category": "technology",
+        "summary": "A recent project involved using a coding agent to create Task Viewer, a non-critical plug-in for IBM Bob, aimed at assisting internal users. While it provided convenience, the experience highlighted the importance of selecting appropriate automation tools and developing the necessary expertise to evaluate their effectiveness. This raises concerns about balancing cost-effectiveness with the reliability of automated solutions.",
+        "wordCount": 58
       }
     ],
     "sports": [
       {
-        "title": "Liverpool 1-1 (6-5 p/k) Chelsea, League Cup: Post-match reaction, ratings",
-        "url": "https://weaintgotnohistory.sbnation.com/chelsea-fc-league-cup/173528/liverpool-1-1-6-5-p-k-chelsea-league-cup-post-match-reaction-ratings",
-        "source": "We Ain't Got No History",
-        "image": "https://platform.weaintgotnohistory.sbnation.com/wp-content/uploads/sites/178/2026/10/gettyimages-2301924935.jpg?quality=90&strip=all&crop=0%2C2.5630441301796%2C100%2C78.484168536525&w=1200",
-        "publishedAt": "2026-10-28T22:12:54Z",
+        "title": "Duckett 167 drives England to 386 for 5 in dead rubber",
+        "url": "https://www.cricinfo.com/series/pakistan-odi-tri-series-2026-27-1550706/england-vs-sri-lanka-6th-match-1550718/match-report",
+        "source": "Cricinfo",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/424500/424530.6.jpg",
+        "publishedAt": "2026-10-29T12:22:30Z",
         "category": "sports",
-        "summary": "Liverpool and Chelsea drew 1-1 in the League Cup, with Liverpool winning 6-5 on penalties. Both teams began strongly, but the intensity diminished. Liverpool regained momentum midway through the first half, creating several chances. The match showcased moments of danger but lacked cohesion. Post-match reactions highlighted the efforts of both sides, with ratings reflecting the competitive nature of the encounter.",
-        "wordCount": 60
-      },
-      {
-        "title": "JKB vs KMG Today Match Prediction and Betting Tips, Odds and Live Score",
-        "url": "https://www.thetopbookies.com/betting-tips/cricket/jkb-vs-kmg-29-Oct-2026",
-        "source": "TheTopBookies",
-        "image": "https://api.thetopbk.com/storage/cricket/teams/a-rz--cricket--jb-hRzN/bQ072t7uKW5Zovf1uxgJG2bxpgkdfwF3dU2i0W8h.webp",
-        "publishedAt": "2026-10-28T20:41:11Z",
-        "category": "sports",
-        "summary": "Match 5 of the Nepal Premier League 2026 features Janakpur Bolts (JKB) against Kathmandu Gurkhas (KMG) on October 29 at 12:15 IST. This T20 match marks the first of a double-header. Predictions and betting tips are available, with odds and live scores expected to be updated throughout the game. Fans can follow the action closely.",
+        "summary": "England scored 386 for 5 against Sri Lanka in their ODI Tri-Series match. Ben Duckett led the innings with an impressive 167 runs, supported by Tom Banton's 74. This performance follows a high-scoring match in Rawalpindi, showcasing England's batting strength. The match is part of the ongoing series, although it is considered a dead rubber.",
         "wordCount": 55
       },
       {
-        "title": "Cristiano Ronaldo beats Lionel Messi in B.O.A.T. fan vote, top 10 revealed",
-        "url": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-beats-messi-boat-award-top-ballon-d-or-3027316-2026-10-29",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/cristiano-ronaldo--lionel-messi-281257776-16x9_0.jpg?VersionId=PwGSL8BGHuS.z9tEz3ggtKCB4hxAAn25",
-        "publishedAt": "2026-10-28T20:13:17Z",
+        "title": "Ranji Highlights: 8-fers for Kotian, Bhut; Bengal thrash Kerala",
+        "url": "https://www.cricbuzz.com/cricket-news/140701/ranji-highlights-8-fers-for-kotian-bhut-bengal-thrash-kerala",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1059101/file-image-tanush-kotians-8-for-81-stole-the-show-as-mumbai-inflicted-a-10-wicket-defeat-on-haryana-at-home.jpg",
+        "publishedAt": "2026-10-29T12:22:10Z",
         "category": "sports",
-        "summary": "Cristiano Ronaldo has won the inaugural Ballon d’Or of All Time (B.O.A.T.) fan vote, surpassing Lionel Messi and other football legends. His 2008 season with Manchester United was recognized as the greatest among Ballon d’Or winners, outpacing Messi's record-breaking 2012 campaign. The award was launched by UEFA and France Football to honor exceptional seasons of past winners.",
-        "wordCount": 57
+        "summary": "On Day 4 of the Ranji Trophy, Kotian and Bhut each took eight wickets, leading their teams to victory. Mumbai chased down a 97-run target against Haryana in just 11 overs, with Angkrish Raghuvanshi scoring 67 not out off 39 balls. Bengal secured a dominant win over Kerala, showcasing strong performances throughout the matches.",
+        "wordCount": 54
+      },
+      {
+        "title": "SA vs AUS: Josh Inglis becomes first Australian cricketer to achieve this rare feat in all three formats",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/sa-vs-aus-josh-inglis-becomes-first-australian-cricketer-to-achieve-this-rare-feat-in-all-three-formats/articleshow/135305352.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135309294,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-29T12:16:00Z",
+        "category": "sports",
+        "summary": "Josh Inglis made history as the first Australian cricketer to score centuries in all three formats of the game. He achieved this milestone with his second Test century during the third Test against South Africa at Newlands. Australia was bowled out for 429 runs on Day 3 of the series-deciding match, solidifying Inglis's remarkable accomplishment.",
+        "wordCount": 55
       }
     ],
     "health": [
       {
-        "title": "Experts in stroke medicine emphasise on timely treatment",
-        "url": "https://www.thehindu.com/news/national/tamil-nadu/experts-in-stroke-medicine-emphasise-on-timely-treatment/article71637409.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/news/national/tamil-nadu/2zge93/article71637407.ece/alternates/LANDSCAPE_1200/Logo%20copy%202%202.jpg",
-        "publishedAt": "2026-10-29T00:00:00Z",
+        "title": "Is your child holding a screen too close? Here's why eye experts are concerned",
+        "url": "https://www.indiatoday.in/amp/health/video/is-your-child-holding-a-screen-too-close-heres-why-eye-experts-are-concerned-3027699-2026-10-29",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/sites/indiatoday/resources/img/default-690x413.png",
+        "publishedAt": "2026-10-29T11:24:28Z",
         "category": "health",
-        "summary": "Chennai stroke experts, led by Sivarajan Thandeswaran, advocate for timely treatment and certification of hospitals as ‘stroke-ready’ to reduce delays in care. They emphasize the importance of addressing lifestyle risks and utilizing telemedicine for rapid response. The call aims to improve patient outcomes by ensuring that individuals can quickly access appropriate medical facilities during a stroke emergency.",
+        "summary": "Dr. Carreen Pakrasi emphasized that children's eye health is affected by screen distance, outdoor exposure, and blinking habits, not just screen time limits. The increasing use of digital devices among children has raised concerns about myopia, or short-sightedness. Experts advocate for healthier visual habits to protect eyesight, highlighting the need for a comprehensive approach to eye care.",
         "wordCount": 57
       },
       {
-        "title": "Ageing muscles lose strength to protect cells, study reveals",
-        "url": "https://www.thehindubusinessline.com/news/science/ageing-muscles-sacrifice-strength-to-protect-cells-study-finds/article71638063.ece",
-        "source": "BusinessLine",
-        "image": "https://bl-i.thgim.com/public/incoming/m0q2qc/article71638064.ece/alternates/LANDSCAPE_1200/Ageing%20muscles.jpg",
-        "publishedAt": "2026-10-28T23:20:04Z",
+        "title": "Bharat Biotech Slashes Malaria Vaccine Price by Forty Percent",
+        "url": "https://theindianpractitioner.com/bharat-biotech-slashes-malaria-vaccine-price-by-forty-percent/",
+        "source": "The Indian Practitioner",
+        "image": "https://theindianpractitioner.com/wp-content/uploads/2026/10/Bharat-Biotech-Slashes-Malaria-Vaccine-Price-by-Forty-Percent.jpg",
+        "publishedAt": "2026-10-29T10:32:45Z",
         "category": "health",
-        "summary": "A University of Copenhagen study reveals that ageing muscles reduce strength to protect cells from damage. Researchers identified a protective mechanism that limits muscle power. In experiments with mice, partially restoring a key molecule called cardiolipin reversed muscle wasting and prevented early death. This finding offers potential avenues for developing treatments to combat muscle loss associated with ageing.",
-        "wordCount": 58
+        "summary": "Bharat Biotech International Limited (BBIL) has partnered with Gavi, the Vaccine Alliance, and UNICEF to reduce the price of the RTS,S/AS01 malaria vaccine by 40%. This equitable pricing agreement aims to enhance accessibility to the vaccine, which was developed by GSK and is manufactured by BBIL. The move is intended to support global malaria prevention efforts.",
+        "wordCount": 56
       },
       {
-        "title": "What is ‘ferritin face’? How to tell if you have it, and what it means for your looks at 50-plus",
-        "url": "https://www.goodhousekeeping.com/uk/beauty/skincare/a74272223/ferritin-face-at-50-plus/",
-        "source": "Good Housekeeping",
-        "image": "https://hips.hearstapps.com/hmg-prod/images/b5a942bd-62bf-4840-b748-9a77941ee6fe.jpg?crop=1.00xw:0.752xh;0,0.163xh&resize=1200:*",
-        "publishedAt": "2026-10-28T18:34:01Z",
+        "title": "Apollo Hospitals Highlights AI",
+        "url": "https://www.passionateinmarketing.com/apollo-hospitals-launches-360-degree-stroke-care/",
+        "source": "Passionate In Marketing",
+        "image": "https://pimwp.s3-accelerate.amazonaws.com/2026/10/Apollo-Hospitals-launches-360-degree-stroke-care.webp",
+        "publishedAt": "2026-10-29T09:26:16Z",
         "category": "health",
-        "summary": "The term \"ferritin face\" is trending on social media, referring to signs of low iron levels that may affect appearance, particularly in individuals over 50. Experts discuss how to identify this condition and its potential implications for looks. The phenomenon raises questions about its validity and relevance, prompting discussions on health and beauty standards among older adults.",
+        "summary": "Apollo Hospitals has showcased its AI-assisted stroke care programme on World Stroke Day, October 29. The initiative focuses on rapid diagnosis, advanced interventions, and rehabilitation to improve patient outcomes. The hospital emphasizes the critical role of timely diagnosis and coordinated treatment in managing strokes effectively. This programme aims to enhance overall care for stroke patients in Hyderabad.",
         "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "Scientists spot new dwarf planet candidate beyond Pluto",
-        "url": "https://www.thehindubusinessline.com/news/science/scientists-spot-icy-object-beyond-pluto-that-could-be-a-new-dwarf-planet/article71638060.ece",
-        "source": "BusinessLine",
-        "image": "https://bl-i.thgim.com/public/incoming/w24osq/article71638061.ece/alternates/LANDSCAPE_1200/2026-10-28T131317Z_640797739_RC2DCOAXKG8U_RTRMADP_3_SPACE-DWARF-PLANET.JPG",
-        "publishedAt": "2026-10-28T23:10:18Z",
+        "title": "US 100th Spacewalk 2026: NASA astronauts including Anil Menon upgrade ISS solar power system | Watch Live",
+        "url": "https://www.moneycontrol.com/science/us-100th-spacewalk-2026-nasa-astronauts-including-anil-menon-upgrade-iss-solar-power-system-watch-live-article-14063658.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261029120518_Spacewalk.jpg",
+        "publishedAt": "2026-10-29T12:07:45Z",
         "category": "science",
-        "summary": "Scientists at Chile's Rubin Observatory have discovered an icy object named 2026 ED138, located beyond Pluto. This newly identified candidate may qualify as a dwarf planet, pending further observations. The object has an estimated diameter of approximately 370 kilometers. If confirmed, it could expand the current list of known dwarf planets in the solar system.",
-        "wordCount": 55
+        "summary": "NASA's U.S. Spacewalk 100 is scheduled for October 29, 2026, featuring astronauts Anil Menon and Joshua Kutryk. They will upgrade the International Space Station's solar power system by installing a new solar array to enhance its energy supply. The event will be livestreamed for public viewing, marking a significant milestone in space exploration and ISS maintenance.",
+        "wordCount": 56
       },
       {
-        "title": "The UK is planning to send giant robotic claws into orbit to grab two dead satellites and drag them into Earth’s atmosphere to burn up, a first-of-its-kind clean-up mission due to launch in 2029, and",
-        "url": "https://timesofindia.indiatimes.com/science/space/the-uk-is-planning-to-send-giant-robotic-claws-into-orbit-to-grab-two-dead-satellites-and-drag-them-into-earths-atmosphere-to-burn-up-a-first-of-its-kind-clean-up-mission-due-to-launch-in-2029-and-the-public-can-help-name-it/articleshow/135269315.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135269960,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-28T21:29:00Z",
+        "title": "NIH selects KGL to develop platform for replication research journal",
+        "url": "https://www.researchinformation.info/news/nih-selects-kgl-to-develop-platform-for-replication-research-journal/",
+        "source": "Research Information",
+        "image": "https://www.researchinformation.info/wp-content/uploads/2026/08/shutterstock_2149270921.jpeg",
+        "publishedAt": "2026-10-29T11:40:03Z",
         "category": "science",
-        "summary": "The UK plans to launch a mission in 2029 using giant robotic claws to capture two defunct satellites and drag them into Earth's atmosphere for incineration. This initiative aims to address the growing issue of satellite debris in increasingly crowded orbits. The project represents a pioneering effort in space clean-up, targeting the removal of inactive satellites.",
-        "wordCount": 56
+        "summary": "The US National Institutes of Health (NIH) has chosen KnowledgeWorks Global (KGL) to create the submission and publishing platform for the Journal of Replication and Reproducibility (JRR). This journal will focus on publishing replication research, null results, and studies aimed at enhancing the transparency and reliability of the scientific record, promoting rigorous scientific practices.",
+        "wordCount": 54
+      },
+      {
+        "title": "How new microscopy platform enables deeper brain imaging",
+        "url": "https://medicalbuyer.co.in/how-new-microscopy-platform-enables-deeper-brain-imaging/",
+        "source": "Medical Buyer",
+        "image": "https://medicalbuyer.co.in/wp-content/uploads/2026/10/How-new-microscopy-platform-enables-deeper-brain-imaging.jpg",
+        "publishedAt": "2026-10-29T10:47:57Z",
+        "category": "science",
+        "summary": "A new microscopy platform developed by Rockefeller University aims to improve brain imaging by addressing limitations of three-photon microscopy. While this technique reduces background fluorescence and allows deeper imaging, it risks overheating and damaging tissue due to high laser power. The new approach seeks to enhance imaging depth without compromising tissue integrity, potentially advancing neuroscience research significantly.",
+        "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Pisces Horoscope Today: October 29, 2026",
-        "url": "https://www.vogue.in/content/pisces-horoscope-today-october-29-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
-        "publishedAt": "2026-10-29T00:20:00Z",
+        "title": "Janhvi Kapoor Makes Her Relationship Official And Shares Wedding Plans",
+        "url": "https://www.ndtv.com/entertainment/janhvi-kapoor-makes-her-relationship-official-and-shares-wedding-plans-12253945",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-10/dl5i9f2s_janhvi_625x300_29_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-10-29T12:15:15Z",
         "category": "entertainment",
-        "summary": "Today, Pisces is encouraged to reflect on recent efforts and remain optimistic. Having invested time and energy into personal growth, you are now navigating challenges with emotional openness and trust in the universe. The stars suggest that maintaining this faith will guide you through upcoming experiences. Embrace the journey ahead, as it holds potential for further development and fulfillment.",
+        "summary": "Janhvi Kapoor has officially confirmed her relationship with Shikhar Pahariya during her appearance on Koffee With Karan 9. She discussed her love life candidly and indicated that marriage is not on the horizon for her in the next two to three years. Kapoor's comments provide insight into her current relationship status and future plans regarding marriage.",
+        "wordCount": 56
+      },
+      {
+        "title": "BREAKING: Ram Gopal Varma in LEGAL TROUBLE over Rs. 29.67 crores! Production house warns filmmakers, OTT platforms against dealing with RGV without NOC",
+        "url": "https://www.bollywoodhungama.com/news/bollywood/breaking-ram-gopal-varma-in-legal-trouble-over-rs-29-67-crores-production-house-warns-filmmakers-ott-platforms-against-dealing-with-rgv-without-noc/",
+        "source": "Bollywood Hungama",
+        "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/10/BREAKING-Ram-Gopal-Varma-in-LEGAL-TROUBLE-over-Rs.-29.67-crores-Production-house-warns-filmmakers-OTT-platforms-against-dealing-with-RGV-without-NOC.jpeg",
+        "publishedAt": "2026-10-29T11:35:13Z",
+        "category": "entertainment",
+        "summary": "Filmmaker Ram Gopal Varma is facing legal issues over a financial dispute involving Rs. 29.67 crores, as stated by Eclatant Films Private Limited. The production house has issued a public notice demanding payment and has warned filmmakers and OTT platforms against engaging with Varma without a No Objection Certificate (NOC). The situation has raised significant concerns in the industry.",
         "wordCount": 59
       },
       {
-        "title": "Virgo Horoscope Today: October 29, 2026",
-        "url": "https://www.vogue.in/content/virgo-horoscope-today-october-29-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
-        "publishedAt": "2026-10-29T00:20:00Z",
+        "title": "'Madhubala and Dilip Kumar are burried close to each other at Juhu Kabrastan, just 5-10 metres apart,' reveals her sister Madhur Bhushan talking about their break-up: 'She died when she turned 36'",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/madhubala-and-dilip-kumar-are-burried-close-to-each-other-just-5-10-metres-apart-reveals-her-sister-madhur-bhushan-talking-about-their-break-up-she-died-when-she-turned-36/articleshow/135304371.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135305094,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-29T11:29:00Z",
         "category": "entertainment",
-        "summary": "On October 29, 2026, Virgos may focus on marriage and traditional setups, influenced by religious beliefs and family traditions. There may be an emphasis on breaking through inherited patterns, trauma, or mental loops. This period encourages self-reflection and addressing past issues, potentially leading to personal growth and a deeper understanding of relationships and commitments.",
-        "wordCount": 54
-      },
-      {
-        "title": "Scorpio Horoscope Today: October 29, 2026",
-        "url": "https://www.vogue.in/content/scorpio-horoscope-today-october-29-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e052102d2f4db9b8e92b/16:9/w_1280,c_limit/9-Scorpio_16;9.png",
-        "publishedAt": "2026-10-29T00:20:00Z",
-        "category": "entertainment",
-        "summary": "Today, Scorpios are encouraged to blend intellect with emotion. A prevailing sense of love and happiness surrounds them. While there may be a desire for swift progress, this period is ideal for reflection and assessment. Scorpios should take the time to evaluate their current situation, allowing for a deeper understanding of their feelings and circumstances before moving forward.",
-        "wordCount": 58
+        "summary": "Madhubala and Dilip Kumar, iconic figures in Hindi cinema, are buried close to each other at Juhu Kabrastan, just 5-10 meters apart. Madhubala's sister, Madhur Bhushan, revealed that Madhubala died at the age of 36. Their relationship, marked by romance and subsequent separation, continues to evoke interest and speculation long after their passing.",
+        "wordCount": 53
       }
     ]
   }
