@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-11-01T00:31:06.059Z",
+  "updatedAt": "2026-11-01T12:31:07.996Z",
   "categories": {
     "world": [
       {
-        "title": "Iranian official says US attacked fishing boats off Qeshm Island, state media reports",
-        "url": "https://www.reuters.com/world/middle-east/iran-provincial-official-says-us-attacked-fishing-boats-off-qeshm-island-state-2026-10-31/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-10-31T12:12:26Z",
-        "category": "world",
-        "summary": "Iranian state media reported that a Hormozgan province official claimed the US attacked two fishing boats near Qeshm Island. The incident was reported on October 31, but there was no immediate confirmation from US authorities. The White House has not commented on the allegation, and further details regarding the incident remain unclear at this time.",
-        "wordCount": 55
-      },
-      {
-        "title": "Couple Rescued From Irish Beach After Rising Tide Leaves Them Stranded",
-        "url": "https://www.ndtv.com/world-news/couple-rescued-from-irish-beach-after-rising-tide-leaves-them-stranded-12263631",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-10/0o75ooeo_irish-coast-guard-_625x300_31_October_26.jpeg",
-        "publishedAt": "2026-10-31T12:00:52Z",
-        "category": "world",
-        "summary": "A newly engaged couple was rescued from Keel Beach in Ireland after a rising tide left them stranded. The Irish Coast Guard dispatched a cliff rescue team, which descended nearly 500 feet to reach the couple. They had been celebrating their engagement with a walk when they became trapped and were unable to return safely.",
-        "wordCount": 55
-      },
-      {
-        "title": "A Los Angeles man lost his office job in 2020 and began selling plants from a 600-sq-ft apartment; six years later, his family business has sold over 100,000 plants in 2026 and now brings in millions",
-        "url": "https://timesofindia.indiatimes.com/world/us/a-los-angeles-man-lost-his-office-job-in-2020-and-began-selling-plants-from-a-600-sq-ft-apartment-six-years-later-his-family-business-has-sold-over-100000-plants-in-2026-and-now-brings-in-millions-in-annual-sales/articleshow/135363978.cms",
+        "title": "'Politicisation of energy flows harmful': Jaishankar calls for diversified supply chains at G20",
+        "url": "https://timesofindia.indiatimes.com/india/politicisation-of-energy-flows-harmful-jaishankar-calls-for-diversified-supply-chains-at-g20/articleshow/135414623.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135364159,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-31T11:31:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135414775,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-01T00:12:00Z",
         "category": "world",
-        "summary": "Brandon Hurst lost his administrative job in 2020 and began selling plants from his 600-sq-ft apartment. Over six years, his family business has sold over 100,000 plants, generating millions in revenue by 2026. Initially unplanned, Hurst's venture into plant selling has transformed his financial situation and established a successful business in the horticultural market.",
+        "summary": "External Affairs Minister S. Jaishankar emphasized the need to minimize political interference in energy markets during the G20 foreign ministers' meeting in Atlanta. He advocated for diversified global supply chains to enhance energy security and reduce vulnerabilities. Jaishankar's remarks highlighted the importance of a stable energy flow, free from political influences, to support global economic resilience.",
+        "wordCount": 56
+      },
+      {
+        "title": "Estimated 320,000 take to the streets nationwide",
+        "url": "https://www.dw.com/en/more-than-290-arrested-in-france-as-some-weekend-protests-turn-violent/a-79818138",
+        "source": "DW.com",
+        "image": "https://static.dw.com/image/79818860_6.jpg",
+        "publishedAt": "2026-10-31T23:48:10Z",
+        "category": "world",
+        "summary": "Protests in France continued for a third weekend, with an estimated 320,000 people demonstrating against rising living costs and poor school conditions. Clashes occurred between protesters and police in several cities on Saturday. The ongoing unrest reflects widespread dissatisfaction among citizens regarding economic issues and educational environments, prompting significant public mobilization across the country.",
         "wordCount": 54
+      },
+      {
+        "title": "Lula da Silva | The Pele of Brazil’s politics",
+        "url": "https://www.thehindu.com/news/international/lula-da-silva-the-pele-of-brazils-politics/article71650597.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/news/national/bhfnnu/article71650592.ece/alternates/LANDSCAPE_1200/Brazil_lula_artx.jpg",
+        "publishedAt": "2026-10-31T19:45:00Z",
+        "category": "world",
+        "summary": "Lula da Silva, a prominent figure in Brazil's politics, has significantly influenced the Workers' Party and the nation's political landscape, steering it away from Bolsonarismo. His rise is marked by resilience and strategic maneuvering, culminating in a presidential runoff. Flávio Bolsonaro's derogatory remarks during a debate highlight ongoing political tensions as Brazil approaches a pivotal electoral moment.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "Honda Rebel 300 Deliveries Starting in Nov 2026 in India",
-        "url": "https://bikeadvice.in/honda-rebel-300-deliveries-starting-in-nov-2026-in-india/",
-        "source": "BikeAdvice",
-        "image": "https://bikeadvice.in/wp-content/uploads/2026/01/Honda-Rebel-300-1.jpg",
-        "publishedAt": "2026-10-31T11:30:56Z",
+        "title": "OPEC+ agrees in principle to keep oil output targets steady in December, sources say",
+        "url": "https://www.reuters.com/business/energy/opec-set-keep-production-targets-unchanged-december-source-says-2026-10-31/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/6DGM53CZLVNP5PG72PVNCNGQGE.jpg?auth=5bd055f99c4718ba55eca9ce7c0919883f1fc5965381f2ee5c7fb27f097f338e&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-10-31T18:05:10Z",
         "category": "business",
-        "summary": "Honda has announced that deliveries of the Rebel 300 motorcycle will begin in India in November 2026. The bike, launched in August 2026, is available in two variants: Standard priced at Rs 2.22 lakh and E-Clutch at Rs 2.62 lakh. The first batch has arrived at dealerships, and deliveries are set to start in the first week of November.",
-        "wordCount": 59
-      },
-      {
-        "title": "MG Price Hike Nov 2026 - Windsor By Rs 15k, Majestor By Rs 1 Lakh",
-        "url": "https://www.rushlane.com/mg-price-hike-nov-2026-windsor-by-rs-15k-majestor-by-rs-1-lakh-12559914.html",
-        "source": "RushLane",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/10/mg-windsor-ev-majestor-suv-price-hike.jpg",
-        "publishedAt": "2026-10-31T11:24:33Z",
-        "category": "business",
-        "summary": "JSW MG Motor India has increased the prices of its Windsor EV by Rs 15,000 and its Majestor ICE vehicle by Rs 1 lakh. The company offers a diverse range of vehicles, with the Windsor being its best-seller and the Majestor as its flagship internal combustion engine model. The upcoming Hector Tomahawk PHEV is highly anticipated.",
+        "summary": "OPEC+ oil-producing countries have agreed in principle to maintain their December oil output targets during a meeting on Sunday, according to three sources familiar with the discussions. This decision aligns with expectations that no further adjustments to output policy will occur until next year. The agreement reflects a consensus among member nations regarding current production levels.",
         "wordCount": 56
       },
       {
-        "title": "Is the AI boom cracking? Wall Street's tech sell-off raises questions over what comes next",
-        "url": "https://www.moneycontrol.com/news/business/markets/is-the-ai-boom-cracking-wall-street-s-tech-sell-off-raises-questions-over-what-comes-next-14065044.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261031104838_AI-Chip-investment-Amid-Market-crash-nasdaq.png",
-        "publishedAt": "2026-10-31T10:49:35Z",
+        "title": "Gold, Silver rates crash: What happened with precious metal rates? What didn't go in favour and brought them down?",
+        "url": "https://www.livemint.com/money/gold-silver-rates-crash-what-happened-with-precious-metal-rates-what-didnt-go-in-favour-and-brought-them-down-11793465441981.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/10/31/1600x900/logo/Gold_and_Silver_Market_Drop__1793468062502_tRKd_1793468062874_YCym_3323b0bb-a6d2-4409-82cb-dcc9d147f70f_k2Kf.png",
+        "publishedAt": "2026-10-31T17:37:08Z",
         "category": "business",
-        "summary": "A significant sell-off in technology stocks has led Wall Street investors to reevaluate the sustainability of the artificial intelligence boom. Concerns over slowing core business growth and increasing AI-related expenditures have intensified scrutiny regarding whether the returns from AI investments will meet expectations. This situation marks a critical moment for the technology sector amid shifting market dynamics.",
+        "summary": "Gold and silver prices significantly decreased on Friday, with MCX gold dropping ₹4,347 per 10 grams and silver declining ₹10,577 per kg. Various factors contributed to this decline, impacting market dynamics and investor sentiment. The sharp fall in precious metal rates reflects broader economic conditions and market trends, leading to a reevaluation of asset values among investors.",
+        "wordCount": 57
+      },
+      {
+        "title": "Binance says it has covered 90% of losses from $6.3 billion hack so far",
+        "url": "https://www.reuters.com/legal/government/binance-says-90-stolen-assets-replenished-2026-10-31/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/Q6TLJBXFWZJ2FKVEL2XCO2IRWY.jpg?auth=d6062d6549acfc01cb9917178aa4b0856fb564a1853611582decf50a36eeb248&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-10-31T17:16:57Z",
+        "category": "business",
+        "summary": "Crypto exchange Binance announced on Saturday that it has successfully replaced 90% of the $6.3 billion lost in a recent hack. The recovery was achieved by utilizing company funds to purchase new tokens. The remaining 10% of the stolen amount consists of tokens that are still unaccounted for, as Binance continues its efforts to address the incident.",
         "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "Innovative Crystallization Process Paves Way for Ultra-Efficient Camera Sensors",
-        "url": "https://www.azom.com/news.aspx?newsID=65992",
-        "source": "AZoM",
-        "image": "https://www.azom.com/images/news/ThumbForNews_65992_17934454283617934.jpg",
-        "publishedAt": "2026-10-31T11:17:00Z",
+        "title": "GTA 6 features 600,000 animations as Rockstar takes NPC realism to another level: Report",
+        "url": "https://www.hindustantimes.com/sports/us-sports/gta-6-features-600-000-animations-as-rockstar-takes-npc-realism-to-another-level-report-grand-theft-auto-101793482770395.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/31/1600x900/logo/FRANCE-US-INTERNET-GAMING-TECHNOLOGY-GTA-1_1793482_1793482927943_frRK_1793482928173_fEW0_a4aa4311-9f5c-4e41-a867-56ae5866e6fd_7o0d.jpg",
+        "publishedAt": "2026-10-31T22:37:21Z",
         "category": "technology",
-        "summary": "Researchers have developed an innovative crystallization process that enhances the efficiency of camera sensors. These lab-created crystals, composed of atoms in precise patterns, can absorb light, transfer charge, and convert energy. This advancement has implications for various technologies, including LEDs and solar cells, potentially leading to significant improvements in the performance and capabilities of everyday camera systems.",
-        "wordCount": 57
+        "summary": "Grand Theft Auto 6 is set for release on November 19, 2026, after multiple delays. Rockstar collaborated with a Los Angeles team to enhance character realism, resulting in 600,000 unique animations for non-playable characters (NPCs). This extensive production effort aims to provide distinct identities for each character, contributing to a more immersive gaming experience.",
+        "wordCount": 54
       },
       {
-        "title": "Samsung Galaxy Tab S12+ Review: Closest I’ve Come To Replacing My Laptop With A Tablet",
-        "url": "https://www.smartprix.com/bytes/samsung-galaxy-tab-s12-review-closest-ive-come-to-replacing-my-laptop-with-a-tablet/",
-        "source": "Smartprix",
-        "image": "https://cdn1.smartprix.com/bytes-wpu/rx-w1200-ejpg/2026/10/71-scaled.webp",
-        "publishedAt": "2026-10-31T11:04:49Z",
+        "title": "Samsung now mocks Apple iPhone Duo with crackgate memes too",
+        "url": "https://www.notebookcheck.net/Samsung-now-mocks-Apple-iPhone-Duo-with-crackgate-memes-too.1439057.0.html",
+        "source": "Notebookcheck",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Samsung-verarscht-Apple-iPhone-Duo-nun-auch-wegen-Crackgate.jpeg",
+        "publishedAt": "2026-10-31T22:25:00Z",
         "category": "technology",
-        "summary": "The Samsung Galaxy Tab S12+ is a premium 12.6-inch tablet aimed at replacing laptops. It features an AMOLED screen and supports a magnetic keyboard, enhancing productivity through the DeX mode. This tablet is positioned as a viable alternative for tasks like writing and research, providing a lightweight option without sacrificing functionality, making it a strong competitor in the tablet market.",
-        "wordCount": 60
+        "summary": "Samsung is capitalizing on Apple's recent issues with the iPhone Duo, particularly the problems related to broken hinges and damaged displays. The South Korean company's marketing teams are using memes to mock Apple’s misfortunes, continuing a long-standing tradition of rivalry. Samsung hopes to avoid any major scandals like the Galaxy Note 7 incident in the future.",
+        "wordCount": 56
       },
       {
-        "title": "iPhone Duo's inner screen cracking issue: Apple tells stores what to do",
-        "url": "https://www.indiatoday.in/technology/news/story/iphone-duos-inner-screen-cracking-issue-apple-tells-stores-what-to-do-3029289-2026-10-31",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/apples-iphone-duo-sale-223426677-16x9.png?VersionId=MUsAs0uuej0HNSar9LpZODU88XOU7Zpf",
-        "publishedAt": "2026-10-31T10:12:35Z",
+        "title": "Why the Sony A7R VI is my Camera of the Year for 2026 — it has speed, quality and ruggedness in spades, and is basically all the camera you'll ever need",
+        "url": "https://www.techradar.com/cameras/mirrorless-cameras/why-the-sony-a7r-vi-is-my-camera-of-the-year-for-2026-it-has-speed-quality-and-ruggedness-in-spades-and-is-basically-all-the-camera-youll-ever-need",
+        "source": "TechRadar",
+        "image": "https://cdn.mos.cms.futurecdn.net/UK3gM9p6pXFSxrmyTipzrQ-1920-80.jpg",
+        "publishedAt": "2026-10-31T20:00:00Z",
         "category": "technology",
-        "summary": "Apple has addressed reports of inner display cracks on its first foldable iPhone, the iPhone Duo, by providing updated instructions to retail stores and service teams. The company states that only a small number of units are impacted. Technicians are advised to inspect affected devices and proceed with repairs or replacements as necessary to resolve the issue.",
-        "wordCount": 57
+        "summary": "The Sony A7R VI has been named Camera of the Year for 2026, praised for its speed, quality, and ruggedness. Despite challenges such as component shortages and price increases affecting the camera industry, the A7R VI stands out among fewer new releases, offering exceptional performance and features, making it a highly regarded choice for photographers.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "Rest finally in sight for (some of) India's T20I globetrotters",
-        "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-5th-t20i-1539436/match-preview",
-        "source": "Cricinfo",
-        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/424100/424163.6.jpg",
-        "publishedAt": "2026-10-31T11:55:00Z",
-        "category": "sports",
-        "summary": "India's T20I team has experienced a hectic schedule recently. Following their final match against New Zealand in Hamilton, most players will finally receive a break. This respite comes after a series of intense games, allowing the team to recuperate before future competitions. The match marks a significant point in their busy calendar, providing much-needed rest for the players.",
-        "wordCount": 58
-      },
-      {
-        "title": "'UAE se haare': Pakistan PM gets fact-checked by ex-India cricketer after 'victory over India' post",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/uae-se-haare-pakistan-pm-gets-fact-checked-by-ex-india-cricketer-after-victory-over-india-tweet/articleshow/135399145.cms",
+        "title": "Glenn Phillips on the brink of breaking world record in last T20I vs India",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/glenn-phillips-on-the-brink-of-breaking-world-record-in-last-t20i-vs-india/articleshow/135402409.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135399461,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-31T11:38:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135402561,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-01T00:30:00Z",
         "category": "sports",
-        "summary": "Pakistan Prime Minister Shehbaz Sharif congratulated the national cricket team for their victory over India in the 2026 Hong Kong Sixes tournament. In response, former India cricketer Aakash Chopra made a sarcastic remark, fact-checking Sharif's claim. The exchange highlights ongoing sports rivalries and the use of social media for commentary on international cricket events between the two nations.",
-        "wordCount": 58
+        "summary": "Glenn Phillips is poised to break a world record in the fifth and final T20I against India on November 1. He has been a crucial player for New Zealand, notably celebrating a century during the recent T20 match in Auckland. His performance in this upcoming game could solidify his place in cricket history, depending on his achievements.",
+        "wordCount": 57
       },
       {
-        "title": "India seek bowling solutions in bid for 4-1 finish",
-        "url": "https://www.cricbuzz.com/cricket-news/140730/india-seek-bowling-solutions-in-bid-for-4-1-finish",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1112144/despite-pocketing-the-series-bowling-has-remained-a-worry-for-india.jpg",
-        "publishedAt": "2026-10-31T11:19:59Z",
+        "title": "India vs Bangladesh Live Streaming: When And Where To Watch Hong Kong Sixes 2026 Match Live In India",
+        "url": "https://www.ndtvprofit.com/sports/india-vs-bangladesh-live-streaming-when-and-where-to-watch-hong-kong-sixes-2026-match-live-in-india-12265078",
+        "source": "NDTV Profit",
+        "image": "https://c.ndtvimg.com/2026-10/tenqccgk_honk-kong-sixes_625x300_31_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-10-31T22:40:01Z",
         "category": "sports",
-        "summary": "India has secured the T20 series against New Zealand but faces concerns regarding their bowling performance since the T20 World Cup. With only one day between matches, the final T20I will take place at Seddon Park. The team is also preparing for upcoming one-day internationals, emphasizing the need to address bowling issues before the transition.",
-        "wordCount": 55
+        "summary": "India will compete against Bangladesh in the 11th/12th-place play-off of the Hong Kong Sixes 2026 on November 1. The match, led by Krunal Pandya for India, follows both teams' defeats in the Bowl semi-finals. Fans can check the match time, venue, and details for live telecast and streaming options in India for this event.",
+        "wordCount": 54
+      },
+      {
+        "title": "Real, Mbappe have moved on from China controversy, says Mourinho",
+        "url": "https://www.reuters.com/sports/soccer/real-mbappe-have-moved-china-controversy-says-mourinho-2026-10-31/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/GAHWC4SLZZIRFLMIJ2BDDHMAD4.jpg?auth=45f091efd79eb7b0a9c7cfb52f710010028e21f83f7463ba40ecea6e8e5c1ec8&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-10-31T20:16:59Z",
+        "category": "sports",
+        "summary": "Real Madrid manager Jose Mourinho stated that the club and Kylian Mbappe have moved past the controversy surrounding Mbappe's comments about former Chinese leader Mao Zedong. Mourinho emphasized that both parties responded appropriately by issuing apologies. The incident underscores the potential risks athletes and brands face in the lucrative but sensitive Chinese market.",
+        "wordCount": 53
       }
     ],
     "health": [
       {
-        "title": "Scientists have deployed an AI-designed virus",
-        "url": "https://nagalandpost.com/scientists-have-deployed-an-ai-designed-virus/",
-        "source": "Nagaland Post",
-        "image": "https://nagalandpost.com/wp-content/uploads/2026/10/scientest-have-deployed_result.webp",
-        "publishedAt": "2026-10-31T09:21:05Z",
+        "title": "Obesity on the rise: A global wake-up call",
+        "url": "https://www.thedailystar.net/health/news/obesity-the-rise-global-wake-call-4312281",
+        "source": "The Daily Star",
+        "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-11/obesity-rise.jpg",
+        "publishedAt": "2026-10-31T18:20:44Z",
         "category": "health",
-        "summary": "A California startup, Radical Numerics, has developed an AI-designed virus intended to combat bacterial infections. This innovative approach aims to provide an alternative to traditional antibiotics, potentially reducing the risk of antibiotic resistance. If proven effective, this method could significantly enhance treatment options for bacterial diseases, offering a new avenue for medical intervention in the ongoing battle against infections.",
-        "wordCount": 59
-      },
-      {
-        "title": "Barbados Eliminates Mother-to-Child HIV Transmission; WHO Confirms Health Milestone",
-        "url": "https://www.devdiscourse.com/article/health/3999941-barbados-eliminates-mother-to-child-hiv-transmission-who-confirms-health-milestone",
-        "source": "Devdiscourse",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/31_10_2026_11_29_12_4349772.png&width=920&format=jpeg",
-        "publishedAt": "2026-10-31T05:59:12Z",
-        "category": "health",
-        "summary": "Barbados has achieved a significant public health milestone by eliminating mother-to-child transmission of HIV, as confirmed by the World Health Organization (WHO). This recognition places Barbados among 26 countries and territories globally that have either eliminated or are on track to eliminate such transmissions of HIV, syphilis, or hepatitis B, following extensive efforts to protect infants from infection.",
-        "wordCount": 58
-      },
-      {
-        "title": "Can Four Minutes of Exercise Prevent Diabetes? New Study Says Yes",
-        "url": "https://worldhealth.net/news/four-minutes-exercise-prevent-diabetes-study/",
-        "source": "WorldHealth.net",
-        "image": "https://worldhealth.net/wp-content/uploads/2024/03/AdobeStock_134812527-1024x683.jpeg",
-        "publishedAt": "2026-10-31T03:43:01Z",
-        "category": "health",
-        "summary": "A 2026 study explored the impact of brief exercise bursts, known as \"exercise snacks,\" on managing blood sugar in individuals with Type 2 diabetes. The findings suggest that just four minutes of movement may help prevent diabetes, addressing concerns over rising healthcare costs. This approach could offer a low-cost method for individuals to manage their health effectively.",
+        "summary": "Obesity is increasingly recognized as a significant global health issue, impacting individuals across all age groups. It extends beyond personal lifestyle choices, contributing to rising healthcare costs and system strain. Factors such as unhealthy food environments and sedentary lifestyles are exacerbating the situation. Addressing obesity requires comprehensive strategies to improve public health and reduce its prevalence worldwide.",
         "wordCount": 57
+      },
+      {
+        "title": "Indian Biotech Startup Claims To Offer Personalised Cancer Vaccines",
+        "url": "https://www.ndtv.com/feature/indian-biotech-startup-claims-to-offer-personalised-cancer-vaccines-12264993",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-10/na078oac_as_625x300_31_October_26.jpeg",
+        "publishedAt": "2026-10-31T17:49:43Z",
+        "category": "health",
+        "summary": "Hyderabad-based biotech startup PopVax has launched RNA Foundry, a facility dedicated to producing personalized mRNA cancer vaccines. Established in 2021, PopVax aims to revolutionize cancer treatment in India by developing tailored vaccines for individual patients. This initiative highlights advancements in biotechnology and the potential for customized medical solutions in the fight against cancer.",
+        "wordCount": 53
+      },
+      {
+        "title": "Manipal Hospitals Urges Early Stroke Detection Through BE FAST Approach",
+        "url": "https://www.bwhealthcareworld.com/article/manipal-hospitals-urges-early-stroke-detection-through-be-fast-approach-631514",
+        "source": "BW Healthcare World",
+        "image": "https://static.businessworld.in/Image 1_20261031230929_ogImage_21.png",
+        "publishedAt": "2026-10-31T17:40:43Z",
+        "category": "health",
+        "summary": "Manipal Hospitals organized a stroke awareness program in Kolkata on October 29, 2026, to commemorate World Stroke Day. The event emphasized the BE FAST approach for early stroke detection, promoting awareness of symptoms and the importance of timely medical intervention. The initiative aims to enhance stroke prevention efforts and encourage individuals to seek immediate care when symptoms arise.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "Did comets really start life on Earth? New study challenges long-held theory",
-        "url": "https://timesofindia.indiatimes.com/science/did-comets-really-start-life-on-earth-new-study-challenges-long-held-theory/articleshow/135400810.cms",
+        "title": "NASA's Lucy Breaks Ground in Space Exploration by Entering Jupiter's Trojan Asteroids",
+        "url": "https://timesofindia.indiatimes.com/science/nasas-lucy-travels-2-2-billion-miles-in-5-years-becoming-the-first-spacecraft-to-enter-jupiters-trojan-asteroid-region/articleshow/135352343.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135400879,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-10-31T12:19:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135358110,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-10-31T19:10:00Z",
         "category": "science",
-        "summary": "A new study questions the established theory that comets delivered essential chemical ingredients for life on Earth. Researchers suggest alternative explanations for the origins of life, indicating that comet impacts may not have played a significant role in seeding life. This challenges previous assumptions and opens up new avenues for understanding the emergence of life on our planet.",
-        "wordCount": 58
-      },
-      {
-        "title": "Astronomers discover possible new dwarf planet beyond Pluto, measuring up to 1,500 km across",
-        "url": "https://www.hindustantimes.com/trending/astronomers-discover-possible-new-dwarf-planet-beyond-pluto-measuring-up-to-1-500-km-across-101793445061898.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/10/31/1600x900/logo/bfbfgn_1793445438118_SkWb_1793445438317_JhxG_4c4307ba-32eb-4051-a7f7-b5bd90d8290f_BEbC.png",
-        "publishedAt": "2026-10-31T11:21:08Z",
-        "category": "science",
-        "summary": "Astronomers have identified a potential new dwarf planet, named 2026 ED138, located in the outer Solar System. Measuring up to 1,500 kilometers across, this object could become the sixth officially recognized dwarf planet. The discovery was made using observations from the Vera C. Rubin Observatory in Chile, revealing an object that had remained undetected for nearly a decade.",
-        "wordCount": 58
-      },
-      {
-        "title": "NASA Astronaut Celebrates Halloween In Space Wearing Batman Costume",
-        "url": "https://www.ndtv.com/science/nasa-astronaut-celebrates-halloween-in-space-wearing-batman-costume-12263260",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-10/6vt5psos_halloween-2026_625x300_31_October_26.jpeg",
-        "publishedAt": "2026-10-31T10:19:49Z",
-        "category": "science",
-        "summary": "NASA astronaut Peggy Whitson celebrated Halloween in space by dressing as Batman. She shared a festive post showcasing her costume, emphasizing the popularity of superhero attire among astronauts. Whitson's choice of Batman reflected a lighthearted approach to the holiday, combining a familiar character with the unique experience of celebrating Halloween in a microgravity environment.",
+        "summary": "NASA's Lucy spacecraft has made history as the first to enter Jupiter's Trojan asteroid region, completing a journey of over 2.2 billion miles in five years. This groundbreaking mission aims to reveal insights about the early Solar System by studying the two large groups of asteroids that share Jupiter's orbital path around the Sun.",
         "wordCount": 54
+      },
+      {
+        "title": "Scientists discover how a common gut bacterium can trigger colon cancer: Study",
+        "url": "https://www.aninews.in/news/health/scientists-discover-how-a-common-gut-bacterium-can-trigger-colon-cancer-study20261031232058/",
+        "source": "ANI News",
+        "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261031174324-thumbnail-320x180-70.jpg",
+        "publishedAt": "2026-10-31T17:50:00Z",
+        "category": "science",
+        "summary": "Scientists at Johns Hopkins have identified a significant link between a common gut bacterium and colorectal cancer, addressing a long-standing mystery in cancer research. This discovery may enhance understanding of the mechanisms behind colon cancer development, potentially leading to improved prevention and treatment strategies. The study highlights the importance of gut microbiota in influencing cancer risk and progression.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "4 Ups & 4 Downs From WWE SmackDown (30 Oct - Results & Review)",
-        "url": "https://whatculture.com/wwe/4-ups-4-downs-from-wwe-smackdown-30-oct-results-review",
-        "source": "WhatCulture.com",
-        "image": "https://d2thvodm3xyo6j.cloudfront.net/media/2026/10/611af450b62e0c76e765288b0730b6b0-600x338.png",
-        "publishedAt": "2026-10-31T12:19:46Z",
+        "title": "Horoscope Today: November 1, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-november-1-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-11-01T00:30:00Z",
         "category": "entertainment",
-        "summary": "Finn Bálor's 'Demon' character made a comeback during WWE SmackDown, while Sami Zayn successfully defended the WWE Title. Tiffany Stratton attempted another unsuccessful Money In The Bank cash-in. The episode featured a Halloween theme, celebrating the show's spooky elements. Overall, the event highlighted key moments and character developments, showcasing the ongoing storylines within the WWE universe.",
+        "summary": "On November 1, 2026, horoscopes suggest that Pisces may have overextended themselves after initially feeling fulfilled. The stars indicate a need for balance, as the emotional investment made could lead to feelings of depletion. It is advised to reflect on personal boundaries and self-care to restore harmony and ensure that emotional well-being is prioritized moving forward.",
         "wordCount": 56
       },
       {
-        "title": "Ramayana advance booking ROARS: 1.70 lakh tickets sold with 5 days to go; Ranbir Kapoor, Yash eye HISTORIC opening",
-        "url": "https://www.bollywoodhungama.com/news/box-office-special-features/ramayana-advance-booking-roars-1-70-lakh-tickets-sold-with-5-days-to-go-ranbir-kapoor-yash-eye-historic-opening/",
-        "source": "Bollywood Hungama",
-        "image": "https://stat4.bollywoodhungama.in/wp-content/uploads/2026/10/Ramayana-5.jpg",
-        "publishedAt": "2026-10-31T11:33:22Z",
+        "title": "Capricorn Horoscope Today: November 1, 2026",
+        "url": "https://www.vogue.in/content/capricorn-horoscope-today-november-1-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
+        "publishedAt": "2026-11-01T00:20:00Z",
         "category": "entertainment",
-        "summary": "Advance bookings for the film \"Ramayana,\" featuring Ranbir Kapoor and Yash, have reached 1.70 lakh tickets sold with five days remaining until its release. Directed by Nitesh Tiwari, the film is generating significant interest, indicating a potential historic opening. The momentum in ticket sales reflects strong anticipation among audiences for this epic production.",
-        "wordCount": 53
+        "summary": "On November 1, 2026, Capricorns are advised to be patient and wait for their turn. A significant change is approaching, marking the end of a long cycle characterized by waiting. This transition promises justice and deliverance, suggesting that Capricorns will soon experience positive developments in their lives. Embrace the upcoming opportunities as this new phase unfolds.",
+        "wordCount": 56
       },
       {
-        "title": "T-Series acquires 50-Year exclusive global music rights for Shah Rukh Khan starrer King through Zee Music",
-        "url": "https://www.bollywoodhungama.com/news/bollywood/t-series-acquires-50-year-exclusive-global-music-rights-for-shah-rukh-khan-starrer-king-through-zee-music/",
-        "source": "Bollywood Hungama",
-        "image": "https://stat5.bollywoodhungama.in/wp-content/uploads/2026/10/T-Series-acquires-50-Year-exclusive-global-music-rights-for-Shah-Rukh-Khan-news.jpeg",
-        "publishedAt": "2026-10-31T10:43:03Z",
+        "title": "Gemini Horoscope Today: November 1, 2026",
+        "url": "https://www.vogue.in/content/gemini-horoscope-today-november-1-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04cf280aa95e93d0629/16:9/w_1280,c_limit/3-Gemini_16;9.png",
+        "publishedAt": "2026-11-01T00:20:00Z",
         "category": "entertainment",
-        "summary": "T-Series has acquired the exclusive global music rights for the upcoming film King, starring Shah Rukh Khan, for a duration of 50 years. This agreement was facilitated by Red Chillies Entertainment and announced through Zee Music. The acquisition marks a significant move in Bollywood's music landscape, ensuring T-Series holds the commercial rights for an extended period.",
-        "wordCount": 56
+        "summary": "Today, Gemini, you may be contemplating a significant relationship or connection. Despite your efforts to improve the situation, it's important to recognize that not all your attempts may have been necessary or effective. Reflecting on your actions could provide clarity and help you understand what truly matters in your relationships moving forward.",
+        "wordCount": 52
       }
     ]
   }
