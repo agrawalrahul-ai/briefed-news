@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-11-03T12:31:10.818Z",
+  "updatedAt": "2026-11-04T00:31:13.364Z",
   "categories": {
     "world": [
       {
-        "title": "Orphan Chinese man invites strangers to his wedding after fearing few people would attend; more than 10,000 turn up with gifts, food and a Maybach; videos go viral",
-        "url": "https://timesofindia.indiatimes.com/life-style/people/orphan-chinese-man-invites-strangers-to-his-wedding-after-fearing-few-people-would-attend-more-than-10000-turn-up-with-gifts-food-and-a-maybach-videos-go-viral/articleshow/135455919.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135456161,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-03T00:22:00Z",
+        "title": "US Midterm Elections 2026 Live Updates Donald Trump JD Vance Democrats Republicans Senate House",
+        "url": "https://www.ndtv.com/world-news/us-midterm-elections-2026-live-updates-donald-trump-jd-vance-democrats-republicans-senate-house-12276905",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/qb5kdgfs_midterms-afp_625x300_03_November_26.jpeg",
+        "publishedAt": "2026-11-03T12:18:55Z",
         "category": "world",
-        "summary": "A young orphaned man in China feared his wedding would lack attendees due to having few relatives. He posted an open invitation on Douyin, leading to over 10,000 strangers attending his celebration. Guests brought gifts, food, and even a Maybach. The event garnered significant attention online, with videos of the wedding going viral across social media platforms.",
-        "wordCount": 57
+        "summary": "Polling stations opened in Gaithersburg, Maryland, for the 2026 US midterm elections, marking a significant moment for both major parties. Voter sentiment appears to be shifting against the Republican Party, serving as a referendum on Donald Trump's presidency. Many voters expressed hopes for political change, citing concerns over rising taxes and other pressing issues as they cast their ballots.",
+        "wordCount": 59
       },
       {
-        "title": "'This Project Should Unite All Americans': Trump Closes Midterm Speech Pitching Reflecting Pool Makeover",
-        "url": "https://www.news18.com/world/donald-trump-closes-us-midterm-speech-pitching-reflecting-pool-makeover-ws-l-10409735.html",
+        "title": "US Midterms: Why Do Americans Vote On A Tuesday? The 180-Year-Old Horse-And-Buggy Story Behind Election Day",
+        "url": "https://www.news18.com/world/us-midterms-why-do-americans-vote-on-a-tuesday-the-180-year-old-horse-and-buggy-story-behind-election-day-ws-lr-10411040.html",
         "source": "News18",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/11/Reflecting-Pool-2026-11-7169413ddc4a06b1d670460170bcd886-1200x675.jpg",
-        "publishedAt": "2026-11-03T00:07:22Z",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/11/8ecac3ffd78add78a56f988d938079c9_0_1793707864334-1200x675.jpg",
+        "publishedAt": "2026-11-03T12:13:35Z",
         "category": "world",
-        "summary": "During his final campaign address, President Donald Trump highlighted the renovation of the Reflecting Pool, which is estimated to cost around $15 million. He emphasized the project as a means to unite all Americans, despite existing controversies surrounding the renovation. The Reflecting Pool's reopening served as a significant focal point in his midterm election pitch.",
-        "wordCount": 55
+        "summary": "Voting in the U.S. occurs on Tuesdays, a practice established 180 years ago to accommodate 19th-century farmers. Critics contend this scheduling poses challenges for contemporary working families, who find it difficult to vote during standard work hours. The debate highlights the need for potential reforms to make voting more accessible for all citizens in today's society.",
+        "wordCount": 56
       },
       {
-        "title": "Trump approval rating near record low on eve of US midterm elections: Poll",
-        "url": "https://www.aljazeera.com/news/2026/11/2/trump-approval-rating-near-record-low-on-eve-of-us-midterm-elections-poll",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae9074a7e41-1793656650.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-11-02T23:26:15Z",
+        "title": "QS World University Rankings 2027: India Leads Asia In Research Output",
+        "url": "https://www.ndtv.com/education/qs-world-university-rankings-2027-india-leads-asia-in-research-output-12276844",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-05/qtn93dq8_delhi-university_625x300_26_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-03T11:59:22Z",
         "category": "world",
-        "summary": "Ahead of the U.S. midterm elections, President Donald Trump's job approval rating is at 32 percent, according to a Reuters/Ipsos poll. This figure reflects a continued decline in support, nearing a record low. The poll indicates that only a small fraction of voters are satisfied with Trump's performance as president, raising concerns for his party's prospects in the elections.",
+        "summary": "The QS World University Rankings 2027 report indicates that India leads Asia in research output, attributed to its exceptional doctoral capacity. Released by Quacquarelli Symonds on November 3, 2026, the rankings show India as the second most represented higher education system in Asia. The report highlights India's significant contributions to academic research and its growing influence in the region.",
         "wordCount": 59
       }
     ],
     "business": [
       {
-        "title": "Patanjali ghee among food stock worth Rs 9 crore seized in Maharashtra FDA crackdown",
-        "url": "https://www.indiatoday.in/india/maharashtra/story/maharashtra-fda-festive-drive-seizes-food-worth-rs-9-crore-suspends-19-licences-3031063-2026-11-03",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/nearly-950-litres-of-adulterated-ghee-was-seized-ahead-of-diwali-293952196-16x9.png?VersionId=DuurjX.MPIqd_N1r81y19l3QDM5JlecZ",
-        "publishedAt": "2026-11-02T22:27:52Z",
+        "title": "NSE's Q2 profit jumps 23% to Rs 2,578 crore in first earnings show post-listing",
+        "url": "https://www.moneycontrol.com/news/business/markets/nse-posts-quarterly-profit-rise-in-q2-on-trading-segment-boost-14067813.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924064813_National-Stock-Exchange-NSE-Bloomberg.jpg",
+        "publishedAt": "2026-11-03T12:29:51Z",
         "category": "business",
-        "summary": "The Maharashtra FDA suspended 19 food business licences and seized food items valued at Rs 9.01 crore during a festive-season enforcement drive. The operation revealed suspected adulteration, hygiene issues, and food safety violations across seven divisions. Among the seized items was ghee from Patanjali Ayurved, highlighting concerns regarding food quality and compliance with safety regulations.",
+        "summary": "The National Stock Exchange of India (NSE) reported a consolidated profit of Rs 2,578 crore for the quarter ending September 30, marking a 23% increase from Rs 2,098 crore in the same period last year. This growth was primarily driven by the performance of its trading segment, reflecting strong market activity following its recent listing.",
         "wordCount": 55
       },
       {
-        "title": "A month after RBI’s rate hike, banks start raising deposit rates as liquidity shrinks, Bank of India the latest to move",
-        "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/a-month-after-rbis-rate-hike-banks-start-raising-deposit-rates-as-liquidity-shrinks-bank-of-india-the-latest-to-move/articleshow/135472353.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-135472380,width-1200,height-900,imgsize-73568,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-11-02T18:50:31Z",
+        "title": "Q2 Results 03rd Nov Oct Live: SBI Q2 PAT up 14%, Bajaj Finserv, Pfizer, Solar Ind, Rane (Madras), Yatharth, Emcure Pharma & Zydus Wellness Q2 profit rise, AIA Engineering profit declines, NSE, Fortis,",
+        "url": "https://www.thehindubusinessline.com/markets/q2-results-today-live-updates-sbi-nse-bajaj-finserv-solar-ind-bajaj-holdings-lloyds-metals-lupin-mcx-emcure-aia-engineering-zydus-wellness-itc-marico-mobikwik-results-03-november-2026/article71656322.ece",
+        "source": "BusinessLine",
+        "image": "https://bl-i.thgim.com/public/incoming/bq8gv/article71656321.ece/alternates/LANDSCAPE_1200/IMG_digital_finance_2_1_30EDGR1K.jpg",
+        "publishedAt": "2026-11-03T12:26:07Z",
         "category": "business",
-        "summary": "Domestic banks are raising deposit rates as liquidity conditions tighten. The Bank of India has announced increased rates for various maturities, including a special 500-day option. This move reflects the rising cost of deposits amid increasing credit demand. Overall banking system liquidity has significantly decreased since its peak in early September, prompting banks to adjust their deposit offerings.",
-        "wordCount": 58
+        "summary": "On November 3, 2026, several companies reported their Q2 results. State Bank of India (SBI) saw a 14% increase in profit after tax. Other notable profit increases were reported by Bajaj Finserv, Pfizer, Solar Industries, Rane (Madras), Yatharth, Emcure Pharma, and Zydus Wellness. AIA Engineering experienced a decline in profit. Live updates covered numerous companies' financial performances.",
+        "wordCount": 57
+      },
+      {
+        "title": "Air India eyes more widebodies, cost cuts under new CEO",
+        "url": "https://www.thehindu.com/business/Industry/air-india-eyes-more-widebodies-cost-cuts-under-new-ceo/article71660865.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/9fqdv1/article71661088.ece/alternates/LANDSCAPE_1200/2026-11-03T093717Z_1794536609_RC26GOACQZYH_RTRMADP_3_AIRINDIA-CEO.JPG",
+        "publishedAt": "2026-11-03T12:20:02Z",
+        "category": "business",
+        "summary": "Air India aims to expand its widebody fleet and implement aggressive cost-cutting measures to enhance profitability under new CEO Tewolde Gebremariam. The airline is focused on increasing its widebody orders to align with its network and strategic goals. Gebremariam emphasized the urgency of achieving profitability “as soon as possible” as part of the company’s future plans.",
+        "wordCount": 56
       }
     ],
     "technology": [
       {
-        "title": "Microsoft AI chief warns against conscious AI and model welfare",
-        "url": "https://www.edtechinnovationhub.com/news/microsoft-ai-chief-calls-for-development-halt-if-ai-consciousness-emerges",
-        "source": "EdTech Innovation Hub",
-        "image": "http://static1.squarespace.com/static/65a69e0c110a6977ead9741c/65a69e418ed92652df4c3413/6ae86ad8b57445093daa6101/1793664164336/microsoft-ai-suleyman-consciousness-model-welfare.jpg.png?format=1500w",
-        "publishedAt": "2026-11-03T00:03:50Z",
-        "category": "technology",
-        "summary": "Microsoft AI CEO Mustafa Suleyman has urged a halt to AI development if consciousness emerges during training, emphasizing the need to address model welfare. His comments follow discussions on AI rights, safety, and human oversight. Suleyman critiques Anthropic’s approach to its AI model, Claude, highlighting the importance of ensuring ethical considerations in AI advancements and their potential implications.",
-        "wordCount": 58
-      },
-      {
-        "title": "'Nobody wants to wear a tuna can on their wrist' Garmin's COO explains how the Fenix 9 Pro and Marq Gen 3's new nano-molded titanium case stayed as small as possible while still letting signals in and",
-        "url": "https://www.techradar.com/health-fitness/smartwatches/nobody-wants-to-wear-a-tuna-can-on-their-wrist-garmins-coo-explains-how-the-fenix-9-pro-and-marq-gen-3s-new-nano-molded-titanium-case-stayed-as-small-as-possible-while-still-letting-signals-in-and-out",
-        "source": "TechRadar",
-        "image": "https://cdn.mos.cms.futurecdn.net/bW6bg6zYpBdZ4yt9D74SRn-1920-80.jpg",
-        "publishedAt": "2026-11-02T21:00:00Z",
-        "category": "technology",
-        "summary": "Garmin's COO discussed the development of the Fenix 9 Pro and Marq Gen 3, highlighting the use of nano-molded titanium for their cases. This material is favored for fitness watches due to its strength and lightweight properties. The design aims to keep the watches compact while ensuring signal reception, addressing consumer preferences for functionality without excessive bulk.",
-        "wordCount": 57
-      },
-      {
-        "title": "All Fortnite Treasure Hunt Chest Locations and Free Rewards",
-        "url": "https://beebom.com/fortnite-treasure-hunt-chest-locations-rewards/",
+        "title": "PlayStation Store's Black Friday 2026 Deals Revealed with Games Like Wolverine, and More",
+        "url": "https://beebom.com/playstation-stores-black-friday-2026-deals-revealed/",
         "source": "Beebom",
-        "image": "https://static.beebom.com/wp-content/uploads/2026/11/fn-treasure-chest.jpg",
-        "publishedAt": "2026-11-02T20:06:40Z",
+        "image": "https://static.beebom.com/wp-content/uploads/2026/11/PlayStation-Black-Friday-Sale-2026-1.jpg",
+        "publishedAt": "2026-11-03T12:29:03Z",
         "category": "technology",
-        "summary": "Fortnite's new Treasure Hunters mini-season introduces Treasure Hunt Chests, enhancing gameplay with a pirate theme inspired by One Piece. Players can discover these chests throughout the game, offering various free rewards. A guide is available to help players locate all Treasure Hunt Chest locations and maximize their in-game benefits during this limited-time event.",
-        "wordCount": 53
+        "summary": "PlayStation has announced its Black Friday 2026 deals, starting earlier than usual on November 4, 2026. The sale will feature discounts on various games, including titles like Wolverine. The official PlayStation X account shared the details, highlighting the anticipated offers available on the PlayStation Store. Gamers can look forward to significant savings during this promotional event.",
+        "wordCount": 56
+      },
+      {
+        "title": "EXCLUSIVE: KTM 490 Duke And Adventure Launch Timeline Revealed; RC450 Showcased At EICMA 2026",
+        "url": "https://www.zigwheels.com/news-features/general-news/exclusive-ktm-490-duke-and-adventure-launch-timeline-revealed-rc450-showcased-at-eicma-2026/58417/",
+        "source": "ZigWheels.com",
+        "image": "https://media.zigcdn.com/media/content/2026/Nov/cover_6ae9d47d639a0.png",
+        "publishedAt": "2026-11-03T12:28:30Z",
+        "category": "technology",
+        "summary": "KTM showcased the RC450 at EICMA 2026, highlighting its new middleweight sportbike. The RC450 is based on the CFMoto platform. Additionally, KTM is developing the 490 Duke and 490 Adventure, which will be built on a new India-made platform. These models aim to expand KTM's offerings in the middleweight motorcycle segment in the near future.",
+        "wordCount": 55
+      },
+      {
+        "title": "Anthropic adds new rule to Claude Code for game clones; company says: Using Claude to infringe IP is against our...",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-adds-new-rule-to-claude-code-for-game-clones-company-says-using-claude-to-infringe-ip-is-against-our-/articleshow/135498101.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135498370,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-03T12:26:00Z",
+        "category": "technology",
+        "summary": "Anthropic has implemented a new rule in Claude Code that prohibits the AI coding tool from recreating existing video games, regardless of whether users rename them or claim originality. This measure aims to prevent intellectual property infringement. The update applies to both Claude Code and Opus 5.5, reinforcing the company's stance against using its tools for unauthorized game cloning.",
+        "wordCount": 59
       }
     ],
     "sports": [
       {
-        "title": "Tactical Analysis: Real Madrid’s First-Half Domination Ends Racing Santander’s Home Unbeaten Run",
-        "url": "https://www.managingmadrid.com/managing-madrid-editorials/114979/tactical-analysis-real-madrids-first-half-domination-ends-racing-santanders-home-unbeaten-run",
-        "source": "Managing Madrid",
-        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/11/gettyimages-2302995443.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-11-03T00:18:00Z",
+        "title": "Up 53 spots! Vaishnavi Sharma makes giant leap in ICC ODI rankings after stunning spells against Zimbabwe",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/up-53-spots-vaishnavi-sharma-makes-giant-leap-in-icc-odi-rankings-after-stunning-spells-against-zimbabwe/articleshow/135497039.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135497931,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-03T12:25:00Z",
         "category": "sports",
-        "summary": "Real Madrid defeated Racing Santander, ending the latter's unbeaten home record. The team, under Mourinho, showcased effective progressive build-up and wide play, contributing to their sixth consecutive victory. Most players from the recent El Clásico retained their positions, reflecting Mourinho's tactical consistency. The strategies implemented since the Leipzig match continue to evolve, enhancing the team's overall performance.",
-        "wordCount": 57
+        "summary": "Vaishnavi Sharma has risen 53 places in the ICC Women's ODI Player Rankings following India's 3-0 clean sweep against Zimbabwe in the recent three-match series. Her impressive performances as a young spinner have garnered attention, contributing to her significant leap in the rankings. The series showcased several players, highlighting India's strong showing in women's cricket.",
+        "wordCount": 55
       },
       {
-        "title": "Australia’s Glenn Maxwell calls time on international career",
-        "url": "https://www.thehindu.com/sport/cricket/australias-glenn-maxwell-calls-time-on-international-career/article71659185.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/5dbn1x/article71659186.ece/alternates/LANDSCAPE_1200/AP08_16_2025_000301A.jpg",
-        "publishedAt": "2026-11-03T00:14:48Z",
+        "title": "Harmer calls on 'genius' Carl Crowe to boost English spin prowess",
+        "url": "https://www.cricinfo.com/story/harmer-calls-on-genius-carl-crowe-to-boost-english-spin-prowess-1561282",
+        "source": "Cricinfo",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/326900/326979.6.jpg",
+        "publishedAt": "2026-11-03T11:26:11Z",
         "category": "sports",
-        "summary": "Glenn Maxwell has announced his retirement from international cricket, concluding a notable T20ODI career. The 38-year-old batsman, who last played a Test in 2017, made the announcement on November 3, 2026, after being excluded from Australia’s upcoming Twenty20 series against England. Maxwell's decision marks the end of an impactful chapter in Australian cricket.",
-        "wordCount": 53
-      },
-      {
-        "title": "BK vs JKB Today Match Prediction and Betting Tips, Odds and Live Score",
-        "url": "https://www.thetopbookies.com/betting-tips/cricket/bk-vs-jkb-03-Nov-2026",
-        "source": "TheTopBookies",
-        "image": "https://api.thetopbk.com/storage/cricket/teams/a-rz--cricket--bk-yEVs/OAPbKyzL6SRNTij2utpoDyGg0MsmaHPIk1YbWIy0.webp",
-        "publishedAt": "2026-11-02T22:35:53Z",
-        "category": "sports",
-        "summary": "Biratnagar Kings (BK) will face Janakpur Bolts (JKB) in match 12 of the Nepal Premier League 2026 on November 3, 2026, at 12:15 IST. The match will take place at Tribhuvan University International Cricket Ground. Predictions and betting tips for the game are available, along with live score updates, as teams prepare for this T20 encounter.",
+        "summary": "Simon Harmer has called for the appointment of Carl Crowe to enhance England's spin bowling capabilities. Harmer, a spinner for South Africa and Essex, emphasized that Jack Leach is currently England's most reliable option for the Test team. He believes that the development of English spinners is hindered by insufficient specialized coaching resources available to them.",
         "wordCount": 56
+      },
+      {
+        "title": "'Past players will start to go at them': Ex-England cricketer warns Australia ahead of 2027 Ashes",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/past-players-will-start-to-go-at-them-ex-england-cricketer-warns-australia-ahead-of-2027-ashes/articleshow/135493983.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135494254,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-03T11:14:00Z",
+        "category": "sports",
+        "summary": "Former England cricketer Michael Atherton has stated that England has a strong chance to pressure Australia during their upcoming white-ball tour. He noted that Australia's recent struggles and selection issues could be advantageous for England. Atherton emphasized that past players may begin to challenge Australia more aggressively, suggesting a shift in dynamics for the 2027 Ashes series.",
+        "wordCount": 57
       }
     ],
     "health": [
       {
-        "title": "How your body clock affects your mental health and ways to keep it in sync",
-        "url": "https://theconversation.com/how-your-body-clock-affects-your-mental-health-and-ways-to-keep-it-in-sync-294970",
-        "source": "The Conversation",
-        "image": "https://images.theconversation.com/files/769244/original/file-20261030-64-duuw4y.jpg?ixlib=rb-4.1.1&rect=0%2C561%2C6720%2C3360&q=45&auto=format&w=1356&h=668&fit=crop",
-        "publishedAt": "2026-11-02T16:17:48Z",
+        "title": "4 easy habits to incorporate into your daily routine to boost lymphatic drainage",
+        "url": "https://www.vogue.in/content/4-easy-habits-to-incorporate-into-your-daily-routine-to-boost-lymphatic-drainage",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6ae9801f509fe5bb497509f9/16:9/w_1280,c_limit/Screenshot%202026-11-03%20at%2012.02.50.png",
+        "publishedAt": "2026-11-03T12:25:15Z",
         "category": "health",
-        "summary": "Disrupted body clocks can negatively impact mental health, influencing mood and emotions. Research highlights the importance of circadian rhythms, which regulate alertness, hormones, and body temperature. Factors such as sleep quality, light exposure, and meal timing play significant roles in maintaining these rhythms. Understanding and synchronizing these elements can help improve mental well-being and emotional stability.",
+        "summary": "Incorporating daily habits can enhance lymphatic drainage, supporting immunity and overall health. Dr. Gerald M. Lemole emphasizes the importance of lymph in his book, highlighting its essential functions. Four expert-recommended habits include staying hydrated, regular exercise, deep breathing techniques, and incorporating lymphatic massage. These practices aim to improve lymphatic flow, contributing to longevity and vitality in daily life.",
+        "wordCount": 58
+      },
+      {
+        "title": "Man's warning over symptoms of leg condition",
+        "url": "https://www.yahoo.com/news/world/articles/mans-warning-over-symptoms-leg-115434037.html",
+        "source": "Yahoo",
+        "image": "https://s.yimg.com/lo/mysterio/api/c3e9a1b2822a792ae2de4ba9d4e21838290fac56fdd0d9461018530b4d522bc2/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fbbc_us_articles_995%2F376cc080a14173eaed7762f5103159e0.jpg",
+        "publishedAt": "2026-11-03T11:54:34Z",
+        "category": "health",
+        "summary": "Paul Hardy, diagnosed with peripheral arterial disease (PAD) four years ago, experienced severe pain prompting his diagnosis. He emphasizes the serious risks associated with the condition, including potential limb loss. To manage his PAD, Hardy underwent angioplasty procedures aimed at improving blood flow to his legs. He warns others about recognizing symptoms to prevent similar outcomes.",
         "wordCount": 56
       },
       {
-        "title": "Omega-3 supplements boost brain health: Myth or fact?",
-        "url": "https://www.indulgexpress.com/life-style/mind-and-body/2026/Nov/02/omega-3-supplements-help-improve-brain-health-is-it-a-myth-or-a-fact",
-        "source": "IndulgExpress",
-        "image": "https://cf-images.assettype.com/indulgexpress%2F2026-11-02%2Fzk0yf4y6%2FMixCollage-02-Nov-2026-05-28-PM-9388.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-11-02T15:47:00Z",
+        "title": "Man's warning over symptoms of peripheral arterial disease",
+        "url": "https://www.bbc.co.uk/news/articles/cwkgj3ndyg1go",
+        "source": "BBC",
+        "image": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/1c19/live/1703e510-d6b2-11f1-aacc-5b5f23abff4b.jpg",
+        "publishedAt": "2026-11-03T11:54:30Z",
         "category": "health",
-        "summary": "Omega-3 supplements are frequently promoted for improving memory and protecting against Alzheimer's disease. However, recent clinical trials have raised questions about the validity of these claims. Researchers are investigating whether there is substantial scientific evidence supporting the benefits of Omega-3s for brain health or if these assertions are merely health myths lacking concrete backing from rigorous studies.",
-        "wordCount": 57
-      },
-      {
-        "title": "US FDA grants tentative nod to Dr Reddy's twice-yearly HIV prevention drug",
-        "url": "https://www.business-standard.com/health/us-fda-grants-tentative-nod-to-dr-reddy-s-twice-yearly-hiv-prevention-drug-126110201511_1.html",
-        "source": "Business Standard",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/11/thumb/fitandfill/1200X628/1791688455-0197.jpg",
-        "publishedAt": "2026-11-02T15:35:59Z",
-        "category": "health",
-        "summary": "The US FDA has granted tentative approval to Dr Reddy's Laboratories for its generic lenacapavir, a twice-yearly HIV prevention injection. This approval aims to enhance affordable access to the drug in 120 countries outside the United States. The initiative is expected to significantly improve HIV prevention efforts globally, making the treatment more accessible to those in need.",
-        "wordCount": 57
+        "summary": "Paul Hardy, diagnosed with peripheral arterial disease (PAD) four years ago, experienced severe pain prompting his diagnosis. He emphasizes the serious risks associated with PAD, including potential limb loss. To manage his condition, Hardy underwent angioplasty procedures aimed at improving blood flow to his legs. He aims to raise awareness about PAD symptoms and the importance of early intervention.",
+        "wordCount": 59
       }
     ],
     "science": [
       {
-        "title": "Redefining the edge of the solar system",
-        "url": "https://room.eu.com/article/redefining-the-edge-of-the-solar-system",
-        "source": "Room The Space Journal of Asgardia",
-        "image": "https://room.eu.com/images/contents/issue39-Infrared-view-from-NASA-s-NEOWISE-mission-of-the-Oort-cloud-comet-C-2006-W3-as-it-travelled-through.jpg",
-        "publishedAt": "2026-11-03T00:00:00Z",
+        "title": "NASA Telescope To Fall On Earth: Mumbai, Hyderabad In Possible Debris Zone",
+        "url": "https://www.ndtv.com/india-news/nasa-telescope-to-fall-on-earth-mumbai-hyderabad-in-possible-debris-zone-12276907",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/gjnatcjs_neil-gehrels-observatory-nasa_625x300_03_November_26.jpeg",
+        "publishedAt": "2026-11-03T12:08:32Z",
         "category": "science",
-        "summary": "The Milky Way’s gravitational field, including dark matter, may redefine the solar system's boundaries. Historically, Pluto was considered the edge, but recent studies suggest that the sun's sphere of influence extends further. This challenges traditional definitions of space boundaries, emphasizing the complexity of astronomical scales and the need for updated understandings of the solar system's limits.",
+        "summary": "NASA's Neil Gehrels Swift Observatory, a 1.5-tonne space telescope launched on November 20, 2004, is set to re-enter Earth's atmosphere. Originally designed for a two-year mission, it operated for nearly 22 years, observing over 2,000 gamma-ray bursts and 1,400 supernovae. Mumbai and Hyderabad are identified as potential debris zones during its descent.",
+        "wordCount": 52
+      },
+      {
+        "title": "100 billion times smaller than atom, scientists explore 'zeptoverse'",
+        "url": "https://timesofindia.indiatimes.com/science/100-billion-times-smaller-than-atom-scientists-explore-zeptoverse/articleshow/135495590.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135495616,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-03T12:05:00Z",
+        "category": "science",
+        "summary": "Scientists have detected signals from the smallest scale of nature, approximately 100 billion times smaller than an atom, termed the 'zeptoverse.' This discovery opens new avenues for understanding fundamental physics and the universe's structure. Researchers believe that exploring this scale could lead to significant advancements in various scientific fields, enhancing our comprehension of the natural world.",
         "wordCount": 56
       },
       {
-        "title": "An Ancient Indigenous Practice Could Help Marine Life Survive a More Acidic Ocean",
-        "url": "https://www.zmescience.com/science/oceanography/ancient-clam-gardens-ocean-acidification/",
-        "source": "ZME Science",
-        "image": "https://cdn.zmescience.com/wp-content/uploads/2026/11/richard-stovall-RlQHRktwPGk-unsplash-scaled.jpg",
-        "publishedAt": "2026-11-02T17:33:44Z",
+        "title": "Astronauts Anil Menon and Joshua Kutryk to install the last ISS roll-out solar array on Thursday: All you need to know about the spacewalk",
+        "url": "https://starlust.org/astronauts-anil-menon-and-joshua-kutryk-to-install-the-last-iss-roll-out-solar-array-on-thursday/",
+        "source": "Starlust.org",
+        "image": "https://media.pubninja.com/articles/brand-7/covers/1793705179768_e173853e3305.jpg",
+        "publishedAt": "2026-11-03T11:55:32Z",
         "category": "science",
-        "summary": "Indigenous communities on North America's Pacific coast have practiced marine stewardship for thousands of years by crushing old seashells and mixing them into sand where new clams grow. This ancient method may help marine life adapt to increasingly acidic ocean conditions. The practice is based on traditional ecological knowledge and aims to enhance the resilience of marine ecosystems.",
-        "wordCount": 58
-      },
-      {
-        "title": "Where Pieces of NASA's Swift Observatory May Crash This Week",
-        "url": "https://gizmodo.com/nasas-swift-observatory-will-crash-back-to-earth-this-week-heres-where-pieces-may-land-2000833765",
-        "source": "Gizmodo",
-        "image": "https://gizmodo.com/app/uploads/2025/11/Swift-observatory--1200x675.jpg",
-        "publishedAt": "2026-11-02T17:25:45Z",
-        "category": "science",
-        "summary": "NASA’s Neil Gehrels Swift Observatory is expected to reenter Earth’s atmosphere this week after a failed rescue mission. While most of the spacecraft will likely disintegrate upon reentry, experts estimate that approximately 100 kilograms of debris may survive the descent. The exact landing location remains uncertain, but potential crash sites include oceans and uninhabited areas.",
-        "wordCount": 55
+        "summary": "Astronauts Anil Menon and Joshua Kutryk will conduct a spacewalk on November 5 to install the final roll-out solar array on the International Space Station (ISS). This installation marks the completion of nearly ten years of work and is expected to increase the ISS's power generation capacity by approximately 30%, enhancing its operational capabilities in space.",
+        "wordCount": 56
       }
     ],
     "entertainment": [
       {
-        "title": "Capricorn Horoscope Today: November 3, 2026",
-        "url": "https://www.vogue.in/content/capricorn-horoscope-today-november-3-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
-        "publishedAt": "2026-11-03T00:20:00Z",
+        "title": "Amitabh Bachchan drops health update after expressing he's been advised to take a break: 'Gyming has been a bit non routined, don't let the old man in'",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amitabh-bachchan-drops-health-update-after-expressing-hes-been-advised-to-take-a-break-gyming-has-been-a-bit-non-routined-dont-let-the-old-man-in/articleshow/135496300.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135498253,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-03T12:25:00Z",
         "category": "entertainment",
-        "summary": "On November 3, 2026, Capricorns are encouraged to explore new ideas and visions for their lives. This period is described as relaxing, rewarding, and enriching. However, individuals are advised to avoid knee-jerk reactions that may hinder their progress. Embracing these fresh perspectives could lead to personal growth and fulfillment, guiding them toward their next steps.",
+        "summary": "Amitabh Bachchan shared a health update, revealing he has been advised to take a break. He mentioned difficulties with sleep and the need to establish a consistent gym routine. Despite these challenges, he encourages his fans not to succumb to aging, stating, \"don't let the old man in.\" Bachchan frequently updates fans about his life through his blog and X.",
+        "wordCount": 60
+      },
+      {
+        "title": "Amitabh Bachchan Opens Up About Sleep Struggles At 84, Shares Fitness Mantra",
+        "url": "https://www.ndtv.com/lifestyle/amitabh-bachchan-opens-up-about-sleep-struggles-at-84-shares-fitness-mantra-12275905",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-10/inblfr1o_amitabh-bachchan_625x300_23_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-03T12:19:04Z",
+        "category": "entertainment",
+        "summary": "Amitabh Bachchan, at 84, discussed his struggles with sleep and maintaining his fitness routine due to a demanding work schedule. The veteran actor highlighted how his busy commitments have impacted his gym sessions. Despite these challenges, he continues to focus on his health and fitness, emphasizing the importance of staying active and managing time effectively.",
         "wordCount": 55
       },
       {
-        "title": "Pisces Horoscope Today: November 3, 2026",
-        "url": "https://www.vogue.in/content/pisces-horoscope-today-november-3-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
-        "publishedAt": "2026-11-03T00:20:00Z",
+        "title": "Ranbir Kapoor reacts to the mixed early reviews to 'Ramayana': 'Kuchh to log kahenge, logon ka kaam hai kehna'",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ranbir-kapoor-reacts-to-the-mixed-early-reviews-to-ramayana-kuchh-to-log-kahenge-logon-ka-kaam-hai-kehna/articleshow/135495442.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135495521,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-03T12:02:00Z",
         "category": "entertainment",
-        "summary": "Pisces individuals are encouraged to take time for themselves on November 3, 2026. Practicing deep breathing can help clear the mind and alleviate stress. By allowing moments of pause, Pisces may find that previously pressing questions feel less significant. This approach promotes mental clarity and emotional well-being, enabling a more relaxed perspective on daily challenges and responsibilities.",
-        "wordCount": 57
-      },
-      {
-        "title": "Aquarius Horoscope Today: November 3, 2026",
-        "url": "https://www.vogue.in/content/aquarius-horoscope-today-november-3-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e055135022eaa114c0cd/16:9/w_1280,c_limit/13-Aquarius_16;9.png",
-        "publishedAt": "2026-11-03T00:20:00Z",
-        "category": "entertainment",
-        "summary": "Aquarius individuals are encouraged to declutter and reorganize their surroundings, starting with a drawer and progressing to their wardrobe. This process aims to enhance both their environment and mental clarity. The current period presents an opportunity for personal growth and transformation, suggesting that taking small steps can lead to significant improvements in overall well-being and mindset.",
-        "wordCount": 56
+        "summary": "Ranbir Kapoor addressed the mixed early reviews of Nitesh Tiwari's adaptation of the 'Ramayana,' stating, \"Kuchh to log kahenge, logon ka kaam hai kehna.\" The film has garnered attention since its teaser release earlier this year and is scheduled to premiere in cinemas worldwide on November 5. The project aims to present a fresh interpretation of the Indian epic.",
+        "wordCount": 59
       }
     ]
   }
