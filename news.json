@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-11-04T12:31:10.161Z",
+  "updatedAt": "2026-11-05T00:31:10.960Z",
   "categories": {
     "world": [
       {
-        "title": "US Midterm Election Results: Trump facing a voter backlash? Early polls reveal anger over economy and high prices",
-        "url": "https://www.moneycontrol.com/world/us-midterm-election-results-trump-facing-a-voter-backlash-early-polls-reveal-anger-over-economy-and-high-prices-article-14068140.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261104001715_Midterm-6.jpg",
-        "publishedAt": "2026-11-04T00:17:25Z",
+        "title": "Donald Trump loses US Congress; Netanyahu faces deadlock at home: What happens to Iran war now?",
+        "url": "https://timesofindia.indiatimes.com/world/us/donald-trump-loses-us-congress-netanyahu-faces-deadlock-at-home-what-happens-to-iran-war-now/articleshow/135539375.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135539446,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-04T12:29:00Z",
         "category": "world",
-        "summary": "Early voter surveys from the US midterm elections indicate significant dissatisfaction among voters regarding the economy and high prices. A CBS News exit poll reported President Trump's approval rating at 38%. Additionally, an AP survey revealed that 70% of voters believe Congress is insufficiently checking presidential power, reflecting growing concerns about the government's effectiveness and direction.",
-        "wordCount": 56
-      },
-      {
-        "title": "US midterm elections: Exit poll shows 6 in every 10 Americans feel Iran war was a 'wrong decision'",
-        "url": "https://www.hindustantimes.com/world-news/us-news/us-midterm-elections-exit-poll-shows-6-in-every-10-americans-feel-iran-war-was-a-wrong-decision-101793750109515.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/USA-ELECTION--41_1793750229480_Rep8_1793750241810_maWH_56425a32-287f-4c85-a401-1f412e838f05_hmgr.JPG",
-        "publishedAt": "2026-11-03T23:58:09Z",
-        "category": "world",
-        "summary": "During the 2026 midterm elections, an AP Voter Poll indicated that 60% of Americans believe the war with Iran was a \"wrong decision.\" Voter dissatisfaction with President Donald Trump's handling of the situation is evident, with many expressing frustration over current conditions in the U.S. Trump remains optimistic that rising gas and energy prices will eventually decrease.",
+        "summary": "Donald Trump lost control of Congress following a significant Democratic victory, while Israeli Prime Minister Benjamin Netanyahu faces political deadlock amid ongoing challenges. Both leaders are grappling with the implications of the unresolved conflict with Iran, which has influenced their electoral outcomes. The political setbacks raise questions about future strategies regarding the Iran war for both nations.",
         "wordCount": 57
       },
       {
-        "title": "Indian tourist killed, PIO injured as copters collide during Everest rescue",
-        "url": "https://timesofindia.indiatimes.com/india/indian-tourist-killed-pio-injured-as-copters-collide-during-everest-rescue/articleshow/135516590.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135516637,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-03T23:57:00Z",
+        "title": "Iran allows Indian ships free passage through Strait of Hormuz amid tensions",
+        "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-india-gets-transit-exemption-from-iran-amid-shipping-crisis-3032246-2026-11-04",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/vessels-at-the-strait-of-hormuz--as-seen-from-musandam--oman--october-2--2026-reuters-300331692-16x9.jpg?VersionId=U24gKPz1qIixxy9LpMHXSPiVMvOOAP54",
+        "publishedAt": "2026-11-04T12:19:10Z",
         "category": "world",
-        "summary": "A 47-year-old tourist from Chennai was killed in a helicopter collision during a rescue operation near Everest. The incident involved two helicopters that collided approximately 10 feet above a helipad. An Indian-origin New Zealand citizen and a pilot sustained injuries in the crash. The authorities are investigating the circumstances surrounding the incident to determine the cause of the collision.",
-        "wordCount": 59
+        "summary": "Iran has lifted transit restrictions for vessels from India, China, Iraq, and Qatar in the Strait of Hormuz. A senior Iranian lawmaker stated that this decision aligns with Tehran's mutual interests, particularly regarding medicine imports from India and political support from China. The move reflects Iran's strategic partnerships amid ongoing regional tensions and aims to facilitate trade.",
+        "wordCount": 57
+      },
+      {
+        "title": "U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics",
+        "url": "https://www.thehindu.com/news/national/us-midterm-results-may-matter-less-for-india-us-ties-than-for-indias-room-to-manoeuvre-in-geopolitics/article71665475.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/qu0kto/article71665629.ece/alternates/LANDSCAPE_1200/2026-11-04T120828Z_1777939035_RC2ZGOAUAGQM_RTRMADP_3_USA-ELECTION.JPG",
+        "publishedAt": "2026-11-04T12:17:43Z",
+        "category": "world",
+        "summary": "The U.S. midterm results are expected to have a limited impact on India-U.S. bilateral relations, focusing instead on broader geopolitical implications. Issues such as the Iran war, Russian oil, trade discussions, and the Quad alliance will shape India's strategic options. The elections may strengthen the Democrats, influencing the global operating environment for India more than direct ties with the U.S.",
+        "wordCount": 60
       }
     ],
     "business": [
       {
-        "title": "Stocks in news: NSE, BSE, SBI, Happiest Minds, MCX, IEX and Minda Corp",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-nse-bse-sbi-happiest-minds-mcx-iex-and-minda-corp/articleshow/135508071.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-135508643,width-1200,height-900,imgsize-135464,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-11-04T00:30:00Z",
+        "title": "Sebi eases digital KYC rules for NRIs, foreign nationals from December 3",
+        "url": "https://www.business-standard.com/markets/news/sebi-eases-digital-kyc-rules-for-nris-foreign-nationals-from-december-3-126110401461_1.html",
+        "source": "Business Standard",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/22/thumb/fitandfill/1200X628/1790048651-6838.jpg",
+        "publishedAt": "2026-11-04T12:07:41Z",
         "category": "business",
-        "summary": "The Indian stock market maintained its upward trend, with the Nifty 50 rising 370 points, or 1.58%, to close at 23,811. Major players like NSE and SBI reported strong quarterly results, showcasing significant profitability and revenue growth. Companies such as Happiest Minds Technologies and the Multi Commodity Exchange of India also positively influenced the market's performance during this period.",
-        "wordCount": 59
+        "summary": "The Securities and Exchange Board of India (Sebi) will permit Non-Resident Indians (NRIs), Overseas Citizens of India (OCIs), and foreign nationals from FATF-compliant countries to complete their Know Your Customer (KYC) processes digitally starting December 3. This change aims to simplify the onboarding process and facilitate investment in Indian markets for these individuals.",
+        "wordCount": 53
       },
       {
-        "title": "D-Street braces for weak opening on negative GIFT Nifty cues",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135507523.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-135507932,width-1200,height-900,imgsize-244244,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-11-04T00:30:00Z",
+        "title": "Stock Market Close: Sensex rises for 5th day, gains 384 pts; Nifty at 23,961; IT only sectoral loser",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-november-4-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-q2-results-ipo-today-126110400107_1.html",
+        "source": "Business Standard",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/21/thumb/featurecrop/1200X628/1776757107-8006.jpeg",
+        "publishedAt": "2026-11-04T10:30:41Z",
         "category": "business",
-        "summary": "Benchmark Nifty rose 1.6% to close at 23,810, marking its fourth consecutive gain. This increase was driven by easing crude prices and ongoing foreign fund inflows. Analysts predict a positive consolidation for Indian equities following recent recoveries. The rupee appreciated by 9 paise against the US dollar, while India VIX experienced a rise of 1.",
-        "wordCount": 55
-      },
-      {
-        "title": "New Rs 2,800-crore capex scheme for critical minerals",
-        "url": "https://indianexpress.com/article/business/government-agenda-capex-scheme-critical-minerals-10949511/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/11/image-pd-36_20261103220140.jpg",
-        "publishedAt": "2026-11-03T23:51:58Z",
-        "category": "business",
-        "summary": "The Indian government has announced a Rs 2,800-crore capital expenditure scheme to boost critical minerals, specifically lithium, nickel, and cobalt, essential for Li-ion batteries. The initiative will offer a 30% capital subsidy for establishing four processing plants: two lithium plants with a minimum capacity of 30 kilotonnes each and two nickel processing facilities, enhancing domestic production capabilities.",
-        "wordCount": 57
+        "summary": "The Sensex increased by 384 points, marking its fifth consecutive day of gains, while the Nifty reached 23,961. In broader markets, the Nifty MidCap 100 rose by 1.55%, and the Nifty SmallCap 100 gained 2.0%. The IT sector was the only sector to decline during this trading session. Overall, market sentiment remained positive across most sectors.",
+        "wordCount": 56
       }
     ],
     "technology": [
       {
-        "title": "Xbox Nano Controller Review: This Cute, Portable Controller Presses Most of the Right Buttons",
-        "url": "https://www.cnet.com/tech/gaming/xbox-nano-controller-review/",
-        "source": "CNET",
-        "image": "https://www.cnet.com/wp-content/uploads/sites/2/image_27b998.png",
-        "publishedAt": "2026-11-03T22:00:57Z",
+        "title": "Why BIM Still Doesn't Know What Your Building Is Made Of",
+        "url": "https://www.archdaily.com/1187161/why-bim-still-doesnt-know-what-your-building-is-made-of",
+        "source": "ArchDaily",
+        "image": "https://images.adsttc.com/media/images/6ae0/d414/db5c/2001/882d/0be9/large_jpg/why-bim-still-doesnt-know-what-your-building-is-made-of_4.jpg?1793119276",
+        "publishedAt": "2026-11-04T11:45:00Z",
         "category": "technology",
-        "summary": "The Xbox Nano Controller, priced at $50, is designed for portability and appeals to gamers on the move. Its compact size and cute design are notable features, but it may not suit everyone, particularly those with larger hands. While it offers a fun gaming experience, it may not replace traditional gamepads for all users.",
-        "wordCount": 54
+        "summary": "Acelab's Material Intelligence Model aims to enhance architectural design efficiency by integrating connected material data. Currently, changing a material in Revit requires teams to revert to specifications, spreadsheets, and drawings to ensure consistency, unlike moving a wall, which automatically updates all related plans and sections. This highlights ongoing challenges in building information modeling (BIM) regarding material identification.",
+        "wordCount": 57
       },
       {
-        "title": "Galaxy A58 charging speed revealed months ahead of launch",
-        "url": "https://www.sammobile.com/news/galaxy-a58-charging-speed-leaks/",
+        "title": "Galaxy A26, Galaxy A27 One UI 9.0 update reaches the US",
+        "url": "https://www.sammobile.com/news/galaxy-a26-galaxy-a27-one-ui-9-0-update-reaches-usa/",
         "source": "SamMobile",
-        "image": "https://www.sammobile.com/wp-content/uploads/2026/04/Galaxy-A57-review-12.jpg",
-        "publishedAt": "2026-11-03T21:58:00Z",
+        "image": "https://www.sammobile.com/wp-content/uploads/2026/07/Galaxy-A27-review-camera.jpg",
+        "publishedAt": "2026-11-04T11:34:00Z",
         "category": "technology",
-        "summary": "The Samsung Galaxy A58 has obtained 3C certification in China, confirming it will support 45W fast charging. This information comes months before its anticipated launch in early 2027. Samsung's upcoming releases include the high-end Galaxy S27 series and the mid-range Galaxy A38, alongside the A58, marking a continuation of their smartphone lineup for the year.",
-        "wordCount": 55
+        "summary": "Samsung has begun rolling out the One UI 9.0 (Android 17) update for the Galaxy A26 and Galaxy A27 in the United States. The update is initially available for factory-unlocked variants of both models. Users can expect new features and improvements with this update, enhancing the overall performance and user experience of the devices.",
+        "wordCount": 54
       },
       {
-        "title": "Party Apps With iOS 27.3 Developer Preview — BigGo Finance",
-        "url": "https://finance.biggo.com/news/78385d93-e02d-4948-ba22-78260606f820",
-        "source": "BigGo Finance",
-        "image": "https://img.biggo.com/2jdPSMD7-UmSaBGA37RfyS99lHXvFKZZjizuRLbZmBw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzc4Mzg1ZDkzLWUwMmQtNDk0OC1iYTIyLTc4MjYwNjA2ZjgyMF8xNzkzNzQxMzIwX2RlZmF1bHQuanBn.jpg",
-        "publishedAt": "2026-11-03T21:25:00Z",
+        "title": "Samsung's Galaxy Z Fold8 Ad Takes a Bold Swipe at Apple's iPhone Duo",
+        "url": "https://openthemagazine.com/business/samsung-vs-apple-why-the-galaxy-z-fold8-ad-takes-a-crack-at-the-iphone-duo",
+        "source": "Open Magazine",
+        "image": "https://media.openthemagazine.com/openthemagazine/2026-11-04/yrr263qz/FOLDD.png?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-11-04T11:19:24Z",
         "category": "technology",
-        "summary": "Apple has launched the iOS 27.3 Developer Preview, allowing third-party developers to integrate Siri AI into their applications for the first time. This integration enables apps to utilize Siri's personal-context, natural-language processing, and on-screen awareness features. The update is currently in beta testing, signaling a significant expansion of Siri's capabilities beyond Apple's own applications.",
-        "wordCount": 54
+        "summary": "Samsung's Galaxy Z Fold8 advertisement critiques Apple's iPhone Duo by showcasing a cracked screen as a reason to switch. The ad emphasizes Samsung's confidence and humor, aiming to redefine the competition in the foldable phone market. It suggests that consumers prioritize user experience over specifications when comparing devices, highlighting the ease of use of the Galaxy Z Fold8.",
+        "wordCount": 58
       }
     ],
     "sports": [
       {
-        "title": "Enrique after Villarreal's six-goal haul: top spot means nothing, there is only one champion in the end",
-        "url": "https://www.goal.com/en/news/enrique-after-villarreal-s-six-goals-top-spot-means-nothing-there-is-only-one-champion-in-the-end/bltf7bc7abcf3ba4008",
-        "source": "Goal.com",
-        "image": "https://assets.goal.com/images/v3/getty-2302911891/crop/MM5DCOJRHA5DCMBXHE5G433XMU5DAORRGAYA====/GettyImages-2302911891.jpg",
-        "publishedAt": "2026-11-03T23:57:52Z",
+        "title": "'Imagine The Red Ball': Sunil Gavaskar Left Stunned By Arshdeep Singh's Swing",
+        "url": "https://www.news18.com/cricket/imagine-the-red-ball-sunil-gavaskar-left-stunned-by-arshdeep-singhs-swing-10412756.html",
+        "source": "News18",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/11/Untitled-design-7-2026-11-93f33e7a74d1fbd29d6f90663e655edc-1200x675.jpg",
+        "publishedAt": "2026-11-04T12:18:42Z",
         "category": "sports",
-        "summary": "Luis Enrique, manager of Paris Saint-Germain, stated that the team's primary goal this season is to defend their UEFA Champions League title for a third consecutive year. He emphasized that leading the league phase and scoring 20 goals in the initial rounds hold little importance at this stage, as only one champion will emerge at the season's end.",
-        "wordCount": 58
+        "summary": "Sunil Gavaskar has expressed admiration for Arshdeep Singh's bowling skills, particularly his ability to swing the ball in both directions. Gavaskar considers this talent a significant asset, suggesting it positions Singh as a strong candidate for red-ball cricket. His comments highlight the challenges batters face when confronting such versatile bowling, emphasizing Singh's potential in the longer format of the game.",
+        "wordCount": 60
       },
       {
-        "title": "Hansi Flick reveals what he enjoyed most about Barcelona’s win over Aston Villa",
-        "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/137037/hansi-flick-reveals-enjoyed-most-win-over-aston-villa",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/11/gettyimages-2302429288.jpg?quality=90&strip=all&crop=0%2C11.667342812148%2C100%2C76.665314375705&w=1200",
-        "publishedAt": "2026-11-03T22:59:30Z",
+        "title": "OFFICIAL: Real Madrid announce tennis legend Rafa Nadal as a member of the Board of Directors",
+        "url": "https://www.managingmadrid.com/115087/real-madrid-nadal-board-2026",
+        "source": "Managing Madrid",
+        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/11/gettyimages-2294924711.jpg?quality=90&strip=all&crop=0%2C11.198601080231%2C100%2C77.602797839538&w=1200",
+        "publishedAt": "2026-11-04T11:50:25Z",
         "category": "sports",
-        "summary": "Hansi Flick expressed satisfaction with Barcelona's recent victory over Aston Villa, highlighting the importance of the clean sheet achieved during the match. He praised the team's defensive performance against a strong opponent, noting that Aston Villa poses a significant challenge. Flick emphasized the importance of solid defense and conveyed his happiness with the team's overall performance in the game.",
-        "wordCount": 59
-      },
-      {
-        "title": "Match Awards from Bayern Munich’s resilient 2-0 win vs. Atletico Madrid",
-        "url": "https://www.bavarianfootballworks.com/bayern-munich-match-awards/277027/match-awards-player-ratings-atletico-madrid-0-2-bayern-munich-kane-olise-laimer-upamecano",
-        "source": "Bavarian Football Works",
-        "image": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/11/gettyimages-2302927282.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-11-03T22:55:12Z",
-        "category": "sports",
-        "summary": "Bayern Munich secured a 2-0 victory against Atlético Madrid in the Champions League, showcasing resilience despite injuries. The match followed a challenging period for Bayern, raising concerns among fans. Key players stepped up to ensure the win, reflecting the team's fighting spirit. This victory strengthens Bayern's position in the tournament, demonstrating their ability to overcome adversity.",
+        "summary": "Real Madrid has officially announced tennis legend Rafa Nadal as a member of its Board of Directors. This decision was made during a meeting of the Board on November 4. Nadal, known for his exceptional career in tennis, will now play a role in the governance of the football club, marking a notable crossover between sports.",
         "wordCount": 56
+      },
+      {
+        "title": "'He was annoying': Jacob Duffy's hilarious take on Virat Kohli after India's Auckland victory",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/he-was-annoying-jacob-duffys-hilarious-take-on-virat-kohli-after-indias-auckland-victory/articleshow/135538089.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135538223,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-04T11:45:00Z",
+        "category": "sports",
+        "summary": "New Zealand pacer Jacob Duffy humorously commented on Virat Kohli following India's victory in Auckland. Duffy described Kohli as \"annoying\" after the Indian batting star's performance in the match. Kohli's dismissal was marked by him throwing his bat in the air, highlighting his frustration. The exchange reflects the competitive spirit and camaraderie between players from both teams.",
+        "wordCount": 57
       }
     ],
     "health": [
       {
-        "title": "Study in India links gut bacteria differences to Parkinson’s disease",
-        "url": "https://parkinsonsnewstoday.com/news/study-india-links-gut-bacteria-differences-parkinsons-disease/",
-        "source": "Parkinson's News Today",
-        "image": "https://parkinsonsnewstoday.com/wp-content/uploads/2026/05/BacteriaSimple.png",
-        "publishedAt": "2026-11-03T20:26:15Z",
+        "title": "Italy’s repatriation detention centers under medical scanner",
+        "url": "https://medicalbuyer.co.in/italys-repatriation-detention-centers-under-medical-scanner/",
+        "source": "Medical Buyer",
+        "image": "https://medicalbuyer.co.in/wp-content/uploads/2026/11/Italys-repatriation-detention-centers-under-medical-scanner.jpg",
+        "publishedAt": "2026-11-04T11:38:03Z",
         "category": "health",
-        "summary": "A study from southern India indicates that individuals with Parkinson’s disease possess distinct gut bacteria compared to healthy individuals. The research highlights differences in the predicted functions of these bacteria, suggesting a potential link between gut health and Parkinson’s disease. This study contributes to the growing body of evidence exploring the relationship between gut microbiota and neurological conditions.",
+        "summary": "Italy's repatriation detention centers, known as Centri di Permanenza per il Rimpatrio (CPRs), are under scrutiny for their health and medical-ethical implications. These facilities, which detain foreign nationals awaiting removal, have garnered attention following a July 2025 investigation that was made public in February 2026. The focus highlights the need for more comprehensive analysis beyond migration policy debates.",
         "wordCount": 58
       },
       {
-        "title": "Why a growing number of younger Americans are having strokes",
-        "url": "https://nz.news.yahoo.com/why-growing-number-younger-americans-185220142.html",
-        "source": "Yahoo News New Zealand",
-        "image": "https://s.yimg.com/lo/mysterio/api/d299e24f1d17ac630c02bc673e6acea4babfb951a4fcd5b46ccc1699d1c56d7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_independent_577%2F3be14797b78d85d3fafc111077851b27.jpg",
-        "publishedAt": "2026-11-03T18:52:20Z",
+        "title": "Drug-free diabetes implant offers ‘promising’ future for patients, say scientists",
+        "url": "https://www.independent.co.uk/news/science/diabetes-type-2-obesity-drug-free-treatment-b3078973.html",
+        "source": "The Independent",
+        "image": "https://static.independent.co.uk/2026/09/24/9/18/iStock-924455578.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+        "publishedAt": "2026-11-04T11:31:00Z",
         "category": "health",
-        "summary": "A rising number of younger Americans are experiencing strokes, with around 140,000 annual fatalities in the U.S. Recent incidents, including Connecticut Senator Chris Murphy's hospitalization for a stroke, highlight this trend. President Trump expressed surprise at Murphy's condition, noting his relatively young age. The increasing prevalence of strokes among younger individuals raises concerns within the medical community.",
-        "wordCount": 57
+        "summary": "A wireless electronic implant developed by bioengineers at ETH Zurich may provide a drug-free method to manage type 2 diabetes and obesity. The device works by directly clearing excess glucose from the bloodstream. Researchers describe the findings as promising, potentially offering a new treatment option that eliminates the need for traditional medications or insulin for patients.",
+        "wordCount": 56
       },
       {
-        "title": "Cold or allergy? Doctors explain 5 signs that reveal why you keep sneezing, have a runny nose and watery eyes, and when you should seek medical help",
-        "url": "https://timesofindia.indiatimes.com/health/cold-or-allergy-doctors-explain-5-signs-that-reveal-why-you-keep-sneezing-have-a-runny-nose-and-watery-eyes-and-when-you-should-seek-medical-help/articleshow/135510184.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135510256,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-03T18:20:00Z",
+        "title": "DUSP4 protein identified as key to preventing CAR T cell exhaustion",
+        "url": "https://www.drugtargetreview.com/dusp4-protein-identified-as-key-to-preventing-car-t-cell-exhaustion/2136922.article",
+        "source": "Drug Target Review",
+        "image": "https://dft2fymcn9opj.cloudfront.net/Pictures/1024x536/5/7/7/23577_shutterstock_2834217275_96588.jpg",
+        "publishedAt": "2026-11-04T11:30:01Z",
         "category": "health",
-        "summary": "Doctors highlight five key signs to differentiate between a cold and allergies, including sneezing patterns, itchy eyes, nasal discharge, and fever. Symptoms like persistent sneezing and a runny nose may indicate allergies rather than a cold. Understanding these differences can help individuals determine when to seek medical assistance for their symptoms.",
-        "wordCount": 51
+        "summary": "Researchers have identified the DUSP4 protein as crucial for preventing exhaustion in CD8+ T cells within the tumor microenvironment. Enhancing DUSP4 activity improves the efficacy of engineered CAR T cells against colorectal cancer. This discovery may lead to new strategies for optimizing T-cell therapies, potentially increasing their effectiveness in combating this type of cancer.",
+        "wordCount": 54
       }
     ],
     "science": [
       {
-        "title": "CERN Physicists Find Evidence of Ultra-Rare Particle Decay",
-        "url": "https://www.sci.news/physics/cern-ultra-rare-particle-decay-15171.html",
-        "source": "Sci.News",
-        "image": "https://cdn.sci.news/images/2018/09/image_6460f-LHCb.jpg",
-        "publishedAt": "2026-11-03T20:37:58Z",
+        "title": "NASA's Voyager 1 nears historic milestone: It will soon be one light-day away from Earth",
+        "url": "https://www.livemint.com/science/news/nasas-voyager-1-nears-historic-milestone-it-will-soon-be-one-light-day-away-from-earth-11793791275028.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/11/04/1600x900/logo/1_Voyager_artist_concept_1793791376875_i2ed_1793791381837_XIfX_9f82774e-36a5-4f0e-a02e-9b9d0888b4f6_eJ2c.jpg",
+        "publishedAt": "2026-11-04T12:03:12Z",
         "category": "science",
-        "summary": "Physicists from the LHCb Collaboration at CERN's Large Hadron Collider have announced evidence for an extremely rare particle decay, a phenomenon they have pursued for over 40 years. This finding aligns with the Standard Model of particle physics, providing significant insights into fundamental particles and their interactions. The discovery marks a notable advancement in particle physics research.",
+        "summary": "NASA's Voyager 1, launched nearly 50 years ago, is nearing a significant milestone, becoming one light-day away from Earth, over 16 billion miles distant. As it ventures deeper into space, engineers face challenges including declining power, aging equipment, and unexpected communication disruptions. This milestone highlights the remarkable journey of humanity's most distant spacecraft and its operational difficulties.",
         "wordCount": 57
       },
       {
-        "title": "NASA Discovers Mars Dust Can Cling to Spacesuits for Years - Some Particles Are Small Enough to Reach the Brain",
-        "url": "https://www.gadgetreview.com/nasa-discovers-mars-dust-can-cling-to-spacesuits-for-years-some-particles-are-small-enough-to-reach-the-brain",
-        "source": "Gadget Review",
-        "image": "https://www.gadgetreview.com/wp-content/uploads/Mars-Dust-Is-Smaller-Than-Anyone-Planned-For.-Thats-a-Problem-scaled.jpg",
-        "publishedAt": "2026-11-03T20:00:09Z",
+        "title": "NASA is racing against time to save the Hubble Space Telescope",
+        "url": "https://www.sciencedaily.com/releases/2026/11/261104012254.htm",
+        "source": "Science Daily",
+        "image": "https://www.sciencedaily.com/images/1920/hubble-space-telescope-over-earth.webp",
+        "publishedAt": "2026-11-04T11:24:23Z",
         "category": "science",
-        "summary": "NASA's Perseverance rover has identified Mars dust particles smaller than 2.5 micrometers, highlighting potential contamination risks for future crewed missions. These findings reveal gaps in current spacesuit and filtration standards, as some particles may remain on suits for years and could even reach the brain. This research emphasizes the need for improved crew-health protocols for Martian exploration.",
-        "wordCount": 57
+        "summary": "NASA is working to save the Hubble Space Telescope from a potential fall to Earth by 2033 or 2034. The agency has issued a Request for Information to private space companies, seeking innovative solutions to boost Hubble's orbit, upgrade its capabilities, or ensure its safe disposal. This effort aims to extend Hubble's operational life beyond its current limitations.",
+        "wordCount": 58
       },
       {
-        "title": "Scientist builds a mini universe of 24,000 atoms to show time can be measured without a clock",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/scientist-builds-a-mini-universe-of-24000-atoms-to-show-time-can-be-measured-without-a-clock/articleshow/135510963.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135510976,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-03T18:46:00Z",
+        "title": "Finding the right rhythm to free droplets stuck in narrow pores",
+        "url": "https://www.aip.org/scilights/finding-the-right-rhythm-to-free-droplets-stuck-in-narrow-pores",
+        "source": "AIP.ORG",
+        "image": "https://aip.brightspotcdn.com/dims4/default/5e5d9e5/2147483647/strip/true/crop/960x540+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fk1-prod-aip.s3.us-east-2.amazonaws.com%2Fbrightspot%2Fd6%2F57%2F60184abe4184aed5ce4b5d1c3fea%2F9dcc436aafdf48ae993cc9787d3a0691",
+        "publishedAt": "2026-11-04T11:05:05Z",
         "category": "science",
-        "summary": "A scientist at the University of Birmingham, Giovanni Barontini, has created a mini universe using approximately 24,000 atoms to demonstrate that time can be measured without a traditional clock. His experiment focuses on tracking the order of events through changes in the atomic arrangement, providing insights into the nature of time and its measurement beyond conventional methods.",
-        "wordCount": 57
+        "summary": "Simulations reveal that intermediate frequency pulsations effectively mobilize droplets trapped in narrow pores. This discovery could enhance fluid transport in subsurface reservoirs, which are underground formations containing oil, natural gas, water, or carbon dioxide. The findings address challenges posed by capillary forces that can immobilize droplets within porous materials, potentially improving extraction and management of these valuable resources.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: November 4, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-november-4-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-11-04T00:30:00Z",
+        "title": "'I'll Never Cheat You': Abhijeet Bhattacharya Slams Lip-Syncing After Daler Mehndi Controversy",
+        "url": "https://www.ndtv.com/entertainment/ill-never-cheat-you-abhijeet-bhattacharya-slams-lip-syncing-after-daler-mehndi-controversy-12282785",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/3gpjffs8_daler-_625x300_04_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-04T12:27:48Z",
         "category": "entertainment",
-        "summary": "On November 4, 2026, Scorpios face numerous challenging choices. The horoscope advises them to connect deeply with their inner selves and listen to their true feelings. By doing so, they can navigate these decisions without guilt or external attachments. The emphasis is on self-reflection and honesty to guide them through the complexities of their current situation.",
-        "wordCount": 56
+        "summary": "Singer Abhijeet Bhattacharya criticized lip-syncing during live performances, asserting his commitment to singing live regardless of his vocal quality. His remarks followed a controversy involving fellow artist Daler Mehndi. During a recent performance in Chhattisgarh, Bhattacharya emphasized that he would always perform authentically, stating, \"No matter how I sing, I will sing live.\"",
+        "wordCount": 53
       },
       {
-        "title": "Leo Horoscope Today: November 4, 2026",
-        "url": "https://www.vogue.in/content/leo-horoscope-today-november-4-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04db6cb334650d382b9/16:9/w_1280,c_limit/6-Leo_16;9.png",
-        "publishedAt": "2026-11-04T00:20:00Z",
+        "title": "'Ramayana' producer Namit Malhotra confirms the second part is delayed to 2028, says the Ranbir Kapoor starrer could become a trilogy: 'We need to do justice for a film of this size'",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-producer-namit-malhotra-confirms-the-second-part-is-delayed-to-2028-says-the-ranbir-kapoor-starrer-could-become-a-trilogy-we-need-to-do-justice-for-a-film-of-this-size/articleshow/135538597.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135538793,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-04T12:05:00Z",
         "category": "entertainment",
-        "summary": "On November 4, 2026, Leos may feel emotionally fulfilled, experiencing a peak in life satisfaction. The focus has been on supporting others, often at the expense of personal needs. Astrological guidance suggests a reminder to balance self-care with helping others. This period encourages reflection on personal well-being while continuing to provide support to those around them.",
-        "wordCount": 56
+        "summary": "Namit Malhotra, producer of 'Ramayana: Part 1', confirmed that the second part is delayed until 2028. He mentioned that the film, starring Ranbir Kapoor, might evolve into a trilogy to ensure the story receives proper treatment. 'Ramayana: Part 1' is set to release in theaters on November 5, ahead of the anticipated sequels.",
+        "wordCount": 53
       },
       {
-        "title": "Taurus Horoscope Today: November 4, 2026",
-        "url": "https://www.vogue.in/content/taurus-horoscope-today-november-4-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912dd65ee2e104d623d6d33/16:9/w_1280,c_limit/2-Taurus_16;9.png",
-        "publishedAt": "2026-11-04T00:20:00Z",
+        "title": "In 2009, Michael Jackson left a trust for his three children; 17 years later, daughter Paris is asking a court to move $600 million into it, while estate executors say unresolved tax litigation preven",
+        "url": "https://timesofindia.indiatimes.com/world/us/in-2009-michael-jackson-left-a-trust-for-his-three-children-17-years-later-daughter-paris-is-asking-a-court-to-move-600-million-into-it-while-estate-executors-say-unresolved-tax-litigation-prevents-full-funding/articleshow/135536975.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135537087,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-04T11:30:00Z",
         "category": "entertainment",
-        "summary": "Taurus individuals are presented with a significant opportunity to shine, either recently or soon. It is essential to approach this chance thoughtfully rather than hastily. Taking time to reflect on how to maximize this gift is crucial for success. The stars encourage Taurus to consider their actions carefully to make the most of the favorable cosmic influences.",
-        "wordCount": 57
+        "summary": "Seventeen years after Michael Jackson's death, his daughter Paris Jackson has requested a court to transfer $600 million into a trust established for her and her siblings. The estate's executors argue that ongoing tax litigation prevents the transfer. This legal move raises concerns regarding the inheritance of Paris and her brothers from their father's estate.",
+        "wordCount": 55
       }
     ]
   }
