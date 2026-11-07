@@ -1,217 +1,227 @@
 {
-  "updatedAt": "2026-11-07T00:31:22.765Z",
+  "updatedAt": "2026-11-07T12:31:21.750Z",
   "categories": {
     "world": [
       {
-        "title": "Woman Leans Against Hotel Window In Brazil, Falls To Death After Its Frame Breaks | Video",
-        "url": "https://www.news18.com/world/woman-leans-against-hotel-window-in-brazil-falls-to-death-after-its-frame-breaks-video-10415850.html",
-        "source": "News18",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/11/1-2026-11-06T175613.969-2026-11-743559698d82c8e217d116c95a8733ef-1200x675.png",
-        "publishedAt": "2026-11-06T12:27:08Z",
+        "title": "Trump vows new US air show will be biggest in the world",
+        "url": "https://www.reuters.com/business/aerospace-defense/trump-vows-new-us-air-show-will-be-biggest-world-2026-11-07/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/2BAWXIYRTJIE7LK6O34T5CNFBM.jpg?auth=2577cc8c4b46d98ee269147b5afcaede9621ede4aa504cd6f2726f6e7c1d14bb&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-11-07T00:21:00Z",
         "category": "world",
-        "summary": "A 26-year-old woman in Brazil fell to her death after leaning against a hotel window, which broke. A video shows a man accompanying her standing still for a few seconds before realizing the incident. The tragic event highlights safety concerns regarding hotel windows. Authorities are investigating the circumstances surrounding the incident to determine further details.",
-        "wordCount": 55
+        "summary": "US President Donald Trump and NASA announced plans for a new space and aeronautics industry conference, named CapeWeek, aimed at becoming the largest air show globally. The initiative seeks to surpass existing major air shows in other countries, highlighting the United States' commitment to advancing its aerospace sector. Details about the event's location and dates have yet to be revealed.",
+        "wordCount": 60
       },
       {
-        "title": "At least two children killed in bus crash in eastern France, authorities say",
-        "url": "https://www.reuters.com/world/europe/school-bus-crashes-eastern-france-with-several-victims-education-minister-says-2026-11-06/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/BG35XZBBBBLVBONQCC537ZZOTU.jpg?auth=e7232b1abf95fc27d091387c6e74d43bcf612ad333da799ed7b7d589f0b203d4&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-11-06T11:43:05Z",
+        "title": "Man with guns arrested near White House, had said he heard voices telling him to kill Trump",
+        "url": "https://www.hindustantimes.com/world-news/us-news/venezuelan-national-ronny-yordrix-guanipa-chrinos-arrested-near-white-house-with-multiple-guns-over-threat-to-kill-trump-101794008122359.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/06/1600x900/logo/Ronny_Yordrix_Guanipa_Chrinos__1794008762534_7BaI_1794008762696_NkhN_659bcaf5-9a76-44a9-ae2b-c9fe3fcc7be2_oee1.png",
+        "publishedAt": "2026-11-07T00:04:51Z",
         "category": "world",
-        "summary": "At least two children were killed and 16 others injured in a bus crash on Friday morning in eastern France, near the Swiss border, according to local authorities. French Prime Minister Sebastien Lecornu confirmed the fatalities in a post on X. The incident has prompted an investigation into the circumstances surrounding the crash. Further details are pending.",
-        "wordCount": 57
+        "summary": "A Venezuelan man, Ronny Yordrix Guanipa Chrinos, was arrested near the White House after allegedly threatening to kill President Trump. Authorities discovered three guns in his vehicle. The arrest occurred on November 5 when officers noticed suspicious behavior from Chrinos, who reportedly claimed to hear voices instructing him to commit the act. The investigation is ongoing.",
+        "wordCount": 56
+      },
+      {
+        "title": "US military carries out new targeted strike on Iran as Tehran’s leaders weigh mediator’s proposals",
+        "url": "https://www.arabnews.com/middle-east/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals-3010264",
+        "source": "Arab News",
+        "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794014209329-6731288f96656307.jpg",
+        "publishedAt": "2026-11-06T23:40:15Z",
+        "category": "world",
+        "summary": "The US military conducted targeted strikes on Iran, focusing on its air defense systems, as announced by President Donald Trump. The strikes occurred early Saturday, with Iranian state media reporting two explosions in the Suza area of Qeshm Island. This action comes as Tehran's leaders consider proposals from mediators amid ongoing tensions between the two nations.",
+        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "Asia’s Fuel Oil Market Signals Hopes of U.S.-Iran De-Escalation",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Asias-Fuel-Oil-Market-Signals-Hopes-of-US-Iran-De-Escalation.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-06_cehvm4bref.jpg",
-        "publishedAt": "2026-11-06T12:30:00Z",
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+        "publishedAt": "2026-11-06T22:53:46Z",
         "category": "business",
-        "summary": "Asia’s high-sulfur fuel oil margin decreased to a $2.29 discount this week amid growing hopes for U.S.-Iran de-escalation. The outcome of the U.S. midterms has fueled optimism for reduced tensions in the Middle East, potentially allowing increased oil product movement from the Strait of Hormuz. This has contributed to a slump in refining margins and benchmark prices.",
-        "wordCount": 57
+        "summary": "OpenAI has reportedly raised $11 billion in a new funding round, which is expected to close in the coming weeks. This funding values the AI lab at $1.25 trillion. Bloomberg cited sources familiar with the matter regarding the new funding. The reported amount is part of a larger funding initiative aimed at supporting OpenAI's ongoing projects and developments.",
+        "wordCount": 58
       },
       {
-        "title": "Hero Xtreme 125R Stealth Edition Launch Price Rs 1.16 Lakh in India",
-        "url": "https://bikeadvice.in/hero-xtreme-125r-stealth-edition-launch-price-rs-1-16-lakh-in-india/",
-        "source": "BikeAdvice",
-        "image": "https://bikeadvice.in/wp-content/uploads/2026/11/Hero-Xtreme-125R-Stealth-Edition.jpg",
-        "publishedAt": "2026-11-06T11:55:15Z",
+        "title": "SEBI's new settlement regulations to come into effect from November 7, online application facility introduced",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/business/sebi-s-new-settlement-regulations-to-come-into-effect-from-november-7-online-application-facility-introduced-14073992.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924130823_sebi3.jpg",
+        "publishedAt": "2026-11-06T22:24:46Z",
         "category": "business",
-        "summary": "Hero MotoCorp has launched the Xtreme 125R Stealth Edition in India at a price of Rs 1.16 lakh (ex-showroom). This motorcycle features a TFT instrument cluster with advanced connectivity options and introduces a segment-first Tyre Pressure Monitoring System (TPMS). The new model aims to enhance rider experience with its technological advancements and modern design elements.",
+        "summary": "SEBI's new settlement regulations will take effect on November 7, introducing an online application facility. The regulations stipulate a non-refundable application fee of Rs 25,000 for natural persons and Rs 35,000 for other applicants. This initiative aims to streamline the settlement process and enhance accessibility for various stakeholders involved in financial transactions and regulatory compliance.",
         "wordCount": 55
       },
       {
-        "title": "Bharti Airtel reclaims No. 2 spot among India's most valuable companies, overtakes Jio Platforms",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/bharti-airtel-reclaims-no-2-spot-among-indias-most-valuable-companies-overtakes-jio-platforms-reliance-at-top-spot/articleshow/135605274.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-135605494,width-1200,height-900,imgsize-156177,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-11-06T11:20:28Z",
+        "title": "Sensex jumps 10.6% in 7-session pre-Diwali rally, best in 35 years",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-up-10-6-in-7-session-pre-diwali-rally-best-in-35-yrs/articleshow/135620246.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135624503,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-06T20:55:00Z",
         "category": "business",
-        "summary": "Bharti Airtel has regained its status as India's second-most valuable listed company, surpassing Jio Platforms with a market capitalisation of Rs 13.15 lakh crore. This change follows a 31% year-on-year increase in Q2 net profit. The shift occurs amid a strong rally in benchmark indices, which have risen for seven consecutive sessions.",
-        "wordCount": 52
+        "summary": "The Sensex surged 10.6% over seven sessions leading up to Diwali, marking its best performance in 35 years. The index closed more than 8.8% higher in a single week, driven by renewed foreign investment in Indian stocks. Optimism surrounding the US midterm elections contributed to expectations of policy stability, further boosting investor confidence in the Indian market.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "“Piracy Is a Fact of Life,” Says Take-Two CEO as GTA 6 Nears Launch",
-        "url": "https://beebom.com/piracy-is-a-fact-of-life-says-take-two-ceo-as-gta-6-nears-launch/",
-        "source": "Beebom",
-        "image": "https://static.beebom.com/wp-content/uploads/2026/11/Take-Two-CEO-on-GTA-6-Piracy.jpg",
-        "publishedAt": "2026-11-06T12:18:03Z",
+        "title": "GTA 6 Xbox file size leak differs from PS5, with release day patch possible",
+        "url": "https://www.notebookcheck.net/GTA-6-Xbox-file-size-leak-differs-from-PS5-with-release-day-patch-possible.1444302.0.html",
+        "source": "Notebookcheck",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/GTA6XboxStore.jpg",
+        "publishedAt": "2026-11-06T23:59:00Z",
         "category": "technology",
-        "summary": "Take-Two CEO Strauss Zelnick discussed piracy concerns surrounding the imminent launch of GTA 6. He expressed that while piracy is a significant issue in the gaming industry, he is not overly worried. Zelnick outlined the company's strategies to address piracy, emphasizing that it is a common challenge faced by many game developers, particularly with major releases like GTA 6.",
-        "wordCount": 59
+        "summary": "The Xbox Store lists the file size for GTA 6 at 209.86 GB, while backend data suggests it could be 225.34 GB, possibly including a day-one patch. Pre-loads for both Xbox and PS5 begin on November 9th/10th, ahead of the game's release on November 19th. This information helps users prepare for the required storage space.",
+        "wordCount": 55
       },
       {
-        "title": "Windows 11 27H2 Could Be The Biggest Windows Upgrade Since 2024, With Major Performance Improvements And New Wallpapers",
-        "url": "https://wccftech.com/windows-11-27h2-could-be-the-biggest-windows-upgrade-since-2024-with-major-performance-improvements-and-new-wallpapers/",
-        "source": "Wccftech",
-        "image": "https://cdn.wccftech.com/wp-content/uploads/2026/11/FI-14.jpg",
-        "publishedAt": "2026-11-06T10:54:46Z",
+        "title": "This Early Black Friday Price Drop Brings Apple's M5 MacBook Air to Its Lowest Price Ever",
+        "url": "https://www.cnet.com/deals/early-black-friday-m5-macbook-air-deal/",
+        "source": "CNET",
+        "image": "https://www.cnet.com/wp-content/uploads/sites/2/MacBook-Air-BF-deal-featured-image-.jpg",
+        "publishedAt": "2026-11-06T22:20:22Z",
         "category": "technology",
-        "summary": "Microsoft is planning a significant upgrade for Windows 11, designated version 27H2, set for release in 2027. This update aims to enhance performance and reliability, focusing on substantial under-the-hood improvements. Additionally, users can expect new wallpapers as part of the upgrade. The company is prioritizing this overhaul instead of launching Windows 12 in the near future.",
-        "wordCount": 56
+        "summary": "Amazon is currently offering a $250 discount on select models of the M5 MacBook Air, marking the lowest price ever for these laptops. Known for their high quality, Apple laptops typically come with a significant price tag, making this early Black Friday deal an attractive option for consumers looking to purchase a new MacBook at a reduced cost.",
+        "wordCount": 58
       },
       {
-        "title": "Apex Legends Godzilla collaboration - Release date, cosmetics, new game mode & more",
-        "url": "https://khelnow.com/gaming/apex-legends-godzilla-collaboration-202611",
-        "source": "Khel Now",
-        "image": "https://assets.khelnow.com/news/uploads/2026/11/lead-ppc.jpg",
-        "publishedAt": "2026-11-06T10:30:00Z",
+        "title": "Windows 11 users won't get Windows 12 in 2027, just a new wallpaper instead, as Microsoft retires Bloom",
+        "url": "https://www.windowslatest.com/2026/11/07/windows-11-users-wont-get-windows-12-in-2027-just-a-new-wallpaper-instead-as-microsoft-retires-bloom/",
+        "source": "Windows Latest",
+        "image": "https://www.windowslatest.com/wp-content/uploads/2026/11/Windows-11-Bloom-wallpaper-is-reportedly-being-replaced-as-Microsoft-prepares-the-Windows-11-27H2-update-for-2027.jpg",
+        "publishedAt": "2026-11-06T21:40:03Z",
         "category": "technology",
-        "summary": "Respawn Entertainment announced a collaboration between Apex Legends and Godzilla, set to launch on November 10, 2026, shortly after Godzilla Day, which marks the franchise's 72nd anniversary. The event will feature 10 exclusive Legend skins and the Dorsal Dagger weapon. Additional details about the new game mode and cosmetics are expected to be revealed closer to the release date.",
-        "wordCount": 59
+        "summary": "Microsoft is set to release Windows 11 version 27H2 in 2027, instead of introducing Windows 12. This update will serve as a full operating system swap, similar to the previous 24H2 version, focusing on quality and performance enhancements. Additionally, the new update will feature a new wallpaper, replacing the existing Bloom design.",
+        "wordCount": 52
       }
     ],
     "sports": [
       {
-        "title": "ECB to raise concerns over funding of Afghanistan Premier League",
-        "url": "https://www.cricinfo.com/story/ecb-to-raise-concerns-over-funding-of-afghanistan-premier-league-1561666",
+        "title": "'It was all of us' - Khawaja exposes sandpaper details from 2018",
+        "url": "https://www.cricinfo.com/story/it-was-all-of-us-khawaja-exposes-sandpaper-details-from-2018-1561704",
         "source": "Cricinfo",
-        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/419700/419735.6.jpg",
-        "publishedAt": "2026-11-06T12:20:11Z",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/411300/411306.6.jpg",
+        "publishedAt": "2026-11-06T22:26:30Z",
         "category": "sports",
-        "summary": "The England and Wales Cricket Board (ECB) plans to express concerns regarding the funding of the Afghanistan Premier League (APL). Despite the league conducting its player draft, it has not received official approval from the International Cricket Council (ICC). The ECB's apprehensions highlight the ongoing issues surrounding the legitimacy and financial backing of the APL.",
-        "wordCount": 55
+        "summary": "Usman Khawaja is set to release an autobiography detailing his perspective on the 2018 sandpaper scandal. In an interview with Nine papers, he stated he was never interviewed by Cricket Australia regarding the incident in Cape Town. Khawaja emphasized that the responsibility for the events was shared among the entire Australian team, suggesting a collective involvement.",
+        "wordCount": 56
       },
       {
-        "title": "India vs Nepal Highlights U19 Asia Cup: Aaryavir Sehwag rips through Nepal to give India big win",
-        "url": "https://www.indiatoday.in/sports/cricket/story/india-vs-nepal-u19-asia-cup-live-score-updates-aryavir-sehwag-anvay-dravid-al-amerat-3033467-2026-11-06",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202611/aaryavir-sehwag-u19-asia-cup--india-vs-nepal-score-live-064240629-16x9_0.jpeg?VersionId=5_9HU1kz8pycYFL_rvvFkLcTWntg5wDW",
-        "publishedAt": "2026-11-06T11:41:23Z",
+        "title": "Mohammed Shami retires from Test cricket",
+        "url": "https://www.cricinfo.com/story/india-news-mohammed-shami-retires-from-test-cricket-1561697",
+        "source": "Cricinfo",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/354200/354209.6.jpg",
+        "publishedAt": "2026-11-06T21:25:06Z",
         "category": "sports",
-        "summary": "India's U19 cricket team secured a 10-wicket victory over Nepal in their Asia Cup opener. Aaryavir Sehwag scored an unbeaten 69 off 51 balls, while captain Lakshya Raichandani contributed with an unbeaten fifty. India chased down Nepal's total of 129 runs in just 19.1 overs. Ishan Sood excelled with the ball, taking 3 wickets to dismantle Nepal's top order.",
-        "wordCount": 59
+        "summary": "Mohammed Shami, the 36-year-old Indian fast bowler, has announced his retirement from Test cricket. He concludes his career as the sixth-most successful fast bowler for India. Shami's contributions to the team have been significant, particularly noted for his performance in the second innings of matches. His retirement marks the end of an impactful era in Indian cricket.",
+        "wordCount": 57
       },
       {
-        "title": "Mega LSG-RR trade in the offing",
-        "url": "https://www.cricbuzz.com/cricket-news/140807/mega-lsg-rr-trade-in-the-offing-cricbuzzcom",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1116413/the-deal-has-not-gone-through-yet-but-the-two-franchises-are-discussing-a-swap-built-around-a-batter-and-a-fast-bowler.jpg",
-        "publishedAt": "2026-11-06T11:37:30Z",
+        "title": "WTA Chennai Semifinal Predictions",
+        "url": "https://lastwordonsports.com/tennis/2026/11/06/wta-chennai-semifinal-predictions-tjen-montgomery/",
+        "source": "Last Word On Sports",
+        "image": "https://lastwordonsports.com/tennis/wp-content/uploads/sites/17/2026/10/2026-07-30T205606Z_1487287748_MT1USATODAY29483106_RTRMADP_3_TENNIS-MUBADALA-DC-OPEN.webp",
+        "publishedAt": "2026-11-06T21:05:53Z",
         "category": "sports",
-        "summary": "Lucknow Super Giants (LSG) and Rajasthan Royals (RR) are in discussions for a potential trade involving three or four players, including a batter and a fast bowler. The RR management is particularly interested in acquiring a pacer who performed well with LSG last season. The deal is not yet finalized, and negotiations are ongoing between the two franchises.",
-        "wordCount": 58
+        "summary": "The WTA Chennai semifinals feature four players with different paths to the final four. Janice Tjen aims to defend her title after defeating Polina Kudermetova. Robin Montgomery also advanced, winning in straight sets against a local competitor. The matchups promise intriguing contests as each player seeks to secure a place in the final of the tournament.",
+        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Muscle loss increases type 2 diabetes risk: Doctor explains why strength matters more than you think",
-        "url": "https://timesofindia.indiatimes.com/health/muscle-loss-increases-type-2-diabetes-risk-doctor-explains-why-strength-matters-more-than-you-think/photostory/135596200.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135596284,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-06T12:30:00Z",
+        "title": "Medical groups create framework to identify women’s cardiovascular risk",
+        "url": "https://www.rockfordnewsfirst.com/2026/11/06/medical-groups-create-framework-identify-womens-cardiovascular-risk/",
+        "source": "WIFR",
+        "image": "https://gray-wifr-prod.gtv-cdn.com/resizer/v2/SVWHVPNMFBAR7ECRYL3HOYLTM4.png?auth=934b51ba196644adb6acf2bd87146eae91ddfba604c4dbc4a2974f63cdc8eb41&width=1200&height=600&smart=true",
+        "publishedAt": "2026-11-06T21:19:00Z",
         "category": "health",
-        "summary": "Muscle loss can significantly increase the risk of type 2 diabetes, even in individuals who appear slim and maintain stable weight. This gradual decline in muscle mass, often due to aging or inactivity, reduces the body's ability to clear glucose from the bloodstream. Consequently, decreased muscle mass may lead to insulin resistance and heightened diabetes risk.",
-        "wordCount": 56
+        "summary": "Four medical societies have developed a framework and clinical guidance linking women's heart health to specific life stages. This initiative aims to assist clinicians in identifying cardiovascular risk factors more effectively and taking timely action. By focusing on the unique aspects of women's health, the framework seeks to enhance early detection and management of cardiovascular issues in women.",
+        "wordCount": 58
       },
       {
-        "title": "India Leads South East Asia's NTD Elimination Drive, Yet Dengue And Leprosy Cases Surge: Report",
-        "url": "https://www.etvbharat.com/en/health/india-leads-south-east-asia-ntd-elimination-drive-yet-dengue-and-leprosy-cases-surge-report-enn26110604500",
-        "source": "ETV Bharat",
-        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/06-11-2026/1200-675-28053379-252-28053379-1793962998031.jpg",
-        "publishedAt": "2026-11-06T11:08:27Z",
+        "title": "Trump Officials to Miss His Vaccine Recommendation Deadline",
+        "url": "https://www.livemint.com/news/us-news/trump-officials-to-miss-his-vaccine-recommendation-deadline-11793995326480.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/NEWS_1733464049847_1733464070835.jpg",
+        "publishedAt": "2026-11-06T20:02:06Z",
         "category": "health",
-        "summary": "India has successfully eliminated three neglected tropical diseases, including trachoma and visceral leishmaniasis, as public health problems. The elimination of trachoma was achieved in 2024, while visceral leishmaniasis was eliminated in all endemic blocks by 2023. However, the country is experiencing a surge in dengue and leprosy cases, highlighting ongoing public health challenges despite these achievements.",
-        "wordCount": 56
+        "summary": "Trump administration health officials are anticipated to miss the deadline set by President Trump for new childhood vaccination recommendations, which is due by Sunday. Sources familiar with the situation indicate that the officials have not finalized the recommendations in time. The deadline was established as part of an executive order aimed at addressing vaccination policies during Trump's presidency.",
+        "wordCount": 58
       },
       {
-        "title": "Navigating the Cardiometabolic Pathways of Child Feeding in India",
-        "url": "https://www.orfonline.org/expert-speak/navigating-the-cardiometabolic-pathways-of-child-feeding-in-india",
-        "source": "orfonline.org",
-        "image": "https://www.orfonline.org/public/uploads/posts/image/thumbnail/1793961553_img-child-food.jpg",
-        "publishedAt": "2026-11-06T10:42:00Z",
+        "title": "Why Is Everyone Bragging About Their Ferritin Levels?",
+        "url": "https://www.harpersbazaar.com/beauty/health/a74336787/ferritin-iron-wellness-explainer/",
+        "source": "Harper's BAZAAR",
+        "image": "https://hips.hearstapps.com/hmg-prod/images/7bd80f1d-4c24-42ec-9a17-bbda165b3723.jpg?crop=1xw:0.5xh;0xw,0.302xh&resize=1200:*",
+        "publishedAt": "2026-11-06T19:37:09Z",
         "category": "health",
-        "summary": "The first 1,000 days of a child's life, from conception to their second birthday, are crucial for health and development. In India, feeding practices during this period significantly influence cardiometabolic pathways and long-term health outcomes. Proper nutrition is essential for establishing a strong foundation for human capital, impacting children's growth, cognitive development, and overall well-being throughout their lives.",
+        "summary": "Experts are highlighting ferritin levels as a potential cause for symptoms like hair loss, fatigue, and brain fog. Wellness influencer Elizabeth Orringo suggests that low ferritin might be mistaken for depression or lack of motivation. This has led to increased discussions on social media, prompting individuals to check their ferritin levels as a possible solution to these issues.",
         "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "Octopuses Follow Two Strategies to Squeeze Through Tiny Holes",
-        "url": "https://www.deccanchronicle.com/science/octopuses-follow-two-strategies-to-squeeze-through-tiny-holes-2002300",
-        "source": "Deccan Chronicle",
-        "image": "https://images.deccanchronicle.com/b084af08e99fd13e13918d513b1b52b44575746f-tc-img-preview.jpg",
-        "publishedAt": "2026-11-06T12:18:42Z",
+        "title": "ESA's Hera images Didymos from 60km revealing DART scars",
+        "url": "https://www.newsbytesapp.com/news/science/esas-hera-images-didymos-from-60km-revealing-dart-scars/tldr",
+        "source": "NewsBytes",
+        "image": "https://cf-cdn.newsbytesapp.com/assets/icons/2/favicon-16x16.png",
+        "publishedAt": "2026-11-06T22:36:55Z",
         "category": "science",
-        "summary": "Octopuses utilize two strategies to navigate through small openings, leveraging their unique anatomy. Unlike animals with rigid skeletons, octopuses possess flexible bodies supported by a muscular hydrostat, allowing for movement without bones. This adaptability enables them to squeeze through tight spaces, showcasing their remarkable dexterity and problem-solving abilities in various environments, highlighting their evolutionary advantages in survival and mobility.",
+        "summary": "The European Space Agency's Hera spacecraft has obtained its first close-up image of the Didymos asteroid system from approximately 60 kilometers away. The images reveal boulders, craters, and grooves, which are likely scars from NASA's DART mission that impacted Dimorphos in 2022. This mission aims to gather detailed information about the effects of the DART impact.",
+        "wordCount": 56
+      },
+      {
+        "title": "MIT researchers defy 20-year rule with flexible polymers linking nanoparticles",
+        "url": "https://www.newsbytesapp.com/news/science/mit-researchers-defy-20-year-rule-with-flexible-polymers-linking-nanoparticles/tldr",
+        "source": "NewsBytes",
+        "image": "https://cf-cdn.newsbytesapp.com/assets/icons/2/favicon-16x16.png",
+        "publishedAt": "2026-11-06T21:37:10Z",
+        "category": "science",
+        "summary": "MIT researchers have developed a new method for assembling nanoparticles by utilizing flexible polymers as connectors, challenging a 20-year-old rule in materials science. This innovative approach has resulted in the creation of unprecedented crystal structures, showcasing the potential of floppy connectors over traditional rigid ones. The findings could significantly impact future research and applications in nanotechnology and materials development.",
         "wordCount": 59
       },
       {
-        "title": "NASA Astronaut Anil Menon Completes Nearly 7-Hour Spacewalk To Install Final Solar Array",
-        "url": "https://www.ndtv.com/science/nasa-astronaut-anil-menon-completes-nearly-7-hour-spacewalk-to-install-final-solar-array-12292672",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/ujd7e52g_space-walk-_625x300_06_November_26.jpeg",
-        "publishedAt": "2026-11-06T10:58:23Z",
+        "title": "Scientists tested the six-tonne Altar Stone at Stonehenge after earlier research pointed to north-east Scotland, but a new November 5 study found no matching rock source there, leaving its ancient jou",
+        "url": "https://timesofindia.indiatimes.com/science/archaeology/altar-stone-mystery-deepens-stonehenges-origins-linked-to-scotland-remain-elusive/articleshow/135612200.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135612324,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-06T21:28:00Z",
         "category": "science",
-        "summary": "NASA astronauts Anil Menon and Joshua Kutryk completed a nearly seven-hour spacewalk to install the final solar array on the International Space Station (ISS). During the operation, astronauts Luke Delaney and Jessica Watkins utilized the Canadarm2 robotic arm. This spacewalk signifies the completion of an upgrade to enhance the ISS's power capabilities, supporting future missions and research.",
-        "wordCount": 57
-      },
-      {
-        "title": "Octopuses follow two strategies to squeeze through tiny holes",
-        "url": "https://www.yahoo.com/news/science/articles/octopuses-two-strategies-squeeze-tiny-101011620.html",
-        "source": "Yahoo",
-        "image": "https://s.yimg.com/lo/mysterio/api/4f68384830bcf14def9abb41986a1b91889cfd1182a5dbd905d63ecf14910fd0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Freuters.com%2F12aded1d09e53a37d522207eed2cc7b9.jpg",
-        "publishedAt": "2026-11-06T10:10:11Z",
-        "category": "science",
-        "summary": "Octopuses are known for their ability to navigate through tight spaces. Research has revealed that they employ two distinct strategies to achieve this. Scientists studied how octopuses manipulate their eight arms and flexible bodies, organizing them into specific sequences to fit through small openings. This insight enhances understanding of their unique locomotion and adaptability in various environments.",
-        "wordCount": 57
+        "summary": "Scientists tested the six-tonne Altar Stone at Stonehenge, following earlier research suggesting a source in north-east Scotland. However, a study conducted on November 5 found no matching rock source in that region. This discovery adds to the ongoing mystery surrounding Stonehenge, one of the most recognizable prehistoric monuments, which continues to reveal secrets about its origins.",
+        "wordCount": 56
       }
     ],
     "entertainment": [
       {
-        "title": "SCOOP: Salman Khan and Jio Studios strategise December 4 release for Maatrubhumi against Eetha; distribution battle intensifies",
-        "url": "https://www.bollywoodhungama.com/news/bollywood/scoop-salman-khan-and-jio-studios-strategise-december-4-release-for-maatrubhumi-against-eetha-distribution-battle-intensifies/",
-        "source": "Bollywood Hungama",
-        "image": "https://media5.bollywoodhungama.in/wp-content/uploads/2026/11/Maatrubhumi-against-Eetha.jpg",
-        "publishedAt": "2026-11-06T12:21:27Z",
+        "title": "Horoscope Today: November 7, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-november-7-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-11-07T00:30:00Z",
         "category": "entertainment",
-        "summary": "Salman Khan and Jio Studios are planning to release the film Maatrubhumi on December 4, competing against Eetha. Recently, Jio Studios stepped down as the distributor for Eetha, which stars Shraddha Kapoor, leading to PVR Pictures taking over distribution. This shift has created significant buzz within the industry, intensifying the competition between the two films.",
-        "wordCount": 55
+        "summary": "On November 7, 2026, Taurus is advised to move beyond survival mode and heed their instincts, which are guiding them toward a specific direction. The horoscope suggests that Taurus has two potential paths to consider and emphasizes the importance of paying close attention to the signs and guidance available. This period calls for careful decision-making and reflection.",
+        "wordCount": 57
       },
       {
-        "title": "Mahesh Babu Calls Ranbir, Yash And Sai Pallavi \"Magical\" As Ramayana Continues Box Office Run",
-        "url": "https://www.ndtv.com/entertainment/mahesh-babu-calls-ranbir-yash-and-sai-pallavi-magical-as-ramayana-continues-box-office-run-12292954",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/rdjk25es_ramayana_625x300_06_November_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-06T12:16:12Z",
+        "title": "Aries Horoscope Today: November 7, 2026",
+        "url": "https://www.vogue.in/content/aries-horoscope-today-november-7-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/16:9/w_1280,c_limit/1-Aries_16;9.png",
+        "publishedAt": "2026-11-07T00:20:00Z",
         "category": "entertainment",
-        "summary": "Mahesh Babu praised the cast of \"Ramayana: Rise of a Legend,\" calling Ranbir Kapoor, Yash, and Sai Pallavi \"magical.\" The film, directed by Nitesh Tiwari, premiered on November 5 and has been well-received at the box office. Babu congratulated the team for successfully adapting the epic for cinema, contributing to its ongoing popularity and acclaim.",
-        "wordCount": 55
+        "summary": "On November 7, 2026, Aries individuals are encouraged to embark on an adventure with confidence. As circumstances seem to slow down, it's essential to take time for introspection. Exploring various approaches to current challenges is advised, allowing for deeper understanding and flexibility in decision-making. This period emphasizes the importance of reflection and considering multiple perspectives in life’s situations.",
+        "wordCount": 58
       },
       {
-        "title": "Salman Khan at ‘Maatrubhumi’ trailer launch: Focus on Ram’s qualities, not ‘Ramayana’ budget or VFX",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-at-maatrubhumi-trailer-launch-focus-on-rams-qualities-not-ramayana-budget-or-vfx/articleshow/135606272.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135606311,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-06T11:45:00Z",
+        "title": "Virgo Horoscope Today: November 7, 2026",
+        "url": "https://www.vogue.in/content/virgo-horoscope-today-november-7-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
+        "publishedAt": "2026-11-07T00:20:00Z",
         "category": "entertainment",
-        "summary": "At the trailer launch of his film 'Maatrubhumi: May War Rest in Peace', Salman Khan addressed discussions surrounding 'Ramayana'. He emphasized that conversations should focus on the qualities of Lord Ram rather than the film's budget or visual effects. Khan's remarks aimed to redirect attention to the essence of the epic, rather than its production aspects.",
+        "summary": "On November 7, 2026, Virgos may experience tension in their workplace or personal life, feeling judged or taunted by someone. This situation could lead to feelings of being cornered or restricted. As a result, distancing oneself from the source of discomfort may become necessary. It is advised to navigate these challenges carefully to maintain personal well-being.",
         "wordCount": 56
       }
     ]
