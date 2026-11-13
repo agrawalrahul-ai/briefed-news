@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-11-12T12:31:14.247Z",
+  "updatedAt": "2026-11-13T00:31:13.323Z",
   "categories": {
     "world": [
       {
-        "title": "Democrat Scott Colom becomes Mississippi's first Black senator since 1874",
-        "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/democrat-scott-colom-becomes-mississippis-first-black-senator-since-1874/articleshow/135751018.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135751047,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-11T23:26:00Z",
+        "title": "Marsh confirms World Cup top six as ball-tampering questions dominate Perth presser",
+        "url": "https://www.cricinfo.com/story/mitchell-marsh-confirms-world-cup-top-six-as-sandpaper-questions-dominate-perth-presser-1562385",
+        "source": "Cricinfo",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/405300/405393.6.jpg",
+        "publishedAt": "2026-11-12T11:41:22Z",
         "category": "world",
-        "summary": "Democrat Scott Colom has won the US Senate race in Mississippi, defeating Republican incumbent Cindy Hyde-Smith. His victory marks a historic milestone, as he becomes the first Black senator from Mississippi since 1874. The election was closely contested, highlighting significant political dynamics in the state. Colom's win represents a notable shift in Mississippi's political landscape.",
-        "wordCount": 55
+        "summary": "Mitchell Marsh confirmed the top six players for the World Cup during a press conference in Perth, where he appeared visibly shaken amid ongoing questions regarding ball-tampering allegations. The atmosphere was tense as reporters pressed for clarity on the situation. Marsh's demeanor contrasted with his usual composure, reflecting the pressure surrounding the team as they prepare for the tournament.",
+        "wordCount": 59
       },
       {
-        "title": "A Washington nephew lived rent-free for 14 years in a house owned by his aunt and uncle, then claimed ownership after his aunt died; a November 9 appeals court upheld the uncle's right to remove him",
-        "url": "https://timesofindia.indiatimes.com/world/us/a-washington-nephew-lived-rent-free-for-14-years-in-a-house-owned-by-his-aunt-and-uncle-then-claimed-ownership-after-his-aunt-died-a-november-9-appeals-court-upheld-the-uncles-right-to-remove-him/articleshow/135727805.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135727929,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-11T23:25:00Z",
+        "title": "Trump And Netanyahu Get Into \"Shouting Match From Hell\" Over Iran War: Report",
+        "url": "https://www.ndtv.com/world-news/donald-trump-and-benjamin-netanyahu-get-into-shouting-match-from-hell-over-iran-war-report-12317412",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/jqg1pnm_netanyahu-trump-afp_625x300_10_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-12T11:39:07Z",
         "category": "world",
-        "summary": "A Washington man lived rent-free for 14 years in a house owned by his aunt and uncle. Following his aunt's death, he claimed ownership of the property. However, a November 9 appeals court ruled in favor of the uncle, affirming his right to evict the nephew. The court clarified that long-term occupancy does not grant ownership rights.",
-        "wordCount": 57
-      },
-      {
-        "title": "Russia bows out of attempt to replace US dollar with Chinese yuan after years of promoting currency alternatives among its BRICS friends",
-        "url": "https://africa.businessinsider.com/local/markets/russia-bows-out-of-attempt-to-replace-us-dollar-with-chinese-yuan-after-years-of/tdqww53",
-        "source": "Business Insider Africa",
-        "image": "https://ocdn.eu/pulscms-transforms/1/AMFktkpTURBXy83OGFmNDkyNDkyZTQ4OTJiZWIzYjc5NGNiZGJkYjNmMS5qcGeSlQMAF80C7s0BpZMFzQSwzQJ2",
-        "publishedAt": "2026-11-11T23:08:17Z",
-        "category": "world",
-        "summary": "Russia has halted its efforts to replace the US dollar with the Chinese yuan in international trade, influenced by US secondary sanctions. This marks a significant setback in Russia's long-term strategy to diminish reliance on the American currency. Recent data indicates that the yuan's share of payments for Russian exports has dropped to 22% in 2026 from a mid-2024 peak.",
+        "summary": "US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu engaged in a heated phone conversation regarding the war in Iran, described as \"a shouting match from hell.\" The discussion highlighted significant disagreements between the United States and Israel over the resumption of military strikes on Iran. The exchange reflects ongoing tensions in their diplomatic relationship concerning regional security issues.",
         "wordCount": 60
+      },
+      {
+        "title": "Punjab-origin newlywed couple and brother-in-law killed in NZ crash; families seek repatriation",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/punjab-origin-newlywed-couple-and-brother-in-law-killed-in-nz-crash-families-seek-repatriation/articleshow/135765582.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135765901,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-12T10:44:00Z",
+        "category": "world",
+        "summary": "A tragic car accident in Takanini, South Auckland, claimed the lives of a Punjab-origin newlywed couple, Gurpreet Singh and Sukhvir Kaur, along with their brother-in-law, Sukhdeep Singh. The incident occurred when their vehicle crashed into a BurgerFuel restaurant. The local Sikh community is mobilizing to assist with repatriation costs and funeral arrangements for the deceased.",
+        "wordCount": 55
       }
     ],
     "business": [
       {
-        "title": "Record FPI buying in November sends sensex to near 9-month high",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/record-fpi-buying-in-november-sends-sensex-to-near-9-month-high/articleshow/135750919.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135750939,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-11T23:02:00Z",
+        "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
+        "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5a70d-1794483981.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-11-12T11:53:48Z",
         "category": "business",
-        "summary": "Foreign portfolio investors (FPIs) have significantly increased their investments in Indian stocks, contributing over Rs 73,200 crore in just eight trading sessions in November. This marks the highest level of FPI buying in over two years, leading to a near nine-month high for the Sensex. The renewed interest reflects a positive shift in foreign investment sentiment towards India.",
+        "summary": "Nvidia's board is considering the future of CEO Jensen Huang amid reports of extramarital affairs, including one with a woman alleged to be a Chinese spy. The scrutiny follows a significant decline in Nvidia's market value, which has dropped over $600 billion this week. Discussions about Huang's potential ousting are ongoing as the company navigates this controversy.",
+        "wordCount": 57
+      },
+      {
+        "title": "Inflation At 2-Year High In October, Breaches RBI's Upper Limit",
+        "url": "https://www.ndtv.com/business-news/inflation-at-2-year-high-of-6-09-in-october-breaches-rbis-upper-limit-12317438",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2024-02/i315trfg_inflation_625x300_12_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-12T11:43:47Z",
+        "category": "business",
+        "summary": "Retail inflation in India surged to 6.09% in October 2026, exceeding the Reserve Bank of India's upper limit of 6% for the first time since October 2024. This increase was primarily driven by a rise in food inflation, which reached 8.94%, up from 7.74% the previous month, according to data from the Ministry of Statistics & Programme Implementation.",
         "wordCount": 58
       },
       {
-        "title": "Anthropic CFO Krishna Rao's stake worth $703 million",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/anthropic-cfo-raos-stake-worth-703mn/articleshow/135750844.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135756017,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-11T22:43:00Z",
+        "title": "Nvidia LIVE Updates: Board meets to discuss Jensen Huang’s ouster amid affair reports; no decision reported so far",
+        "url": "https://www.hindustantimes.com/world-news/nvidia-ceo-jensen-huang-news-live-updates-board-meeting-alice-huang-china-spy-affair-probe-megapseed-nvidia-stock-trump-101794447133046.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/12/1600x900/logo/nvidia_ceo_jensen_huang_1794464561753_penB_1794464561923_KYPB_36fd5543-deff-44a6-a1b5-ba3219e6f1a9_mT7C.jpg",
+        "publishedAt": "2026-11-12T11:38:05Z",
         "category": "business",
-        "summary": "Krishna Rao, the Indian-origin CFO of Anthropic, possesses 9.4 million shares in the AI company, valued at approximately $703 million. He joined Anthropic in April 2024. The valuation is based on the midpoint of the proposed IPO price range, which is between $70 and $78 per share. Rao's significant stake highlights his role in the company's financial strategy.",
-        "wordCount": 58
-      },
-      {
-        "title": "US stocks rally as CoreWeave surges 25%, Nvidia rebounds; S&P 500, Nasdaq gain over 1%",
-        "url": "https://www.moneycontrol.com/news/business/markets/us-stocks-rally-as-coreweave-surges-25-nvidia-rebounds-s-p-500-nasdaq-gain-over-1-14077446.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261111134153_Wall-sstreet.jpg",
-        "publishedAt": "2026-11-11T22:17:36Z",
-        "category": "business",
-        "summary": "US stocks closed higher on Wednesday, driven by a 25% surge in CoreWeave and a rebound in Nvidia. The Dow Jones Industrial Average increased by 254.60 points, or 0.49%, to 52,486.49. The S&P 500 rose by 98.45 points, or 1.31%, to 7,619.38, while the Nasdaq Composite gained 400.31 points, or 1.60%, to 25,466.19.",
-        "wordCount": 53
+        "summary": "Nvidia's board is meeting to discuss the potential ouster of CEO Jensen Huang amid allegations of an affair with a Chinese businesswoman, which has sparked a spying controversy. No decision has been reported as of yet. The situation has raised concerns regarding corporate governance and the implications for Nvidia's operations in the artificial intelligence sector.",
+        "wordCount": 55
       }
     ],
     "technology": [
       {
-        "title": "Quordle hints and answers for Thursday, November 12 (game #1753)",
-        "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-12-november-2026",
-        "source": "TechRadar",
-        "image": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
-        "publishedAt": "2026-11-12T00:00:00Z",
+        "title": "GTA VI hype is unreal. $1 billion in pre-orders, Logitech announces day-off",
+        "url": "https://theprint.in/feature/gta-vi-hype-is-unreal-1-billion-in-pre-orders-logitech-announces-day-off/3097040/",
+        "source": "ThePrint",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/sdfdfsdsf.jpg",
+        "publishedAt": "2026-11-12T11:44:54Z",
         "category": "technology",
-        "summary": "Quordle releases a new puzzle daily at midnight, varying by time zone. Players may be engaged with either the current day's game or the previous day's. The article provides hints and answers for Quordle game #1753, along with access to past solutions. Players seeking assistance with clues or answers can find the information readily available.",
-        "wordCount": 55
+        "summary": "Rockstar's upcoming release of GTA VI has generated significant excitement, with pre-orders surpassing $1 billion. The game returns to Vice City after thirteen years since GTA V. In anticipation, many fans are taking time off work to play. Logitech has even acknowledged the game's impact, announcing a day off for its employees to accommodate the gaming frenzy.",
+        "wordCount": 57
       },
       {
-        "title": "Windows 11’s Photos app is getting Adobe built in, and I’m worried it’ll start pushing subscriptions like Edge’s PDF reader",
-        "url": "https://www.windowslatest.com/2026/11/12/windows-11s-photos-app-is-getting-adobe-built-in-and-im-worried-itll-start-pushing-subscriptions-like-edges-pdf-reader/",
-        "source": "Windows Latest",
-        "image": "https://www.windowslatest.com/wp-content/uploads/2026/11/Windows-11s-Photos-app-is-getting-Adobe-built-in.jpg",
-        "publishedAt": "2026-11-11T23:00:53Z",
+        "title": "Apple iPhone Duo, one month in: I'm never going back to the Pro",
+        "url": "https://mashable.com/tech/apple-iphone-duo-not-going-back",
+        "source": "Mashable",
+        "image": "https://helios-i.mashable.com/imagery/articles/02ZVSyFaQWvCxrA9SRzebgS/hero-image.fill.size_1200x675.v1794406019.jpg",
+        "publishedAt": "2026-11-12T11:15:07Z",
         "category": "technology",
-        "summary": "Windows 11's Photos app will integrate Adobe features, including AI editing and Adobe Express. Users will gain new capabilities, such as expanding photos beyond their borders and rotating images without cropping. Concerns arise regarding potential subscription pushes, similar to Edge's PDF reader, which offers upsells for Adobe Acrobat. The update aims to enhance user experience with advanced editing tools.",
-        "wordCount": 59
+        "summary": "After using the Apple iPhone Duo as my primary device for a month, I have decided not to return to the Pro models. The transition from the iPhone 17 Pro Max was smooth, and I successfully set up all necessary apps, including online banking. My experience with the Duo has been satisfactory, leading to this decision.",
+        "wordCount": 56
       },
       {
-        "title": "GTA VI Is Days Away: Don't Expect GTA V-Style Returns From Take-Two Stock at 5.7 Times Sales",
-        "url": "https://www.fool.com/investing/2026/11/11/gta-vi-days-away-don-t-expect-gta-v-style-returns-from-take-two-stock-at-5-7-times-sales/",
-        "source": "The Motley Fool",
-        "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F08ed5a15579888212b9a6b5e50f383cfef12d6f7-1290x860.jpg&w=1200&op=resize",
-        "publishedAt": "2026-11-11T22:11:00Z",
+        "title": "Hawkins Cookers Reports Q2 Revenue of ₹4.23B vs ₹3.16B YoY",
+        "url": "https://www.sahi.com/news/hawkins-cookers-reports-q2-revenue-of-4-23b-vs-3-16b-yoy",
+        "source": "Sahi",
+        "image": "https://www.sahi.com/assets/uploads/237_PE_1_CORPORATE_12_11_2026_16x9_7c8f99f38a.jpg",
+        "publishedAt": "2026-11-12T10:52:30Z",
         "category": "technology",
-        "summary": "Take-Two Interactive's stock performance following the release of Grand Theft Auto V (GTA V) saw significant gains for investors, with returns of 35% in one year, 163% in three years, and 673% in five years. However, expectations for similar returns with the upcoming Grand Theft Auto VI may be unrealistic, as the investment landscape has changed considerably since 2013.",
-        "wordCount": 59
+        "summary": "Hawkins Cookers reported Q2 revenue of ₹423 crore, a 33.86% increase from ₹316 crore in the same quarter last year. Additionally, a report indicated that 90% of individual traders in the equity Futures and Options Segment experienced net losses, averaging around ₹50,000 per trader. These findings highlight significant challenges faced by retail investors in the derivatives market.",
+        "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "Australia captain Pat Cummins spotted in heated conversation with wife Becky in first public appearance since Khawaja’s Sandpaper claims",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/australia-captain-pat-cummins-spotted-in-heated-conversation-with-wife-becky-in-first-public-appearance-since-khawajas-sandpaper-claims/articleshow/135744549.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135745196,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-12T00:30:00Z",
+        "title": "Auqib Nabi Reveals 'Feedback' From Rohit Sharma, Virat Kohli And Shubman Gill Before 4th ODI vs New Zealand",
+        "url": "https://sports.ndtv.com/cricket/auqib-nabi-reveals-feedback-from-rohit-sharma-virat-kohli-and-shubman-gill-before-4th-odi-vs-new-zealand-12316484",
+        "source": "NDTV Sports",
+        "image": "https://c.ndtvimg.com/2026-11/dbfc1jqo_auqib-nabi-pc-bcci_625x300_12_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-12T12:14:47Z",
         "category": "sports",
-        "summary": "Australian cricket captain Pat Cummins was seen in a seemingly heated discussion with his wife, Becky, during a public outing in Sydney. This marks Cummins' first appearance since former player Usman Khawaja made allegations regarding a sandpaper incident. The conversation drew attention, but details surrounding the discussion remain unclear. Cummins continues to navigate the ongoing controversy in cricket.",
-        "wordCount": 58
+        "summary": "India pacer Auqib Nabi disclosed that he received advice from senior players Rohit Sharma, Virat Kohli, and Shubman Gill ahead of the fourth ODI against New Zealand. They recommended that he concentrate on seam movement instead of swing while bowling with the white ball, emphasizing that top-level batters are adept at handling swing bowling in their conditions.",
+        "wordCount": 57
       },
       {
-        "title": "Aryna Sabalenka explodes on court at WTA Finals as she is hammered by Mirra Andreeva",
-        "url": "https://www.tennis365.com/tennis-news/aryna-sabalenka-collapse-wta-finals-mirra-andreeva",
-        "source": "Tennis365",
-        "image": "https://d2me2qg8dfiw8u.cloudfront.net/content/uploads/2026/11/Saba.jpg",
-        "publishedAt": "2026-11-12T00:18:36Z",
+        "title": "Kerr, Gardner make it five wins in five for Sydney Sixers",
+        "url": "https://www.cricbuzz.com/cricket-news/140883/wbbl-2026-kerr-gardner-make-it-five-wins-in-five-for-sydney-sixers-cricbuzzcom",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1121906/melie-kerr-scored-53-in-her-teams-win.jpg",
+        "publishedAt": "2026-11-12T12:09:41Z",
         "category": "sports",
-        "summary": "Aryna Sabalenka experienced a significant defeat against Mirra Andreeva at the WTA Finals, showcasing an alarming meltdown during the match. Despite starting strong, Sabalenka struggled to maintain her composure as Andreeva dominated the contest. The one-sided nature of the match highlighted Sabalenka's frustrations, leading to her emotional outbursts before the conclusion of the game.",
-        "wordCount": 54
+        "summary": "The Sydney Sixers achieved their fifth consecutive victory, led by strong performances from Kerr and Gardner. In another match, the Brisbane Heat secured their third straight win against the Melbourne Stars at Junction Oval. Chasing a target of 166 runs, Brisbane's captain Georgia Redmayne and Orla Prendergast formed an unbeaten 105-run partnership to clinch the match.",
+        "wordCount": 56
       },
       {
-        "title": "Svitolina stays in WTA Finals hunt after remarkable fightback sees off Muchova",
-        "url": "https://www.theguardian.com/sport/2026/nov/11/elina-svitolina-karolina-muchova-wta-finals-tennis",
-        "source": "The Guardian",
-        "image": "https://i.guim.co.uk/img/media/f1a2f2b08bc19f2bbac37ba21278cc5267454ccd/256_0_3245_2597/master/3245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=42c3fe0c5c8caa706662006cb9b4c434",
-        "publishedAt": "2026-11-11T23:26:00Z",
+        "title": "Kerr, Gardner make it five wins in five for Sydney Sixers",
+        "url": "https://www.cricbuzz.com/cricket-news/140883/kerr-gardner-make-it-five-wins-in-five-for-sydney-sixers",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1121906/melie-kerr-scored-53-in-her-teams-win.jpg",
+        "publishedAt": "2026-11-12T12:09:41Z",
         "category": "sports",
-        "summary": "Elina Svitolina defeated Karolina Muchova 3-6, 6-2, 6-2 at Indian Wells, keeping her WTA Finals hopes alive. After losing the first set and taking an eight-minute medical timeout, Svitolina rallied to win the match. Her performance demonstrated resilience, as she overcame a challenging start to secure the victory and maintain her position in the tournament.",
-        "wordCount": 55
+        "summary": "Sydney Sixers achieved their fifth consecutive victory, led by strong performances from Kerr and Gardner. In another match, Brisbane Heat secured their third straight win against Melbourne Stars at Junction Oval, successfully chasing a target of 166 runs. An unbeaten partnership of 105 runs between skipper Georgia Redmayne and Orla Prendergast was pivotal in their triumph.",
+        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "How 'Heightmaxxing' Is Pushing Teen Boys to Take a Risky Cancer Drug",
-        "url": "https://www.sheknows.com/parenting/articles/1235092516/heightmaxxing-cancer-drug/",
-        "source": "SheKnows",
-        "image": "https://www.sheknows.com/wp-content/uploads/2026/11/AdobeStock_157266072.jpeg?w=1024",
-        "publishedAt": "2026-11-11T20:09:00Z",
+        "title": "What's the best way to reverse memory decline?",
+        "url": "https://www.sciencefocus.com/the-human-body/reverse-memory-decline-ageing-2",
+        "source": "BBC Science Focus Magazine",
+        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/22f8465f-6608-46e4-ac65-b2b3e872d078/thumbnails/07257588-2981-4a8c-b201-b4d111c398cf.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200",
+        "publishedAt": "2026-11-12T12:13:07Z",
         "category": "health",
-        "summary": "The trend of \"heightmaxxing\" is influencing teenage boys to consider risky measures, including the use of a cancer drug, to increase their height. This movement stems from a desire to enhance physical appearance, similar to \"looksmaxxing.\" Many young men feel pressured by societal standards and personal insecurities, leading them to explore dangerous options for perceived self-improvement.",
+        "summary": "Research indicates that gut health may play a significant role in reversing memory decline. Studies suggest that the trillions of bacteria in the digestive system can influence brain function and cognitive health. This emerging field of study explores the connection between gut microbiota and memory preservation, highlighting the potential benefits of maintaining a healthy gut for cognitive longevity.",
+        "wordCount": 58
+      },
+      {
+        "title": "New Report Urges Caution in the Race for Space-Based Data Centers",
+        "url": "https://news.climate.columbia.edu/2026/11/12/new-report-urges-caution-in-the-race-for-space-based-data-centers/",
+        "source": "Columbia University",
+        "image": "https://media.news.climate.columbia.edu/wp-content/uploads/2026/11/Data-centers-in-space-report-image-1300x761.jpeg",
+        "publishedAt": "2026-11-12T11:48:52Z",
+        "category": "health",
+        "summary": "A report titled “Space-Based Data Centers Roadmap: The Case for Caution” by the Innovation for Cool Earth Forum highlights the imminent reality of space-based data centers within the next few years. It emphasizes the need for caution, as the risks associated with large-scale deployment are not yet fully understood, raising concerns about potential implications for technology and safety.",
+        "wordCount": 58
+      },
+      {
+        "title": "Moderate Drinking Has No Health Benefit, US-Funded Alcohol Review Finds",
+        "url": "https://www.global-agriculture.com/food-nutrition-wellness/moderate-drinking-has-no-health-benefit-us-funded-alcohol-review-finds/",
+        "source": "Global Agriculture",
+        "image": "https://www.global-agriculture.com/wp-content/uploads/2026/11/Moderate-Drinking-Has-No-Health-Benefit-US-Funded-Alcohol-Review-Finds.jpg",
+        "publishedAt": "2026-11-12T10:31:17Z",
+        "category": "health",
+        "summary": "A US government-funded review has concluded that moderate drinking offers no health benefits. The study indicates that consuming up to 14 drinks weekly does not provide protective effects and correlates with an increased risk of alcohol-related deaths, estimated at 1 in 25. This comprehensive analysis challenges previous assumptions about the health advantages of moderate alcohol consumption.",
         "wordCount": 56
-      },
-      {
-        "title": "Decoding medical misinformation in hospitals",
-        "url": "https://medicalbuyer.co.in/decoding-medical-misinformation-in-hospitals/",
-        "source": "Medical Buyer",
-        "image": "https://medicalbuyer.co.in/wp-content/uploads/2026/11/Decoding-medical-misinformation-in-hospitals.jpg",
-        "publishedAt": "2026-11-11T17:56:12Z",
-        "category": "health",
-        "summary": "Misinformation, particularly in health, is prevalent across social media, online forums, and word of mouth. A recent survey by the Physician’s Foundation highlighted that 99.9% of doctors encounter this issue daily. The spread of inaccurate health information poses significant risks, challenging healthcare professionals to address and correct misconceptions while providing accurate medical guidance to patients.",
-        "wordCount": 55
-      },
-      {
-        "title": "DR Congo Ebola outbreak exceeds 11,000 cases, causes 5,387 deaths",
-        "url": "https://www.thehindu.com/news/international/dr-congo-ebola-outbreak-exceeds-11000-cases-causes-5387-deaths/article71691022.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/r1mldy/article71691031.ece/alternates/LANDSCAPE_1200/2026-11-10T231521Z_1038667610_RC2DEOALC7O8_RTRMADP_3_HEALTH-EBOLA-CONGO.JPG",
-        "publishedAt": "2026-11-11T17:01:12Z",
-        "category": "health",
-        "summary": "The Democratic Republic of Congo's worst Ebola outbreak has surpassed 11,000 confirmed cases, with 5,387 deaths reported. The outbreak, identified as the 17th, is exacerbated by ongoing armed conflict, which complicates response efforts across multiple provinces. Official figures released on November 11, 2026, highlight the severity of the situation and the challenges faced in controlling the virus.",
-        "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "Independent Reanalysis Reproduces M87 Black Hole Ring, Vindicating Einstein's Relativity",
-        "url": "https://finance.biggo.com/news/0dafe3e4-76d0-427c-ab6a-2c024b74a99c",
-        "source": "BigGo Finance",
-        "image": "https://img.biggo.com/qmdflDushGIbkkHF9bH52x_eA7O6w3Q--1Q8ru43Jeo/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzBkYWZlM2U0LTc2ZDAtNDI3Yy1hYjZhLTJjMDI0Yjc0YTk5Y18xNzk0NDQwMjc4X2RlZmF1bHQuanBn.jpg",
-        "publishedAt": "2026-11-11T23:35:00Z",
+        "title": "Mizzou Scientists Use AI-Designed CRISPR Tool to Breed Blight-Resistant Rice",
+        "url": "https://www.global-agriculture.com/ag-tech-research-news/mizzou-scientists-use-ai-designed-crispr-tool-to-breed-blight-resistant-rice/",
+        "source": "Global Agriculture",
+        "image": "https://www.global-agriculture.com/wp-content/uploads/2026/11/Mizzou-Scientists-Use-AI-Designed-CRISPR-Tool-to-Breed-Blight-Resistant-Rice.jpg",
+        "publishedAt": "2026-11-12T10:37:14Z",
         "category": "science",
-        "summary": "A CSIRO-led team in Western Australia has independently reprocessed the original Event Horizon Telescope data, successfully reproducing the iconic ring-shaped image of the M87 black hole. This finding resolves a seven-year debate regarding the authenticity of the image, confirming that it is not an artifact of image processing. The results support Einstein's theory of relativity.",
-        "wordCount": 55
+        "summary": "Researchers at the University of Missouri announced the successful use of an AI-designed gene-editing tool, OpenCRISPR-1, to breed rice resistant to bacterial blight disease. This advancement, revealed on November 2, 2026, aims to combat one of the most damaging diseases affecting rice crops, potentially improving food security and agricultural resilience in the face of plant pathogens.",
+        "wordCount": 56
       },
       {
-        "title": "NASA's new telescope will view the cosmos with ultraviolet light",
-        "url": "https://www.newsnationnow.com/space/nasa-telescope-ultraviolet-light/",
-        "source": "NewsNation",
-        "image": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/10/GettyImages-648917158.jpg?w=1280",
-        "publishedAt": "2026-11-11T22:02:15Z",
+        "title": "Rare Star System Emits Radio Signals Every Eight Minutes",
+        "url": "https://www.miragenews.com/rare-star-system-emits-radio-signals-every-1776321/",
+        "source": "Mirage News",
+        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1583912372325-0c5be28e3590%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D753%26amp%3Bq%3D80",
+        "publishedAt": "2026-11-12T10:04:00Z",
         "category": "science",
-        "summary": "NASA's Ultraviolet Explorer (UVEX) mission will utilize ultraviolet light to investigate the universe, aiming to uncover previously unseen violent and turbulent cosmic events. The telescope is designed to enhance our understanding of the cosmos. The launch is scheduled for no later than January 2031, marking a significant advancement in astronomical research and exploration.",
-        "wordCount": 53
-      },
-      {
-        "title": "NASA Opens Applications for Next Astronaut Class, Including Experienced Pilots",
-        "url": "https://avweb.com/aviation-news/nasa-astronaut-pilot-recruitment-2026/",
-        "source": "AVweb",
-        "image": "https://avweb.com/wp-content/uploads/2026/11/nasa-and-uae-astronaut-candidates_51731898421_omedium.jpg",
-        "publishedAt": "2026-11-11T19:44:12Z",
-        "category": "science",
-        "summary": "NASA has opened applications for its next astronaut class, targeting experienced pilots and other qualified individuals. Candidates must meet specific flight-hour, education, and medical requirements. This recruitment aims to expand the astronaut corps in preparation for upcoming missions to the Moon and Mars. Interested applicants can submit their applications as the agency seeks to enhance its space exploration efforts.",
-        "wordCount": 59
+        "summary": "Scientists at Curtin University, part of the International Centre for Radio Astronomy Research, have identified a rare star system emitting radio signals every eight minutes. This system consists of a rapidly spinning dead star paired with a star similar to our Sun. The discovery sheds light on the nature of these mysterious radio pulses and their origins.",
+        "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: November 12, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-november-12-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-11-12T00:30:00Z",
+        "title": "Pinkvilla Predicts: First day box office forecast for Salman Khan's Maatrubhumi, Eetha and Gunmaaster G9",
+        "url": "https://www.pinkvilla.com/entertainment/box-office/pinkvilla-predicts-first-day-box-office-forecast-for-salman-khans-maatrubhumi-eetha-and-gunmaaster-g9-1406410",
+        "source": "Pinkvilla",
+        "image": "https://www.pinkvilla.com/images/2026-11/287538559_pp.jpg",
+        "publishedAt": "2026-11-12T12:07:49Z",
         "category": "entertainment",
-        "summary": "Horoscope for November 12, 2026, advises Sagittarius to reconsider their stubborn approach. While determination can be beneficial, it may not always yield the best results. The guidance suggests allowing dreams to develop naturally rather than forcing outcomes. Emphasizing patience, the horoscope encourages individuals to support their aspirations while giving them the necessary time to flourish independently.",
-        "wordCount": 56
+        "summary": "Pinkvilla predicts the first-day box office performance for Salman Khan's films Maatrubhumi, Eetha, and Gunmaaster G9. Despite recent struggles, Khan remains a significant draw for audiences. In contrast, Ramayana: Part One underperformed, falling short of expectations due to an underestimation of the pre-Diwali factor. This marks a rare miss in an otherwise strong year for Pinkvilla Predicts.",
+        "wordCount": 57
       },
       {
-        "title": "Scorpio Horoscope Today: November 12, 2026",
-        "url": "https://www.vogue.in/content/scorpio-horoscope-today-november-12-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e052102d2f4db9b8e92b/16:9/w_1280,c_limit/9-Scorpio_16;9.png",
-        "publishedAt": "2026-11-12T00:20:00Z",
+        "title": "Decoding Anirudh Ravichander And Kavya Maran's Elegant Greek Wedding Wardrobe",
+        "url": "https://www.ndtv.com/lifestyle/decoding-anirudh-ravichander-and-kavya-marans-elegant-greek-wedding-wardrobe-12317148",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/l33kcq18_anirudh_625x300_12_November_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-12T12:07:32Z",
         "category": "entertainment",
-        "summary": "On November 12, 2026, Scorpios are encouraged to embrace love and take a break from their worries. The horoscope suggests allowing time for rest and play, emphasizing the importance of enjoying the present moment. After a period of contemplation and mental planning, Scorpios are advised to focus on self-care and relaxation, fostering a positive mindset.",
-        "wordCount": 55
+        "summary": "Anirudh Ravichander and Kavya Maran celebrated their wedding in Athens, Greece, on November 11. Their wardrobe featured soft colors, intricate embroidery, and modern silhouettes, reflecting an elegant yet understated theme. The couple opted for a simple ceremony, focusing on sophistication rather than extravagance, showcasing their personal style while keeping the celebration intimate and meaningful.",
+        "wordCount": 54
       },
       {
-        "title": "Gemini Horoscope Today: November 12, 2026",
-        "url": "https://www.vogue.in/content/gemini-horoscope-today-november-12-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04cf280aa95e93d0629/16:9/w_1280,c_limit/3-Gemini_16;9.png",
-        "publishedAt": "2026-11-12T00:20:00Z",
+        "title": "As Ramayana Nears Rs 1,000 Crore Worldwide, Ravi Dubey Shares Candid BTS Pics With Ranbir Kapoor-Sai Pallavi",
+        "url": "https://www.ndtv.com/entertainment/as-ramayana-nears-rs-1-000-crore-worldwide-ravi-dubey-shares-candid-bts-pics-with-ranbir-kapoor-sai-pallavi-12317301",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/g5dq7e7_lakshman_625x300_12_November_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-12T11:22:04Z",
         "category": "entertainment",
-        "summary": "On November 12, 2026, Gemini is encouraged to take a break from overthinking and stress. This pause allows for self-reflection and the emergence of inner creativity. Embracing this downtime may lead to new insights and a deeper understanding of oneself. The stars suggest that this period of rest is beneficial for personal growth and rejuvenation.",
-        "wordCount": 55
+        "summary": "Ravi Dubey portrays Lakshmana in Nitesh Tiwari's film Ramayana, which is approaching Rs 1,000 crore in worldwide earnings. The movie has received significant acclaim, contributing to its box office success. Dubey recently shared behind-the-scenes photos featuring co-stars Ranbir Kapoor and Sai Pallavi, highlighting their camaraderie during the production of this mythological epic.",
+        "wordCount": 52
       }
     ]
   }
