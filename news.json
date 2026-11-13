@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-11-13T00:31:13.323Z",
+  "updatedAt": "2026-11-13T12:31:28.936Z",
   "categories": {
     "world": [
       {
-        "title": "Marsh confirms World Cup top six as ball-tampering questions dominate Perth presser",
-        "url": "https://www.cricinfo.com/story/mitchell-marsh-confirms-world-cup-top-six-as-sandpaper-questions-dominate-perth-presser-1562385",
-        "source": "Cricinfo",
-        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/405300/405393.6.jpg",
-        "publishedAt": "2026-11-12T11:41:22Z",
-        "category": "world",
-        "summary": "Mitchell Marsh confirmed the top six players for the World Cup during a press conference in Perth, where he appeared visibly shaken amid ongoing questions regarding ball-tampering allegations. The atmosphere was tense as reporters pressed for clarity on the situation. Marsh's demeanor contrasted with his usual composure, reflecting the pressure surrounding the team as they prepare for the tournament.",
-        "wordCount": 59
-      },
-      {
-        "title": "Trump And Netanyahu Get Into \"Shouting Match From Hell\" Over Iran War: Report",
-        "url": "https://www.ndtv.com/world-news/donald-trump-and-benjamin-netanyahu-get-into-shouting-match-from-hell-over-iran-war-report-12317412",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/jqg1pnm_netanyahu-trump-afp_625x300_10_November_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-12T11:39:07Z",
-        "category": "world",
-        "summary": "US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu engaged in a heated phone conversation regarding the war in Iran, described as \"a shouting match from hell.\" The discussion highlighted significant disagreements between the United States and Israel over the resumption of military strikes on Iran. The exchange reflects ongoing tensions in their diplomatic relationship concerning regional security issues.",
-        "wordCount": 60
-      },
-      {
-        "title": "Punjab-origin newlywed couple and brother-in-law killed in NZ crash; families seek repatriation",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/punjab-origin-newlywed-couple-and-brother-in-law-killed-in-nz-crash-families-seek-repatriation/articleshow/135765582.cms",
+        "title": "Trump says unsure if woman linked to Jensen Huang was a spy, confirms speaking to former Nvidia chief",
+        "url": "https://timesofindia.indiatimes.com/world/us/trump-says-unsure-if-woman-linked-to-jensen-huang-was-a-spy-confirms-speaking-to-nvidia-chief/articleshow/135785044.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135765901,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-12T10:44:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135785067,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-12T23:43:00Z",
         "category": "world",
-        "summary": "A tragic car accident in Takanini, South Auckland, claimed the lives of a Punjab-origin newlywed couple, Gurpreet Singh and Sukhvir Kaur, along with their brother-in-law, Sukhdeep Singh. The incident occurred when their vehicle crashed into a BurgerFuel restaurant. The local Sikh community is mobilizing to assist with repatriation costs and funeral arrangements for the deceased.",
-        "wordCount": 55
+        "summary": "US President Donald Trump confirmed he spoke with Nvidia co-founder Jensen Huang on Wednesday. He expressed uncertainty regarding the status of a Chinese businesswoman linked to Huang, questioning whether it had been established that she was a spy. The comments come amid ongoing discussions about potential espionage and the implications for US-China relations in the tech industry.",
+        "wordCount": 57
+      },
+      {
+        "title": "An Oklahoma homeowner hosted 141 guests during 36 short-term stays despite neighbourhood rules; after a lower appeals court lifted restrictions, the state Supreme Court restored the ban and upheld $8,",
+        "url": "https://timesofindia.indiatimes.com/world/us/an-oklahoma-homeowner-hosted-141-guests-during-36-short-term-stays-despite-neighbourhood-rules-after-a-lower-appeals-court-lifted-restrictions-the-state-supreme-court-restored-the-ban-and-upheld-8528-in-fines/articleshow/135746069.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135746250,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-12T22:30:00Z",
+        "category": "world",
+        "summary": "An Oklahoma homeowner has been ordered to pay over $8,000 after the state Supreme Court reinstated a neighborhood ban on short-term rentals. This decision follows a lower appeals court lifting restrictions, allowing the homeowner to host 141 guests during 36 short-term stays. The ruling concludes a protracted legal dispute regarding property usage regulations in the area.",
+        "wordCount": 56
+      },
+      {
+        "title": "Indians top again: 9.3L get OECD citizenships in 5 years",
+        "url": "https://timesofindia.indiatimes.com/india/indians-top-again-9-3l-get-oecd-citizenships-in-5-years/articleshow/135784216.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135784820,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-12T22:27:00Z",
+        "category": "world",
+        "summary": "Indians have emerged as the leading group in acquiring citizenship in advanced economies, with approximately 9.25 lakh (925,000) Indian citizens obtaining nationality from OECD member countries between 2020 and 2024. This trend highlights the significant movement of Indians seeking citizenship in developed nations, as reported in the 'International Migration Outlook' report, reflecting ongoing migration patterns and opportunities abroad.",
+        "wordCount": 58
       }
     ],
     "business": [
       {
-        "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-        "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5a70d-1794483981.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-11-12T11:53:48Z",
+        "title": "Trump says unsure if woman linked to Jensen Huang was a spy, confirms speaking to former Nvidia chief",
+        "url": "https://timesofindia.indiatimes.com/world/us/trump-says-unsure-if-woman-linked-to-jensen-huang-was-a-spy-confirms-speaking-to-nvidia-chief/articleshow/135785044.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135785067,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-12T23:43:00Z",
         "category": "business",
-        "summary": "Nvidia's board is considering the future of CEO Jensen Huang amid reports of extramarital affairs, including one with a woman alleged to be a Chinese spy. The scrutiny follows a significant decline in Nvidia's market value, which has dropped over $600 billion this week. Discussions about Huang's potential ousting are ongoing as the company navigates this controversy.",
+        "summary": "US President Donald Trump confirmed he spoke with Nvidia co-founder Jensen Huang on Wednesday. He expressed uncertainty regarding the status of a Chinese businesswoman associated with Huang, questioning whether it had been determined if she was a spy. The comments come amid ongoing discussions about national security and foreign influence in the tech industry.",
+        "wordCount": 54
+      },
+      {
+        "title": "Stock Market Today: All You Need To Know Before Going Into Trade On Nov 13",
+        "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-nov-12-12319464",
+        "source": "NDTV Profit",
+        "image": "https://c.ndtvimg.com/2026-01/0bff07df_wall-of-tv-screens-showing-stock-market-analysis-2024-05-27-02-57-25-utc.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-12T23:30:01Z",
+        "category": "business",
+        "summary": "The Indian stock market experienced minor gains on November 13, closing up 31.61 points, or 0.04%, amid a volatile session. Lower crude oil prices contributed to improved market sentiment, with significant buying observed in banking and financial sectors. Investors are advised to stay informed about stocks in the news and brokerage calls for effective trading strategies.",
+        "wordCount": 56
+      },
+      {
+        "title": "Top 25 Best-Selling Cars in October 2026: Wagon R Takes No. 1 Spot, Brezza Surges 86%, Seltos Grows 88%",
+        "url": "https://www.autopunditz.com/post/top-25-best-selling-cars-october-2026",
+        "source": "Autopunditz",
+        "image": "https://static.wixstatic.com/media/1da610_06b60d5593c24085835ea5f15d7146bd~mv2.png/v1/fill/w_1122,h_1402,al_c,q_90/1da610_06b60d5593c24085835ea5f15d7146bd~mv2.png",
+        "publishedAt": "2026-11-12T21:57:30Z",
+        "category": "business",
+        "summary": "In October 2026, the Wagon R topped India's best-selling cars list with 23,747 units sold, an increase from 18,970 units the previous year. The Brezza surged to second place with an 86% growth, while the Kia Seltos experienced an 88% rise in sales. The rankings reflect a strong demand for practical and affordable vehicles in the market.",
         "wordCount": 57
-      },
-      {
-        "title": "Inflation At 2-Year High In October, Breaches RBI's Upper Limit",
-        "url": "https://www.ndtv.com/business-news/inflation-at-2-year-high-of-6-09-in-october-breaches-rbis-upper-limit-12317438",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2024-02/i315trfg_inflation_625x300_12_February_24.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-12T11:43:47Z",
-        "category": "business",
-        "summary": "Retail inflation in India surged to 6.09% in October 2026, exceeding the Reserve Bank of India's upper limit of 6% for the first time since October 2024. This increase was primarily driven by a rise in food inflation, which reached 8.94%, up from 7.74% the previous month, according to data from the Ministry of Statistics & Programme Implementation.",
-        "wordCount": 58
-      },
-      {
-        "title": "Nvidia LIVE Updates: Board meets to discuss Jensen Huang’s ouster amid affair reports; no decision reported so far",
-        "url": "https://www.hindustantimes.com/world-news/nvidia-ceo-jensen-huang-news-live-updates-board-meeting-alice-huang-china-spy-affair-probe-megapseed-nvidia-stock-trump-101794447133046.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/12/1600x900/logo/nvidia_ceo_jensen_huang_1794464561753_penB_1794464561923_KYPB_36fd5543-deff-44a6-a1b5-ba3219e6f1a9_mT7C.jpg",
-        "publishedAt": "2026-11-12T11:38:05Z",
-        "category": "business",
-        "summary": "Nvidia's board is meeting to discuss the potential ouster of CEO Jensen Huang amid allegations of an affair with a Chinese businesswoman, which has sparked a spying controversy. No decision has been reported as of yet. The situation has raised concerns regarding corporate governance and the implications for Nvidia's operations in the artificial intelligence sector.",
-        "wordCount": 55
       }
     ],
     "technology": [
       {
-        "title": "GTA VI hype is unreal. $1 billion in pre-orders, Logitech announces day-off",
-        "url": "https://theprint.in/feature/gta-vi-hype-is-unreal-1-billion-in-pre-orders-logitech-announces-day-off/3097040/",
-        "source": "ThePrint",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/sdfdfsdsf.jpg",
-        "publishedAt": "2026-11-12T11:44:54Z",
-        "category": "technology",
-        "summary": "Rockstar's upcoming release of GTA VI has generated significant excitement, with pre-orders surpassing $1 billion. The game returns to Vice City after thirteen years since GTA V. In anticipation, many fans are taking time off work to play. Logitech has even acknowledged the game's impact, announcing a day off for its employees to accommodate the gaming frenzy.",
-        "wordCount": 57
-      },
-      {
-        "title": "Apple iPhone Duo, one month in: I'm never going back to the Pro",
-        "url": "https://mashable.com/tech/apple-iphone-duo-not-going-back",
+        "title": "Apple HomeView hands-on: Born to live on marble countertops",
+        "url": "https://mashable.com/tech/apple-homeview-smart-display-hands-on-first-impressions",
         "source": "Mashable",
-        "image": "https://helios-i.mashable.com/imagery/articles/02ZVSyFaQWvCxrA9SRzebgS/hero-image.fill.size_1200x675.v1794406019.jpg",
-        "publishedAt": "2026-11-12T11:15:07Z",
+        "image": "https://helios-i.mashable.com/imagery/articles/04McXS9an036HuqPE3iisXq/hero-image.fill.size_1200x675.v1794441430.jpg",
+        "publishedAt": "2026-11-12T22:40:42Z",
         "category": "technology",
-        "summary": "After using the Apple iPhone Duo as my primary device for a month, I have decided not to return to the Pro models. The transition from the iPhone 17 Pro Max was smooth, and I successfully set up all necessary apps, including online banking. My experience with the Duo has been satisfactory, leading to this decision.",
-        "wordCount": 56
+        "summary": "Apple's new HomeView smart display features facial recognition and Siri AI, providing personalized experiences for families. Set to launch on Friday, it is designed to be an attractive addition to home environments, particularly on marble countertops. Early tests indicate its potential to become a popular device in households, enhancing daily interactions through its advanced technology.",
+        "wordCount": 55
       },
       {
-        "title": "Hawkins Cookers Reports Q2 Revenue of ₹4.23B vs ₹3.16B YoY",
-        "url": "https://www.sahi.com/news/hawkins-cookers-reports-q2-revenue-of-4-23b-vs-3-16b-yoy",
-        "source": "Sahi",
-        "image": "https://www.sahi.com/assets/uploads/237_PE_1_CORPORATE_12_11_2026_16x9_7c8f99f38a.jpg",
-        "publishedAt": "2026-11-12T10:52:30Z",
+        "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
+        "url": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+        "source": "The Register",
+        "image": "https://image.theregister.com/241526.jpg?imageId=241526&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+        "publishedAt": "2026-11-12T20:48:45Z",
         "category": "technology",
-        "summary": "Hawkins Cookers reported Q2 revenue of ₹423 crore, a 33.86% increase from ₹316 crore in the same quarter last year. Additionally, a report indicated that 90% of individual traders in the equity Futures and Options Segment experienced net losses, averaging around ₹50,000 per trader. These findings highlight significant challenges faced by retail investors in the derivatives market.",
-        "wordCount": 57
+        "summary": "OpenAI has introduced two security products aimed at penetration testing and defense, emphasizing that organizations must adopt such tools to ensure their safety. Concurrently, a coalition of nonprofits has filed a lawsuit against major AI companies, citing concerns over AI-driven cyberattacks. OpenAI's announcement highlights the growing urgency for businesses to enhance their cybersecurity measures in the evolving digital landscape.",
+        "wordCount": 59
+      },
+      {
+        "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? - Ask An SEO",
+        "url": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/",
+        "source": "Search Engine Journal",
+        "image": "https://cdn.searchenginejournal.com/wp-content/uploads/2024/06/ask-an-seo-adam-riemer-376.jpg",
+        "publishedAt": "2026-11-12T20:00:07Z",
+        "category": "technology",
+        "summary": "Affiliate marketing remains relevant despite advancements in AI checkout and Google's Gemini. While shoppers may not click on affiliate links directly, enhanced tracking and improved program options help maintain referral credit and protect commissions. The discussion emphasizes the adaptation of the affiliate model in response to evolving technology, ensuring that marketers can still benefit from their promotional efforts.",
+        "wordCount": 58
       }
     ],
     "sports": [
       {
-        "title": "Auqib Nabi Reveals 'Feedback' From Rohit Sharma, Virat Kohli And Shubman Gill Before 4th ODI vs New Zealand",
-        "url": "https://sports.ndtv.com/cricket/auqib-nabi-reveals-feedback-from-rohit-sharma-virat-kohli-and-shubman-gill-before-4th-odi-vs-new-zealand-12316484",
-        "source": "NDTV Sports",
-        "image": "https://c.ndtvimg.com/2026-11/dbfc1jqo_auqib-nabi-pc-bcci_625x300_12_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-12T12:14:47Z",
+        "title": "Marc Casado reveals why he requested no ‘fear clause’ in his loan from Barcelona to Deportivo",
+        "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/137779/marc-casado-deportivo-loan-fear-clause",
+        "source": "Barca Blaugranes",
+        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/11/gettyimages-2303991158.jpg?quality=90&strip=all&crop=0%2C10.727674351922%2C100%2C78.544651296157&w=1200",
+        "publishedAt": "2026-11-13T00:00:00Z",
         "category": "sports",
-        "summary": "India pacer Auqib Nabi disclosed that he received advice from senior players Rohit Sharma, Virat Kohli, and Shubman Gill ahead of the fourth ODI against New Zealand. They recommended that he concentrate on seam movement instead of swing while bowling with the white ball, emphasizing that top-level batters are adept at handling swing bowling in their conditions.",
-        "wordCount": 57
+        "summary": "Marc Casado explained his decision to request no \"fear clause\" in his loan from Barcelona to Deportivo. He emphasized his desire to be available for every match, stating, “I want to play every game, or at least be available for every game.” Casado acknowledged that playing time ultimately depends on the coach's decision, but his availability is a priority.",
+        "wordCount": 59
       },
       {
-        "title": "Kerr, Gardner make it five wins in five for Sydney Sixers",
-        "url": "https://www.cricbuzz.com/cricket-news/140883/wbbl-2026-kerr-gardner-make-it-five-wins-in-five-for-sydney-sixers-cricbuzzcom",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1121906/melie-kerr-scored-53-in-her-teams-win.jpg",
-        "publishedAt": "2026-11-12T12:09:41Z",
+        "title": "Jude Bellingham and Trent Alexander-Arnold feature in England’s win vs Croatia",
+        "url": "https://www.managingmadrid.com/real-madrid-cf-players/115373/jude-bellingham-and-trent-alexander-arnold-feature-in-englands-win-vs-croatia",
+        "source": "Managing Madrid",
+        "image": "https://platform.managingmadrid.com/wp-content/uploads/sites/103/2026/11/gettyimages-2298459601.jpg?quality=90&strip=all&crop=0%2C10.736370840473%2C100%2C78.527258319053&w=1200",
+        "publishedAt": "2026-11-12T21:58:58Z",
         "category": "sports",
-        "summary": "The Sydney Sixers achieved their fifth consecutive victory, led by strong performances from Kerr and Gardner. In another match, the Brisbane Heat secured their third straight win against the Melbourne Stars at Junction Oval. Chasing a target of 166 runs, Brisbane's captain Georgia Redmayne and Orla Prendergast formed an unbeaten 105-run partnership to clinch the match.",
-        "wordCount": 56
+        "summary": "England secured a 2-1 victory against Croatia, with Jude Bellingham and Trent Alexander-Arnold playing key roles in the match. The win contributes positively to England's performance in the ongoing competition. Fans are reminded to engage respectfully with each other and adhere to community guidelines, as any form of trolling or disrespectful behavior is prohibited.",
+        "wordCount": 54
       },
       {
-        "title": "Kerr, Gardner make it five wins in five for Sydney Sixers",
-        "url": "https://www.cricbuzz.com/cricket-news/140883/kerr-gardner-make-it-five-wins-in-five-for-sydney-sixers",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1121906/melie-kerr-scored-53-in-her-teams-win.jpg",
-        "publishedAt": "2026-11-12T12:09:41Z",
+        "title": "Czechia 0-2 Spain, Nations League: Álex Baena and Marc Pubill on target as La Roja escape with hard-fought win",
+        "url": "https://www.barcablaugranes.com/barcelona-internationals/137836/czechia-spain-nations-league-final-score-match-report-recap-reactions",
+        "source": "Barca Blaugranes",
+        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/11/gettyimages-2304294004.jpg?quality=90&strip=all&crop=0%2C10.737178142997%2C100%2C78.525643714006&w=1200",
+        "publishedAt": "2026-11-12T21:43:33Z",
         "category": "sports",
-        "summary": "Sydney Sixers achieved their fifth consecutive victory, led by strong performances from Kerr and Gardner. In another match, Brisbane Heat secured their third straight win against Melbourne Stars at Junction Oval, successfully chasing a target of 166 runs. An unbeaten partnership of 105 runs between skipper Georgia Redmayne and Orla Prendergast was pivotal in their triumph.",
-        "wordCount": 56
+        "summary": "Spain secured a 2-0 victory against Czechia in the Nations League, with goals from Álex Baena and Marc Pubill. The match proved challenging for La Roja, who aimed to finish at the top of their group. Barcelona players Pau Cubarsí, Fermín López, and Pedri participated, contributing to the team's performance in this crucial away match.",
+        "wordCount": 55
       }
     ],
     "health": [
       {
-        "title": "What's the best way to reverse memory decline?",
-        "url": "https://www.sciencefocus.com/the-human-body/reverse-memory-decline-ageing-2",
-        "source": "BBC Science Focus Magazine",
-        "image": "https://d2rj6cu2ik1biv.cloudfront.net/193c804a-a673-47bd-b09b-11baf4822a17/4ab85c25-23c4-4bd2-8e5a-c22d7d167efc/22f8465f-6608-46e4-ac65-b2b3e872d078/thumbnails/07257588-2981-4a8c-b201-b4d111c398cf.jpg?appId=6ab86ca8-b028-4715-93c8-27c92ae62f2a&platform=WEB&w=1200",
-        "publishedAt": "2026-11-12T12:13:07Z",
+        "title": "Evidence in Women With Cancer",
+        "url": "https://www.emjreviews.com/oncology/news/can-mindfulness-for-insomnia-help-women-with-cancer/",
+        "source": "EMJ",
+        "image": "https://www.emjreviews.com/wp-content/uploads/2026/11/AdobeStock_297089507-fizkes-resized-woman-sleeping.jpg",
+        "publishedAt": "2026-11-12T22:23:56Z",
         "category": "health",
-        "summary": "Research indicates that gut health may play a significant role in reversing memory decline. Studies suggest that the trillions of bacteria in the digestive system can influence brain function and cognitive health. This emerging field of study explores the connection between gut microbiota and memory preservation, highlighting the potential benefits of maintaining a healthy gut for cognitive longevity.",
-        "wordCount": 58
+        "summary": "Mindfulness practices for insomnia have shown to improve sleep quality in many studies involving women with cancer. Despite these positive outcomes, the mechanisms behind this effectiveness remain unclear. Sleep disturbances are prevalent during and after cancer treatment, prompting many women to seek alternatives to medication. A recent scoping review analyzed 39 studies to explore existing evidence and identify gaps.",
+        "wordCount": 59
       },
       {
-        "title": "New Report Urges Caution in the Race for Space-Based Data Centers",
-        "url": "https://news.climate.columbia.edu/2026/11/12/new-report-urges-caution-in-the-race-for-space-based-data-centers/",
-        "source": "Columbia University",
-        "image": "https://media.news.climate.columbia.edu/wp-content/uploads/2026/11/Data-centers-in-space-report-image-1300x761.jpeg",
-        "publishedAt": "2026-11-12T11:48:52Z",
+        "title": "Congo Ebola outbreak still out of control after six months",
+        "url": "https://www.arabnews.com/world/congo-ebola-outbreak-still-out-of-control-after-six-months-3011528",
+        "source": "Arab News",
+        "image": "https://assets.maestronewsroom.com/media/shared/wires/afp/20260827/26d0e5eb0ee0-AFP_C6MY3WF.jpg",
+        "publishedAt": "2026-11-12T21:54:28Z",
         "category": "health",
-        "summary": "A report titled “Space-Based Data Centers Roadmap: The Case for Caution” by the Innovation for Cool Earth Forum highlights the imminent reality of space-based data centers within the next few years. It emphasizes the need for caution, as the risks associated with large-scale deployment are not yet fully understood, raising concerns about potential implications for technology and safety.",
-        "wordCount": 58
+        "summary": "Médecins Sans Frontières reports that the Ebola outbreak in Congo remains uncontrolled after six months, with numerous cases likely undetected and ongoing hospital transmissions. Over 11,000 cases have been reported, highlighting significant challenges in response systems. The organization emphasizes the urgent need for improved measures to contain the virus, which continues to spread in various regions.",
+        "wordCount": 56
       },
       {
-        "title": "Moderate Drinking Has No Health Benefit, US-Funded Alcohol Review Finds",
-        "url": "https://www.global-agriculture.com/food-nutrition-wellness/moderate-drinking-has-no-health-benefit-us-funded-alcohol-review-finds/",
-        "source": "Global Agriculture",
-        "image": "https://www.global-agriculture.com/wp-content/uploads/2026/11/Moderate-Drinking-Has-No-Health-Benefit-US-Funded-Alcohol-Review-Finds.jpg",
-        "publishedAt": "2026-11-12T10:31:17Z",
+        "title": "Most Men Should Get Prostate Cancer Screening After Age 50",
+        "url": "https://gizmodo.com/cancer-experts-now-back-prostate-cancer-tests-and-say-most-men-in-their-50s-and-60s-need-them-2000838915",
+        "source": "Gizmodo",
+        "image": "https://gizmodo.com/app/uploads/2026/11/Blood-sample-1200x675.jpg",
+        "publishedAt": "2026-11-12T21:35:52Z",
         "category": "health",
-        "summary": "A US government-funded review has concluded that moderate drinking offers no health benefits. The study indicates that consuming up to 14 drinks weekly does not provide protective effects and correlates with an increased risk of alcohol-related deaths, estimated at 1 in 25. This comprehensive analysis challenges previous assumptions about the health advantages of moderate alcohol consumption.",
+        "summary": "The American Cancer Society (ACS) recommends that most men begin prostate cancer screening at age 50. Research indicates that PSA screening can significantly lower the risk of death from prostate cancer. The updated guidelines emphasize the importance of monitoring prostate health for middle-aged men, aiming to enhance early detection and improve treatment outcomes for prostate cancer.",
         "wordCount": 56
       }
     ],
     "science": [
       {
-        "title": "Mizzou Scientists Use AI-Designed CRISPR Tool to Breed Blight-Resistant Rice",
-        "url": "https://www.global-agriculture.com/ag-tech-research-news/mizzou-scientists-use-ai-designed-crispr-tool-to-breed-blight-resistant-rice/",
-        "source": "Global Agriculture",
-        "image": "https://www.global-agriculture.com/wp-content/uploads/2026/11/Mizzou-Scientists-Use-AI-Designed-CRISPR-Tool-to-Breed-Blight-Resistant-Rice.jpg",
-        "publishedAt": "2026-11-12T10:37:14Z",
+        "title": "Crows make decisions twice as fast as humans, study finds",
+        "url": "https://www.thehindubusinessline.com/news/science/crows-make-visual-decisions-twice-as-fast-as-humans-study-finds/article71696354.ece",
+        "source": "BusinessLine",
+        "image": "https://bl-i.thgim.com/public/incoming/848f27/article71696357.ece/alternates/LANDSCAPE_1200/VZ14052204.JPG",
+        "publishedAt": "2026-11-12T23:52:56Z",
         "category": "science",
-        "summary": "Researchers at the University of Missouri announced the successful use of an AI-designed gene-editing tool, OpenCRISPR-1, to breed rice resistant to bacterial blight disease. This advancement, revealed on November 2, 2026, aims to combat one of the most damaging diseases affecting rice crops, potentially improving food security and agricultural resilience in the face of plant pathogens.",
-        "wordCount": 56
+        "summary": "A study from the University of Tübingen reveals that crows make visual decisions in an average of 235 milliseconds, which is twice as fast as humans and monkeys. The research highlights the birds' ability to accurately identify the direction of moving dots while processing information rapidly. This finding underscores the cognitive capabilities of crows in decision-making tasks.",
+        "wordCount": 57
       },
       {
-        "title": "Rare Star System Emits Radio Signals Every Eight Minutes",
-        "url": "https://www.miragenews.com/rare-star-system-emits-radio-signals-every-1776321/",
-        "source": "Mirage News",
-        "image": "https://cdn1.miragenews.com/tmp_cache?cdn=images.unsplash.com%2Fphoto-1583912372325-0c5be28e3590%3Fixid%3DMnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8%26amp%3Bixlib%3Drb-1.2.1%26amp%3Bauto%3Dformat%26amp%3Bfit%3Dcrop%26amp%3Bw%3D753%26amp%3Bq%3D80",
-        "publishedAt": "2026-11-12T10:04:00Z",
+        "title": "Reusable molecular fabric could cut energy needed to separate industrial chemicals",
+        "url": "https://phys.org/news/2026-11-reusable-molecular-fabric-energy-industrial.html",
+        "source": "Phys.org",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/new-molecular-fabric-u.jpg",
+        "publishedAt": "2026-11-12T21:20:22Z",
         "category": "science",
-        "summary": "Scientists at Curtin University, part of the International Centre for Radio Astronomy Research, have identified a rare star system emitting radio signals every eight minutes. This system consists of a rapidly spinning dead star paired with a star similar to our Sun. The discovery sheds light on the nature of these mysterious radio pulses and their origins.",
+        "summary": "A team of scientists from UT Austin and Zhejiang University has developed a reusable molecular fabric that could significantly reduce the energy required to separate toxic chemicals from industrial processes, including those used in nylon, paint, and detergents. This innovative solution aims to enhance efficiency and practicality in chemical separation, with findings published in the journal Nature.",
         "wordCount": 57
+      },
+      {
+        "title": "Chennai to witness planetary parade, Mars-Jupiter conjunction this weekend",
+        "url": "https://timesofindia.indiatimes.com/city/chennai/chennai-to-witness-planetary-parade-mars-jupiter-conjunction-this-weekend/articleshow/135780512.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+        "publishedAt": "2026-11-12T18:19:00Z",
+        "category": "science",
+        "summary": "Chennai skywatchers can observe Mercury, Venus, Mars, and Jupiter together in the eastern sky before sunrise on November 14. A notable conjunction of Mars and Jupiter will occur on November 15-16, allowing viewers to see the two planets closely aligned. This celestial event will remain visible until December 2, providing an extended opportunity for observation.",
+        "wordCount": 55
       }
     ],
     "entertainment": [
       {
-        "title": "Pinkvilla Predicts: First day box office forecast for Salman Khan's Maatrubhumi, Eetha and Gunmaaster G9",
-        "url": "https://www.pinkvilla.com/entertainment/box-office/pinkvilla-predicts-first-day-box-office-forecast-for-salman-khans-maatrubhumi-eetha-and-gunmaaster-g9-1406410",
-        "source": "Pinkvilla",
-        "image": "https://www.pinkvilla.com/images/2026-11/287538559_pp.jpg",
-        "publishedAt": "2026-11-12T12:07:49Z",
+        "title": "Horoscope Today: November 13, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-november-13-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-11-13T00:30:00Z",
         "category": "entertainment",
-        "summary": "Pinkvilla predicts the first-day box office performance for Salman Khan's films Maatrubhumi, Eetha, and Gunmaaster G9. Despite recent struggles, Khan remains a significant draw for audiences. In contrast, Ramayana: Part One underperformed, falling short of expectations due to an underestimation of the pre-Diwali factor. This marks a rare miss in an otherwise strong year for Pinkvilla Predicts.",
+        "summary": "On November 13, 2026, Taurus may have faced challenges and conflicting information, leading to feelings of overwhelm. However, the horoscope suggests that peace is now attainable. The guidance encourages Taurus to navigate through difficulties while maintaining balance. The stars indicate a shift towards tranquility, allowing for a more stable emotional state and a sense of relief.",
+        "wordCount": 56
+      },
+      {
+        "title": "Sagittarius Horoscope Today: November 13, 2026",
+        "url": "https://www.vogue.in/content/sagittarius-horoscope-today-november-13-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052ee2e104d623d6d35/16:9/w_1280,c_limit/10-Sagittarius_16;9.png",
+        "publishedAt": "2026-11-13T00:20:00Z",
+        "category": "entertainment",
+        "summary": "Sagittarius individuals may experience a significant turning point today, November 13, 2026. Past challenges may have left them feeling defeated, leading to a decision to step back for peace. This choice is viewed positively, suggesting that moving away from conflict was wise. The stars indicate potential for renewal and growth, encouraging Sagittarians to embrace new opportunities ahead.",
         "wordCount": 57
       },
       {
-        "title": "Decoding Anirudh Ravichander And Kavya Maran's Elegant Greek Wedding Wardrobe",
-        "url": "https://www.ndtv.com/lifestyle/decoding-anirudh-ravichander-and-kavya-marans-elegant-greek-wedding-wardrobe-12317148",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/l33kcq18_anirudh_625x300_12_November_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-12T12:07:32Z",
+        "title": "Aquarius Horoscope Today: November 13, 2026",
+        "url": "https://www.vogue.in/content/aquarius-horoscope-today-november-13-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e055135022eaa114c0cd/16:9/w_1280,c_limit/13-Aquarius_16;9.png",
+        "publishedAt": "2026-11-13T00:20:00Z",
         "category": "entertainment",
-        "summary": "Anirudh Ravichander and Kavya Maran celebrated their wedding in Athens, Greece, on November 11. Their wardrobe featured soft colors, intricate embroidery, and modern silhouettes, reflecting an elegant yet understated theme. The couple opted for a simple ceremony, focusing on sophistication rather than extravagance, showcasing their personal style while keeping the celebration intimate and meaningful.",
-        "wordCount": 54
-      },
-      {
-        "title": "As Ramayana Nears Rs 1,000 Crore Worldwide, Ravi Dubey Shares Candid BTS Pics With Ranbir Kapoor-Sai Pallavi",
-        "url": "https://www.ndtv.com/entertainment/as-ramayana-nears-rs-1-000-crore-worldwide-ravi-dubey-shares-candid-bts-pics-with-ranbir-kapoor-sai-pallavi-12317301",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/g5dq7e7_lakshman_625x300_12_November_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-12T11:22:04Z",
-        "category": "entertainment",
-        "summary": "Ravi Dubey portrays Lakshmana in Nitesh Tiwari's film Ramayana, which is approaching Rs 1,000 crore in worldwide earnings. The movie has received significant acclaim, contributing to its box office success. Dubey recently shared behind-the-scenes photos featuring co-stars Ranbir Kapoor and Sai Pallavi, highlighting their camaraderie during the production of this mythological epic.",
-        "wordCount": 52
+        "summary": "Aquarius individuals are advised to take deliberate actions today, pausing to reflect before making decisions. This period encourages thoughtful moves that align with personal values and support individual goals. Those who have been anticipating the right moment for change may find that now is the time to embrace new opportunities and allow things to take shape.",
+        "wordCount": 56
       }
     ]
   }
