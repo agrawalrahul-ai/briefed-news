@@ -1,228 +1,188 @@
 {
-  "updatedAt": "2026-11-14T00:31:20.482Z",
+  "updatedAt": "2026-11-14T12:31:14.954Z",
   "categories": {
     "world": [
       {
-        "title": "Pakistan military reports it killed 74 ‘terrorists’ during raids",
-        "url": "https://www.aljazeera.com/news/2026/11/13/pakistan-military-reports-it-killed-74-terrorists-during-raids",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-28T064047Z_1130127645_RC2UUJAD7YRB_RTRMADP_3_AFGHANISTAN-PAKISTAN-1794559223.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-11-13T12:03:29Z",
-        "category": "world",
-        "summary": "Pakistan's military announced the killing of 74 armed fighters during recent raids near its border with Afghanistan. The operations, conducted in various regions, included 31 \"terrorists\" eliminated in Balochistan since November 3. The increase in violence has heightened tensions between Pakistan and Afghanistan, prompting military responses aimed at addressing security concerns in the border areas.",
-        "wordCount": 55
-      },
-      {
-        "title": "Ex-Mexico Lawyer Who Secretly Helped CIA Run Ops In His State Flees To US: Report",
-        "url": "https://www.ndtv.com/world-news/ex-mexico-lawyer-who-secretly-helped-cia-run-ops-in-his-state-flees-to-us-report-12322394",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/4vpq8oos_mexico-lawyer-_625x300_13_November_26.jpeg",
-        "publishedAt": "2026-11-13T11:53:01Z",
-        "category": "world",
-        "summary": "A former prosecutor from Mexico's Chihuahua state has reportedly fled to the United States following an arrest warrant issued for his alleged involvement in assisting CIA operations with local security forces. The New York Times reported that U.S. and Mexican officials confirmed his escape, highlighting concerns over the implications of his actions and the ongoing investigations.",
-        "wordCount": 56
-      },
-      {
-        "title": "Imran Khan-Asim Munir deal? Sisters' release from jail, hospital visit spark buzz in Pakistan",
-        "url": "https://timesofindia.indiatimes.com/world/pakistan/imran-khan-asim-munir-deal-sisters-release-from-jail-hospital-visit-spark-buzz-in-pakistan/articleshow/135801979.cms",
+        "title": "US flight chaos: Nearly 500 departures disrupted, thousands stranded as FAA halts take-offs nationwide; what we know so far",
+        "url": "https://timesofindia.indiatimes.com/world/us/us-flight-chaos-nearly-500-journeys-disrupted-as-faa-halts-take-offs-nationwide-what-we-know-so-far/articleshow/135819594.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135802049,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-13T11:51:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135819617,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-14T00:28:00Z",
         "category": "world",
-        "summary": "The release of former Prime Minister Imran Khan's two sisters and his recent hospital visit have sparked speculation about a potential political understanding between Khan and Pakistan's military establishment. Observers are questioning whether these developments indicate the beginning of a thaw in relations, as Khan remains jailed, and the military's influence continues to shape the country's political landscape.",
-        "wordCount": 58
+        "summary": "On Friday, the Federal Aviation Administration (FAA) implemented a nationwide ground stop, causing significant disruptions in air travel across the United States. Nearly 500 flight departures were affected, leaving thousands of passengers stranded. The FAA cited \"extraordinary circumstances and reasons for safety\" as the rationale behind the decision, leading to widespread delays and cancellations throughout the day.",
+        "wordCount": 57
+      },
+      {
+        "title": "U.S. flights resume after hours-long outage as FAA lifts nationwide ground stop",
+        "url": "https://www.thehindu.com/news/international/all-departing-us-flights-grounded-due-to-communication-outage/article71700667.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/qtxodl/article71700671.ece/alternates/LANDSCAPE_1200/2026-11-13T235613Z_1835360810_RC2BNOA1CG6D_RTRMADP_3_USA-FAA-GROUND-STOP.JPG",
+        "publishedAt": "2026-11-14T00:04:33Z",
+        "category": "world",
+        "summary": "The FAA lifted a nationwide ground stop on U.S. flights after a major communications outage caused by outdated technology. The grounding lasted several hours on November 13, 2026, leading to significant travel disruptions and confusion across the country. Flights have since resumed, but the incident highlighted vulnerabilities in the aviation communication systems.",
+        "wordCount": 52
+      },
+      {
+        "title": "SpaceX's ambitious Starship double-catch attempt fails as booster ends up in Gulf",
+        "url": "https://timesofindia.indiatimes.com/science/spacexs-ambitious-starship-double-catch-attempt-fails-as-booster-ends-up-in-gulf/articleshow/135819060.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135819069,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-13T23:13:00Z",
+        "category": "world",
+        "summary": "SpaceX's attempt to recover both stages of its Starship rocket in a single mission failed on Friday. The Super Heavy booster, intended to be caught, fell into the Gulf of Mexico instead. This setback highlights the challenges SpaceX faces in its ambitious recovery efforts for the Starship program, which aims to enhance reusability and reduce launch costs.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "Microsoft Outage LIVE: Microsoft extends mail timeout to 48 hours as outage hits governments, organisations worldwide",
-        "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/sbfb17/article71697757.ece/alternates/LANDSCAPE_1200/2026-11-13T091516Z_1939096387_RC2XMOA8DMWH_RTRMADP_3_MICROSOFT-OUTAGES.JPG",
-        "publishedAt": "2026-11-13T11:55:06Z",
+        "title": "Maruti vs M&M vs Hyundai vs Tata Motors PV: Which stock offers growth at a better price?",
+        "url": "https://www.financialexpress.com/market/stock-insights/maruti-vs-mm-vs-hyundai-vs-tata-motors-pv-which-stock-offers-growth-at-a-better-price/4383986/",
+        "source": "The Financial Express",
+        "image": "https://images.financialexpressdigital.com/2026/11/stock4_b06492.jpg",
+        "publishedAt": "2026-11-13T23:45:00Z",
         "category": "business",
-        "summary": "A widespread outage affected Microsoft platforms, including Outlook, prompting the company to extend mail timeout to 48 hours. Microsoft reported that a portion of its infrastructure was experiencing elevated load, contributing to connectivity errors. The outage severely impacted various organizations globally, including Britain's National Health Service, as staff handling emergency calls faced significant disruptions in service.",
-        "wordCount": 56
+        "summary": "Tata Motors Passenger Vehicles experienced a recovery in Q2 FY27 after addressing operational issues in its UK operations. The launch of new models is expected to drive future growth. Meanwhile, competitors Maruti Suzuki, M&M, and Hyundai Motor India benefited from strong local demand, although rising raw material costs negatively impacted their operating margins.",
+        "wordCount": 53
       },
       {
-        "title": "Microsoft Teams, Outlook, and 365 services are down, more than 12 hours now",
-        "url": "https://www.gsmarena.com/microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469.php",
-        "source": "GSMArena.com",
-        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/microsoft-outage-live/-952x498w6/gsmarena_000.jpg",
-        "publishedAt": "2026-11-13T11:52:02Z",
+        "title": "SpaceX's ambitious Starship double-catch attempt fails as booster ends up in Gulf",
+        "url": "https://timesofindia.indiatimes.com/science/spacexs-ambitious-starship-double-catch-attempt-fails-as-booster-ends-up-in-gulf/articleshow/135819060.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135819069,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-13T23:13:00Z",
         "category": "business",
-        "summary": "Microsoft is facing a significant server outage impacting its cloud services, including Outlook, Teams, Microsoft 365, Azure, OneNote, OneDrive, and Microsoft ToDo. The outage has persisted for over 12 hours. Microsoft has clarified that the disruption is not due to a cyberattack, attributing the issues solely to the server malfunction affecting its operations and services.",
+        "summary": "SpaceX's attempt to recover both stages of its Starship rocket in a single mission failed on Friday. The Super Heavy booster, intended for recovery, fell into the Gulf of Mexico. This setback marks a significant challenge for SpaceX as it continues to develop its Starship program, which aims to enhance space exploration and transportation capabilities.",
         "wordCount": 55
       },
       {
-        "title": "Eicher Motors Q2 results: Net profit rises 15% to Rs 1,573 crore, misses estimates",
-        "url": "https://www.moneycontrol.com/news/business/earnings/eicher-motors-q2-results-net-profit-rises-15-to-rs-1-573-crore-14079711.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260211052937_royal-enfield3.jpg",
-        "publishedAt": "2026-11-13T11:24:00Z",
+        "title": "SpaceX's Super Heavy rocket fails catch attempt, malfunctions and explodes on return",
+        "url": "https://www.indiatoday.in/science/story/spacexs-starship-flight-15-booster-completes-an-offshore-landing-after-its-catch-is-called-off-3038632-2026-11-14",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/spacex-abandons-super-heavy-catch-as-starship-booster-malfunctions-13365926-16x9_0.jpeg?VersionId=ys8QQ4s4f57XwRKDrOR2YwhAQQkkrRtD",
+        "publishedAt": "2026-11-13T23:01:03Z",
         "category": "business",
-        "summary": "Eicher Motors reported a 15% increase in net profit to Rs 1,573 crore for Q2 FY27, which ended on September 30, 2026. The company's revenue from operations rose by 20% to Rs 7,422 crore during the same period. Despite the profit growth, the results fell short of market expectations, highlighting a potential disconnect between performance and analyst forecasts.",
-        "wordCount": 58
+        "summary": "SpaceX's Super Heavy booster malfunctioned during Starship Flight 15, leading to an automatic abort. The rocket's first stage was diverted to the Gulf of Mexico instead of executing a planned catch at the launch tower. This marked the first recovery attempt for the V3 booster, which ultimately ended in failure as the rocket exploded upon landing offshore.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "Google Pixel 11 gets Rs 11,000 off, no conditions",
-        "url": "https://www.indiatoday.in/visualstories/technology/google-pixel-11-gets-rs-11000-off-no-conditions-287469-13-11-2026",
-        "source": "India Today",
-        "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/11/imageITG-1794567197646.png?size=*:900",
-        "publishedAt": "2026-11-13T10:54:28Z",
+        "title": "Quordle hints and answers for Saturday, November 14 (game #1755)",
+        "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-14-november-2026",
+        "source": "TechRadar",
+        "image": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
+        "publishedAt": "2026-11-14T00:00:00Z",
         "category": "technology",
-        "summary": "The Google Pixel 11 is currently discounted on Amazon, priced at Rs 78,790, down from its original launch price of Rs 89,999. This promotion allows customers to save over Rs 11,000 without any additional conditions or offers required. The sale highlights the device's reduced price, making it more accessible for potential buyers looking for a smartphone deal.",
-        "wordCount": 57
+        "summary": "Quordle offers daily puzzles, with new games released at midnight local time. Players may be engaged with either the current day's puzzle or the previous day's. The article provides hints and answers for Quordle game #1755, dated November 14, and also includes access to past solutions for players seeking assistance with earlier puzzles.",
+        "wordCount": 53
       },
       {
-        "title": "Claude down: Users report login issues and service disruptions affecting Claude.ai and Claude Code",
-        "url": "https://www.moneycontrol.com/technology/claude-down-users-report-login-issues-and-service-disruptions-affecting-claude-ai-and-claude-code-article-14079689.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260918012004_Claude.jpg",
-        "publishedAt": "2026-11-13T10:50:40Z",
+        "title": "9 tech gifts people will actually use long after Christmas",
+        "url": "https://www.usatoday.com/story/shopping/gifts/2026/11/13/useful-tech-gifts-gadgets/92763282007/",
+        "source": "USA Today",
+        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/13/USAT/92759193007-bark-kidfriendly-phones-and-smartwatches.png?crop=2999,1687,x0,y0&width=2999&height=1687&format=pjpg&auto=webp",
+        "publishedAt": "2026-11-13T22:14:00Z",
         "category": "technology",
-        "summary": "Anthropic is addressing authentication issues impacting its Claude.ai and Claude Code platforms. Users, particularly in India, have reported difficulties logging in and accessing services, leading to a notable rise in complaints on Downdetector. The disruptions began on Friday, November 13, and the company is actively investigating the cause of these login problems affecting its AI services.",
-        "wordCount": 56
-      },
-      {
-        "title": "New Chinese smartphone offers a massive storage option at a reasonable price",
-        "url": "https://www.notebookcheck.net/New-Chinese-smartphone-offers-a-massive-storage-option-at-a-reasonable-price.1449035.0.html",
-        "source": "Notebookcheck",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/OnePlus/16/Test_OnePlus_16_6.jpg",
-        "publishedAt": "2026-11-13T10:47:00Z",
-        "category": "technology",
-        "summary": "OnePlus has launched the OnePlus 16 smartphone, featuring 1 TB of storage at a competitive price. Known for its flagship-killer reputation, OnePlus aims to provide affordable alternatives that rival more expensive models. The introduction of this device addresses the growing demand for substantial storage options in smartphones, especially amid rising memory costs, appealing to users seeking high-capacity devices.",
-        "wordCount": 58
+        "summary": "Nine recommended tech gifts for the holiday season include noise-canceling Bose earbuds, JBL speakers, a sunrise alarm clock from Hatch, and gadgets from DJI. These items were tested throughout the year and are deemed useful long after Christmas. The selections aim to provide practical and enjoyable experiences, making them worthwhile purchases for holiday shoppers.",
+        "wordCount": 54
       }
     ],
     "sports": [
       {
-        "title": "Actor-Model Samreen Kaur Hits Back At Viral Reels Linking Her To Ashish Chanchlani, Warns Of Legal Action",
-        "url": "https://www.ndtv.com/entertainment/cricketer-arshdeep-singhs-fiance-samreen-kaur-slams-viral-reels-linking-her-to-ashish-chanchlani-warns-of-legal-action-12322363",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/gr5a3m7o_samreen_625x300_13_November_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-13T12:03:29Z",
+        "title": "One away from Zaheer Khan! Virat Kohli climbs to second on unwanted list after NZ horror show",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/one-away-from-zaheer-khan-virat-kohli-climbs-to-second-on-unwanted-list-after-nz-horror-show/articleshow/135805580.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135805628,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-14T00:30:00Z",
         "category": "sports",
-        "summary": "Actor-model Samreen Kaur has responded to viral reels linking her to YouTuber Ashish Chanchlani, stating they haven't communicated in four years. She criticized social media users for misusing old images to generate misleading narratives and warned creators against this practice. Kaur emphasized the importance of responsible content sharing, especially regarding personal relationships and past collaborations.",
-        "wordCount": 55
+        "summary": "Virat Kohli has moved to second place on an unwanted list of Indian cricketers following his duck in the fourth ODI against New Zealand. This performance brings him closer to the record held by former pacer Zaheer Khan. Kohli's dismissal marks a challenging period in his career, as he continues to seek consistency in his batting.",
+        "wordCount": 56
       },
       {
-        "title": "Carlo Ancelotti sends Raphinha message to Barcelona ahead of Singapore, Japan friendlies",
-        "url": "https://www.barcablaugranes.com/barcelona-internationals/137897/carlo-ancelotti-raphinha-brazil-friendlies",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/11/gettyimages-2297717441.jpg?quality=90&strip=all&crop=0%2C10.654918655606%2C100%2C78.690162688789&w=1200",
-        "publishedAt": "2026-11-13T12:00:00Z",
+        "title": "Salah seizes Hossam Hassan's African standing: a record Egypt have not achieved in 23 years",
+        "url": "https://www.goal.com/en/news/salah-snatches-hossam-hassan-s-african-standing-a-record-unmatched-by-the-pharaohs-for-23-years/blt6162e25ec6a48d9f",
+        "source": "Goal.com",
+        "image": "https://assets.goal.com/images/v3/getty-2296891870/crop/MM5DEMJXGY5DCMRSGQ5G433XMU5DAORQ/GettyImages-2296891870.jpg",
+        "publishedAt": "2026-11-13T22:44:12Z",
         "category": "sports",
-        "summary": "Carlo Ancelotti praised Raphinha's performance at Barcelona, noting his impressive quality and versatility as a striker. In a pre-match press conference, Ancelotti emphasized the importance of monitoring players' minutes and prioritizing their health. He stated that if Raphinha is 100% fit, he will participate in the upcoming friendlies in Singapore and Japan.",
-        "wordCount": 52
-      },
-      {
-        "title": "National team coach to meet with Flick to discuss Barcelona defender’s fitness amid growing concerns",
-        "url": "https://barcauniversal.com/national-team-coach-to-meet-with-flick-to-discuss-barcelona-defenders-fitness-amid-growing-concerns/",
-        "source": "Barca Universal",
-        "image": "https://barcauniversal.com/wp-content/uploads/2026/11/wales-v-denmark-uefa-nations-league-2026-27-group-a4-md4-1000x600.jpg",
-        "publishedAt": "2026-11-13T11:45:50Z",
-        "category": "sports",
-        "summary": "Denmark coach Brian Riemer plans to visit Barcelona to meet with Hansi Flick regarding Andreas Christensen’s fitness. Reports indicate growing concerns about the defender's ability to maintain consistent physical condition. The meeting aims to establish a collaborative recovery plan to support Christensen's rehabilitation and ensure he can return to optimal form for both club and national team commitments.",
-        "wordCount": 58
+        "summary": "Mohamed Salah and the Egypt national football team achieved a significant milestone by matching a scoring record not seen in 23 years. This accomplishment followed a decisive 5-0 victory over South Sudan and another identical win against Malawi at Cairo Stadium during the third round of their matches. The Pharaohs' impressive performance highlights their offensive prowess in recent games.",
+        "wordCount": 59
       }
     ],
     "health": [
       {
-        "title": "Does Every Heart Attack Require Angioplasty or Bypass Surgery? A Cardiologist Explains",
-        "url": "https://indianexpress.com/article/lifestyle/health/angioplasty-bypass-or-medicines-how-doctors-decide-the-right-treatment-after-a-heart-attack-10878931/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/09/heart-attack-2.jpg",
-        "publishedAt": "2026-11-13T12:24:09Z",
+        "title": "Lung cancer prevention in a Changing World: Beyond Tobacco",
+        "url": "https://www.dailyexcelsior.com/lung-cancer-prevention-in-a-changing-world-beyond-tobacco/",
+        "source": "Daily Excelsior",
+        "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWM5NmIzOTYwLWRmYjgtMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
+        "publishedAt": "2026-11-13T23:20:15Z",
         "category": "health",
-        "summary": "Not every heart attack necessitates angioplasty or bypass surgery. A cardiologist outlines scenarios where medication may suffice, particularly if an artery is not severely blocked, chest pain is manageable, and blood flow is adequate. However, in cases of significant blockage or persistent symptoms, procedures may be required. Always consult a healthcare professional for personalized medical advice.",
+        "summary": "Lung cancer remains a major cause of cancer-related deaths globally, posing challenges for healthcare systems. While tobacco use is a well-known risk factor, other contributors to the disease are emerging. Dr. Deepak Abrol emphasizes the need for comprehensive prevention strategies that extend beyond smoking cessation, addressing various environmental and genetic factors influencing lung cancer risk in a changing world.",
+        "wordCount": 59
+      },
+      {
+        "title": "Most people dislike coffee at first and learn to love it, and scientists now say the reason may be a slow dopamine signal from the gut that teaches the brain to like flavours linked with calories, eve",
+        "url": "https://timesofindia.indiatimes.com/science/discovery/most-people-dislike-coffee-at-first-and-learn-to-love-it-and-scientists-now-say-the-reason-may-be-a-slow-dopamine-signal-from-the-gut-that-teaches-the-brain-to-like-flavours-linked-with-calories-even-bitter-ones/articleshow/135805699.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135806815,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-13T20:25:00Z",
+        "category": "health",
+        "summary": "Research indicates that many people initially dislike coffee but develop a preference over time. Scientists suggest this change may be linked to a slow dopamine signal from the gut, which helps the brain associate flavors with caloric intake. This process explains why individuals often grow to enjoy coffee despite their initial negative reactions to its taste.",
         "wordCount": 56
-      },
-      {
-        "title": "1RA’s: Novel mechanisms and combos to shape future of obesity market",
-        "url": "https://www.pharmaceutical-technology.com/news/obesity-market-novel-mechanisms-combo-shape-future-beyond-glp1ras/",
-        "source": "Pharmaceutical Technology",
-        "image": "https://www.pharmaceutical-technology.com/wp-content/uploads/sites/24/2026/11/IMG_4986-1.jpg",
-        "publishedAt": "2026-11-13T11:48:45Z",
-        "category": "health",
-        "summary": "Emerging mechanisms and combinatorial approaches are transforming the obesity treatment landscape, shifting the focus from weight loss alone to broader health outcomes. The incretin drug class has significantly impacted cardiometabolic treatment, leading to increased prescriptions for weight loss medications aimed at long-term management of obesity and its related comorbidities, indicating a shift in therapeutic strategies within the market.",
-        "wordCount": 58
-      },
-      {
-        "title": "World Diabetes Day: Why early prevention and regular screening are key to reducing the risk of diabetes",
-        "url": "https://www.expresshealthcare.in/news/world-diabetes-day-why-early-prevention-and-regular-screening-are-key-to-reducing-the-risk-of-diabetes/455837/",
-        "source": "Express Healthcare",
-        "image": "https://cdn.expresshealthcare.in/wp-content/uploads/2024/12/19161151/diabetes-3.jpg",
-        "publishedAt": "2026-11-13T11:40:52Z",
-        "category": "health",
-        "summary": "World Diabetes Day is celebrated annually on November 14 to increase awareness about diabetes, its risk factors, and the significance of prevention and early detection. The 2023 theme, “Early Action on Diabetes,” emphasizes proactive measures for preventing and managing diabetes through healthier lifestyle choices, enhanced awareness, and timely screening, aiming to reduce the overall risk of the condition.",
-        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "A New Study Presents New Ideas on How the World’s Forests Should be Managed to Slow Climate Change",
-        "url": "https://www.einpresswire.com/article/955775108/a-new-study-presents-new-ideas-on-how-the-world-s-forests-should-be-managed-to-slow-climate-change",
-        "source": "EIN Presswire",
-        "image": "https://img.einnews.com/large/1247087/8-ways-to-improve-the-forest-ca.jpeg",
-        "publishedAt": "2026-11-13T12:00:00Z",
+        "title": "Oceans and forests have absorbed roughly half our carbon emissions for decades, slowing climate change - but can they keep it up?",
+        "url": "https://theconversation.com/oceans-and-forests-have-absorbed-roughly-half-our-carbon-emissions-for-decades-slowing-climate-change-but-can-they-keep-it-up-296498",
+        "source": "The Conversation",
+        "image": "https://images.theconversation.com/files/771728/original/file-20261112-64-s1kp6w.jpg?ixlib=rb-4.1.1&rect=0%2C680%2C8106%2C4053&q=45&auto=format&w=1356&h=668&fit=crop",
+        "publishedAt": "2026-11-13T17:43:23Z",
         "category": "science",
-        "summary": "A new study by a scientist who addressed the \"Missing Carbon\" issue offers updated strategies for managing global forests to mitigate climate change. The research emphasizes the importance of forest carbon sinks and presents innovative ideas in a recently published book. The findings aim to enhance understanding and implementation of effective forest management practices to combat climate change.",
-        "wordCount": 58
+        "summary": "Oceans and forests have absorbed approximately half of human carbon emissions over the past two centuries, mitigating climate change effects. However, new measurements suggest that the ocean's capacity to continue this absorption may decline in the future. As fossil fuel consumption has increased atmospheric carbon dioxide levels, the sustainability of these natural carbon sinks remains uncertain.",
+        "wordCount": 56
       },
       {
-        "title": "day on Nov 18 — The Indian Panorama",
-        "url": "https://www.theindianpanorama.news/voyager-1-to-become-first-human-made-object-to-reach-one-light-day-on-nov-18/",
-        "source": "The Indian Panorama",
-        "image": "https://www.theindianpanorama.news/wp-content/uploads/2026/11/Untitled-63.jpg",
-        "publishedAt": "2026-11-13T11:53:00Z",
+        "title": "NASA has opened a $1 million Moon Base Student Challenge for US high school and college teams to solve problems like power, habitats and astronaut safety on the moon, and registration runs until 25 Ja",
+        "url": "https://timesofindia.indiatimes.com/science/space/nasa-has-opened-a-1-million-moon-base-student-challenge-for-us-high-school-and-college-teams-to-solve-problems-like-power-habitats-and-astronaut-safety-on-the-moon-and-registration-runs-until-25-january/articleshow/135757358.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135757448,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-13T17:09:00Z",
         "category": "science",
-        "summary": "NASA's Voyager 1 is set to become the first human-made object to reach one light-day from Earth on November 18. Launched in 1977, the deep space probe has traveled nearly 50 years through the cosmos. This milestone marks a significant achievement in space exploration, showcasing human ingenuity and the enduring capabilities of technology in deep space missions.",
+        "summary": "NASA has launched a $1 million Moon Base Student Challenge, inviting high school and college teams in the U.S. to address challenges related to establishing a long-term lunar base. Participants will focus on issues such as power systems, habitats, and astronaut safety. Registration for the competition is open until January 25, encouraging innovative solutions for lunar exploration.",
         "wordCount": 57
       },
       {
-        "title": "Robots help uncover the secrets of the deep sea",
-        "url": "https://www.dpaonthenet.net/article/225066/Robots-help-uncover-the-secrets-of-the-deep-sea.aspx",
-        "source": "DPA Magazine",
-        "image": "https://ik.imagekit.io/IMLGrp/image_2250668b91597d-6b4a-46b5-a7be-8ef59b28cae2.jpg",
-        "publishedAt": "2026-11-13T11:49:03Z",
+        "title": "NASA Finds Possible Black Hole Behind Mysterious Repeated Explosions Of Giant Star",
+        "url": "https://www.ndtv.com/science/nasa-finds-possible-black-hole-behind-mysterious-repeated-explosions-of-giant-star-12323787",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/r55q4eso_black-hole_625x300_13_November_26.jpeg",
+        "publishedAt": "2026-11-13T16:19:40Z",
         "category": "science",
-        "summary": "Robots are enabling scientists to replicate extreme deep-sea conditions in laboratories, facilitating the study of microorganisms typically lost during retrieval. The deep sea, the largest microbial habitat on Earth, hosts diverse microorganisms that have adapted to survive intense pressure and near-freezing temperatures. This research aims to uncover the unique enzymes and adaptations these organisms have developed over time.",
-        "wordCount": 58
+        "summary": "Astronomers using NASA's Chandra X-ray Observatory have identified a possible black hole as the cause of a giant star's repeated brightness fluctuations. The study, published in The Astrophysical Journal, reveals that a hidden companion is pulling material from the star at regular intervals, leading to the observed cycles of brightness and dimming. This discovery enhances understanding of stellar interactions.",
+        "wordCount": 59
       }
     ],
     "entertainment": [
       {
-        "title": "Amrita Rao’s sister Preetika Rao ties the knot in Bengaluru with the blessings of Sri Sri Ravi Shankar, hides husband’s face in wedding PICS",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/amrita-raos-sister-preetika-rao-ties-the-knot-in-bengaluru-with-the-blessings-of-sri-sri-ravi-shankar-hides-husbands-face-in-wedding-pics/articleshow/135802513.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135802638,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-13T12:08:00Z",
+        "title": "Scorpio Horoscope Today: November 14, 2026",
+        "url": "https://www.vogue.in/content/scorpio-horoscope-today-november-14-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052102d2f4db9b8e92b/16:9/w_1280,c_limit/9-Scorpio_16;9.png",
+        "publishedAt": "2026-11-14T00:20:00Z",
         "category": "entertainment",
-        "summary": "Preetika Rao, a television actress and sister of Amrita Rao, has married in Bengaluru. The wedding took place at the Art of Living venue, with blessings from Sri Sri Ravi Shankar. Although the exact date of the ceremony was not disclosed, Preetika shared wedding pictures online, notably concealing her husband's face in the images.",
-        "wordCount": 54
+        "summary": "On November 14, 2026, Scorpios are encouraged to seek deeper meaning in their lives. The horoscope suggests focusing on achieving balance, fulfillment, and contentment. It emphasizes the importance of confronting issues that require attention rather than avoiding them. Making choices that align with long-term goals is essential for personal growth and satisfaction, guiding Scorpios toward a more meaningful existence.",
+        "wordCount": 59
       },
       {
-        "title": "Varun Grover slams 'Ramayan' TV cast for 'entitlement' over reactions to Ranbir Kapoor and Yash's 'Ramayana: Rise of a Legend': 'Entitlement as if they are actual avatars'",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/varun-grover-slams-ramayan-tv-cast-for-entitlement-over-reactions-to-ranbir-kapoor-and-yashs-ramayana-rise-of-a-legend-entitlement-as-if-they-are-actual-avatars/articleshow/135801922.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135802271,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-13T11:58:00Z",
+        "title": "Pisces Horoscope Today: November 14, 2026",
+        "url": "https://www.vogue.in/content/pisces-horoscope-today-november-14-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
+        "publishedAt": "2026-11-14T00:20:00Z",
         "category": "entertainment",
-        "summary": "Varun Grover criticized the lead actors of Ramanand Sagar’s ‘Ramayan’ for their entitled reactions to Nitesh Tiwari’s upcoming film, ‘Ramayana: Rise of a Legend’. He expressed concern over their comments, suggesting they act as if they are actual avatars. Grover's remarks highlight the disconnect between the original show's cast and the new film's creative direction.",
-        "wordCount": 55
-      },
-      {
-        "title": "'Ramayana' box office: Ranbir Kapoor, Sai Pallavi, and Yash’s film becomes a record breaker in Vietnam, Thailand, Cambodia, and Nepal amid the film crossing Rs 1000 crore worldwide",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ramayana-box-office-ranbir-kapoor-sai-pallavi-and-yashs-film-becomes-a-record-breaker-in-vietnam-thailand-cambodia-and-nepal-amid-the-film-crossing-rs-1000-crore-worldwide/articleshow/135801054.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135801197,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-13T11:27:00Z",
-        "category": "entertainment",
-        "summary": "Nitesh Tiwari’s film ‘Ramayana: Rise of a Legend’ has achieved significant box office success in its first week, surpassing Rs 1000 crore globally. The film has resonated particularly well in Vietnam, Thailand, Cambodia, and Nepal, where the Ramayana holds cultural significance. Its performance reflects strong audience support across these Asian countries, contributing to its record-breaking status.",
-        "wordCount": 56
+        "summary": "Pisces individuals may feel a sense of imbalance in their lives recently. Despite experiencing some negativity, there is a growing awareness that acceptance of circumstances can lead to personal growth. The horoscope encourages embracing the present situation and finding ways to navigate challenges. This shift in perspective may help Pisces move forward positively in their daily lives.",
+        "wordCount": 57
       }
     ]
   }
