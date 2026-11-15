@@ -1,228 +1,218 @@
 {
-  "updatedAt": "2026-11-15T00:31:17.647Z",
+  "updatedAt": "2026-11-15T12:31:21.383Z",
   "categories": {
     "world": [
       {
-        "title": "HTLS 2026 LIVE: High parameter of success is a disadvantage in terms of nepotism, says Imtiaz Ali",
-        "url": "https://www.hindustantimes.com/india-news/htls-hindustan-times-leadership-summit-2026-live-updates-geopolitics-economics-showbiz-jaishankar-akhilesh-noel-tata-101794621889757.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/imtiaz_ali_ananya_panday_1794657172820_gYg2_1794657185756_8ehj_9c953294-9f67-49c1-be7f-de321ad9deca_0HvF.png",
-        "publishedAt": "2026-11-14T12:08:00Z",
+        "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+        "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8f2594aa1-1794699865.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-11-15T00:24:52Z",
         "category": "world",
-        "summary": "Imtiaz Ali discussed the challenges of high success parameters, linking them to nepotism, during the HT Leadership Summit 2026. The event featured prominent figures such as External Affairs Minister S. Jaishankar, Samajwadi Party leader Akhilesh Yadav, Tata Trusts Chairman Noel Tata, and former US Secretary of State Antony Blinken, addressing topics like global dynamics, AI, and trade relations.",
+        "summary": "SpaceX's Starship spacecraft successfully returned to Earth, being captured midair by giant mechanical arms at its launchpad. This event, occurring 22 hours after its launch, demonstrates the spacecraft's full reusability, which is essential for achieving rapid and cost-effective recycling. The landing took place at Starbase, with the Starship descending slowly through cloudy skies before being secured.",
+        "wordCount": 56
+      },
+      {
+        "title": "Indian student in UK jailed for 30 years for grooming 70 girls online",
+        "url": "https://timesofindia.indiatimes.com/world/uk/indian-student-in-uk-jailed-for-30-years-for-grooming-70-girls-online/articleshow/135844557.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135844620,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-14T23:55:00Z",
+        "category": "world",
+        "summary": "Bilal Kazi, a 27-year-old Indian student at the University of Chester, has been sentenced to 30 years in prison for grooming at least 70 girls online. He was found guilty of manipulating these girls into performing sexual acts. The case highlights serious concerns regarding online safety and the exploitation of vulnerable individuals in digital spaces.",
+        "wordCount": 55
+      },
+      {
+        "title": "Meet the hooded pitohui, the world's poisonous bird whose feathers and skin carry a powerful toxin whose touch can leave humans numb; where to spot it",
+        "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/meet-the-hooded-pitohui-the-worlds-poisonous-bird-whose-feathers-and-skin-carry-a-powerful-toxin-whose-touch-can-leave-humans-numb-where-to-spot-it/articleshow/135825655.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135825880,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-14T23:26:00Z",
+        "category": "world",
+        "summary": "The hooded pitohui, found in the tropical rainforests of New Guinea, is notable for its striking appearance and potent toxicity. Its feathers and skin contain a powerful toxin that can cause numbness in humans upon contact. This bird, with its vibrant orange-chestnut body and glossy black head and wings, exemplifies the paradox of beauty and danger in nature.",
         "wordCount": 58
-      },
-      {
-        "title": "Archbishop Waldemar Stanislaw Sommertag appointed Apostolic Nuncio to India",
-        "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1335290",
-        "source": "Daijiworld",
-        "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/Waldemar_141126_1.jpg",
-        "publishedAt": "2026-11-14T12:03:26Z",
-        "category": "world",
-        "summary": "Pope Leo XIV has appointed Archbishop Waldemar Stanislaw Sommertag, 58, as the new Apostolic Nuncio to India, effective November 14. Born in Wiecbork, Poland, on February 6, 1968, he was ordained a priest for the Diocese of Pelplin on May 30, 1993. Sommertag's appointment marks a significant role within the Catholic Church's diplomatic mission in India.",
-        "wordCount": 56
-      },
-      {
-        "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say",
-        "url": "https://www.arabnews.com/world/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say-3011847",
-        "source": "Arab News",
-        "image": "https://assets.maestronewsroom.com/media/shared/wires/reuters/20261114/0a24b10933e3-2026-11-14T110015Z_702791201_RC2SLOAODS9T_RTRMADP_3_IRAN-CRISIS-TRUMP.JPG",
-        "publishedAt": "2026-11-14T11:37:57Z",
-        "category": "world",
-        "summary": "President Donald Trump has informed senior advisers that he may delay military action against Iran unless new provocations arise. This decision comes after recommendations from Saudi Arabia and Turkiye to avoid strikes. Trump’s stance reflects a cautious approach, focusing on the potential for further escalation from Iran or its allied forces, particularly the Houthis in Yemen.",
-        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "TVS Norton Atlas GT, Manx R Patented In India - Launch 2027?",
-        "url": "https://www.rushlane.com/tvs-norton-atlas-gt-manx-r-patented-in-india-launch-2027-12561225.html",
-        "source": "RushLane",
-        "image": "https://www.rushlane.com/wp-content/uploads/2026/11/tvs-norton-atlas-gt-manx-r-patented-in-india-cover.jpg",
-        "publishedAt": "2026-11-14T12:25:37Z",
+        "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+        "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8f2594aa1-1794699865.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-11-15T00:24:52Z",
         "category": "business",
-        "summary": "TVS Motor has patented the Norton Atlas GT Tourer and Manx R Supersport in India, ahead of the brand's launch. The acquisition of Norton Motorcycles by TVS in 2020 has led to this development. The launch of these models is anticipated in 2027, marking a significant step in reviving the iconic British motorcycle brand in the Indian market.",
+        "summary": "SpaceX's Starship spacecraft successfully returned to Earth, captured midair by mechanical arms at its launchpad, demonstrating its full reusability. This event, which occurred 22 hours after launch, is significant for SpaceX's goal of rapid and low-cost recycling of spacecraft. The Starship descended through cloudy skies before being securely caught, marking a notable achievement in space technology.",
+        "wordCount": 56
+      },
+      {
+        "title": "'I’m getting married next week': Employee says manager confirmed layoff days before wedding, shares ordeal",
+        "url": "https://timesofindia.indiatimes.com/life-style/people/im-getting-married-next-week-employee-says-manager-confirmed-layoff-days-before-wedding-shares-ordeal/articleshow/135827400.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135827452,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-15T00:24:00Z",
+        "category": "business",
+        "summary": "A Qualcomm employee in India faced a career setback just days before his wedding when his manager confirmed his layoff. The news came as a shock during what is typically a joyous time. The employee shared his ordeal, highlighting the emotional impact of losing his job so close to the significant life event, complicating an already stressful period.",
         "wordCount": 58
       },
       {
-        "title": "Open-source AI without Jensen",
-        "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-        "source": "Interconnects AI",
-        "image": "https://substackcdn.com/image/fetch/$s_!gFmv!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fecd978b1-9b6a-4a7d-9324-356397d10839_3182x1790.png",
-        "publishedAt": "2026-11-14T12:23:15Z",
+        "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
+        "url": "https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-13_eqdriwpcaf.jpg",
+        "publishedAt": "2026-11-14T22:00:00Z",
         "category": "business",
-        "summary": "Nvidia CEO Jensen Huang's resignation poses challenges for the US open model ecosystem development. His departure is seen as a significant setback, yet Nvidia remains financially committed to supporting open models. The aim is to prevent power concentration among a limited number of customers, fostering a more equitable landscape in artificial intelligence and promoting broader access to open-source technologies.",
-        "wordCount": 59
-      },
-      {
-        "title": "Marco Rubio rewrote CIA assessment on Jensen Huang's alleged China spy link and used more forceful language: Report",
-        "url": "https://timesofindia.indiatimes.com/world/us/marco-rubio-rewrote-cia-assessment-on-jensen-huangs-alleged-china-spy-link-and-used-more-forceful-language-report/articleshow/135832381.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135832467,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-14T12:16:00Z",
-        "category": "business",
-        "summary": "US Secretary of State Marco Rubio allegedly revised a CIA intelligence assessment regarding Nvidia CEO Jensen Huang's purported connections to China. According to a Washington Post report, Rubio's version employed more forceful and assertive language than the original document. The changes reflect Rubio's stance on national security concerns related to Huang's potential ties with Chinese interests.",
-        "wordCount": 56
+        "summary": "Copper prices fell to a four-month low, marking a potential fifth consecutive weekly loss. Traders attributed this decline to Jensen Huang's departure from Nvidia, raising concerns over the impact on data center metals demand. However, analysts suggest that the larger issue may be related to AI financing rather than a decrease in chip orders affecting the market.",
+        "wordCount": 57
       }
     ],
     "technology": [
       {
-        "title": "Get wired: the 12 best wired headphones, earbuds, IEMs, players and hi-fi gifts of 2026, all picked by an audio expert",
-        "url": "https://www.techradar.com/audio/earbuds-airpods/get-wired-the-12-best-wired-headphones-earbuds-iems-players-and-hi-fi-gifts-of-2026-all-picked-by-an-audio-expert",
-        "source": "TechRadar",
-        "image": "https://cdn.mos.cms.futurecdn.net/PzsLRu2GCHsF57LbFkSHhc-2050-80.jpg",
-        "publishedAt": "2026-11-14T11:00:00Z",
+        "title": "Developers can humanise AI voice with pitch and prosody adjustments",
+        "url": "https://techgig.com/news/ai/developers-can-humanise-ai-voice-with-pitch-and-prosody-adjustments/135844466",
+        "source": "TechGig",
+        "image": "https://etimg.etb2bimg.com/thumb/msid-135844466,imgsize-523872,width-1200,height=627,overlay-ettechmonk,resizemode-75/news/ai/developers-can-humanise-ai-voice-with-pitch-and-prosody-adjustments.jpg",
+        "publishedAt": "2026-11-14T23:28:37Z",
         "category": "technology",
-        "summary": "An audio expert has curated a list of the 12 best wired headphones, earbuds, IEMs, players, and hi-fi gifts for 2026. The selection emphasizes a return to retro music trends, encouraging users to explore physical media like CDs and cassette tapes instead of streaming services. This reflects a growing appreciation for traditional audio experiences in a digital age.",
-        "wordCount": 58
+        "summary": "Voice AI developers are enhancing text-to-speech (TTS) output by adjusting pitch, speed, and prosody to create more natural-sounding voices. This focus on voice quality aims to improve user experience across chatbots, audiobook platforms, and smart assistants. A more human-like voice helps users feel they are interacting with a helpful companion rather than a machine.",
+        "wordCount": 54
       },
       {
-        "title": "Samsung announces Google co-developed smart glasses pricing and sale details",
-        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-announces-google-co-developed-smart-glasses-pricing-and-sale-details/article71701046.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/axgbxu/article71701061.ece/alternates/LANDSCAPE_1200/image%201.png",
-        "publishedAt": "2026-11-14T06:36:00Z",
+        "title": "The Best Gifts for the Dad Who has Everything",
+        "url": "https://www.today.com/shop/best-gifts-dad-rcna235856",
+        "source": "TODAY.com",
+        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-10/251002-dad-gifts-oo-main-6b8251.jpg",
+        "publishedAt": "2026-11-14T18:50:32Z",
         "category": "technology",
-        "summary": "Samsung has announced its new smart glasses, developed in collaboration with Google, Gentle Monster, and Warby Parker. These intelligent eyewear pieces feature hands-free artificial intelligence, integrating Google’s Gemini AI into fashionable frames designed for daily use. The company has also revealed pricing and sale details, marking a significant step in merging technology with everyday fashion.",
-        "wordCount": 55
+        "summary": "Finding the ideal gift for a dad who seems to have everything can be challenging. Editor-approved options include practical items and personalized gifts across various categories such as technology, kitchenware, and books. Despite their claims of not needing anything, it’s important to choose something special that acknowledges their significance in your life, making the gift-giving experience meaningful.",
+        "wordCount": 57
       },
       {
-        "title": "Samsung announces Google co-developed pricing and sale details of its smart glasses",
-        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/samsung-announces-google-co-developed-pricing-and-sale-details-of-its-smart-glasses/article71701046.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/wwyth/article71701061.ece/alternates/LANDSCAPE_1200/image%201.png",
-        "publishedAt": "2026-11-14T06:36:00Z",
+        "title": "Apple may launch three new iPhones in early 2027: iPhone 18, 18e and Air 2; what to expect",
+        "url": "https://www.livemint.com/technology/apple-may-launch-three-new-iphones-in-early-2027-iphone-18-18e-and-air-2-what-to-expect-11794680056940.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/iphone18a_1794464508969_BBQp_1794464526040_nfE7_9dcfa0c2-f142-45dc-b637-dde858550852_YS69_1794680561444_onL3_dd23f602-d3d1-4945-a20e-2dc9f334c0b8_zBWV.jpeg",
+        "publishedAt": "2026-11-14T18:26:36Z",
         "category": "technology",
-        "summary": "Samsung has announced its new smart glasses, developed in collaboration with Google, Gentle Monster, and Warby Parker. The eyewear features integrated Google’s Gemini AI, designed for hands-free use in daily life. This innovative product aims to blend artificial intelligence with fashionable design, making it suitable for everyday wear. Pricing and sale details have also been revealed.",
+        "summary": "Apple is anticipated to launch three new iPhones in early 2027, including the iPhone 18, iPhone 18e, and iPhone Air 2, possibly in March. Upgrades may feature the A20 chipset, enhanced battery life, improved cameras, and iOS 27. In India, prices could start at ₹79,900, although Apple has not yet confirmed any details regarding the launch.",
         "wordCount": 56
       }
     ],
     "sports": [
       {
-        "title": "‘I’m enjoying myself’ - Ronald Araujo speaks out after Uruguay’s win over Argentina",
-        "url": "https://www.barcablaugranes.com/barcelona-internationals/137965/ronald-araujo-speaks-out-uruguay-argentina",
+        "title": "Barcelona told young German defender Finn Jeltsch ‘would fit perfectly’ in Hansi Flick’s side",
+        "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/137946/finn-jeltsch-fit-perfectly-hansi-flicks-side",
         "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/11/gettyimages-2304538332.jpg?quality=90&strip=all&crop=0%2C10.727225821907%2C100%2C78.545548356187&w=1200",
-        "publishedAt": "2026-11-14T12:00:00Z",
+        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/11/gettyimages-2304229848.jpg?quality=90&strip=all&crop=0%2C10.742042428305%2C100%2C78.51591514339&w=1200",
+        "publishedAt": "2026-11-15T00:00:00Z",
         "category": "sports",
-        "summary": "Ronald Araujo expressed his joy following Uruguay's victory over Argentina, stating, “I’m enjoying myself; I’m enjoying being back to doing what I love most: being out on the pitch and representing the national team.” He emphasized the significance of the national team to him and the emotions he experiences whenever he has the opportunity to play.",
-        "wordCount": 56
+        "summary": "Finn Jeltsch, a 20-year-old center-back from VfB Stuttgart, has garnered attention from FC Barcelona. Described as a “modern center-back” due to his anticipation and ball-playing skills, Jeltsch is seen as a strong fit for Hansi Flick's team. Despite being still in the development phase, his potential has led to interest from several clubs.",
+        "wordCount": 53
       },
       {
-        "title": "'He actually got emotional': R Ashwin reveals Virat Kohli's reaction to his retirement decision",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/he-actually-got-emotional-r-ashwin-reveals-virat-kohlis-reaction-to-his-retirement-decision/articleshow/135832062.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135832074,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-14T11:58:00Z",
+        "title": "WTA Finals: Mirra Andreeva eliminates Jessica Pegula to reach final, winning in straight sets after 'diva' criticism",
+        "url": "https://www.skysports.com/tennis/news/13612358/wta-finals-mirra-andreeva-eliminates-jessica-pegula-to-reach-final-winning-in-straight-sets-after-diva-criticism",
+        "source": "Sky Sports",
+        "image": "https://e0.365dm.com/26/11/1600x900/skysports-mirra-andreeva-jessica-pegula_7406733.jpg?20261114214855",
+        "publishedAt": "2026-11-14T23:38:38Z",
         "category": "sports",
-        "summary": "Ravichandran Ashwin shared details of an emotional conversation with Virat Kohli at the Gabba during the 2024-25 Border-Gavaskar Trophy. Ashwin revealed that Kohli became visibly emotional upon hearing about his retirement decision. The discussion highlighted their close friendship and the impact of such decisions on teammates. Ashwin's retirement marks a significant moment in Indian cricket history.",
-        "wordCount": 56
+        "summary": "Mirra Andreeva defeated Jessica Pegula in straight sets, 6-3 6-4, to advance to the final of the WTA Finals in Indian Wells. The match followed Pegula's earlier comments, where she referred to Andreeva as a \"diva.\" With this victory, Andreeva became the first teenager to reach the title match at this year-end tournament in California.",
+        "wordCount": 55
       },
       {
-        "title": "IND vs BHU Highlights, SAFF Championship: India survives late surge to beat Bhutan in semifinal",
-        "url": "https://sportstar.thehindu.com/football/indian-football/india-vs-bhutan-live-score-updates-saff-championship-2026-semifinal-highlights-ind-v-bhu-streaming/article71701211.ece",
-        "source": "Sportstar",
-        "image": "https://ss-i.thgim.com/public/incoming/uywm3v/article71701545.ece/alternates/LANDSCAPE_1200/HXE7ZS3bQAEbKUd.jpg",
-        "publishedAt": "2026-11-14T11:49:50Z",
+        "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
+        "url": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2238308540-1794651132.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-11-14T22:19:14Z",
         "category": "sports",
-        "summary": "India defeated Bhutan in the SAFF Championship 2026 semifinal held in Dhaka, securing a place in the final. Despite a strong second-half effort from Bhutan, India maintained their lead. Key contributions came from players PV Vishnu and Chinglensana Singh, helping India continue their pursuit of a 10th championship title. The match showcased intense competition and determination from both teams.",
-        "wordCount": 59
+        "summary": "The Abu Dhabi Criminal Court has sentenced eight individuals to jail for their involvement in a brawl between MMA fighters Usman Nurmagomedov and Merab Dvalishvili, along with their teams, at a hotel. The incident occurred prior to a wrestling event organized by Real American Wrestling. A total of ten people were convicted in connection with the altercation.",
+        "wordCount": 57
       }
     ],
     "health": [
       {
-        "title": "Scientists are at last starting to understand endometriosis",
-        "url": "https://www.hindustantimes.com/health/scientists-are-at-last-starting-to-understand-endometriosis-101794653145122.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/14/1600x900/logo/pexels-photo-6471421_1794653220506_U3Sl_1794653237304_a18S_44d0be61-f910-4150-bdb9-10ad53aa7750_bHwh.jpeg",
-        "publishedAt": "2026-11-14T11:30:46Z",
+        "title": "Dr. Daniel Griffin: US Has Lost Measles Elimination as Cases Pass 5,400 and Medical Societies Break With RFK Jr.",
+        "url": "https://finance.biggo.com/news/76fe73877db1989e",
+        "source": "BigGo Finance",
+        "image": "https://img.biggo.com/HgMMQRva4O9RCipBDK3IAUESiz5dDcD-kGUcXVdj0EU/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzc2ZmU3Mzg3N2RiMTk4OWVfMTc5NDY4OTA3NF9jb3Zlci5qcGc.jpg",
+        "publishedAt": "2026-11-14T20:08:00Z",
         "category": "health",
-        "summary": "Scientists are making progress in understanding endometriosis, a condition that currently lacks a cure and has inadequate treatments. The causes remain largely unknown, and obtaining a diagnosis can take nearly nine years, often necessitating invasive procedures like laparoscopies. Improved understanding may lead to quicker diagnoses and better treatment options for those affected by this challenging condition.",
-        "wordCount": 56
-      },
-      {
-        "title": "World Diabetes Day 2026: Experts share irreversible harm pre-diabetes causes before symptoms even appear",
-        "url": "https://www.livemint.com/science/health/world-diabetes-day-2026-experts-share-irreversible-harm-pre-diabetes-causes-before-symptoms-even-appear-11794651715322.html",
-        "source": "Livemint",
-        "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/Gemini_Generated_Image_fs3b4ofs3b4ofs3b_1794655_1794655285387_q3ZZ_1794655285550_z8YK_28c90313-2332-4118-bb6a-0028e8beefd5_suyM.png",
-        "publishedAt": "2026-11-14T11:25:26Z",
-        "category": "health",
-        "summary": "On World Diabetes Day 2026, health experts emphasized the significant, often irreversible damage caused by pre-diabetes, which can occur before any symptoms manifest. They highlighted the condition's potential to impair vision and increase the risk of severe complications. Authorities urged the public to take early action to mitigate these risks and improve overall health outcomes related to diabetes.",
+        "summary": "In a recent update, Dr. Daniel Griffin reported over 5,400 measles cases and 10 deaths in the U.S., indicating a concerning upward trend with no signs of stabilization. The country may soon lose its measles elimination status, which it has maintained for 26 years. Additionally, medical societies are distancing themselves from Robert F. Kennedy Jr.'s views on vaccination.",
         "wordCount": 58
       },
       {
-        "title": "Can you reverse Type 2 diabetes in 90 days?",
-        "url": "https://indianexpress.com/article/lifestyle/health/type-2-diabetes-remission-in-90-days-what-an-endocrinologist-wants-you-to-know-10943811/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2026/10/diabetes-.jpg",
-        "publishedAt": "2026-11-14T10:30:08Z",
+        "title": "1 in 5 children with diabetes face mental health challenges: PGI study",
+        "url": "https://timesofindia.indiatimes.com/city/chandigarh/1-in-5-children-with-diabetes-face-mental-health-challenges-pgi-study/articleshow/135841892.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135841876,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-14T19:32:00Z",
         "category": "health",
-        "summary": "Type 2 diabetes can potentially enter remission within 90 days, according to endocrinologist Dr. Chawla. Achieving this involves a combination of diet, exercise, weight loss, medication, and blood sugar monitoring. Some individuals with Type 2 diabetes have successfully reached remission, which is defined as having blood sugar levels return to normal without the need for medication.",
-        "wordCount": 56
+        "summary": "A PGI study involving 97 children with Type 1 diabetes in northern India found that 20% face mental health challenges, which are associated with poor HbA1c levels and increased hospitalizations. The findings, published in the Journal of Pediatric Endocrinology and Metabolism, highlight the need for regular mental health screening for these children to address their emotional well-being.",
+        "wordCount": 57
+      },
+      {
+        "title": "Exhibition, poster competitions held at CMC to mark World Diabetes Day",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/exhibition-poster-competitions-held-at-cmc-to-mark-world-diabetes-day/article71701945.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/2kemag/article71702661.ece/alternates/LANDSCAPE_1200/CMC-26.jpg",
+        "publishedAt": "2026-11-14T18:41:19Z",
+        "category": "health",
+        "summary": "Christian Medical College (CMC) hosted an awareness exhibition and poster competitions to celebrate World Diabetes Day 2026. Organized by the Department of Endocrinology, Diabetes & Metabolism, the event provided screening services for over 350 participants and included interactive educational sessions. The initiative aimed to raise awareness about diabetes and promote healthy lifestyle choices among attendees.",
+        "wordCount": 55
       }
     ],
     "science": [
       {
-        "title": "Astronomers watched a planet vanish in space. Now they know why.",
-        "url": "https://sea.mashable.com/space/56888/astronomers-watched-a-planet-vanish-in-space-now-they-know-why",
-        "source": "Mashable SEA",
-        "image": "https://sm.mashable.com/t/mashable_sea/article/a/astronomer/astronomers-watched-a-planet-vanish-in-space-now-they-know-w_uppx.1200.jpg",
-        "publishedAt": "2026-11-14T10:30:00Z",
+        "title": "SpaceX’s Starship returns from orbit and is captured by launch pad arms in a dramatic first",
+        "url": "https://www.thehindu.com/news/international/spacexs-starship-returns-from-orbit-and-is-captured-by-launch-pad-arms-in-a-dramatic-first/article71703046.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/dxm9i4/article71703047.ece/alternates/LANDSCAPE_1200/SpaceX_Starship_Launch_78562.jpg",
+        "publishedAt": "2026-11-14T22:31:00Z",
         "category": "science",
-        "summary": "Astronomers observed the planet TOI-2535 b, similar in size to Jupiter, transit its star for seven years until it unexpectedly disappeared from view. The planet had exhibited unusual behavior prior to its vanishing. Researchers suggest that larger celestial bodies may be obscuring TOI-2535 b, leading to its disappearance. This finding sheds light on the dynamics of exoplanetary systems.",
-        "wordCount": 58
+        "summary": "SpaceX’s Starship successfully returned to Earth on November 14, 2026, after a 22-hour mission, marking a significant milestone in reusability. The spacecraft was captured midair by mechanical arms at the launch pad, demonstrating advancements in SpaceX's technology. This event aligns with the company's broader goals of facilitating missions to the Moon and Mars in the future.",
+        "wordCount": 56
       },
       {
-        "title": "The Leonid meteor shower peaks on the night of 17 to 18 November, with about 10 to 15 meteors an hour under dark skies, and in 1833 the same shower produced so many shooting stars that people thought",
-        "url": "https://timesofindia.indiatimes.com/science/space/the-leonid-meteor-shower-peaks-on-the-night-of-17-to-18-november-with-about-10-to-15-meteors-an-hour-under-dark-skies-and-in-1833-the-same-shower-produced-so-many-shooting-stars-that-people-thought-the-sky-was-falling/articleshow/135828573.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135829446,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-14T10:29:00Z",
+        "title": "planet candidates in public NASA data — and he's funding the next wave with $100,000 grants — BigGo Finance",
+        "url": "https://finance.biggo.com/news/e12740074a117d6b",
+        "source": "BigGo Finance",
+        "image": "https://img.biggo.com/uxCrvyeyQuwDAKbr78qz_0q9zF5obqP3d0EnQ4NyVhI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2UxMjc0MDA3NGExMTdkNmJfMTc5NDY4ODk3MV9jb3Zlci5qcGc.jpg",
+        "publishedAt": "2026-11-14T20:08:00Z",
         "category": "science",
-        "summary": "The Leonid meteor shower will peak on the night of November 17-18, with an expected rate of 10 to 15 meteors per hour under optimal dark sky conditions. Historically, the 1833 Leonid shower was remarkable, producing an extraordinary number of shooting stars that astonished observers. This year's event presents a chance for skywatchers to experience a similar spectacle.",
-        "wordCount": 58
-      },
-      {
-        "title": "Mizzou Scientists Edit Rice Genes With AI Tool to Fight Bacterial Blight",
-        "url": "https://www.global-agriculture.com/ag-tech-research-news/mizzou-scientists-edit-rice-genes-with-ai-tool-to-fight-bacterial-blight/",
-        "source": "Global Agriculture",
-        "image": "https://www.global-agriculture.com/wp-content/uploads/2026/11/Mizzou-Scientists-Edit-Rice-Genes-With-AI-Tool-to-Fight-Bacterial-Blight.jpg",
-        "publishedAt": "2026-11-14T10:03:32Z",
-        "category": "science",
-        "summary": "University of Missouri scientists have developed rice plants resistant to bacterial blight using the AI-designed gene editor OpenCRISPR-1. This advancement aims to combat one of the most damaging diseases affecting rice, a staple crop globally. The research highlights the potential of artificial intelligence in agricultural biotechnology, offering a promising solution to enhance food security and crop resilience.",
-        "wordCount": 57
+        "summary": "An AI researcher utilized Claude and Codex agents to analyze public telescope archives, identifying potential asteroid and dwarf-planet candidates. This effort involved several weeks of work examining uncharted areas of the sky. To further support this research, the researcher is offering $100,000 grants for future projects aimed at exploring these celestial bodies using government-funded telescopes worldwide.",
+        "wordCount": 56
       }
     ],
     "entertainment": [
       {
-        "title": "‘Before they were my parents, they were children too’: Soha Ali Khan shares rare photos of Sharmila Tagore and Mansoor Ali Khan Pataudi with Nehru",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/before-they-were-my-parents-they-were-children-too-soha-ali-khan-shares-rare-photos-of-sharmila-tagore-and-mansoor-ali-khan-pataudi-with-nehru/articleshow/135832633.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135832678,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-14T12:19:00Z",
+        "title": "Actor Mammootty’s punch dialogues to raise road safety awareness in Keralam",
+        "url": "https://www.thehindu.com/news/national/kerala/actor-mammoottys-punch-dialogues-raise-road-safety-awareness-in-keralam/article71701991.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/ngte0r/article71702113.ece/alternates/LANDSCAPE_1200/80968_14_11_2026_16_19_48_3_IMG_3762.JPEG",
+        "publishedAt": "2026-11-15T00:30:00Z",
         "category": "entertainment",
-        "summary": "Soha Ali Khan commemorated Children’s Day, observed on November 14, by sharing rare throwback photos on Instagram. The images feature her mother, Sharmila Tagore, and father, Mansoor Ali Khan Pataudi, alongside India’s first Prime Minister, Jawaharlal Nehru. The post highlights the significance of the day, celebrating the childhoods of notable figures in Indian history.",
-        "wordCount": 54
+        "summary": "Actor Mammootty's famous dialogues are being utilized in Kerala's road safety campaign, spearheaded by the Motor Vehicles Department (MVD). Eye-catching boards on metro pillars feature these iconic lines to encourage responsible behavior among all road users. This innovative approach aims to raise awareness and promote safer driving practices throughout the state, leveraging Mammootty's popularity for a crucial message.",
+        "wordCount": 58
       },
       {
-        "title": "Re:ZERO Season 5 Anime Officially Announced",
-        "url": "https://animecorner.me/rezero-season-5-anime-officially-announced/",
-        "source": "Anime Corner",
-        "image": "https://static.animecorner.me/2026/11/1794656181-fd8e7b3c9549e119e00b1c09faa0a3f0.png",
-        "publishedAt": "2026-11-14T12:01:18Z",
+        "title": "Horoscope Today: November 15, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-november-15-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-11-15T00:30:00Z",
         "category": "entertainment",
-        "summary": "Re:ZERO -Starting Life in Another World- Season 5 has been officially announced, accompanied by an ultra teaser visual. The original author, Tappei Nagatsuki, expressed gratitude for the production and support from fans. The announcement marks a significant milestone in the series, celebrating its continued popularity and the anticipation surrounding the upcoming season. Further details are expected in the future.",
+        "summary": "On November 15, 2026, Capricorn is encouraged to release burdens and embrace change, despite initial discomfort. This period is ideal for establishing personal boundaries and reflecting on identity and aspirations. The horoscope emphasizes self-discovery and growth, urging individuals to consider their desired future and the steps needed to achieve it. Embracing this transformative phase is essential for personal development.",
         "wordCount": 59
       },
       {
-        "title": "Police announce diversions, parking curbs in South Mumbai from November 16",
-        "url": "https://www.mid-day.com/mumbai/mumbai-news/article/mumbai-traffic-alert-police-announce-diversions-parking-curbs-in-south-mumbai-from-november-16-23659899",
-        "source": "Mid-Day",
-        "image": "https://images.mid-day.com/images/images/2026/nov/SouthMumbaitraffic_1794657415224_d.jpg",
-        "publishedAt": "2026-11-14T11:57:00Z",
+        "title": "A 13-year-old Seattle baseball fan picked up a free trading card at a Mariners game without knowing she had the only gold version in existence; weeks later, collectors paid $20,100 for the raccoon-the",
+        "url": "https://timesofindia.indiatimes.com/world/us/a-13-year-old-seattle-baseball-fan-picked-up-a-free-trading-card-at-a-mariners-game-without-knowing-she-had-the-only-gold-version-in-existence-weeks-later-collectors-paid-20100-for-the-raccoon-themed-card/articleshow/135788946.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135788989,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-15T00:28:00Z",
         "category": "entertainment",
-        "summary": "The Mumbai Traffic Police will implement temporary traffic restrictions, diversions, and parking curbs in South Mumbai from November 16 to November 19 due to a VVIP visit. Affected areas include Hutatma Rajguru Chowk, Ballard Pier, and several roads in the NCPA vicinity. Motorists are advised to plan their routes accordingly to avoid disruptions during this period.",
-        "wordCount": 56
+        "summary": "A 13-year-old Seattle baseball fan unknowingly picked up a rare gold trading card at a Mariners game. This card, the only one of its kind, was later sold for $20,100 at an online auction. The young fan, Abby, expressed surprise at the card's value, highlighting the unexpected nature of collectible items in sports memorabilia.",
+        "wordCount": 54
       }
     ]
   }
