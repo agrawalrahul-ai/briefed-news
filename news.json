@@ -1,164 +1,154 @@
 {
-  "updatedAt": "2026-11-15T12:31:21.383Z",
+  "updatedAt": "2026-11-16T00:31:11.714Z",
   "categories": {
     "world": [
       {
-        "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-        "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first",
+        "title": "'No intention of keeping promises': Biden's explosive revelations about Netanyahu's Gaza war",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/no-intention-of-keeping-promises-bidens-explosive-revelations-about-netanyahus-gaza-war/articleshow/135855540.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135855635,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-15T12:21:00Z",
+        "category": "world",
+        "summary": "Joe Biden expressed strong support for Israel during its military campaign in Gaza following the October 7, 2023, Hamas attack. However, internal discussions revealed growing frustration with Israeli Prime Minister Benjamin Netanyahu. Biden's remarks suggested a diminishing expectation for Netanyahu to uphold commitments, indicating a potential shift in the U.S. approach to Israel amid ongoing conflict in the region.",
+        "wordCount": 59
+      },
+      {
+        "title": "Israel coalition talks put Arab party leader under pressure over Hamas",
+        "url": "https://www.aljazeera.com/news/2026/11/15/israel-coalition-talks-put-arab-party-leader-under-pressure-over-hamas",
         "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8f2594aa1-1794699865.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-11-15T00:24:52Z",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad4cda62ddbe-1792331174.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-11-15T12:09:50Z",
         "category": "world",
-        "summary": "SpaceX's Starship spacecraft successfully returned to Earth, being captured midair by giant mechanical arms at its launchpad. This event, occurring 22 hours after its launch, demonstrates the spacecraft's full reusability, which is essential for achieving rapid and cost-effective recycling. The landing took place at Starbase, with the Starship descending slowly through cloudy skies before being secured.",
+        "summary": "Mansour Abbas, leader of Israel's United Arab List (Ra’am), is under pressure from the change bloc to denounce Hamas as a terrorist organization. This stance is seen as a prerequisite for his party's involvement in the upcoming coalition government. The outcome of this pressure may significantly influence the political landscape in Israel moving forward.",
+        "wordCount": 54
+      },
+      {
+        "title": "An 85-year-old Massachusetts man allegedly sent more than $1 million to a woman he was dating for taxes on farmland she said she would inherit in Brazil; prosecutors say the land and inheritance never",
+        "url": "https://timesofindia.indiatimes.com/world/us/an-85-year-old-massachusetts-man-allegedly-sent-more-than-1-million-to-a-woman-he-was-dating-for-taxes-on-farmland-she-said-she-would-inherit-in-brazil-prosecutors-say-the-land-and-inheritance-never-existed/articleshow/135854363.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135854989,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-15T12:01:00Z",
+        "category": "world",
+        "summary": "An 85-year-old Massachusetts man reportedly sent over $1 million to a woman he was dating, believing it was for taxes on farmland she claimed she would inherit in Brazil. Prosecutors allege that the land and inheritance were fictitious. The man, who has health and memory issues, was misled into providing substantial financial support to the woman.",
         "wordCount": 56
-      },
-      {
-        "title": "Indian student in UK jailed for 30 years for grooming 70 girls online",
-        "url": "https://timesofindia.indiatimes.com/world/uk/indian-student-in-uk-jailed-for-30-years-for-grooming-70-girls-online/articleshow/135844557.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135844620,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-14T23:55:00Z",
-        "category": "world",
-        "summary": "Bilal Kazi, a 27-year-old Indian student at the University of Chester, has been sentenced to 30 years in prison for grooming at least 70 girls online. He was found guilty of manipulating these girls into performing sexual acts. The case highlights serious concerns regarding online safety and the exploitation of vulnerable individuals in digital spaces.",
-        "wordCount": 55
-      },
-      {
-        "title": "Meet the hooded pitohui, the world's poisonous bird whose feathers and skin carry a powerful toxin whose touch can leave humans numb; where to spot it",
-        "url": "https://timesofindia.indiatimes.com/life-style/travel/destinations/meet-the-hooded-pitohui-the-worlds-poisonous-bird-whose-feathers-and-skin-carry-a-powerful-toxin-whose-touch-can-leave-humans-numb-where-to-spot-it/articleshow/135825655.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135825880,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-14T23:26:00Z",
-        "category": "world",
-        "summary": "The hooded pitohui, found in the tropical rainforests of New Guinea, is notable for its striking appearance and potent toxicity. Its feathers and skin contain a powerful toxin that can cause numbness in humans upon contact. This bird, with its vibrant orange-chestnut body and glossy black head and wings, exemplifies the paradox of beauty and danger in nature.",
-        "wordCount": 58
       }
     ],
     "business": [
       {
-        "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-        "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8f2594aa1-1794699865.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-11-15T00:24:52Z",
+        "title": "Stock Markets This Week: WPI Inflation, Crude Oil, FII Trading Activity To Guide Movement, Say Analysts",
+        "url": "https://www.ndtvprofit.com/markets/stock-markets-this-week-wpi-inflation-crude-oil-fii-trading-activity-to-guide-movement-say-analysts-12329850",
+        "source": "NDTV Profit",
+        "image": "https://c.ndtvimg.com/2026-11/an234fmk_stock-markets_625x300_15_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-15T11:29:40Z",
         "category": "business",
-        "summary": "SpaceX's Starship spacecraft successfully returned to Earth, captured midair by mechanical arms at its launchpad, demonstrating its full reusability. This event, which occurred 22 hours after launch, is significant for SpaceX's goal of rapid and low-cost recycling of spacecraft. The Starship descended through cloudy skies before being securely caught, marking a notable achievement in space technology.",
-        "wordCount": 56
+        "summary": "Indian stock markets are anticipated to experience cautious trading this week, influenced by wholesale price inflation, foreign institutional investor flows, and crude oil prices. Analysts suggest that these factors, along with global economic signals and geopolitical developments, will guide market sentiment. Investors are expected to closely monitor domestic inflation data amid a busy schedule of domestic and international events.",
+        "wordCount": 59
       },
       {
-        "title": "'I’m getting married next week': Employee says manager confirmed layoff days before wedding, shares ordeal",
-        "url": "https://timesofindia.indiatimes.com/life-style/people/im-getting-married-next-week-employee-says-manager-confirmed-layoff-days-before-wedding-shares-ordeal/articleshow/135827400.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135827452,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-15T00:24:00Z",
+        "title": "Megaspeed says Alice Huang left company in August 2025",
+        "url": "https://www.thehindu.com/news/international/megaspeed-says-alice-huang-left-company-in-august-2025/article71704620.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/incoming/7ckju2/article71704630.ece/alternates/LANDSCAPE_1200/2026-11-15T100429Z_2002936799_RC2TKOADN7KK_RTRMADP_3_NVIDIA-CEO-ALICE-HUANG-MEGASPEED.JPG",
+        "publishedAt": "2026-11-15T11:27:38Z",
         "category": "business",
-        "summary": "A Qualcomm employee in India faced a career setback just days before his wedding when his manager confirmed his layoff. The news came as a shock during what is typically a joyous time. The employee shared his ordeal, highlighting the emotional impact of losing his job so close to the significant life event, complicating an already stressful period.",
-        "wordCount": 58
-      },
-      {
-        "title": "Nvidia Without Huang: What a Pause in AI Deals Means for Metals",
-        "url": "https://oilprice.com/Metals/Commodities/Nvidia-Without-Huang-What-a-Pause-in-AI-Deals-Means-for-Metals.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-13_eqdriwpcaf.jpg",
-        "publishedAt": "2026-11-14T22:00:00Z",
-        "category": "business",
-        "summary": "Copper prices fell to a four-month low, marking a potential fifth consecutive weekly loss. Traders attributed this decline to Jensen Huang's departure from Nvidia, raising concerns over the impact on data center metals demand. However, analysts suggest that the larger issue may be related to AI financing rather than a decrease in chip orders affecting the market.",
+        "summary": "Megaspeed confirmed on November 15, 2026, that Alice Huang officially left the company on August 30, 2025. The company emphasized its legitimate business operations and announced an internal investigation, which involves external legal counsel. Huang's previous connections to former Nvidia CEO Jensen Huang have raised concerns regarding U.S. national security, prompting scrutiny of her association with Megaspeed.",
         "wordCount": 57
+      },
+      {
+        "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+        "url": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+        "source": "The Hacker News",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdTCjpbsG3Dp62JM1KZqfSvZpuBnxwaCxXsplW3dAt2b4Ym0KAWPfxkHf4DT-02VK3jJESLmgasdE6D36qGegWu7dk9YSLN4DZxRVsgrM9lIEXXHUvQ0VzaZ1_gFqpjtA4cP3rlt82g5WnK2sXNZHJd5F_rEk4VSTGnMKOuXziSM1R85Vqhway3lajwTA/s1700-nu-rw-lo-l85-e365/facebook-fine.jpg",
+        "publishedAt": "2026-11-15T11:27:00Z",
+        "category": "business",
+        "summary": "Italy's data protection authority fined Meta €805 million for accessing users' Android gallery without explicit consent through a Facebook feature that suggests photos and videos for posting. The Garante ordered Meta to implement changes within 60 days to comply with data protection regulations. This ruling highlights ongoing concerns regarding user privacy and consent in digital platforms.",
+        "wordCount": 56
       }
     ],
     "technology": [
       {
-        "title": "Developers can humanise AI voice with pitch and prosody adjustments",
-        "url": "https://techgig.com/news/ai/developers-can-humanise-ai-voice-with-pitch-and-prosody-adjustments/135844466",
-        "source": "TechGig",
-        "image": "https://etimg.etb2bimg.com/thumb/msid-135844466,imgsize-523872,width-1200,height=627,overlay-ettechmonk,resizemode-75/news/ai/developers-can-humanise-ai-voice-with-pitch-and-prosody-adjustments.jpg",
-        "publishedAt": "2026-11-14T23:28:37Z",
+        "title": "Galaxy S27 dummies, Xiaomi 18s land in the office, Week 46 in review",
+        "url": "https://www.gsmarena.com/galaxy_s27_dummies_xiaomi_18s_land_in_the_office_week_46_in_review-news-75478.php",
+        "source": "GSMArena.com",
+        "image": "https://fdn.gsmarena.com/imgroot/news/26/11/week-46-in-review/-952x498w6/gsmarena_000.jpg",
+        "publishedAt": "2026-11-15T10:01:02Z",
         "category": "technology",
-        "summary": "Voice AI developers are enhancing text-to-speech (TTS) output by adjusting pitch, speed, and prosody to create more natural-sounding voices. This focus on voice quality aims to improve user experience across chatbots, audiobook platforms, and smart assistants. A more human-like voice helps users feel they are interacting with a helpful companion rather than a machine.",
-        "wordCount": 54
-      },
-      {
-        "title": "The Best Gifts for the Dad Who has Everything",
-        "url": "https://www.today.com/shop/best-gifts-dad-rcna235856",
-        "source": "TODAY.com",
-        "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-10/251002-dad-gifts-oo-main-6b8251.jpg",
-        "publishedAt": "2026-11-14T18:50:32Z",
-        "category": "technology",
-        "summary": "Finding the ideal gift for a dad who seems to have everything can be challenging. Editor-approved options include practical items and personalized gifts across various categories such as technology, kitchenware, and books. Despite their claims of not needing anything, it’s important to choose something special that acknowledges their significance in your life, making the gift-giving experience meaningful.",
+        "summary": "Samsung's Galaxy S27 series has been leaked, showcasing dummy units of the S27 Ultra, S27 Pro, and S27+. Notably, the Ultra and Pro models feature a redesigned, nearly full-width camera island. Additionally, Xiaomi's 18s devices have also been introduced. This week marks the launch of GSMArena's first-ever yearly awards nominees, highlighting significant developments in the smartphone industry.",
         "wordCount": 57
       },
       {
-        "title": "Apple may launch three new iPhones in early 2027: iPhone 18, 18e and Air 2; what to expect",
-        "url": "https://www.livemint.com/technology/apple-may-launch-three-new-iphones-in-early-2027-iphone-18-18e-and-air-2-what-to-expect-11794680056940.html",
-        "source": "Livemint",
-        "image": "https://www.livemint.com/lm-img/img/2026/11/14/1600x900/logo/iphone18a_1794464508969_BBQp_1794464526040_nfE7_9dcfa0c2-f142-45dc-b637-dde858550852_YS69_1794680561444_onL3_dd23f602-d3d1-4945-a20e-2dc9f334c0b8_zBWV.jpeg",
-        "publishedAt": "2026-11-14T18:26:36Z",
+        "title": "iPhone 18 and iPhone 18e: Expected price, specifications, launch timeline and more",
+        "url": "https://www.indiatoday.in/technology/news/story/iphone-18-and-iphone-18e-expected-price-specifications-launch-timeline-and-more-3039296-2026-11-15",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/apple-iphone-18-082034506-16x9.jpg?VersionId=ergteN0b_gD6BptjEASkCKbp4fpwA55M",
+        "publishedAt": "2026-11-15T07:26:08Z",
         "category": "technology",
-        "summary": "Apple is anticipated to launch three new iPhones in early 2027, including the iPhone 18, iPhone 18e, and iPhone Air 2, possibly in March. Upgrades may feature the A20 chipset, enhanced battery life, improved cameras, and iOS 27. In India, prices could start at ₹79,900, although Apple has not yet confirmed any details regarding the launch.",
+        "summary": "Apple is expected to launch the standard iPhone 18, iPhone 18e, and iPhone Air 2 in India next year, likely in spring. The new models may feature a faster A20 chip, larger batteries, and camera upgrades. While the iPhone 18 Pro series and foldable iPhones were unveiled in September, the standard models were not included in the launch event.",
+        "wordCount": 59
+      },
+      {
+        "title": "American Woman Gets Lost AirPods Back At Delhi Airport In 4 Days: ‘In The US, I Would’ve Never...'",
+        "url": "https://www.news18.com/viral/american-woman-gets-lost-airpods-back-at-delhi-airport-in-4-days-in-the-us-i-wouldve-never-ws-l-10426344.html",
+        "source": "News18",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/11/News18-2-2026-11-b121c34f005d652cf2fa966278633464-1200x675.png",
+        "publishedAt": "2026-11-15T07:14:36Z",
+        "category": "technology",
+        "summary": "An American woman lost her AirPods at Delhi Airport during her visit to India with her husband. After four days of uncertainty, she received her AirPods back from the airport staff, expressing gratitude for their efforts. She remarked that in the United States, she likely would not have had the same experience in recovering lost items.",
         "wordCount": 56
       }
     ],
     "sports": [
       {
-        "title": "Barcelona told young German defender Finn Jeltsch ‘would fit perfectly’ in Hansi Flick’s side",
-        "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/137946/finn-jeltsch-fit-perfectly-hansi-flicks-side",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/11/gettyimages-2304229848.jpg?quality=90&strip=all&crop=0%2C10.742042428305%2C100%2C78.51591514339&w=1200",
-        "publishedAt": "2026-11-15T00:00:00Z",
+        "title": "Banton, Atkinson star as England hit back to force series decider",
+        "url": "https://www.cricbuzz.com/cricket-news/140917/banton-atkinson-star-as-england-hit-back-to-force-series-decider-cricbuzzcom",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1126291/england-posted-a-commanding-355-for-6-built-around-tom-bantons-121-off-99-balls.jpg",
+        "publishedAt": "2026-11-15T11:47:46Z",
         "category": "sports",
-        "summary": "Finn Jeltsch, a 20-year-old center-back from VfB Stuttgart, has garnered attention from FC Barcelona. Described as a “modern center-back” due to his anticipation and ball-playing skills, Jeltsch is seen as a strong fit for Hansi Flick's team. Despite being still in the development phase, his potential has led to interest from several clubs.",
-        "wordCount": 53
-      },
-      {
-        "title": "WTA Finals: Mirra Andreeva eliminates Jessica Pegula to reach final, winning in straight sets after 'diva' criticism",
-        "url": "https://www.skysports.com/tennis/news/13612358/wta-finals-mirra-andreeva-eliminates-jessica-pegula-to-reach-final-winning-in-straight-sets-after-diva-criticism",
-        "source": "Sky Sports",
-        "image": "https://e0.365dm.com/26/11/1600x900/skysports-mirra-andreeva-jessica-pegula_7406733.jpg?20261114214855",
-        "publishedAt": "2026-11-14T23:38:38Z",
-        "category": "sports",
-        "summary": "Mirra Andreeva defeated Jessica Pegula in straight sets, 6-3 6-4, to advance to the final of the WTA Finals in Indian Wells. The match followed Pegula's earlier comments, where she referred to Andreeva as a \"diva.\" With this victory, Andreeva became the first teenager to reach the title match at this year-end tournament in California.",
+        "summary": "England bounced back from a defeat in Perth, winning the second ODI against Australia in Adelaide by 135 runs. Opener Banton scored 121 runs, leading a strong batting performance. Atkinson's bowling was pivotal, taking key wickets and dismantling Australia's top order within seven overs. This victory levels the series, setting up a decisive third match.",
         "wordCount": 55
       },
       {
-        "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
-        "url": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2238308540-1794651132.jpg?resize=1920%2C1440",
-        "publishedAt": "2026-11-14T22:19:14Z",
+        "title": "Banton, Atkinson star as England hit back to force series decider",
+        "url": "https://www.cricbuzz.com/cricket-news/140917/banton-atkinson-star-as-england-hit-back-to-force-series-decider",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1126291/england-posted-a-commanding-355-for-6-built-around-tom-bantons-121-off-99-balls.jpg",
+        "publishedAt": "2026-11-15T11:47:46Z",
         "category": "sports",
-        "summary": "The Abu Dhabi Criminal Court has sentenced eight individuals to jail for their involvement in a brawl between MMA fighters Usman Nurmagomedov and Merab Dvalishvili, along with their teams, at a hotel. The incident occurred prior to a wrestling event organized by Real American Wrestling. A total of ten people were convicted in connection with the altercation.",
+        "summary": "England leveled the ODI series against Australia by winning the second match in Adelaide by 135 runs. Opener Banton scored 121 runs, leading a strong batting performance. In response to Australia's target of 355, England's bowlers, led by Atkinson, quickly dismantled the Australian top order, taking crucial wickets within the first seven overs to secure the victory.",
         "wordCount": 57
       }
     ],
     "health": [
       {
-        "title": "Dr. Daniel Griffin: US Has Lost Measles Elimination as Cases Pass 5,400 and Medical Societies Break With RFK Jr.",
-        "url": "https://finance.biggo.com/news/76fe73877db1989e",
-        "source": "BigGo Finance",
-        "image": "https://img.biggo.com/HgMMQRva4O9RCipBDK3IAUESiz5dDcD-kGUcXVdj0EU/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzc2ZmU3Mzg3N2RiMTk4OWVfMTc5NDY4OTA3NF9jb3Zlci5qcGc.jpg",
-        "publishedAt": "2026-11-14T20:08:00Z",
+        "title": "WHO Releases First Guidelines On Type 1 Diabetes In Adults: What To Know",
+        "url": "https://www.ndtv.com/health/who-releases-first-guidelines-on-type-1-diabetes-in-adults-what-to-know-12330081",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/6a3c2qo_diabetes-control-pexels_625x300_13_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-15T12:25:17Z",
         "category": "health",
-        "summary": "In a recent update, Dr. Daniel Griffin reported over 5,400 measles cases and 10 deaths in the U.S., indicating a concerning upward trend with no signs of stabilization. The country may soon lose its measles elimination status, which it has maintained for 26 years. Additionally, medical societies are distancing themselves from Robert F. Kennedy Jr.'s views on vaccination.",
-        "wordCount": 58
-      },
-      {
-        "title": "1 in 5 children with diabetes face mental health challenges: PGI study",
-        "url": "https://timesofindia.indiatimes.com/city/chandigarh/1-in-5-children-with-diabetes-face-mental-health-challenges-pgi-study/articleshow/135841892.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135841876,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-14T19:32:00Z",
-        "category": "health",
-        "summary": "A PGI study involving 97 children with Type 1 diabetes in northern India found that 20% face mental health challenges, which are associated with poor HbA1c levels and increased hospitalizations. The findings, published in the Journal of Pediatric Endocrinology and Metabolism, highlight the need for regular mental health screening for these children to address their emotional well-being.",
+        "summary": "The World Health Organization (WHO) has released its first guidelines for managing type 1 diabetes in adults. The guidelines aim to improve treatment access and healthcare services for millions affected by the condition. WHO estimates that over 40% of individuals with diabetes are undiagnosed, highlighting the need for increased awareness and better healthcare solutions for this population.",
         "wordCount": 57
       },
       {
-        "title": "Exhibition, poster competitions held at CMC to mark World Diabetes Day",
-        "url": "https://www.thehindu.com/news/national/tamil-nadu/exhibition-poster-competitions-held-at-cmc-to-mark-world-diabetes-day/article71701945.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/2kemag/article71702661.ece/alternates/LANDSCAPE_1200/CMC-26.jpg",
-        "publishedAt": "2026-11-14T18:41:19Z",
+        "title": "Stopping GLP-1 Weight-Loss Drugs? Study Flags Nearly Double Risk Of Heart Attack, Stroke And Death",
+        "url": "https://www.news18.com/lifestyle/health-and-fitness/stopping-glp-1-weight-loss-drugs-study-flags-nearly-double-risk-of-heart-attack-stroke-and-death-ws-l-10426572.html",
+        "source": "News18",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/11/1-2026-11-3263a8e47fe33ebc2100a7581d5992a7-1200x675.png",
+        "publishedAt": "2026-11-15T11:23:16Z",
         "category": "health",
-        "summary": "Christian Medical College (CMC) hosted an awareness exhibition and poster competitions to celebrate World Diabetes Day 2026. Organized by the Department of Endocrinology, Diabetes & Metabolism, the event provided screening services for over 350 participants and included interactive educational sessions. The initiative aimed to raise awareness about diabetes and promote healthy lifestyle choices among attendees.",
+        "summary": "A recent study indicates that stopping GLP-1 weight-loss drugs significantly increases the risk of heart attack, stroke, and death in individuals with type 2 diabetes, nearly doubling these risks. GLP-1 medications have been effective in managing blood sugar levels and aiding weight loss, highlighting the importance of continued use for those benefiting from these treatments.",
         "wordCount": 55
+      },
+      {
+        "title": "Advanced Liver Disease Declines",
+        "url": "https://www.emjreviews.com/hepatology/news/antiviral-therapy-linked-to-reduced-liver-disease-burden/",
+        "source": "EMJ",
+        "image": "https://www.emjreviews.com/wp-content/uploads/2026/11/hep-10am-2.jpg",
+        "publishedAt": "2026-11-15T10:04:33Z",
+        "category": "health",
+        "summary": "Advanced chronic liver disease among people who inject drugs in Australia decreased from 2018 to 2025. Researchers linked this decline to improved access to hepatitis C virus (HCV) treatments and higher rates of treatment uptake. The findings suggest that enhanced healthcare initiatives may contribute to better health outcomes for this population, highlighting the importance of accessible medical interventions.",
+        "wordCount": 58
       }
     ],
     "science": [
@@ -169,50 +159,60 @@
         "image": "https://th-i.thgim.com/public/incoming/dxm9i4/article71703047.ece/alternates/LANDSCAPE_1200/SpaceX_Starship_Launch_78562.jpg",
         "publishedAt": "2026-11-14T22:31:00Z",
         "category": "science",
-        "summary": "SpaceX’s Starship successfully returned to Earth on November 14, 2026, after a 22-hour mission, marking a significant milestone in reusability. The spacecraft was captured midair by mechanical arms at the launch pad, demonstrating advancements in SpaceX's technology. This event aligns with the company's broader goals of facilitating missions to the Moon and Mars in the future.",
-        "wordCount": 56
+        "summary": "SpaceX’s Starship successfully returned to Earth on November 14, 2026, after a 22-hour mission, being captured midair by mechanical arms at the launch pad. This event marks a significant milestone in SpaceX's efforts toward reusability and supports its broader goals of future missions to the Moon and Mars. The achievement reflects advancements in space technology and engineering.",
+        "wordCount": 57
       },
       {
-        "title": "planet candidates in public NASA data — and he's funding the next wave with $100,000 grants — BigGo Finance",
-        "url": "https://finance.biggo.com/news/e12740074a117d6b",
-        "source": "BigGo Finance",
-        "image": "https://img.biggo.com/uxCrvyeyQuwDAKbr78qz_0q9zF5obqP3d0EnQ4NyVhI/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExL2UxMjc0MDA3NGExMTdkNmJfMTc5NDY4ODk3MV9jb3Zlci5qcGc.jpg",
-        "publishedAt": "2026-11-14T20:08:00Z",
+        "title": "Strange new material pulses in perfect rhythm to make future robots feel more alive",
+        "url": "https://www.earth.com/science/strange-new-material-pulses-in-perfect-rhythm-to-make-future-robots-feel-more-alive/",
+        "source": "Earth.com",
+        "image": "https://www.earth.com/img/16x9/1600/media-2026/2026/11/14164814/vibrating-material-organizes_Jonas-Veenstra_1m.jpg",
+        "publishedAt": "2026-11-14T21:50:28Z",
         "category": "science",
-        "summary": "An AI researcher utilized Claude and Codex agents to analyze public telescope archives, identifying potential asteroid and dwarf-planet candidates. This effort involved several weeks of work examining uncharted areas of the sky. To further support this research, the researcher is offering $100,000 grants for future projects aimed at exploring these celestial bodies using government-funded telescopes worldwide.",
-        "wordCount": 56
+        "summary": "Physicists have developed a new material composed of motorized cells that vibrate randomly but merge into a synchronized pulse, creating a mechanical time crystal. This innovation allows the material to maintain a unified rhythm, contrasting with traditional orchestras that struggle without a conductor. The advancement could enhance the design of future robots, making them feel more lifelike.",
+        "wordCount": 57
+      },
+      {
+        "title": "A dead star is flashing radio waves every 8 minutes, and its partner looks a lot like the sun",
+        "url": "https://phys.org/news/2026-11-dead-star-radio-minutes-partner.html",
+        "source": "Phys.org",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-dead-star-is-flashin.jpg",
+        "publishedAt": "2026-11-14T21:00:01Z",
+        "category": "science",
+        "summary": "Astronomers have identified a new type of cosmic object known as long-period radio transients, which emit bright radio wave flashes every few minutes to hours. Since 2022, these transients have been linked to binary systems featuring a red dwarf star and a white dwarf stellar remnant. The discovery enhances understanding of these unique astronomical phenomena and their characteristics.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "Actor Mammootty’s punch dialogues to raise road safety awareness in Keralam",
-        "url": "https://www.thehindu.com/news/national/kerala/actor-mammoottys-punch-dialogues-raise-road-safety-awareness-in-keralam/article71701991.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/ngte0r/article71702113.ece/alternates/LANDSCAPE_1200/80968_14_11_2026_16_19_48_3_IMG_3762.JPEG",
-        "publishedAt": "2026-11-15T00:30:00Z",
+        "title": "After Years Of Being Bedridden, Actor Sharad Kapoor Urges Film Industry To Support Him",
+        "url": "https://www.ndtv.com/entertainment/please-help-me-actor-sharad-kapoor-seeks-financial-support-from-film-fraternity-12329924",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/n5djjsho_sharad-kapoor_625x300_15_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-15T11:50:29Z",
         "category": "entertainment",
-        "summary": "Actor Mammootty's famous dialogues are being utilized in Kerala's road safety campaign, spearheaded by the Motor Vehicles Department (MVD). Eye-catching boards on metro pillars feature these iconic lines to encourage responsible behavior among all road users. This innovative approach aims to raise awareness and promote safer driving practices throughout the state, leveraging Mammootty's popularity for a crucial message.",
-        "wordCount": 58
+        "summary": "Actor Sharad Kapoor has appealed to the film industry for support after being bedridden for years. In an Instagram video, he expressed his struggles and requested work and financial assistance. Hema Choudhary, a friend and head of the Bezubaan Public Welfare Trust, provided an update on his health, emphasizing the challenges he has faced during this time.",
+        "wordCount": 57
       },
       {
-        "title": "Horoscope Today: November 15, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-november-15-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-11-15T00:30:00Z",
+        "title": "Kajal Aggarwal Reveals She And Gautam Kitchlu Broke Up, Dated Other People Before Marriage",
+        "url": "https://www.ndtv.com/lifestyle/kajal-aggarwal-reveals-she-and-gautam-kitchlu-broke-up-dated-other-people-before-marriage-12329984",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/pb8cal_kajal-_625x300_15_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-15T11:50:03Z",
         "category": "entertainment",
-        "summary": "On November 15, 2026, Capricorn is encouraged to release burdens and embrace change, despite initial discomfort. This period is ideal for establishing personal boundaries and reflecting on identity and aspirations. The horoscope emphasizes self-discovery and growth, urging individuals to consider their desired future and the steps needed to achieve it. Embracing this transformative phase is essential for personal development.",
-        "wordCount": 59
+        "summary": "Kajal Aggarwal discussed her relationship with Gautam Kitchlu, revealing they broke up before eventually reuniting and marrying. She recounted their first meeting at a friend's wedding through mutual friends. Currently enjoying success from her role as Mandodari in Ramayana, Kajal reflected on their journey together, including dating other people prior to their marriage.",
+        "wordCount": 53
       },
       {
-        "title": "A 13-year-old Seattle baseball fan picked up a free trading card at a Mariners game without knowing she had the only gold version in existence; weeks later, collectors paid $20,100 for the raccoon-the",
-        "url": "https://timesofindia.indiatimes.com/world/us/a-13-year-old-seattle-baseball-fan-picked-up-a-free-trading-card-at-a-mariners-game-without-knowing-she-had-the-only-gold-version-in-existence-weeks-later-collectors-paid-20100-for-the-raccoon-themed-card/articleshow/135788946.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135788989,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-15T00:28:00Z",
+        "title": "Actor Nandish Sandhu Marries Kavita Banerjee In Traditional Bengali Wedding, See Pics",
+        "url": "https://www.ndtv.com/entertainment/actor-nandish-sandhu-marries-kavita-banerjee-in-traditional-bengali-wedding-see-pics-12329952",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/tlv5nnko_nandish-sandhu_625x300_15_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-15T11:37:52Z",
         "category": "entertainment",
-        "summary": "A 13-year-old Seattle baseball fan unknowingly picked up a rare gold trading card at a Mariners game. This card, the only one of its kind, was later sold for $20,100 at an online auction. The young fan, Abby, expressed surprise at the card's value, highlighting the unexpected nature of collectible items in sports memorabilia.",
-        "wordCount": 54
+        "summary": "Actor Nandish Singh Sandhu married Kavita Banerjee in a traditional Bengali ceremony in Kolkata on November 14. The wedding followed their roka ceremony in September 2025 and was attended by family and friends. This event marks a significant milestone in their personal lives, celebrating their union over a two-day celebration filled with cultural traditions and festivities.",
+        "wordCount": 56
       }
     ]
   }
