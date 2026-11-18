@@ -1,218 +1,218 @@
 {
-  "updatedAt": "2026-11-18T00:31:27.270Z",
+  "updatedAt": "2026-11-18T12:31:36.580Z",
   "categories": {
     "world": [
       {
-        "title": "ASEAN, China committed to follow South China Sea declaration until code of conduct is completed",
-        "url": "https://www.reuters.com/world/china/asean-china-committed-follow-south-china-sea-declaration-until-code-conduct-is-2026-11-17/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/BKHUJNY2MZMG7KR3XXQMK3GCQE.jpg?auth=cb6851879e6321a4d7b439258fab9c39887aea8cf789e79b765dd93dfc101f80&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-11-17T11:55:43Z",
-        "category": "world",
-        "summary": "ASEAN and China reaffirmed their commitment to the Declaration on the Conduct of Parties in the South China Sea until a code of conduct is finalized, according to Philippine President Ferdinand Marcos Jr. This statement was made during a meeting in Manila, emphasizing the importance of maintaining stability and cooperation in the region while awaiting the completion of the code.",
-        "wordCount": 60
-      },
-      {
-        "title": "A Washington boy who was autistic, nonverbal and legally blind died at 15 after years of abuse in his adoptive home; six years later, his estate and brothers secured a $49.33 million settlement",
-        "url": "https://timesofindia.indiatimes.com/world/us/a-washington-boy-who-was-autistic-nonverbal-and-legally-blind-died-at-15-after-years-of-abuse-in-his-adoptive-home-six-years-later-his-estate-and-brothers-secured-a-49-33-million-settlement/articleshow/135922315.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135922864,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-17T11:30:00Z",
-        "category": "world",
-        "summary": "Karreon Adams-Franks, a 15-year-old boy who was autistic, nonverbal, and legally blind, died in 2020 in Vancouver, Washington, after enduring years of abuse and starvation in his adoptive home. Six years later, his estate and two surviving brothers reached a settlement of $49.33 million, addressing the neglect and mistreatment he suffered during his life.",
-        "wordCount": 54
-      },
-      {
-        "title": "Donald Trump Debuts New Hairdo During Philippines ASEAN Visit, Internet Reacts",
-        "url": "https://www.ndtv.com/world-news/darker-fluffier-donald-trump-debuts-new-hairdo-during-philippines-asean-visit-internet-reacts-12338720",
+        "title": "Pakistani Man Jailed For 27 Years In US For Trump Murder Plot",
+        "url": "https://www.ndtv.com/world-news/pakistani-man-jailed-for-27-years-in-us-for-trump-murder-plot-12341452",
         "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/jmapeo9c_trump-hair-colour_625x300_17_November_26.jpeg",
-        "publishedAt": "2026-11-17T11:17:51Z",
+        "image": "https://c.ndtvimg.com/2026-03/5fantc6c_asif-merchant_625x300_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-17T23:05:17Z",
         "category": "world",
-        "summary": "During his visit to Manila for the 49th ASEAN Summit, US President Donald Trump showcased a new hairstyle that appeared darker and more voluminous than his usual golden-blond look. This change prompted significant reactions on social media, with users commenting on the noticeable difference. Trump arrived at Ninoy Aquino International Airport on Tuesday, generating buzz online about his appearance.",
-        "wordCount": 59
+        "summary": "Asif Merchant, a Pakistani man, was sentenced to over 27 years in prison for plotting to assassinate former President Donald Trump. A Brooklyn court found that he sought to hire a hitman to target a U.S. politician or government official. The plot was reportedly in retaliation for the U.S. killing of Iranian Revolutionary Guards commander Qassem Soleimani.",
+        "wordCount": 57
+      },
+      {
+        "title": "Kuwait, Bahrain fend off Iranian aerial attacks as Coalition hits Houthi military sites",
+        "url": "https://www.arabnews.com/middle-east/kuwait-bahrain-fend-off-iranian-aerial-attacks-as-coalition-hits-houthi-military-sites-3012614",
+        "source": "Arab News",
+        "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794955389177-e81add11f73a3b8d.jpg",
+        "publishedAt": "2026-11-17T22:38:53Z",
+        "category": "world",
+        "summary": "Kuwait and Bahrain successfully repelled Iranian aerial attacks on Wednesday, amid increased tensions in the Gulf region. In response, a Coalition launched strikes that destroyed 60 Houthi military targets across Yemen. The developments highlight the ongoing conflict involving Iran and its regional adversaries, as well as the Coalition's efforts to counter Houthi threats in the area.",
+        "wordCount": 56
+      },
+      {
+        "title": "Hung Cao Senate hearing: Democrats raise Navy suicides and Iran war",
+        "url": "https://www.indiatoday.in/world/story/hung-cao-senate-hearing-navy-suicides-iran-war-3041164-2026-11-18",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/us-secretary-of-the-navy-hung-cao-173306984-16x9_0.jpg?VersionId=ooxBRp6Gg_2WPE87H1GxAlZ7giVz8z1w",
+        "publishedAt": "2026-11-17T22:37:48Z",
+        "category": "world",
+        "summary": "During a Senate hearing, Senator Kirsten Gillibrand questioned acting Navy Secretary Hung Cao regarding a sailor who went overboard from a US aircraft carrier, raising concerns about military mental health and suicide attempts. The discussion intensified scrutiny on recruitment challenges and the implications of the ongoing Iran war, highlighting the need for improved support for service members.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "After Microsoft offers buyouts to 60,000 employees, CEO Satya Nadella explains the decision; says: I wish I could just sit here and ...",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-microsoft-offers-buyouts-to-60000-employees-ceo-satya-nadella-explains-the-decision-says-i-wish-i-could-just-sit-here-and-/articleshow/135924122.cms",
+        "title": "Stocks in News: Tata Group companies, Bharti Airtel, HCL Tech, Groww, IIFL Finance, ACME Solar",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-group-companies-bharti-airtel-hcl-tech-groww-iifl-finance-acme-solar/articleshow/135932745.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-135932909,width-1200,height-900,imgsize-204625,overlay-etmarkets/articleshow.jpg",
+        "publishedAt": "2026-11-18T00:30:00Z",
+        "category": "business",
+        "summary": "Stocks of Tata Group companies, Bharti Airtel, HCLTech, Groww, IIFL Finance, and ACME Solar Holdings are expected to attract attention on Wednesday, November 18. Investors will monitor company-specific developments and corporate announcements that may impact these stocks. The market's focus on these companies indicates potential volatility and interest in their performance amid ongoing economic conditions.",
+        "wordCount": 55
+      },
+      {
+        "title": "Stock Market Today: All You Need To Know Before Going Into Trade On Nov 18",
+        "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-nov-18-12340879",
+        "source": "NDTV Profit",
+        "image": "https://c.ndtvimg.com/proen/2025-03-17/03f9e9uq/stock-market-online-business-concept-2025-01-15-13-02-31-utc.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-17T23:30:01Z",
+        "category": "business",
+        "summary": "Indian benchmark indices, the Sensex and Nifty 50, continued their positive momentum as of November 18. Key stocks are in focus, along with significant brokerage recommendations and comprehensive trade setups. Market participants are advised to stay informed about the latest developments and trends in the stock market to make informed trading decisions throughout the day.",
+        "wordCount": 55
+      },
+      {
+        "title": "'Board accepted his resignation': Nvidia chairman rules out Jensen Huang's return; company doubles revenue",
+        "url": "https://timesofindia.indiatimes.com/business/international-business/board-has-no-plans-to-reinstate-him-as-ceo-nvidia-chairman-rules-out-jensen-huangs-return/articleshow/135943448.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135924149,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-17T11:51:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135943528,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-17T23:07:00Z",
         "category": "business",
-        "summary": "Microsoft CEO Satya Nadella has discussed the company's decision to offer buyouts to 60,000 employees, clarifying that it is part of a broader effort to reshape team operations. He addressed concerns about potential AI-driven layoffs but emphasized that the initiative aims to enhance efficiency and adaptability within the organization, rather than indicating an impending workforce reduction due to AI.",
-        "wordCount": 59
-      },
-      {
-        "title": "India Gives Green Light to Commercial Sustainable Jet Fuel Production",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Gives-Green-Light-to-Commercial-Sustainable-Jet-Fuel-Production.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-17_pmzl9i5rck.jpg",
-        "publishedAt": "2026-11-17T11:15:00Z",
-        "category": "business",
-        "summary": "India has approved the commercial supply of sustainable aviation fuel (SAF) from Indian Oil Corporation’s Panipat refinery. This marks the first batch produced at the country’s first commercial-scale SAF plant. The approval aligns with India's target for blending sustainable fuel by 2027, supporting the aviation sector's transition to more environmentally friendly fuel sources.",
+        "summary": "Nvidia chairman Harvey Jones confirmed on Tuesday that the board will not reinstate Jensen Huang as CEO, following his resignation. The company reported a significant increase in revenue, doubling year-on-year. This announcement comes amid Nvidia's ongoing growth and success in the technology sector, highlighting the company's strong financial performance despite the leadership change.",
         "wordCount": 53
-      },
-      {
-        "title": "'Ulta Pradesh' to 'Uttam Pradesh': Yogi minister on UP's transformation under BJP government",
-        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/india/ulta-pradesh-to-uttam-pradesh-yogi-minister-on-up-s-transformation-under-bjp-government-14082531.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261117103428_Minister-.png",
-        "publishedAt": "2026-11-17T10:35:08Z",
-        "category": "business",
-        "summary": "A Yogi minister highlighted Uttar Pradesh's transformation under the BJP government, stating the state has demonstrated progress across various sectors over the past nine to ten years. He noted that while it was previously referred to as \"Ulta Pradesh,\" it is now recognized as \"Uttam Pradesh.\" The minister emphasized the significant changes and improvements achieved during this period.",
-        "wordCount": 58
       }
     ],
     "technology": [
       {
-        "title": "Temple wearable voice detection recreated on laptop, earns Deepinder Goyal's praise",
-        "url": "https://www.indiatoday.in/technology/news/story/bengaluru-man-reverse-engineers-rs-85000-temple-tech-deepinder-goyal-says-nicely-done-3040792-2026-11-17",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/temple--temple-wearable--deepinder-goyal-175144594-16x9_0.jpg?VersionId=b3N55T_asERe91b4gU6sUV96wiTXNEcV",
-        "publishedAt": "2026-11-17T11:57:08Z",
+        "title": "What your love of spicy food might reveal about your personality",
+        "url": "https://www.news-medical.net/news/20261117/What-your-love-of-spicy-food-might-reveal-about-your-personality.aspx",
+        "source": "News-Medical",
+        "image": "https://www.news-medical.net/images/news/ImageForNews_851955_17949576957652029.jpg",
+        "publishedAt": "2026-11-17T23:22:00Z",
         "category": "technology",
-        "summary": "A tech enthusiast from Bengaluru successfully recreated the vibration-based voice detection technology from Temple's wearable device using a laptop accelerometer. This innovative experiment garnered the attention of Deepinder Goyal, the founder of Zomato, who praised the effort. In recognition of the achievement, Goyal offered the enthusiast a one-day trial of the Temple device for further exploration.",
-        "wordCount": 56
+        "summary": "A systematic review of 58 studies indicates that personality traits like sensation seeking and emotional states influence spicy food preferences. Consuming spicy foods may temporarily impact risk-taking and aggression-related thinking. Researchers suggest that sensory adaptation and rewarding experiences reinforce these preferences over time, though evidence for lasting psychological changes remains limited, highlighting the complex relationship between food and personality.",
+        "wordCount": 59
       },
       {
-        "title": "GTA 6 Special Abilities for Jason and Lucia Explained",
-        "url": "https://beebom.com/gta-6-special-abilities-jason-and-lucia/",
-        "source": "Beebom",
-        "image": "https://static.beebom.com/wp-content/uploads/2026/11/Jason-and-Lucia-in-a-Vehicle-in-GTA-6.jpg",
-        "publishedAt": "2026-11-17T11:48:59Z",
+        "title": "Xbox Announces Official Black Friday Sale on Digital Games and Accessories - But No Consoles",
+        "url": "https://in.ign.com/gears-of-war-e-day/277309/xbox-announces-official-black-friday-sale-on-digital-games-and-accessories-but-no-consoles",
+        "source": "IGN India",
+        "image": "https://sm.ign.com/t/ign_in/news/x/xbox-annou/xbox-announces-official-black-friday-sale-on-digital-games-a_y3vd.1200.jpg",
+        "publishedAt": "2026-11-17T20:25:27Z",
         "category": "technology",
-        "summary": "GTA 6 introduces character-specific special abilities for protagonists Jason and Lucia, enhancing gameplay with unique skills. These abilities provide players with distinct combat advantages, allowing for varied strategies during missions. The game emphasizes the importance of these skills in shaping player experiences, offering insights into how Jason and Lucia's talents can influence gameplay dynamics and overall performance in the game.",
-        "wordCount": 60
-      },
-      {
-        "title": "Zelda: Ocarina Of Time Remake Sold 1 Million Physical Copies In Its First Week, The Most Since Tears Of The Kingdom",
-        "url": "https://kotaku.com/zelda-ocarina-of-time-remake-sold-1-million-physical-copies-in-its-first-week-the-most-since-tears-of-the-kingdom-2000757645",
-        "source": "Kotaku",
-        "image": "https://kotaku.com/app/uploads/2026/11/2026110523321400_s-1200x675.jpg",
-        "publishedAt": "2026-11-17T11:30:43Z",
-        "category": "technology",
-        "summary": "The Switch 2 remake of The Legend of Zelda: Ocarina of Time sold 1 million physical copies in its first week in the U.S. This marks the highest sales for a physical game since the release of Tears of the Kingdom in 2023. The success highlights ongoing demand for physical copies among fans of the franchise.",
-        "wordCount": 56
+        "summary": "Xbox has announced its Black Friday sale, starting November 19 at 9am PST. The sale features discounts of up to 80% on digital Xbox and PC games, along with various accessories. However, no consoles will be included in the promotions. This announcement follows similar sales from Nintendo and PlayStation, highlighting the competitive holiday shopping season.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "MS Dhoni: Former India captain retires from playing role with IPL's Chennai Super Kings aged 45",
-        "url": "https://www.skysports.com/cricket/news/13613181/ms-dhoni-former-india-captain-retires-from-playing-role-with-ipls-chennai-super-kings-aged-45",
-        "source": "Sky Sports",
-        "image": "https://e0.365dm.com/26/11/1600x900/skysports-ms-dhoni-ipl-chennai-super-kings_7408726.jpg?20261117141431",
-        "publishedAt": "2026-11-17T12:29:07Z",
+        "title": "Rodri: Winning the Champions League is the objective, but Barcelona are not favorites",
+        "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/138279/rodri-winning-champions-league-is-the-objective-not-favorites",
+        "source": "Barca Blaugranes",
+        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/10/gettyimages-2301202239.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
+        "publishedAt": "2026-11-17T23:00:00Z",
         "category": "sports",
-        "summary": "Former India captain MS Dhoni has announced his retirement from playing with the Chennai Super Kings in the Indian Premier League at age 45. Known as \"Captain Cool,\" he led India to World Cup victories in both formats. Dhoni will transition to a mentorship role starting in the 2027 season, having previously retired from international cricket in 2020.",
-        "wordCount": 58
+        "summary": "Rodri emphasized that winning the Champions League is the team's main objective, but he does not consider Barcelona as favorites. He stated that objectives differ from labels and that Barcelona aims to compete for all titles. Rodri aims to maintain calm within the group, reminding them that it is still early in the season and expectations should be managed.",
+        "wordCount": 59
       },
       {
-        "title": "Retained and Released Players",
-        "url": "https://www.jagranjosh.com/general-knowledge/rcb-retention-list-2027-retained-and-released-players-1820013908-1",
-        "source": "Jagran Josh",
-        "image": "https://img.jagranjosh.com/images/2026/11/17/template/image/RCB-1794918087380.webp",
-        "publishedAt": "2026-11-17T12:23:47Z",
+        "title": "Stoppage-time drama: Haaland embarrasses Mbappé with a frightening record!",
+        "url": "https://www.goal.com/en/news/stoppage-time-drama-haaland-embarrasses-mbappe-with-a-frightening-record/blt4215239fa01a617e",
+        "source": "Goal.com",
+        "image": "https://assets.goal.com/images/v3/getty-2305109635/crop/MM5DGMZZGI5DCOJQHA5G433XMU5DAORQ/GettyImages-2305109635.jpg",
+        "publishedAt": "2026-11-17T22:57:56Z",
         "category": "sports",
-        "summary": "Royal Challengers Bengaluru (RCB), the defending champions, will announce their IPL 2027 retention list today. The announcement will include updates on players such as Josh Hazlewood and Jacob Bethell. RCB won its first IPL title in 2025 and successfully defended it in 2026, marking a significant achievement after 18 years of competition in the league.",
-        "wordCount": 55
+        "summary": "Erling Haaland led Norway to a 3-2 victory over Denmark in the UEFA Nations League, scoring twice, including a last-minute penalty. This performance secured Norway's place in the quarter-finals. Haaland's achievement highlighted his growing prominence in international football, contrasting with fellow star Kylian Mbappé. The match showcased Haaland's ability to deliver under pressure in crucial moments.",
+        "wordCount": 56
       },
       {
-        "title": "SGP v BRA Highlights; Brazil beat Singapore 7-0 in friendly at National stadium, Singapore; Vinicius and Endrick shine",
-        "url": "https://sportstar.thehindu.com/football/singapore-vs-brazil-friendly-live-score-updates-international-football-highlights-sgp-v-bra-streaming/article71711057.ece",
-        "source": "Sportstar",
-        "image": "https://ss-i.thgim.com/public/incoming/qp8cjh/article71711623.ece/alternates/LANDSCAPE_1200/Rayan.jpg",
-        "publishedAt": "2026-11-17T12:19:01Z",
+        "title": "Erling Haaland sends Norway to Nations League quarterfinals",
+        "url": "https://www.espn.in/football/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals",
+        "source": "ESPN India",
+        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1117%2Fr1747269_1296x729_16%2D9.jpg",
+        "publishedAt": "2026-11-17T22:15:00Z",
         "category": "sports",
-        "summary": "Brazil defeated Singapore 7-0 in an international friendly match at the National Stadium in Singapore. The Brazilian team showcased a dominant performance, particularly in the first half, with standout contributions from players Vinicius and Endrick. The match highlighted the skill disparity between the teams, as Brazil utilized both experienced and younger players throughout the game.",
+        "summary": "Erling Haaland scored a decisive penalty in the final moments, leading Norway to a 3-2 victory over Denmark. This win secured Norway's advancement to the Nations League quarterfinals. The match was crucial for both teams, with Haaland's performance highlighting his significance to the squad. Norway's progression marks an important achievement in their Nations League campaign.",
         "wordCount": 55
       }
     ],
     "health": [
       {
-        "title": "India Records 38% Drop in TB Deaths Since 2015, Outpaces Global Decline: WHO",
-        "url": "https://theindianpractitioner.com/india-records-38-drop-in-tb-deaths-since-2015-outpaces-global-decline-who/",
-        "source": "The Indian Practitioner",
-        "image": "https://theindianpractitioner.com/wp-content/uploads/2026/11/India-Records-38-Drop-in-TB-Deaths-Since-2015-Outpaces-Global-Decline-WHO-scaled.jpg",
-        "publishedAt": "2026-11-17T09:14:42Z",
+        "title": "GLP-1 weight-loss drugs linked to inadequate intake of key nutrients in some people",
+        "url": "https://medicalxpress.com/news/2026-11-glp-weight-loss-drugs-linked.html",
+        "source": "Medical Xpress",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/person-taking-suppleme.jpg",
+        "publishedAt": "2026-11-17T23:30:06Z",
         "category": "health",
-        "summary": "India has achieved a 38% reduction in tuberculosis (TB) deaths since 2015, surpassing the global decline of 35%, as reported by the World Health Organization (WHO) in its Global Tuberculosis Report 2026. This progress highlights India's intensified efforts in combating TB, contributing significantly to global health goals and showcasing the effectiveness of its public health strategies against the disease.",
-        "wordCount": 59
+        "summary": "A small exploratory study published in BMJ Nutrition Prevention & Health indicates that appetite-suppressing drugs like Wegovy and Mounjaro may lead to inadequate intake of essential nutrients and energy in some individuals. The findings highlight potential nutritional deficiencies associated with these weight-loss medications, suggesting that users should be monitored for their dietary intake while using such treatments.",
+        "wordCount": 57
       },
       {
-        "title": "HPV Vaccine And Cervical Cancer: How Does The Vaccine Prevent Cervical Cancer? Age Guidelines, Side Effects And More",
-        "url": "https://www.ndtv.com/health/womens-health/hpv-vaccine-and-cervical-cancer-how-does-the-vaccine-prevent-cervical-cancer-age-guidelines-side-effects-and-more-12337451",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/g09ccdn8_hpv-vaccine_625x300_17_November_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-17T07:38:14Z",
+        "title": "Older Immigrants at Increased Risk as US Loses Measles Elimination Status",
+        "url": "https://americancommunitymedia.org/news-exchange/older-immigrants-at-increased-risk-as-us-loses-measles-elimination-status/",
+        "source": "American Community Media",
+        "image": "https://americancommunitymedia.org/wp-content/uploads/2026/11/IMG_1025.jpeg",
+        "publishedAt": "2026-11-17T23:23:16Z",
         "category": "health",
-        "summary": "The WHO recommends HPV vaccination for girls aged 9 to 14, with variations by country. The vaccine can also be administered to boys in certain regions, as HPV is linked to various cancers and can be transmitted. World Cervical Cancer Elimination Day, observed on November 17, aims to raise awareness and improve access to HPV vaccination and cervical cancer prevention.",
-        "wordCount": 60
+        "summary": "The US lost its measles elimination status on November 17 due to ongoing virus spread for over a year. Older adults, particularly immigrants who may lack childhood vaccinations, are at heightened risk for measles infections. The Centers for Disease Control and Prevention (CDC) reported 5,412 confirmed cases as of November, highlighting the vulnerability of this demographic.",
+        "wordCount": 56
+      },
+      {
+        "title": "Can Diabetes Before Pregnancy Affect a Baby’s Heart?",
+        "url": "https://www.diabetesincontrol.com/preexisting-diabetes-congenital-heart-defects-risk/",
+        "source": "Diabetes In Control",
+        "image": "https://www.diabetesincontrol.com/wp-content/uploads/2026/11/preexisting-diabetes-pregnancy-congenital-heart-defects.png",
+        "publishedAt": "2026-11-17T20:26:38Z",
+        "category": "health",
+        "summary": "A study analyzing over 44 million births indicates that preexisting diabetes significantly increases the risk of congenital heart defects in newborns, with a 48% higher relative risk identified. Researchers emphasize the importance of early prenatal care, as a baby's heart begins developing before pregnancy is often recognized. These findings highlight potential implications for maternal health and infant outcomes.",
+        "wordCount": 58
       }
     ],
     "science": [
       {
-        "title": "Scientists discover 13-million-year-old vampire camel in America with fangs",
-        "url": "https://www.moneycontrol.com/science/scientists-discover-13-million-year-old-vampire-camel-in-america-with-fangs-article-14082678.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261117122112_Sheetal-fi.jpg",
-        "publishedAt": "2026-11-17T12:21:49Z",
+        "title": "November’s sky has a full supermoon on November 24 that starts a run of three, the Leonid meteor shower peaking before dawn on November 17 and 18, and Taurid showers known for bright fireballs, NASA s",
+        "url": "https://timesofindia.indiatimes.com/science/space/novembers-sky-has-a-full-supermoon-on-november-24-that-starts-a-run-of-three-the-leonid-meteor-shower-peaking-before-dawn-on-november-17-and-18-and-taurid-showers-known-for-bright-fireballs-nasa-says/articleshow/135873336.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135873395,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-17T21:25:00Z",
         "category": "science",
-        "summary": "Scientists have discovered a 13-million-year-old camel species in North America, characterized by two sets of blade-shaped fangs. This long-legged camel, which inhabited the southern Great Plains, provides valuable insights into the evolution of camels. The findings contribute to the understanding of ancient fauna and the ecological dynamics of the region during that period.",
-        "wordCount": 53
+        "summary": "November features a full supermoon on the 24th, marking the beginning of three consecutive supermoons. The Leonid meteor shower will peak before dawn on November 17 and 18, while the Taurid meteor showers are noted for their bright fireballs. NASA highlights these celestial events, showcasing the ongoing mysteries of the universe that continue to intrigue humanity.",
+        "wordCount": 56
       },
       {
-        "title": "Jupiter-Mars conjunction 2026: Best images here!",
-        "url": "https://earthsky.org/todays-image/jupiter-and-mars-conjunction-november-2026-best-images-here/",
-        "source": "EarthSky",
-        "image": "https://earthsky.org/upl/2026/11/Jupiter-Mars-conjunction_Steven-Bellavia_NY_16Nov2026-800x800.jpg",
-        "publishedAt": "2026-11-17T12:18:42Z",
+        "title": "How far is a light-day? NASA's Voyager 1 probe nears milestone",
+        "url": "https://www.gulfcoastnewsnow.com/article/light-day-voyager-1-visualized/74443917",
+        "source": "Gulf Coast News and Weather",
+        "image": "https://kubrick.htvapps.com/htv-prod/images/372425b4-7eef-4304-86c5-9f9c4ed8b569.jpg?crop=0.976xw%3A1.00xh%3B0.0128xw%2C0&resize=1200%3A*",
+        "publishedAt": "2026-11-17T21:00:00Z",
         "category": "science",
-        "summary": "In November 2026, Jupiter and Mars experienced a close conjunction, visible in the morning sky. The planets appeared to edge closer throughout the month, culminating in their closest alignment from November 15-17. A gallery showcasing stunning images captured by photographers worldwide highlights this celestial event, celebrating the beauty of the conjunction between the bright planet and the reddish one.",
+        "summary": "NASA's Voyager 1 probe is approaching a significant milestone, expected to cross a light-day from Earth on Wednesday morning. This distance will place it over 58 billion Empire State Buildings away from our planet, marking it as the most distant human-made object in space. Voyager 1 was launched nearly 50 years ago and continues its journey through the cosmos.",
         "wordCount": 59
       },
       {
-        "title": "DESI weighs the Milky Way more precisely than ever",
-        "url": "https://phys.org/news/2026-11-desi-milky-precisely.html",
-        "source": "Phys.org",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/desi-weighs-the-milky.jpg",
-        "publishedAt": "2026-11-17T12:00:01Z",
+        "title": "Gravitational waves point to black holes without supernovae",
+        "url": "https://ua.news/en/dovkolo-svitu/gravitatsiini-khvili-vkazali-na-chorni-diri-bez-vibukhu-nadnovoyi-space-com",
+        "source": "UA.NEWS",
+        "image": "https://cdn-cabinet.ua.news/uploads/images/gravitational_waves_point_to_black_holes_1794942367583.webp",
+        "publishedAt": "2026-11-17T19:09:58Z",
         "category": "science",
-        "summary": "Astronomers have improved the estimation of the Milky Way's mass by tracking the movements of stars and satellite galaxies influenced by its gravity. Faster movements indicate a greater mass is required to keep these objects stable. Current measurements reveal that much of the galaxy's mass remains unaccounted for, leading to significant variations in mass estimates.",
-        "wordCount": 55
+        "summary": "An analysis of 257 black hole mergers has identified a population of black holes potentially formed through the direct collapse of massive stars, bypassing supernova explosions. This finding, based on gravitational-wave signals, suggests an alternative formation pathway for these cosmic objects. The study was published in the journal Physical Review, highlighting significant implications for our understanding of black hole formation.",
+        "wordCount": 60
       }
     ],
     "entertainment": [
       {
-        "title": "'Big Disappointment': Shraddha Kapoor's Ji Ji Re Ji Song From Eetha Divides The Internet",
-        "url": "https://www.ndtv.com/entertainment/big-disappointment-shraddha-kapoors-ji-ji-re-ji-song-from-eetha-divides-the-internet-12339063",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/o7hvtre_eetha_625x300_17_November_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-17T12:09:09Z",
+        "title": "Horoscope Today: November 18, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-november-18-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-11-18T00:30:00Z",
         "category": "entertainment",
-        "summary": "The song \"Ji Ji Re Ji,\" featuring Shraddha Kapoor, was released as the first track from her upcoming film Eetha. Sung by Shreya Ghoshal and composed by Ajay-Atul, the song has sparked mixed reactions online. While some viewers criticized Shraddha's performance and the composition, others expressed appreciation, leading to a divided response across social media platforms.",
-        "wordCount": 56
+        "summary": "On November 18, 2026, horoscopes suggest that Capricorns may be accustomed to stress and cortisol spikes, leading to a false sense of thriving. The article encourages reflection on this lifestyle, questioning whether it is sustainable or healthy. It prompts individuals to consider how they can interrupt this cycle and prioritize well-being over constant stress.",
+        "wordCount": 54
       },
       {
-        "title": "OM and Godzilla Minus Zero Among Seven Films Set for November 19-20 Box Office Clash as Advance Bookings Begin",
-        "url": "https://www.sacnilk.com/news/om-and-godzilla-minus-zero-among-seven-films-set-for-november-1920-box-office-clash-as-advance-bookings-begin",
-        "source": "Sacnilk",
-        "image": "https://cdn.sacnilk.com/image/news300/1000028594.jpg",
-        "publishedAt": "2026-11-17T11:54:41Z",
+        "title": "Capricorn Horoscope Today: November 18, 2026",
+        "url": "https://www.vogue.in/content/capricorn-horoscope-today-november-18-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
+        "publishedAt": "2026-11-18T00:20:00Z",
         "category": "entertainment",
-        "summary": "Seven films, including OM and Godzilla Minus Zero, are set to release in Indian theaters on November 19-20, leading to a competitive box office weekend. ENE Repeat currently leads in advance gross, while Bachelor Party D'eux shows strong ticket demand. The lineup features a mix of Tamil, Telugu, Malayalam, and international cinema, attracting significant audience interest.",
-        "wordCount": 56
+        "summary": "On November 18, 2026, Capricorns are advised to reconsider their relationship with stress. The horoscope suggests that while some may feel they thrive under pressure, this is not a sustainable way to live. It encourages individuals to reflect on their stress levels and consider making changes to improve their well-being, emphasizing the importance of finding balance in life.",
+        "wordCount": 58
       },
       {
-        "title": "Ramayana Ranks Among IMDb's Top 3 Most Popular Movies Worldwide This Week, Only Indian Film in Global Top 10",
-        "url": "https://www.sacnilk.com/news/ramayana-ranks-among-imdbs-top-3-most-popular-movies-worldwide-this-week-only-indian-film-in-global-top-10",
-        "source": "Sacnilk",
-        "image": "https://cdn.sacnilk.com/image/news300/1000028593.jpg",
-        "publishedAt": "2026-11-17T11:39:21Z",
+        "title": "Virgo Horoscope Today: November 18, 2026",
+        "url": "https://www.vogue.in/content/virgo-horoscope-today-november-18-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
+        "publishedAt": "2026-11-18T00:20:00Z",
         "category": "entertainment",
-        "summary": "Namit Malhotra's film Ramayana has achieved significant box office success, ranking third on IMDb's Most Popular Movies chart worldwide this week. This marks a notable accomplishment as it is the only Indian film to feature in the global top 10. Directed by Nitesh Tiwari, Ramayana continues to attract audiences and generate interest in the film industry.",
-        "wordCount": 56
+        "summary": "On November 18, 2026, Virgos are advised to prioritize their health and reduce stress. The horoscope suggests letting go of worries and embracing a more relaxed approach to life. Although it may be challenging, focusing on well-being and adopting a calm mindset is encouraged. This guidance serves as a reminder to maintain balance and care for oneself.",
+        "wordCount": 57
       }
     ]
   }
