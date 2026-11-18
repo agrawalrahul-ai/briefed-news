@@ -1,227 +1,217 @@
 {
-  "updatedAt": "2026-11-17T12:31:17.052Z",
+  "updatedAt": "2026-11-18T00:31:27.270Z",
   "categories": {
     "world": [
       {
-        "title": "Ties with Asean crucial for India's Act East Policy: PM",
-        "url": "https://timesofindia.indiatimes.com/india/ties-with-asean-crucial-for-indias-act-east-policy-pm/articleshow/135905979.cms",
+        "title": "ASEAN, China committed to follow South China Sea declaration until code of conduct is completed",
+        "url": "https://www.reuters.com/world/china/asean-china-committed-follow-south-china-sea-declaration-until-code-conduct-is-2026-11-17/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/BKHUJNY2MZMG7KR3XXQMK3GCQE.jpg?auth=cb6851879e6321a4d7b439258fab9c39887aea8cf789e79b765dd93dfc101f80&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-11-17T11:55:43Z",
+        "category": "world",
+        "summary": "ASEAN and China reaffirmed their commitment to the Declaration on the Conduct of Parties in the South China Sea until a code of conduct is finalized, according to Philippine President Ferdinand Marcos Jr. This statement was made during a meeting in Manila, emphasizing the importance of maintaining stability and cooperation in the region while awaiting the completion of the code.",
+        "wordCount": 60
+      },
+      {
+        "title": "A Washington boy who was autistic, nonverbal and legally blind died at 15 after years of abuse in his adoptive home; six years later, his estate and brothers secured a $49.33 million settlement",
+        "url": "https://timesofindia.indiatimes.com/world/us/a-washington-boy-who-was-autistic-nonverbal-and-legally-blind-died-at-15-after-years-of-abuse-in-his-adoptive-home-six-years-later-his-estate-and-brothers-secured-a-49-33-million-settlement/articleshow/135922315.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135905978,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-17T00:08:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135922864,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-17T11:30:00Z",
         "category": "world",
-        "summary": "PM Modi is visiting The Philippines for two days to attend the India-Asean and East Asia Summit meetings. Upon arrival in Manila, he emphasized the importance of strengthening ties with ASEAN as a crucial element of India's Act East Policy. Modi expressed optimism that this visit would revitalize India's partnerships in the region, enhancing collaboration and mutual interests.",
-        "wordCount": 58
+        "summary": "Karreon Adams-Franks, a 15-year-old boy who was autistic, nonverbal, and legally blind, died in 2020 in Vancouver, Washington, after enduring years of abuse and starvation in his adoptive home. Six years later, his estate and two surviving brothers reached a settlement of $49.33 million, addressing the neglect and mistreatment he suffered during his life.",
+        "wordCount": 54
       },
       {
-        "title": "Paraguay ex-president moved to military jail amid special treatment reports",
-        "url": "https://www.aljazeera.com/news/2026/11/16/paraguay-ex-president-moved-to-military-jail-amid-special-treatment-reports",
-        "source": "Al Jazeera",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afb7e2e9314-1794866734.jpg?resize=1200%2C630",
-        "publishedAt": "2026-11-16T23:59:26Z",
-        "category": "world",
-        "summary": "Paraguay's former President Santiago Pena has been moved to a military prison by a judge's order amid allegations of corruption linked to the recent collapse of Ueno Bank. Reports indicated he received special treatment while awaiting trial. Judge Osmar Legal's decision aims to ensure equal treatment for all detainees in light of the ongoing financial scandal.",
-        "wordCount": 56
-      },
-      {
-        "title": "United Airlines Resolves Technology Issue After Widespread Outage",
-        "url": "https://www.ndtv.com/world-news/united-airlines-resolves-technology-issue-after-widespread-outage-12336157",
+        "title": "Donald Trump Debuts New Hairdo During Philippines ASEAN Visit, Internet Reacts",
+        "url": "https://www.ndtv.com/world-news/darker-fluffier-donald-trump-debuts-new-hairdo-during-philippines-asean-visit-internet-reacts-12338720",
         "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/09820lgo_united-airlines_625x300_17_November_26.jpeg",
-        "publishedAt": "2026-11-16T23:50:24Z",
+        "image": "https://c.ndtvimg.com/2026-11/jmapeo9c_trump-hair-colour_625x300_17_November_26.jpeg",
+        "publishedAt": "2026-11-17T11:17:51Z",
         "category": "world",
-        "summary": "United Airlines experienced a system outage lasting over 90 minutes on Monday, causing delays for departing flights. However, flights already in the air and those on the United Express regional network were unaffected. This incident followed a recent malfunction in the Federal Aviation Administration's network that led to a nationwide ground stop, highlighting ongoing technological challenges in air travel.",
+        "summary": "During his visit to Manila for the 49th ASEAN Summit, US President Donald Trump showcased a new hairstyle that appeared darker and more voluminous than his usual golden-blond look. This change prompted significant reactions on social media, with users commenting on the noticeable difference. Trump arrived at Ninoy Aquino International Airport on Tuesday, generating buzz online about his appearance.",
         "wordCount": 59
       }
     ],
     "business": [
       {
-        "title": "Tata Sons facing 'back-door takeover', warns Jimmy Tata",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/tata-sons-facing-back-door-takeover-warns-jimmy-tata/articleshow/135905376.cms",
+        "title": "After Microsoft offers buyouts to 60,000 employees, CEO Satya Nadella explains the decision; says: I wish I could just sit here and ...",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-microsoft-offers-buyouts-to-60000-employees-ceo-satya-nadella-explains-the-decision-says-i-wish-i-could-just-sit-here-and-/articleshow/135924122.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135908977,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-16T23:47:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135924149,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-17T11:51:00Z",
         "category": "business",
-        "summary": "Jimmy Tata, younger brother of Ratan Tata and trustee of the Sir Ratan Tata Trust, has expressed concerns about a potential \"back-door takeover\" of Tata Sons. He emphasized the need for transparency and proper governance within the organization. His remarks come amid ongoing discussions about the future leadership and direction of Tata Sons, highlighting internal family dynamics and trust issues.",
-        "wordCount": 60
+        "summary": "Microsoft CEO Satya Nadella has discussed the company's decision to offer buyouts to 60,000 employees, clarifying that it is part of a broader effort to reshape team operations. He addressed concerns about potential AI-driven layoffs but emphasized that the initiative aims to enhance efficiency and adaptability within the organization, rather than indicating an impending workforce reduction due to AI.",
+        "wordCount": 59
       },
       {
-        "title": "IBM in talks for 2 large projects in India: CEO Krishna",
-        "url": "https://timesofindia.indiatimes.com/business/india-business/ibm-in-talks-for-2-large-projects-in-india-ceo-krishna/articleshow/135905284.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135905283,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-16T23:33:00Z",
+        "title": "India Gives Green Light to Commercial Sustainable Jet Fuel Production",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Gives-Green-Light-to-Commercial-Sustainable-Jet-Fuel-Production.html",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-17_pmzl9i5rck.jpg",
+        "publishedAt": "2026-11-17T11:15:00Z",
         "category": "business",
-        "summary": "IBM is in discussions for two significant projects in India, following the Amravati Quantum Tech Park initiative. CEO Arvind Krishna noted that the company's annual investment of $3 billion in India could increase in the coming years. These developments highlight IBM's commitment to expanding its presence and capabilities within the Indian technology sector.",
+        "summary": "India has approved the commercial supply of sustainable aviation fuel (SAF) from Indian Oil Corporation’s Panipat refinery. This marks the first batch produced at the country’s first commercial-scale SAF plant. The approval aligns with India's target for blending sustainable fuel by 2027, supporting the aviation sector's transition to more environmentally friendly fuel sources.",
         "wordCount": 53
       },
       {
-        "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-        "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-        "publishedAt": "2026-11-16T23:32:32Z",
+        "title": "'Ulta Pradesh' to 'Uttam Pradesh': Yogi minister on UP's transformation under BJP government",
+        "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/news/india/ulta-pradesh-to-uttam-pradesh-yogi-minister-on-up-s-transformation-under-bjp-government-14082531.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261117103428_Minister-.png",
+        "publishedAt": "2026-11-17T10:35:08Z",
         "category": "business",
-        "summary": "AI cybersecurity startup Corma has achieved a $1 billion valuation just three months after launching its product. The company raised $125 million in a Series A funding round, led by NEA. Corma specializes in AI models and agents designed for cybersecurity defense, marking a significant milestone in its early development and positioning within the cybersecurity industry.",
-        "wordCount": 56
+        "summary": "A Yogi minister highlighted Uttar Pradesh's transformation under the BJP government, stating the state has demonstrated progress across various sectors over the past nine to ten years. He noted that while it was previously referred to as \"Ulta Pradesh,\" it is now recognized as \"Uttam Pradesh.\" The minister emphasized the significant changes and improvements achieved during this period.",
+        "wordCount": 58
       }
     ],
     "technology": [
       {
-        "title": "XBOX Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More!",
-        "url": "https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/",
-        "source": "XBOX Wire",
-        "image": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/11/BF-CM-2027_Comp_Wire-Collection-B-RGB_1920x1080_02-34da270902fc95df2602.jpg",
-        "publishedAt": "2026-11-17T00:01:29Z",
+        "title": "Temple wearable voice detection recreated on laptop, earns Deepinder Goyal's praise",
+        "url": "https://www.indiatoday.in/technology/news/story/bengaluru-man-reverse-engineers-rs-85000-temple-tech-deepinder-goyal-says-nicely-done-3040792-2026-11-17",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/temple--temple-wearable--deepinder-goyal-175144594-16x9_0.jpg?VersionId=b3N55T_asERe91b4gU6sUV96wiTXNEcV",
+        "publishedAt": "2026-11-17T11:57:08Z",
         "category": "technology",
-        "summary": "The XBOX Black Friday sale begins on November 19, offering significant discounts on games and accessories. Shoppers can save up to 80% on select XBOX and PC games, along with various discounts on XBOX accessories. The sale aims to provide an opportunity for gift-giving for gamers, including options like custom controllers with free engraving.",
-        "wordCount": 54
+        "summary": "A tech enthusiast from Bengaluru successfully recreated the vibration-based voice detection technology from Temple's wearable device using a laptop accelerometer. This innovative experiment garnered the attention of Deepinder Goyal, the founder of Zomato, who praised the effort. In recognition of the achievement, Goyal offered the enthusiast a one-day trial of the Temple device for further exploration.",
+        "wordCount": 56
       },
       {
-        "title": "Quordle hints and answers for Tuesday, November 17 (game #1758)",
-        "url": "https://www.techradar.com/computing/websites-apps/quordle-today-answers-clues-17-november-2026",
-        "source": "TechRadar",
-        "image": "https://cdn.mos.cms.futurecdn.net/4XP9iNbdvkijJyZnzx3WoL-1920-80.jpg",
-        "publishedAt": "2026-11-17T00:00:00Z",
+        "title": "GTA 6 Special Abilities for Jason and Lucia Explained",
+        "url": "https://beebom.com/gta-6-special-abilities-jason-and-lucia/",
+        "source": "Beebom",
+        "image": "https://static.beebom.com/wp-content/uploads/2026/11/Jason-and-Lucia-in-a-Vehicle-in-GTA-6.jpg",
+        "publishedAt": "2026-11-17T11:48:59Z",
         "category": "technology",
-        "summary": "Quordle offers daily puzzles, with a new game released at midnight based on your time zone. Players may find themselves solving either the current day’s puzzle or the previous day’s. The article provides hints and answers for Quordle game #1758, along with access to past solutions for those seeking assistance with their gameplay.",
-        "wordCount": 53
+        "summary": "GTA 6 introduces character-specific special abilities for protagonists Jason and Lucia, enhancing gameplay with unique skills. These abilities provide players with distinct combat advantages, allowing for varied strategies during missions. The game emphasizes the importance of these skills in shaping player experiences, offering insights into how Jason and Lucia's talents can influence gameplay dynamics and overall performance in the game.",
+        "wordCount": 60
       },
       {
-        "title": "GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather",
-        "url": "https://sea.ign.com/grand-theft-auto-vi-rumored-title/252036/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
-        "source": "IGN Southeast Asia",
-        "image": "https://sm.ign.com/t/ign_ap/news/g/gta-6-gets/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-wea_yu7w.1200.jpg",
-        "publishedAt": "2026-11-16T23:04:41Z",
+        "title": "Zelda: Ocarina Of Time Remake Sold 1 Million Physical Copies In Its First Week, The Most Since Tears Of The Kingdom",
+        "url": "https://kotaku.com/zelda-ocarina-of-time-remake-sold-1-million-physical-copies-in-its-first-week-the-most-since-tears-of-the-kingdom-2000757645",
+        "source": "Kotaku",
+        "image": "https://kotaku.com/app/uploads/2026/11/2026110523321400_s-1200x675.jpg",
+        "publishedAt": "2026-11-17T11:30:43Z",
         "category": "technology",
-        "summary": "Rockstar has released new screenshots for GTA 6, featuring Leonida's dynamic weather system. Accompanying the visuals is a Weather Channel forecast, highlighting the game's immersive environment. As anticipation builds for the return to Vice City after a 13-year wait, the launch is imminent, with only days remaining until players can experience the updated gameplay and features.",
+        "summary": "The Switch 2 remake of The Legend of Zelda: Ocarina of Time sold 1 million physical copies in its first week in the U.S. This marks the highest sales for a physical game since the release of Tears of the Kingdom in 2023. The success highlights ongoing demand for physical copies among fans of the franchise.",
         "wordCount": 56
       }
     ],
     "sports": [
       {
-        "title": "IND vs NZ: 'Rahul Dravid batted us into submission' - Kyle Mills recalls India's 2009 triumph in Hamilton Test | Exclusive Interview",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/rahul-dravid-batted-us-into-submission-kyle-mills-recalls-indias-2009-triumph-in-hamilton-test/articleshow/135876742.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135877112,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-17T00:30:00Z",
+        "title": "MS Dhoni: Former India captain retires from playing role with IPL's Chennai Super Kings aged 45",
+        "url": "https://www.skysports.com/cricket/news/13613181/ms-dhoni-former-india-captain-retires-from-playing-role-with-ipls-chennai-super-kings-aged-45",
+        "source": "Sky Sports",
+        "image": "https://e0.365dm.com/26/11/1600x900/skysports-ms-dhoni-ipl-chennai-super-kings_7408726.jpg?20261117141431",
+        "publishedAt": "2026-11-17T12:29:07Z",
         "category": "sports",
-        "summary": "In an exclusive interview, Kyle Mills reflected on India's 2009 Test victory in Hamilton, where Rahul Dravid's performance was pivotal. Mills noted that New Zealand has historically posed challenges for India, highlighting that it has been 17 years since India last secured a Test win on New Zealand soil. Gautam Gambhir contributed significantly with a score of 72.",
+        "summary": "Former India captain MS Dhoni has announced his retirement from playing with the Chennai Super Kings in the Indian Premier League at age 45. Known as \"Captain Cool,\" he led India to World Cup victories in both formats. Dhoni will transition to a mentorship role starting in the 2027 season, having previously retired from international cricket in 2020.",
         "wordCount": 58
       },
       {
-        "title": "IPL Retention Day: Predicting who's retained, released for all 10 teams",
-        "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2027-retentions-releases-predictions-all-10-teams-auction-3040260-2026-11-17",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/ms-dhoni--yashasvi-jaiswal-162508252-16x9_0.jpg?VersionId=OXWoDyXJCpdOzPBK6.2fQD5wfd3MC8T4",
-        "publishedAt": "2026-11-16T23:30:01Z",
+        "title": "Retained and Released Players",
+        "url": "https://www.jagranjosh.com/general-knowledge/rcb-retention-list-2027-retained-and-released-players-1820013908-1",
+        "source": "Jagran Josh",
+        "image": "https://img.jagranjosh.com/images/2026/11/17/template/image/RCB-1794918087380.webp",
+        "publishedAt": "2026-11-17T12:23:47Z",
         "category": "sports",
-        "summary": "IPL 2027 retention day is approaching, prompting all 10 franchises to make critical squad decisions before the December auction. Predictions indicate potential big-name exits, including players like Shami, Sam Curran, and Yashasvi Jaiswal. The current trade window has been active, resembling European football's summer transfer period, as teams prepare to finalize their rosters ahead of the upcoming season.",
-        "wordCount": 58
+        "summary": "Royal Challengers Bengaluru (RCB), the defending champions, will announce their IPL 2027 retention list today. The announcement will include updates on players such as Josh Hazlewood and Jacob Bethell. RCB won its first IPL title in 2025 and successfully defended it in 2026, marking a significant achievement after 18 years of competition in the league.",
+        "wordCount": 55
       },
       {
-        "title": "Gerrard offers Pochettino advice on what to do with Bruno Fernandes at Old Trafford",
-        "url": "https://www.football365.com/news/gerrard-offers-pochettino-advice-on-what-to-do-with-bruno-fernandes-at-man-utd",
-        "source": "Football365",
-        "image": "https://d2x51gyc4ptf2q.cloudfront.net/content/uploads/2026/11/15102050/F365-Bruno-Fernandes-Mauricio-Pochettino-with-Man-utd-badge-1.jpg",
-        "publishedAt": "2026-11-16T23:09:35Z",
+        "title": "SGP v BRA Highlights; Brazil beat Singapore 7-0 in friendly at National stadium, Singapore; Vinicius and Endrick shine",
+        "url": "https://sportstar.thehindu.com/football/singapore-vs-brazil-friendly-live-score-updates-international-football-highlights-sgp-v-bra-streaming/article71711057.ece",
+        "source": "Sportstar",
+        "image": "https://ss-i.thgim.com/public/incoming/qp8cjh/article71711623.ece/alternates/LANDSCAPE_1200/Rayan.jpg",
+        "publishedAt": "2026-11-17T12:19:01Z",
         "category": "sports",
-        "summary": "Steven Gerrard has advised Mauricio Pochettino, the new Manchester United manager, on handling the situation regarding Bruno Fernandes. Following the dismissal of Michael Carrick, Pochettino is tasked with addressing the challenges surrounding Fernandes at Old Trafford. Gerrard's insights aim to support Pochettino in effectively managing the team's dynamics and maximizing Fernandes' contributions to the squad.",
+        "summary": "Brazil defeated Singapore 7-0 in an international friendly match at the National Stadium in Singapore. The Brazilian team showcased a dominant performance, particularly in the first half, with standout contributions from players Vinicius and Endrick. The match highlighted the skill disparity between the teams, as Brazil utilized both experienced and younger players throughout the game.",
         "wordCount": 55
       }
     ],
     "health": [
       {
-        "title": "U.S. Expected to Lose Measles",
-        "url": "https://www.healthline.com/health-news/u-s-loses-measles-elimination-status-after-26-years",
-        "source": "Healthline",
-        "image": "https://media.post.rvohealth.io/wp-content/uploads/2026/11/US_Lose_Measles_Free_status-facebook-1200x630-1-1200x628.jpg",
-        "publishedAt": "2026-11-16T19:49:27Z",
+        "title": "India Records 38% Drop in TB Deaths Since 2015, Outpaces Global Decline: WHO",
+        "url": "https://theindianpractitioner.com/india-records-38-drop-in-tb-deaths-since-2015-outpaces-global-decline-who/",
+        "source": "The Indian Practitioner",
+        "image": "https://theindianpractitioner.com/wp-content/uploads/2026/11/India-Records-38-Drop-in-TB-Deaths-Since-2015-Outpaces-Global-Decline-WHO-scaled.jpg",
+        "publishedAt": "2026-11-17T09:14:42Z",
         "category": "health",
-        "summary": "The United States is anticipated to lose its measles elimination status after 26 years, with the Pan American Health Organization (PAHO) set to make an official announcement on November 17. In 2026, U.S. measles cases reached 5,412, marking the highest total in 35 years, highlighting concerns about vaccination rates and public health measures.",
-        "wordCount": 53
-      },
-      {
-        "title": "This time, the virus is on the patient's side. AI helped design it",
-        "url": "https://medicalxpress.com/news/2026-11-virus-patient-side-ai.html",
-        "source": "Medical Xpress",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2024/virus.jpg",
-        "publishedAt": "2026-11-16T18:40:17Z",
-        "category": "health",
-        "summary": "AI has been utilized to create a novel virus, showcasing its capabilities beyond traditional tasks like writing emails or developing recipes. This development follows various creative uses of AI, including a baker who used ChatGPT to design an unconventional cake. The emergence of this AI-generated virus has sparked interest, though it is not considered a cause for alarm.",
-        "wordCount": 58
-      },
-      {
-        "title": "World Diabetes Day - Can Type 2 Diabetes Be Reversed? Why Acting Early Matters.",
-        "url": "https://www.tripurastarnews.com/world-diabetes-day-can-type-2-diabetes-be-reversed-why-acting-early-matters/",
-        "source": "TRIPURA STAR NEWS",
-        "image": "https://www.tripurastarnews.com/wp-content/uploads/2026/11/Dr-Hema-Venkataraman-.jpg",
-        "publishedAt": "2026-11-16T17:53:04Z",
-        "category": "health",
-        "summary": "On World Diabetes Day, experts discuss the potential for reversing Type 2 diabetes, emphasizing the importance of early intervention. Traditionally, patients have been prepared for a lifelong condition, following a predictable treatment path involving diet, exercise, and medication adjustments. Recent insights suggest that proactive measures may alter this trajectory, highlighting the need for timely action in managing the disease.",
+        "summary": "India has achieved a 38% reduction in tuberculosis (TB) deaths since 2015, surpassing the global decline of 35%, as reported by the World Health Organization (WHO) in its Global Tuberculosis Report 2026. This progress highlights India's intensified efforts in combating TB, contributing significantly to global health goals and showcasing the effectiveness of its public health strategies against the disease.",
         "wordCount": 59
+      },
+      {
+        "title": "HPV Vaccine And Cervical Cancer: How Does The Vaccine Prevent Cervical Cancer? Age Guidelines, Side Effects And More",
+        "url": "https://www.ndtv.com/health/womens-health/hpv-vaccine-and-cervical-cancer-how-does-the-vaccine-prevent-cervical-cancer-age-guidelines-side-effects-and-more-12337451",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/g09ccdn8_hpv-vaccine_625x300_17_November_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-17T07:38:14Z",
+        "category": "health",
+        "summary": "The WHO recommends HPV vaccination for girls aged 9 to 14, with variations by country. The vaccine can also be administered to boys in certain regions, as HPV is linked to various cancers and can be transmitted. World Cervical Cancer Elimination Day, observed on November 17, aims to raise awareness and improve access to HPV vaccination and cervical cancer prevention.",
+        "wordCount": 60
       }
     ],
     "science": [
       {
-        "title": "Garnet Supercomputer Gets $334M; Unnamed Blackwell Chips Differ 31-Fold in Double-Precision Speed",
-        "url": "https://www.techtimes.com/articles/330853/20261116/garnet-supercomputer-gets-334m-unnamed-blackwell-chips-differ-31-fold-double-precision-speed.htm",
-        "source": "Tech Times",
-        "image": "https://d.techtimes.com/en/full/478471/garnet-compute-resource-graphic-final-result.png",
-        "publishedAt": "2026-11-16T21:54:58Z",
+        "title": "Scientists discover 13-million-year-old vampire camel in America with fangs",
+        "url": "https://www.moneycontrol.com/science/scientists-discover-13-million-year-old-vampire-camel-in-america-with-fangs-article-14082678.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261117122112_Sheetal-fi.jpg",
+        "publishedAt": "2026-11-17T12:21:49Z",
         "category": "science",
-        "summary": "The Garnet supercomputer, a $334 million Nvidia Blackwell system, is set to be deployed at NCSA in Urbana-Champaign by mid-2027. Funded by a Schmidt Sciences grant, details on the GPU count and specific chip variant remain undisclosed. Nvidia's B200 chip reportedly achieves approximately 37 teraflops of double-precision (FP64) performance, highlighting significant advancements in processing speed.",
+        "summary": "Scientists have discovered a 13-million-year-old camel species in North America, characterized by two sets of blade-shaped fangs. This long-legged camel, which inhabited the southern Great Plains, provides valuable insights into the evolution of camels. The findings contribute to the understanding of ancient fauna and the ecological dynamics of the region during that period.",
+        "wordCount": 53
+      },
+      {
+        "title": "Jupiter-Mars conjunction 2026: Best images here!",
+        "url": "https://earthsky.org/todays-image/jupiter-and-mars-conjunction-november-2026-best-images-here/",
+        "source": "EarthSky",
+        "image": "https://earthsky.org/upl/2026/11/Jupiter-Mars-conjunction_Steven-Bellavia_NY_16Nov2026-800x800.jpg",
+        "publishedAt": "2026-11-17T12:18:42Z",
+        "category": "science",
+        "summary": "In November 2026, Jupiter and Mars experienced a close conjunction, visible in the morning sky. The planets appeared to edge closer throughout the month, culminating in their closest alignment from November 15-17. A gallery showcasing stunning images captured by photographers worldwide highlights this celestial event, celebrating the beauty of the conjunction between the bright planet and the reddish one.",
+        "wordCount": 59
+      },
+      {
+        "title": "DESI weighs the Milky Way more precisely than ever",
+        "url": "https://phys.org/news/2026-11-desi-milky-precisely.html",
+        "source": "Phys.org",
+        "image": "https://scx2.b-cdn.net/gfx/news/2026/desi-weighs-the-milky.jpg",
+        "publishedAt": "2026-11-17T12:00:01Z",
+        "category": "science",
+        "summary": "Astronomers have improved the estimation of the Milky Way's mass by tracking the movements of stars and satellite galaxies influenced by its gravity. Faster movements indicate a greater mass is required to keep these objects stable. Current measurements reveal that much of the galaxy's mass remains unaccounted for, leading to significant variations in mass estimates.",
         "wordCount": 55
-      },
-      {
-        "title": "Scientists detect mysterious radio signals from star system 5,000 light-years away; dead star emits pulses every eight minutes while orbiting Sun-like companion in rare cosmic discovery",
-        "url": "https://timesofindia.indiatimes.com/science/space/scientists-detect-mysterious-radio-signals-from-star-system-5000-light-years-away-dead-star-emits-pulses-every-eight-minutes-while-orbiting-sun-like-companion-in-rare-cosmic-discovery/articleshow/135899104.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135899625,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-16T18:22:00Z",
-        "category": "science",
-        "summary": "Astronomers have identified a rare star system located over 5,000 light-years away, emitting mysterious radio pulses every eight minutes. This discovery involves a dead star that orbits a Sun-like companion, marking a significant finding in cosmic research. The detection of these radio signals adds to the understanding of stellar phenomena and the behaviors of such distant celestial bodies.",
-        "wordCount": 58
-      },
-      {
-        "title": "The Leonid meteor shower peaks Nov. 17-18! Here's what you need to know",
-        "url": "https://www.space.com/stargazing/meteor-showers/the-leonid-meteor-shower-peaks-nov-17-18-heres-what-you-need-to-know",
-        "source": "Space",
-        "image": "https://cdn.mos.cms.futurecdn.net/NAsZfCfCmdo4HYro9w4Qfb-2000-80.jpg",
-        "publishedAt": "2026-11-16T17:00:00Z",
-        "category": "science",
-        "summary": "The Leonid meteor shower will peak overnight on November 17-18, with observers able to see up to 15 meteors per hour. This event features bright fireballs and Earth-grazers as Earth passes through debris from Comet 55P/Tempel-Tuttle. Ideal viewing conditions require a dark sky for optimal meteor visibility during this annual astronomical phenomenon.",
-        "wordCount": 52
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: November 17, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-november-17-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-11-17T00:30:00Z",
+        "title": "'Big Disappointment': Shraddha Kapoor's Ji Ji Re Ji Song From Eetha Divides The Internet",
+        "url": "https://www.ndtv.com/entertainment/big-disappointment-shraddha-kapoors-ji-ji-re-ji-song-from-eetha-divides-the-internet-12339063",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/o7hvtre_eetha_625x300_17_November_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-17T12:09:09Z",
         "category": "entertainment",
-        "summary": "On November 17, 2026, Pisces may experience uncertainty regarding their foundational aspects, particularly in financial or career matters. This period may challenge their sense of stability in worldly affairs. However, maintaining self-confidence and guiding oneself through these uncertainties is encouraged. Embracing personal strength can help navigate this phase, leading to potential growth and clarity in various life areas.",
-        "wordCount": 58
-      },
-      {
-        "title": "Scorpio Horoscope Today: November 17, 2026",
-        "url": "https://www.vogue.in/content/scorpio-horoscope-today-november-17-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e052102d2f4db9b8e92b/16:9/w_1280,c_limit/9-Scorpio_16;9.png",
-        "publishedAt": "2026-11-17T00:20:00Z",
-        "category": "entertainment",
-        "summary": "On November 17, 2026, Scorpios are advised to be cautious about sharing their time, energy, and resources. While many may seek their attention, it is crucial for Scorpios to discern who is genuinely deserving of their efforts. The day emphasizes the importance of being selective in relationships and interactions, ensuring that their contributions are valued appropriately.",
+        "summary": "The song \"Ji Ji Re Ji,\" featuring Shraddha Kapoor, was released as the first track from her upcoming film Eetha. Sung by Shreya Ghoshal and composed by Ajay-Atul, the song has sparked mixed reactions online. While some viewers criticized Shraddha's performance and the composition, others expressed appreciation, leading to a divided response across social media platforms.",
         "wordCount": 56
       },
       {
-        "title": "Capricorn Horoscope Today: November 17, 2026",
-        "url": "https://www.vogue.in/content/capricorn-horoscope-today-november-17-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
-        "publishedAt": "2026-11-17T00:20:00Z",
+        "title": "OM and Godzilla Minus Zero Among Seven Films Set for November 19-20 Box Office Clash as Advance Bookings Begin",
+        "url": "https://www.sacnilk.com/news/om-and-godzilla-minus-zero-among-seven-films-set-for-november-1920-box-office-clash-as-advance-bookings-begin",
+        "source": "Sacnilk",
+        "image": "https://cdn.sacnilk.com/image/news300/1000028594.jpg",
+        "publishedAt": "2026-11-17T11:54:41Z",
         "category": "entertainment",
-        "summary": "On November 17, 2026, Capricorns may experience conflicting feelings. It is advised to approach these challenges methodically, akin to the game of Mikado, by addressing one issue at a time. This strategy will help Capricorns regain a sense of control and stability in their lives. Patience and careful consideration are key to navigating the current complexities.",
+        "summary": "Seven films, including OM and Godzilla Minus Zero, are set to release in Indian theaters on November 19-20, leading to a competitive box office weekend. ENE Repeat currently leads in advance gross, while Bachelor Party D'eux shows strong ticket demand. The lineup features a mix of Tamil, Telugu, Malayalam, and international cinema, attracting significant audience interest.",
+        "wordCount": 56
+      },
+      {
+        "title": "Ramayana Ranks Among IMDb's Top 3 Most Popular Movies Worldwide This Week, Only Indian Film in Global Top 10",
+        "url": "https://www.sacnilk.com/news/ramayana-ranks-among-imdbs-top-3-most-popular-movies-worldwide-this-week-only-indian-film-in-global-top-10",
+        "source": "Sacnilk",
+        "image": "https://cdn.sacnilk.com/image/news300/1000028593.jpg",
+        "publishedAt": "2026-11-17T11:39:21Z",
+        "category": "entertainment",
+        "summary": "Namit Malhotra's film Ramayana has achieved significant box office success, ranking third on IMDb's Most Popular Movies chart worldwide this week. This marks a notable accomplishment as it is the only Indian film to feature in the global top 10. Directed by Nitesh Tiwari, Ramayana continues to attract audiences and generate interest in the film industry.",
         "wordCount": 56
       }
     ]
