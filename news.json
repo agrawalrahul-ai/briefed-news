@@ -1,228 +1,228 @@
 {
-  "updatedAt": "2026-11-19T00:31:19.373Z",
+  "updatedAt": "2026-11-19T12:32:05.333Z",
   "categories": {
     "world": [
       {
-        "title": "Russian 'Bears' return to Vietnam after 12 years: Why Moscow's Tu-95 deployment matters",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/russian-bears-return-to-vietnam-after-12-years-why-moscows-tu-95-deployment-matters/articleshow/135963034.cms",
+        "title": "A British mother lost the chance to oppose her young daughter's adoption even after completing treatment and rebuilding her life; a court has now reopened her challenge, but the child's future remains",
+        "url": "https://timesofindia.indiatimes.com/world/uk/a-british-mother-lost-the-chance-to-oppose-her-young-daughters-adoption-even-after-completing-treatment-and-rebuilding-her-life-a-court-has-now-reopened-her-challenge-but-the-childs-future-remains-undecided/articleshow/135954753.cms",
         "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135963086,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-18T12:17:00Z",
+        "image": "https://static.toiimg.com/thumb/msid-135954895,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-19T00:30:00Z",
         "category": "world",
-        "summary": "Russia has reintroduced its Tu-95 nuclear-capable strategic bombers to Vietnam after a 12-year hiatus, reinstating a military agreement that previously enabled Moscow to operate long-range aircraft in the area. This deployment may enhance Russia's military presence in Southeast Asia, allowing its bombers to operate closer to potential targets, thereby impacting regional security dynamics and international relations.",
+        "summary": "A British mother, who overcame substance misuse, domestic abuse, and mental health issues, has been granted a chance to contest her young daughter's adoption. Previously, she lost the opportunity to oppose the adoption despite her recovery. The court has reopened her case, but the child's future remains uncertain as the legal proceedings continue.",
+        "wordCount": 53
+      },
+      {
+        "title": "Vance's Iran war criticism irks Trump, Rubio emerges as his favourite: Report",
+        "url": "https://www.indiatoday.in/world/story/trump-unhappy-with-vances-iran-war-stand-sees-rubio-as-2028-contender-report-3041982-2026-11-19",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/us-president-donald-trump-speaks-in-the-oval-office--with-vice-president-jd-vance-and-secretary-of-s-261408676-16x9.jpg?VersionId=DF52kDnYMu58.zi7KY14LBmYYsy457u5",
+        "publishedAt": "2026-11-18T23:57:30Z",
+        "category": "world",
+        "summary": "Donald Trump has expressed dissatisfaction with JD Vance's criticism of the Iran war, favoring Marco Rubio's support for the military campaign instead. This situation highlights growing divisions within the Republican Party and adds complexity to the 2028 succession race. The tensions reflect differing views on foreign policy among party members as they navigate their political futures.",
         "wordCount": 56
       },
       {
-        "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
-        "url": "https://www.reuters.com/world/africa/ethiopia-eritrea-amass-forces-along-border-heightening-war-fears-sources-say-2026-11-18/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/IDUOLS6NCFO45E5LIYAPB7FA3U.jpg?auth=bb29c1dd51eabdab378f4ba15b428eb3479bf730c680e1ea96babd7777f5ec5d&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-11-18T11:20:42Z",
+        "title": "What China’s Gene-Editing Deaths Reveal About Its Biotech Industry",
+        "url": "https://www.noemamag.com/what-chinas-gene-editing-deaths-reveal-about-its-biotech-industry/",
+        "source": "Noema Magazine",
+        "image": "https://noemamag.imgix.net/2026/11/Noema_Final-1-scaled.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=6c14371b69ed3192f55da266c064c0d1",
+        "publishedAt": "2026-11-18T22:37:02Z",
         "category": "world",
-        "summary": "Ethiopia and Eritrea have gathered military forces along their shared border, according to conflict monitors and militia sources in northern Ethiopia's Tigray region. This buildup has raised concerns about the potential for renewed conflict between the two nations, which have a history of rivalry. The situation remains tense as both sides prepare for possible escalation.",
-        "wordCount": 55
-      },
-      {
-        "title": "US used expired Tomahawks against Iran by changing operation codes of old missiles",
-        "url": "https://www.indiatoday.in/world/story/us-iran-war-news-operation-epic-fury-us-navy-tomahawk-missile-acting-navy-secretary-hung-cao-itspc-3041374-2026-11-18",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/a-us-navy-destroyer-launches-a-tomahak-missile-against-an-iranian-target-during-operation-epic-fury-180542777-16x9_0.jpg?VersionId=r4enjWvavS5glDfOKpeFvFutyyK0qkYV",
-        "publishedAt": "2026-11-18T11:16:37Z",
-        "category": "world",
-        "summary": "The US Navy has confirmed using expired Tomahawk cruise missiles in its operations against Iran, prompting concerns about the condition of its munitions stockpiles. Acting Navy Secretary Hung Cao's comments highlight the challenges posed by an increasing reliance on aging missiles amid a significant shortage of available weaponry, raising questions about operational readiness and safety.",
-        "wordCount": 55
+        "summary": "In March 2023, a four-year-old girl in Shanghai was diagnosed with a rare genetic mutation causing developmental delays. Despite her mild condition improving through therapy and education, her parents sought gene-editing treatment. This incident highlights concerns about China's biotech industry, where regulatory challenges persist, contributing to its reputation as the “Wild East” in genetic research and applications.",
+        "wordCount": 57
       }
     ],
     "business": [
       {
-        "title": "Indian equities see record $10.6 billion FII inflows in Nov so far; here's why brokerages are bullish",
-        "url": "https://www.moneycontrol.com/news/business/markets/indian-equities-see-record-10-bn-fii-inflows-in-nov-already-here-s-why-brokerages-are-bullish-14083553.html",
-        "source": "Moneycontrol.com",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/01/20260117024209_stock1.jpg",
-        "publishedAt": "2026-11-18T12:05:07Z",
+        "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test",
+        "url": "https://www.cnbc.com/2026/11/19/india-inflation-foreign-investor-nifty50.html",
+        "source": "CNBC",
+        "image": "https://image.cnbcfm.com/api/v1/image/108553820-1794976008896-gettyimages-2304001530-AA_10112026_3035606.jpeg?v=1794976035&w=1920&h=1080",
+        "publishedAt": "2026-11-19T00:01:00Z",
         "category": "business",
-        "summary": "Foreign portfolio investors (FPIs) have invested a record $10.6 billion in Indian equities in November, exceeding the previous high of $8.4 billion from December 2020. This significant inflow reflects renewed confidence in the Indian market, prompting brokerages to adopt a bullish outlook. The surge highlights a strong recovery in foreign investment interest in the Indian stock market.",
+        "summary": "India's inflation has increased for 12 consecutive months, posing risks to economic growth and the reversal of foreign capital inflows. The rising prices could challenge the market's recent recovery, which was supported by foreign investments. As global portfolio managers assess the situation, the impact of inflation on India's economy remains a critical focus for stakeholders and analysts.",
         "wordCount": 57
       },
       {
-        "title": "Top 15 Electric Scooters Oct 2026 India - Chetak, iQube, Rizta, Vida",
-        "url": "https://bikeadvice.in/top-15-electric-scooters-oct-2026-india-chetak-iqube-rizta-vida/",
-        "source": "BikeAdvice",
-        "image": "https://bikeadvice.in/wp-content/uploads/2025/09/TVS-Orbiter-3-scaled.jpg",
-        "publishedAt": "2026-11-18T11:54:51Z",
+        "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable'",
+        "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+        "source": "TechCrunch",
+        "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2305773699.jpg?resize=857,1200",
+        "publishedAt": "2026-11-18T23:45:00Z",
         "category": "business",
-        "summary": "In October 2026, Bajaj Chetak emerged as the top-selling electric scooter in India. The combined sales of TVS iQube and TVS Orbiter reached nearly 70,000 units, surpassing Bajaj’s overall retail volumes. The total electric two-wheeler sales in the month hit a record high of 2.24 lakh units, reflecting significant growth in the electric scooter market.",
-        "wordCount": 55
+        "summary": "Microsoft CEO Satya Nadella addressed concerns over AI-related cyberattacks, stating that many critical infrastructure systems are \"unpatchable.\" He downplayed a recent Outlook outage while emphasizing the dual nature of AI, which presents both opportunities and challenges for cybersecurity. Nadella spoke at The New York Times’ DealBook Summit, highlighting vulnerabilities in software systems that manage essential services and transportation.",
+        "wordCount": 58
       },
       {
-        "title": "RBI The Competent Authority, Not ICICI Bank's Board: Bombay High Court While Quashing Sanction To Prosecute Chanda Kochhar",
-        "url": "https://www.livelaw.in/high-court/bombay-high-court/rbi-the-competent-authority-not-icici-banks-board-bombay-high-court-while-quashing-sanction-to-prosecute-chanda-kochhar-558950",
-        "source": "Live Law",
-        "image": "https://www.livelaw.in/h-upload/2020/11/20/384876-chanda-kochar.jpg",
-        "publishedAt": "2026-11-18T11:50:07Z",
+        "title": "Retiring EPFO subscribers may get monthly payouts",
+        "url": "https://timesofindia.indiatimes.com/business/india-business/retiring-epfo-subscribers-may-get-monthly-payouts/articleshow/135973901.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135973930,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-18T22:24:00Z",
         "category": "business",
-        "summary": "The Bombay High Court quashed the sanction issued by ICICI Bank's Board of Directors for the Central Bureau of Investigation (CBI) to prosecute former CEO Chanda Kochhar under the Prevention of Corruption Act. The court ruled that the Reserve Bank of India (RBI) is the competent authority in such matters, not the bank's board.",
-        "wordCount": 54
+        "summary": "The Employees' Provident Fund Organisation (EPFO) plans to introduce a systematic withdrawal scheme for retiring subscribers, enabling monthly payouts. This initiative will also allow voluntary contributions from gig and unorganised sector workers. The new plan aims to provide existing subscribers with more flexible options for managing their retirement savings, enhancing financial security for millions of workers across India.",
+        "wordCount": 58
       }
     ],
     "technology": [
       {
-        "title": "Samsung Galaxy Tab S12+: Light, lean and laptop-like",
-        "url": "https://www.thehindubusinessline.com/specials/technophile/samsung-galaxy-tab-s12-premium-tablet-packs-power-portability-and-sky-high-price/article71715836.ece",
-        "source": "BusinessLine",
-        "image": "https://bl-i.thgim.com/public/incoming/9jrj9s/article71715872.ece/alternates/LANDSCAPE_1200/Samsung%20Galaxy%20Tab.png",
-        "publishedAt": "2026-11-18T12:21:15Z",
+        "title": "GTA 6 hacker pleads guilty ahead of Nov. 19 release",
+        "url": "https://finance.yahoo.com/technology/ai/articles/gta-6-hacker-pleads-guilty-003000280.html",
+        "source": "Yahoo Finance",
+        "image": "https://s.yimg.com/lo/mysterio/api/55ec7b757bd141f103ec06e4a385ea686dbe9be87bae8192ebd1f3f8f88b19c0/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthestreet_881%2F9b5f39557bac4dc9c821f276599637d0.jpg",
+        "publishedAt": "2026-11-19T00:30:00Z",
         "category": "technology",
-        "summary": "The Samsung Galaxy Tab S12+ is a premium, portable tablet designed for productivity, featuring laptop-like capabilities and strong media performance. It offers long software support, appealing to users seeking versatility in a lightweight device. While many tablets claim to replace laptops, the Tab S12+ aims for a more modest approach, balancing functionality with a premium price tag.",
-        "wordCount": 57
+        "summary": "The hacker who stole 90 unfinished gameplay clips of Grand Theft Auto VI has pleaded guilty to multiple cyberattacks as the game's release date approaches on November 19. The case involves not only the leaked footage but also telecom breaches and various hacking techniques. The legal proceedings highlight ongoing concerns regarding cybersecurity in the gaming industry.",
+        "wordCount": 56
       },
       {
-        "title": "GTA VI takes over an NBA court. How Vice City became a real-world spectacle",
-        "url": "https://theprint.in/theprint-essential/gta-vi-takes-over-an-nba-court-how-vice-city-became-a-real-world-spectacle/3102141/",
-        "source": "ThePrint",
-        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/Untitled-design-15.png",
-        "publishedAt": "2026-11-18T11:53:23Z",
+        "title": "Rockstar Needed 13 Years to Develop GTA VI. Here’s a Timeline.",
+        "url": "https://www.barrons.com/articles/take-two-rockstar-grand-theft-auto-adccec6c",
+        "source": "Barron's",
+        "image": "https://images.barrons.com/im-45437693/social",
+        "publishedAt": "2026-11-18T23:12:00Z",
         "category": "technology",
-        "summary": "Grand Theft Auto VI has gained significant attention globally, with gamers in New Zealand already exploring Vice City. The game's launch has created a buzz, leading to various real-world promotions, including an NBA court takeover. Millions of players worldwide are eagerly anticipating the release, marking a notable moment in gaming culture as Rockstar's latest installment captures widespread interest.",
-        "wordCount": 58
+        "summary": "Rockstar Games took 13 years to develop Grand Theft Auto VI, significantly longer than the five years required for its predecessor, released in 2013. The timeline highlights the extensive development process and resources invested in creating the highly anticipated game. The article also notes that readers will be redirected to a third-party website for further information.",
+        "wordCount": 56
       },
       {
-        "title": "Google expands Gemini Tasks to millions of users, adds calling and shopping features",
-        "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-expands-gemini-tasks-to-millions-of-users-adds-calling-and-shopping-features/articleshow/135962173.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135962223,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-18T11:45:00Z",
+        "title": "Google Unveils Gemini 4 Neon, a Cheaper Frontier Model Aimed at Coding and Enterprise Workloads",
+        "url": "https://finance.biggo.com/news/7a4c8255-7eec-46a0-91d2-6bd980991a64",
+        "source": "finance.biggo.com",
+        "image": "https://img.biggo.com/OCtDi-KkLe1pGAkIjOQRV6TrcCzmlauUGvrr4CAWxMA/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzdhNGM4MjU1LTdlZWMtNDZhMC05MWQyLTZiZDk4MDk5MWE2NF8xNzk1MDQwODk0X2RlZmF1bHQuanBn.jpg",
+        "publishedAt": "2026-11-18T22:25:00Z",
         "category": "technology",
-        "summary": "Google has expanded its Gemini Tasks, an AI-powered assistant feature, to millions of users. This update allows the assistant to perform multi-step actions, such as making calls to businesses, comparing prices, and assisting with purchases. The rollout aims to enhance user experience by streamlining various tasks, making it easier for users to manage their daily activities efficiently.",
+        "summary": "Google launched Gemini 4 Neon, a frontier-level AI model designed for coding and enterprise workloads, priced at $3 per million input tokens and $15 per million output tokens. The model targets complex software engineering, analytical, and scientific tasks. Google claims Neon achieves a score of 61 on the Artif... benchmark, indicating its advanced capabilities in these areas.",
         "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "MS Dhoni's IPL career in numbers",
-        "url": "https://www.cricinfo.com/story/ms-dhoni-s-ipl-career-in-numbers-1563094",
-        "source": "Cricinfo",
-        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/379400/379464.6.jpg",
-        "publishedAt": "2026-11-18T12:28:00Z",
+        "title": "NZ vs IND, 1st Test, India tour of New Zealand 2026",
+        "url": "https://www.cricbuzz.com/player-match-performance/match/161285/player/9311/bowling?inningsId=1",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/i1/c582022/i.jpg?d=high&p=det",
+        "publishedAt": "2026-11-18T23:43:53Z",
         "category": "sports",
-        "summary": "MS Dhoni's IPL career is marked by significant achievements, including five titles as captain of the Chennai Super Kings. His leadership and performance have made him one of the league's greatest players. The article highlights key statistics and milestones from his career, showcasing his impact on the tournament and contributions to the team's success over the years.",
+        "summary": "India is touring New Zealand for the 1st Test match in 2026. Live updates include scores, scorecards, and schedules for both international and domestic cricket. The match features Jasprit Bumrah bowling to Tom Blundell, who defends a good-length delivery and leaves another ball in the corridor of uncertainty. Further details can be found on Cricbuzz.",
+        "wordCount": 55
+      },
+      {
+        "title": "Akash Deep: The making of a second innings",
+        "url": "https://www.cricbuzz.com/cricket-news/140965/akash-deep-the-making-of-a-second-innings",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1128893/nine-months-after-a-stress-fracture-halted-his-test-career-akash-deep-has-fought-his-way-back-wiser-about-his-body-and-more-certain-about-his-bowling.jpg",
+        "publishedAt": "2026-11-18T22:15:11Z",
+        "category": "sports",
+        "summary": "Akash Deep is making a comeback to cricket nine months after a stress fracture ended his Test career. During his recovery, he gained a better understanding of his body and improved his bowling skills. His journey reflects resilience and determination as he aims to reestablish himself in the sport, showcasing his growth and commitment to the game.",
         "wordCount": 57
       },
       {
-        "title": "SMAT 2026: Dhull's blazing ton in vain as Bihar stun Delhi",
-        "url": "https://www.cricbuzz.com/cricket-news/140959/smat-2026-dhulls-blazing-ton-in-vain-as-bihar-stun-delhi",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1128612/file-image-dhull-slammed-seven-maximums-and-16-boundaries-in-his-59-ball-125.jpg",
-        "publishedAt": "2026-11-18T12:26:46Z",
+        "title": "India leave Siraj and Jadeja out of opening Test in New Zealand",
+        "url": "https://www.cricinfo.com/story/india-leave-mohammed-siraj-and-ravindra-jadeja-out-of-opening-test-in-new-zealand-1563144",
+        "source": "Cricinfo",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/425400/425446.6.jpg",
+        "publishedAt": "2026-11-18T22:07:54Z",
         "category": "sports",
-        "summary": "In the SMAT 2026 tournament, Bihar defeated Delhi, while Haryana triumphed over Tamil Nadu and Vidarbha won against Hyderabad. Chhattisgarh's captain Vikalp Tiwari scored 119 runs off 56 balls, leading his team to a 51-run victory against Odisha. Tiwari hit 18 fours and three sixes before retiring hurt, contributing significantly to his team's success.",
-        "wordCount": 54
-      },
-      {
-        "title": "Arshdeep Singh makes big jump in ODI bowling rankings, Rohit Sharma slips after New Zealand series",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/arshdeep-singh-makes-big-jump-in-odi-bowling-rankings-rohit-sharma-slips-after-new-zealand-series/articleshow/135962954.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135963246,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-18T12:22:00Z",
-        "category": "sports",
-        "summary": "India fast bowler Arshdeep Singh has advanced 12 positions in the ICC ODI bowling rankings, now sharing 19th place with teammate Axar Patel. This improvement follows his performance in the recent series against New Zealand. Conversely, Indian captain Rohit Sharma has slipped in the rankings, reflecting the competitive nature of the ODI format and player performances.",
+        "summary": "India opted to bowl first after winning the toss against New Zealand in the opening Test. The match is being played on a green pitch, which may favor bowlers. Notably, India left out key players Mohammed Siraj and Ravindra Jadeja from the playing XI. This decision marks India's continued strategy during their tour of New Zealand.",
         "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "What a lump in your armpit could mean: An oncologist explains",
-        "url": "https://indianexpress.com/article/lifestyle/health/sudden-lump-in-armpit-causes-reasons-breast-cancer-9507872/",
-        "source": "The Indian Express",
-        "image": "https://images.indianexpress.com/2024/08/armpit-breast-cance.jpg",
-        "publishedAt": "2026-11-18T12:30:13Z",
+        "title": "Two brain regions tied to memory and emotion may shrink up to a decade before Alzheimer’s memory loss begins, Johns Hopkins researchers found after studying hundreds of MRI and PET brain scans",
+        "url": "https://timesofindia.indiatimes.com/science/discovery/two-brain-regions-tied-to-memory-and-emotion-may-shrink-up-to-a-decade-before-alzheimers-memory-loss-begins-johns-hopkins-researchers-found-after-studying-hundreds-of-mri-and-pet-brain-scans/articleshow/135901402.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135901402,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-18T23:20:00Z",
         "category": "health",
-        "summary": "A lump in the armpit can cause concern, but it does not always indicate breast cancer. Various factors may contribute to its presence, and specific symptoms should be monitored. It is crucial to seek medical advice if the lump persists or is accompanied by other symptoms. Understanding these aspects can help alleviate anxiety regarding potential health issues.",
+        "summary": "Johns Hopkins researchers found that two brain regions associated with memory and emotion may shrink up to a decade before Alzheimer’s-related memory loss begins. The study analyzed hundreds of MRI and PET brain scans, highlighting the significance of forgetting in the process of recalling memories. This research could enhance understanding of Alzheimer’s progression and potential early intervention strategies.",
+        "wordCount": 58
+      },
+      {
+        "title": "Amol Akhade: The 12 FDA Breast Cancer Approvals You Need to Know",
+        "url": "https://oncodaily.com/science/amol-akhade-breast-cancer-635467",
+        "source": "Oncodaily",
+        "image": "https://oncodaily.com/pub/uploads/2026/10/a69a25d0-fabc-4fbc-8813-5db2a67e8efa.webp",
+        "publishedAt": "2026-11-18T22:04:44Z",
+        "category": "health",
+        "summary": "Amol Akhade, a Senior Consultant at Fortis Hospitals Mumbai, outlined 12 FDA approvals for breast cancer treatments from May 1, 2026, to November 16, 2026. The list includes various therapies, such as Vepdegestrant for ER-positive, HER2-negative cases. Akhade shared this information on LinkedIn, emphasizing the significance of these approvals in advancing breast cancer research and treatment options.",
         "wordCount": 57
       },
       {
-        "title": "The DRC’s Ebola outbreak remains out of control",
-        "url": "https://www.semafor.com/article/11/18/2026/the-drcs-ebola-outbreak-remains-out-of-control",
-        "source": "Semafor",
-        "image": "https://img.semafor.com/0ceebc9edc13002d010c41d893f42076721b9291-4233x2722.jpg?rect=0,250,4233,2222&w=1200&h=630&q=75&auto=format",
-        "publishedAt": "2026-11-18T11:29:00Z",
+        "title": "Psychology says a few minutes of your speech may reveal how fast your brain is aging, after a model tested on 2,928 Spanish speakers linked bigger gaps between voice age and real age to dementia",
+        "url": "https://timesofindia.indiatimes.com/science/discovery/psychology-says-a-few-minutes-of-your-speech-may-reveal-how-fast-your-brain-is-aging-after-a-model-tested-on-2928-spanish-speakers-linked-bigger-gaps-between-voice-age-and-real-age-to-dementia/articleshow/135915385.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135915531,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-18T20:25:00Z",
         "category": "health",
-        "summary": "The Democratic Republic of Congo's Ebola outbreak is worsening, spreading rapidly despite increased funding. The situation is exacerbated by rampant misinformation, widespread violence, and insufficient medical equipment. The current outbreak is reportedly more fatal due to a lack of available treatments and vaccines. Efforts to control the disease face significant challenges, hindering effective response measures and public health initiatives.",
-        "wordCount": 59
-      },
-      {
-        "title": "US loses measles elimination status after 26 years",
-        "url": "https://www.manoramayearbook.in/current-affairs/world/2026/11/18/us-loses-measles-elimination-status-after-26-years.html",
-        "source": "Manorama Yearbook",
-        "image": "https://img.manoramayearbook.in/content/dam/yearbook/learn/world/images/2026/November-26/measles-screening.jpg",
-        "publishedAt": "2026-11-18T11:20:14Z",
-        "category": "health",
-        "summary": "The United States has lost its measles elimination status after 26 years, according to the Pan American Health Organization (PAHO). This decline is part of a broader trend, as Bolivia and Mexico have also lost their elimination status. The increase in measles cases globally raises concerns about public health and vaccination efforts, particularly in regions with low immunization rates.",
-        "wordCount": 59
+        "summary": "Researchers have developed a method to assess brain aging through speech patterns. A study involving 2,928 Spanish speakers found that larger discrepancies between a person's voice age and actual age may indicate a higher risk of dementia. The findings suggest that speech characteristics, such as pauses and word-finding difficulties, could serve as early indicators of cognitive decline.",
+        "wordCount": 57
       }
     ],
     "science": [
       {
-        "title": "Cornell scientists studied how 2,839 fish species swim together; their analysis found group swimming evolved around 60 times but disappeared about 320 times",
-        "url": "https://economictimes.indiatimes.com/news/international/us/cornell-scientists-studied-how-2839-fish-species-swim-together-their-analysis-found-group-swimming-evolved-around-60-times-but-disappeared-about-320-times/articleshow/135889778.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-135889829,width-1200,height-900,imgsize-158392,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-11-18T12:30:00Z",
+        "title": "125,000-year-old human traces found in Saudi Arabia",
+        "url": "https://ua.news/en/dovkolo-svitu/u-saudivskii-araviyi-znaishli-slidi-liudei-vikom-125-tisiach-rokiv-sciencedaily",
+        "source": "UA.NEWS",
+        "image": "https://cdn-cabinet.ua.news/uploads/images/saudi_arabia_125_thousand_year_old_human_1795043935892.webp",
+        "publishedAt": "2026-11-18T23:25:12Z",
         "category": "science",
-        "summary": "A Cornell University study analyzed 2,839 fish species, revealing that group swimming has independently evolved approximately 60 times. Despite the advantages of collective behavior, this trait has disappeared around 320 times across various species. The research highlights the complex evolutionary dynamics of fish movement, with about 79 percent of species exhibiting collective swimming, while others prefer solitary habits.",
-        "wordCount": 58
+        "summary": "Archaeologists in southern Saudi Arabia discovered stone tools and fossil remains dating back 125,000 years at the Uruk al-Julaybah site. These findings suggest that the area, now a desert, once featured a freshwater lake, grasslands, and a variety of fauna. The research highlights the region's ancient ecological conditions and the presence of early human activity.",
+        "wordCount": 55
       },
       {
-        "title": "Voyager 1 Becomes First Human-Made Object to Reach One Light-Day from Earth",
-        "url": "https://www.downtoearth.org.in/climate-change/voyager-1-becomes-first-human-made-object-to-reach-one-light-day-from-earth",
-        "source": "Down To Earth",
-        "image": "https://cf-images.assettype.com/downtoearth%2F2026-11-18%2Fasbw73zl%2Fvoyager-7-copy-ac.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-11-18T11:22:46Z",
+        "title": "A Jupiter-Sized Planet Has Disappeared, and an Invisible Neighbor May Be to Blame",
+        "url": "https://www.zmescience.com/space/astronomy-space/a-jupiter-sized-planet-has-disappeared-and-an-invisible-neighbor-may-be-to-blame/",
+        "source": "ZME Science",
+        "image": "https://cdn.zmescience.com/wp-content/uploads/2026/11/feat-1.jpg",
+        "publishedAt": "2026-11-18T23:12:13Z",
         "category": "science",
-        "summary": "Voyager 1 has made history as the first human-made object to reach one light-day from Earth, achieving this milestone on November 18 at 5:16 AM EST. The spacecraft is now approximately 25.9 billion kilometers away. This achievement highlights nearly 50 years of interstellar exploration and scientific discovery, showcasing the advancements in space technology and human ingenuity.",
-        "wordCount": 56
+        "summary": "Astronomers observed a Jupiter-sized planet obscuring a distant star every eight days until its disappearance raised questions. The phenomenon may be linked to an invisible neighboring giant planet, suggesting gravitational interactions could be at play. This unexpected cosmic event not only highlights the complexities of planetary systems but also introduces new mysteries regarding the dynamics of such celestial bodies.",
+        "wordCount": 59
       },
       {
-        "title": "Genomic breakthrough offers new hope for southern corroboree frog",
-        "url": "https://phys.org/news/2026-11-genomic-breakthrough-southern-corroboree-frog.html",
-        "source": "Phys.org",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/genomic-breakthrough-o.jpg",
-        "publishedAt": "2026-11-18T11:20:04Z",
+        "title": "Hera asteroid images: three ways to study Didymos",
+        "url": "https://www.neoteo.com/en/hera-asteroid-images-reveal-three-ways-to-study-didymos",
+        "source": "NeoTeo",
+        "image": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fen%2Fhera-asteroid-images-reveal-three-ways-to-study-didymos",
+        "publishedAt": "2026-11-18T22:32:02Z",
         "category": "science",
-        "summary": "Researchers have demonstrated that genomic selection, a breeding technique commonly used in agriculture, could enhance the resilience of the southern corroboree frog, one of Australia's most endangered species, against a lethal disease. This breakthrough marks the first application of this method to improve the survival prospects of the frog, potentially aiding conservation efforts for this threatened amphibian.",
-        "wordCount": 57
+        "summary": "ESA's Hera mission is set to study the Didymos asteroid and its moonlet Dimorphos using three instruments: a monochrome camera, a multispectral imager, and a thermal-infrared camera. Each instrument captures distinct data about the asteroids. A detailed image briefing is scheduled for November 25, 2026, to present findings from these observations.",
+        "wordCount": 51
       }
     ],
     "entertainment": [
       {
-        "title": "Hindu Janajagruti Samiti urges Hindus to skip ‘Ramayana’, seeks special screening of part 2- Report",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hindu-janajagruti-samiti-urges-hindus-to-skip-ramayana-seeks-special-screening-of-part-2-report/articleshow/135963321.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135963343,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-18T12:25:00Z",
+        "title": "Horoscope Today: November 19, 2026",
+        "url": "https://www.vogue.in/content/horoscope-today-november-19-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
+        "publishedAt": "2026-11-19T00:30:00Z",
         "category": "entertainment",
-        "summary": "The Hindu Janajagruti Samiti (HJS) has expressed strong objections to the recently released film 'Ramayana', claiming it distorts Maharshi Valmiki’s epic. The group alleges that the film glorifies Ravana and misrepresents Lord Ram and Lakshman. HJS has urged Hindus to boycott the film and is seeking a special screening of part two to address these concerns.",
-        "wordCount": 56
+        "summary": "On November 19, 2026, horoscopes suggest that small acts of kindness can have significant impacts. Taurus individuals are encouraged to find balance between right and wrong by adopting a non-judgmental perspective. The guidance emphasizes observation rather than criticism, promoting a harmonious approach to challenges. Overall, the day is framed as an opportunity for personal growth and reflection.",
+        "wordCount": 57
       },
       {
-        "title": "TV Proposal To Marriage: How Ramayana's Ravi Dubey Found His Forever Partner In Sargun Mehta",
-        "url": "https://www.ndtv.com/lifestyle/tv-proposal-to-marriage-how-ramayanas-ravi-dubey-found-his-forever-partner-in-sargun-mehta-12338793",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/hs4rtljo_ravi-dubey-sargun-mehta_625x300_18_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-18T12:14:13Z",
+        "title": "'Ramayana' box office collection Day 14: Ranbir Kapoor, Yash starrer crosses Rs 1,000 crore in India; hits Rs 1,500 crore globally in record time",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-box-office-collection-day-14-ranbir-kapoor-yash-starrer-crosses-rs-1000-crore-in-india-hits-rs-1500-crore-globally-in-record-time/articleshow/135974256.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135974573,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-19T00:21:00Z",
         "category": "entertainment",
-        "summary": "Ravi Dubey, known for his role as Lakshman in Nitesh Tiwari's Ramayana, gained renewed attention for his personal life. He and Sargun Mehta first met on a television set in 2009 and developed a relationship over the years. The couple married four years later, solidifying their bond as they continue to navigate their careers in the entertainment industry.",
+        "summary": "Namit Malhotra's film 'Ramayana', directed by Nitesh Tiwari, has achieved significant box office success, surpassing Rs 1,000 crore in India within 14 days of its release. The film has also reached a global collection of Rs 1,500 crore, marking a historic milestone in record time. This achievement highlights the film's popularity and strong audience reception since its debut.",
         "wordCount": 58
       },
       {
-        "title": "Sidharth Malhotra and Kiara Advani request privacy after daughter Saraayah’s face appears in airport video",
-        "url": "https://www.hindustantimes.com/entertainment/bollywood/sidharth-malhotra-and-kiara-advani-request-privacy-after-daughter-saraayah-face-appears-in-airport-video-101795003264041.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/PTI09-15-2026-000055B-0_1795003621688_3fVv_1795003644031_vEXG_983277da-ebec-4be5-8606-b76f9c37dc04_XE0w.jpg",
-        "publishedAt": "2026-11-18T12:12:37Z",
+        "title": "Scorpio Horoscope Today: November 19, 2026",
+        "url": "https://www.vogue.in/content/scorpio-horoscope-today-november-19-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e052102d2f4db9b8e92b/16:9/w_1280,c_limit/9-Scorpio_16;9.png",
+        "publishedAt": "2026-11-19T00:20:00Z",
         "category": "entertainment",
-        "summary": "Sidharth Malhotra and Kiara Advani have requested privacy following the appearance of their one-year-old daughter, Saraayah, in an airport video. The couple has kept their child away from public attention and urged paparazzi and social media users to avoid sharing images or videos that reveal her face. They emphasize the importance of respecting their family's privacy.",
-        "wordCount": 56
+        "summary": "On November 19, 2026, Scorpios are encouraged to reflect on their emotional decision-making. Having approached life with optimism and enthusiasm, they may have engaged in various promising adventures recently. The horoscope suggests a need for introspection, indicating that it might be time to reassess priorities and consider a more balanced approach in future endeavors.",
+        "wordCount": 54
       }
     ]
   }
