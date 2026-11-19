@@ -1,218 +1,228 @@
 {
-  "updatedAt": "2026-11-18T12:31:36.580Z",
+  "updatedAt": "2026-11-19T00:31:19.373Z",
   "categories": {
     "world": [
       {
-        "title": "Pakistani Man Jailed For 27 Years In US For Trump Murder Plot",
-        "url": "https://www.ndtv.com/world-news/pakistani-man-jailed-for-27-years-in-us-for-trump-murder-plot-12341452",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-03/5fantc6c_asif-merchant_625x300_05_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-17T23:05:17Z",
+        "title": "Russian 'Bears' return to Vietnam after 12 years: Why Moscow's Tu-95 deployment matters",
+        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/russian-bears-return-to-vietnam-after-12-years-why-moscows-tu-95-deployment-matters/articleshow/135963034.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135963086,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-18T12:17:00Z",
         "category": "world",
-        "summary": "Asif Merchant, a Pakistani man, was sentenced to over 27 years in prison for plotting to assassinate former President Donald Trump. A Brooklyn court found that he sought to hire a hitman to target a U.S. politician or government official. The plot was reportedly in retaliation for the U.S. killing of Iranian Revolutionary Guards commander Qassem Soleimani.",
-        "wordCount": 57
-      },
-      {
-        "title": "Kuwait, Bahrain fend off Iranian aerial attacks as Coalition hits Houthi military sites",
-        "url": "https://www.arabnews.com/middle-east/kuwait-bahrain-fend-off-iranian-aerial-attacks-as-coalition-hits-houthi-military-sites-3012614",
-        "source": "Arab News",
-        "image": "https://assets.maestronewsroom.com/media/30f6532d-717b-4366-9158-9c455299fcd9/1794955389177-e81add11f73a3b8d.jpg",
-        "publishedAt": "2026-11-17T22:38:53Z",
-        "category": "world",
-        "summary": "Kuwait and Bahrain successfully repelled Iranian aerial attacks on Wednesday, amid increased tensions in the Gulf region. In response, a Coalition launched strikes that destroyed 60 Houthi military targets across Yemen. The developments highlight the ongoing conflict involving Iran and its regional adversaries, as well as the Coalition's efforts to counter Houthi threats in the area.",
+        "summary": "Russia has reintroduced its Tu-95 nuclear-capable strategic bombers to Vietnam after a 12-year hiatus, reinstating a military agreement that previously enabled Moscow to operate long-range aircraft in the area. This deployment may enhance Russia's military presence in Southeast Asia, allowing its bombers to operate closer to potential targets, thereby impacting regional security dynamics and international relations.",
         "wordCount": 56
       },
       {
-        "title": "Hung Cao Senate hearing: Democrats raise Navy suicides and Iran war",
-        "url": "https://www.indiatoday.in/world/story/hung-cao-senate-hearing-navy-suicides-iran-war-3041164-2026-11-18",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/us-secretary-of-the-navy-hung-cao-173306984-16x9_0.jpg?VersionId=ooxBRp6Gg_2WPE87H1GxAlZ7giVz8z1w",
-        "publishedAt": "2026-11-17T22:37:48Z",
+        "title": "Ethiopia and Eritrea amass forces along border, heightening war fears, sources say",
+        "url": "https://www.reuters.com/world/africa/ethiopia-eritrea-amass-forces-along-border-heightening-war-fears-sources-say-2026-11-18/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/IDUOLS6NCFO45E5LIYAPB7FA3U.jpg?auth=bb29c1dd51eabdab378f4ba15b428eb3479bf730c680e1ea96babd7777f5ec5d&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-11-18T11:20:42Z",
         "category": "world",
-        "summary": "During a Senate hearing, Senator Kirsten Gillibrand questioned acting Navy Secretary Hung Cao regarding a sailor who went overboard from a US aircraft carrier, raising concerns about military mental health and suicide attempts. The discussion intensified scrutiny on recruitment challenges and the implications of the ongoing Iran war, highlighting the need for improved support for service members.",
-        "wordCount": 57
+        "summary": "Ethiopia and Eritrea have gathered military forces along their shared border, according to conflict monitors and militia sources in northern Ethiopia's Tigray region. This buildup has raised concerns about the potential for renewed conflict between the two nations, which have a history of rivalry. The situation remains tense as both sides prepare for possible escalation.",
+        "wordCount": 55
+      },
+      {
+        "title": "US used expired Tomahawks against Iran by changing operation codes of old missiles",
+        "url": "https://www.indiatoday.in/world/story/us-iran-war-news-operation-epic-fury-us-navy-tomahawk-missile-acting-navy-secretary-hung-cao-itspc-3041374-2026-11-18",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/a-us-navy-destroyer-launches-a-tomahak-missile-against-an-iranian-target-during-operation-epic-fury-180542777-16x9_0.jpg?VersionId=r4enjWvavS5glDfOKpeFvFutyyK0qkYV",
+        "publishedAt": "2026-11-18T11:16:37Z",
+        "category": "world",
+        "summary": "The US Navy has confirmed using expired Tomahawk cruise missiles in its operations against Iran, prompting concerns about the condition of its munitions stockpiles. Acting Navy Secretary Hung Cao's comments highlight the challenges posed by an increasing reliance on aging missiles amid a significant shortage of available weaponry, raising questions about operational readiness and safety.",
+        "wordCount": 55
       }
     ],
     "business": [
       {
-        "title": "Stocks in News: Tata Group companies, Bharti Airtel, HCL Tech, Groww, IIFL Finance, ACME Solar",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-tata-group-companies-bharti-airtel-hcl-tech-groww-iifl-finance-acme-solar/articleshow/135932745.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-135932909,width-1200,height-900,imgsize-204625,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-11-18T00:30:00Z",
+        "title": "Indian equities see record $10.6 billion FII inflows in Nov so far; here's why brokerages are bullish",
+        "url": "https://www.moneycontrol.com/news/business/markets/indian-equities-see-record-10-bn-fii-inflows-in-nov-already-here-s-why-brokerages-are-bullish-14083553.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/01/20260117024209_stock1.jpg",
+        "publishedAt": "2026-11-18T12:05:07Z",
         "category": "business",
-        "summary": "Stocks of Tata Group companies, Bharti Airtel, HCLTech, Groww, IIFL Finance, and ACME Solar Holdings are expected to attract attention on Wednesday, November 18. Investors will monitor company-specific developments and corporate announcements that may impact these stocks. The market's focus on these companies indicates potential volatility and interest in their performance amid ongoing economic conditions.",
+        "summary": "Foreign portfolio investors (FPIs) have invested a record $10.6 billion in Indian equities in November, exceeding the previous high of $8.4 billion from December 2020. This significant inflow reflects renewed confidence in the Indian market, prompting brokerages to adopt a bullish outlook. The surge highlights a strong recovery in foreign investment interest in the Indian stock market.",
+        "wordCount": 57
+      },
+      {
+        "title": "Top 15 Electric Scooters Oct 2026 India - Chetak, iQube, Rizta, Vida",
+        "url": "https://bikeadvice.in/top-15-electric-scooters-oct-2026-india-chetak-iqube-rizta-vida/",
+        "source": "BikeAdvice",
+        "image": "https://bikeadvice.in/wp-content/uploads/2025/09/TVS-Orbiter-3-scaled.jpg",
+        "publishedAt": "2026-11-18T11:54:51Z",
+        "category": "business",
+        "summary": "In October 2026, Bajaj Chetak emerged as the top-selling electric scooter in India. The combined sales of TVS iQube and TVS Orbiter reached nearly 70,000 units, surpassing Bajaj’s overall retail volumes. The total electric two-wheeler sales in the month hit a record high of 2.24 lakh units, reflecting significant growth in the electric scooter market.",
         "wordCount": 55
       },
       {
-        "title": "Stock Market Today: All You Need To Know Before Going Into Trade On Nov 18",
-        "url": "https://www.ndtvprofit.com/markets/stock-market-today-all-you-need-to-know-going-into-trade-on-nov-18-12340879",
-        "source": "NDTV Profit",
-        "image": "https://c.ndtvimg.com/proen/2025-03-17/03f9e9uq/stock-market-online-business-concept-2025-01-15-13-02-31-utc.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-17T23:30:01Z",
+        "title": "RBI The Competent Authority, Not ICICI Bank's Board: Bombay High Court While Quashing Sanction To Prosecute Chanda Kochhar",
+        "url": "https://www.livelaw.in/high-court/bombay-high-court/rbi-the-competent-authority-not-icici-banks-board-bombay-high-court-while-quashing-sanction-to-prosecute-chanda-kochhar-558950",
+        "source": "Live Law",
+        "image": "https://www.livelaw.in/h-upload/2020/11/20/384876-chanda-kochar.jpg",
+        "publishedAt": "2026-11-18T11:50:07Z",
         "category": "business",
-        "summary": "Indian benchmark indices, the Sensex and Nifty 50, continued their positive momentum as of November 18. Key stocks are in focus, along with significant brokerage recommendations and comprehensive trade setups. Market participants are advised to stay informed about the latest developments and trends in the stock market to make informed trading decisions throughout the day.",
-        "wordCount": 55
-      },
-      {
-        "title": "'Board accepted his resignation': Nvidia chairman rules out Jensen Huang's return; company doubles revenue",
-        "url": "https://timesofindia.indiatimes.com/business/international-business/board-has-no-plans-to-reinstate-him-as-ceo-nvidia-chairman-rules-out-jensen-huangs-return/articleshow/135943448.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135943528,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-17T23:07:00Z",
-        "category": "business",
-        "summary": "Nvidia chairman Harvey Jones confirmed on Tuesday that the board will not reinstate Jensen Huang as CEO, following his resignation. The company reported a significant increase in revenue, doubling year-on-year. This announcement comes amid Nvidia's ongoing growth and success in the technology sector, highlighting the company's strong financial performance despite the leadership change.",
-        "wordCount": 53
+        "summary": "The Bombay High Court quashed the sanction issued by ICICI Bank's Board of Directors for the Central Bureau of Investigation (CBI) to prosecute former CEO Chanda Kochhar under the Prevention of Corruption Act. The court ruled that the Reserve Bank of India (RBI) is the competent authority in such matters, not the bank's board.",
+        "wordCount": 54
       }
     ],
     "technology": [
       {
-        "title": "What your love of spicy food might reveal about your personality",
-        "url": "https://www.news-medical.net/news/20261117/What-your-love-of-spicy-food-might-reveal-about-your-personality.aspx",
-        "source": "News-Medical",
-        "image": "https://www.news-medical.net/images/news/ImageForNews_851955_17949576957652029.jpg",
-        "publishedAt": "2026-11-17T23:22:00Z",
+        "title": "Samsung Galaxy Tab S12+: Light, lean and laptop-like",
+        "url": "https://www.thehindubusinessline.com/specials/technophile/samsung-galaxy-tab-s12-premium-tablet-packs-power-portability-and-sky-high-price/article71715836.ece",
+        "source": "BusinessLine",
+        "image": "https://bl-i.thgim.com/public/incoming/9jrj9s/article71715872.ece/alternates/LANDSCAPE_1200/Samsung%20Galaxy%20Tab.png",
+        "publishedAt": "2026-11-18T12:21:15Z",
         "category": "technology",
-        "summary": "A systematic review of 58 studies indicates that personality traits like sensation seeking and emotional states influence spicy food preferences. Consuming spicy foods may temporarily impact risk-taking and aggression-related thinking. Researchers suggest that sensory adaptation and rewarding experiences reinforce these preferences over time, though evidence for lasting psychological changes remains limited, highlighting the complex relationship between food and personality.",
-        "wordCount": 59
+        "summary": "The Samsung Galaxy Tab S12+ is a premium, portable tablet designed for productivity, featuring laptop-like capabilities and strong media performance. It offers long software support, appealing to users seeking versatility in a lightweight device. While many tablets claim to replace laptops, the Tab S12+ aims for a more modest approach, balancing functionality with a premium price tag.",
+        "wordCount": 57
       },
       {
-        "title": "Xbox Announces Official Black Friday Sale on Digital Games and Accessories - But No Consoles",
-        "url": "https://in.ign.com/gears-of-war-e-day/277309/xbox-announces-official-black-friday-sale-on-digital-games-and-accessories-but-no-consoles",
-        "source": "IGN India",
-        "image": "https://sm.ign.com/t/ign_in/news/x/xbox-annou/xbox-announces-official-black-friday-sale-on-digital-games-a_y3vd.1200.jpg",
-        "publishedAt": "2026-11-17T20:25:27Z",
+        "title": "GTA VI takes over an NBA court. How Vice City became a real-world spectacle",
+        "url": "https://theprint.in/theprint-essential/gta-vi-takes-over-an-nba-court-how-vice-city-became-a-real-world-spectacle/3102141/",
+        "source": "ThePrint",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/Untitled-design-15.png",
+        "publishedAt": "2026-11-18T11:53:23Z",
         "category": "technology",
-        "summary": "Xbox has announced its Black Friday sale, starting November 19 at 9am PST. The sale features discounts of up to 80% on digital Xbox and PC games, along with various accessories. However, no consoles will be included in the promotions. This announcement follows similar sales from Nintendo and PlayStation, highlighting the competitive holiday shopping season.",
-        "wordCount": 55
+        "summary": "Grand Theft Auto VI has gained significant attention globally, with gamers in New Zealand already exploring Vice City. The game's launch has created a buzz, leading to various real-world promotions, including an NBA court takeover. Millions of players worldwide are eagerly anticipating the release, marking a notable moment in gaming culture as Rockstar's latest installment captures widespread interest.",
+        "wordCount": 58
+      },
+      {
+        "title": "Google expands Gemini Tasks to millions of users, adds calling and shopping features",
+        "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-expands-gemini-tasks-to-millions-of-users-adds-calling-and-shopping-features/articleshow/135962173.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135962223,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-18T11:45:00Z",
+        "category": "technology",
+        "summary": "Google has expanded its Gemini Tasks, an AI-powered assistant feature, to millions of users. This update allows the assistant to perform multi-step actions, such as making calls to businesses, comparing prices, and assisting with purchases. The rollout aims to enhance user experience by streamlining various tasks, making it easier for users to manage their daily activities efficiently.",
+        "wordCount": 57
       }
     ],
     "sports": [
       {
-        "title": "Rodri: Winning the Champions League is the objective, but Barcelona are not favorites",
-        "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/138279/rodri-winning-champions-league-is-the-objective-not-favorites",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/10/gettyimages-2301202239.jpg?quality=90&strip=all&crop=0%2C10.729057198914%2C100%2C78.541885602173&w=1200",
-        "publishedAt": "2026-11-17T23:00:00Z",
+        "title": "MS Dhoni's IPL career in numbers",
+        "url": "https://www.cricinfo.com/story/ms-dhoni-s-ipl-career-in-numbers-1563094",
+        "source": "Cricinfo",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/379400/379464.6.jpg",
+        "publishedAt": "2026-11-18T12:28:00Z",
         "category": "sports",
-        "summary": "Rodri emphasized that winning the Champions League is the team's main objective, but he does not consider Barcelona as favorites. He stated that objectives differ from labels and that Barcelona aims to compete for all titles. Rodri aims to maintain calm within the group, reminding them that it is still early in the season and expectations should be managed.",
-        "wordCount": 59
+        "summary": "MS Dhoni's IPL career is marked by significant achievements, including five titles as captain of the Chennai Super Kings. His leadership and performance have made him one of the league's greatest players. The article highlights key statistics and milestones from his career, showcasing his impact on the tournament and contributions to the team's success over the years.",
+        "wordCount": 57
       },
       {
-        "title": "Stoppage-time drama: Haaland embarrasses Mbappé with a frightening record!",
-        "url": "https://www.goal.com/en/news/stoppage-time-drama-haaland-embarrasses-mbappe-with-a-frightening-record/blt4215239fa01a617e",
-        "source": "Goal.com",
-        "image": "https://assets.goal.com/images/v3/getty-2305109635/crop/MM5DGMZZGI5DCOJQHA5G433XMU5DAORQ/GettyImages-2305109635.jpg",
-        "publishedAt": "2026-11-17T22:57:56Z",
+        "title": "SMAT 2026: Dhull's blazing ton in vain as Bihar stun Delhi",
+        "url": "https://www.cricbuzz.com/cricket-news/140959/smat-2026-dhulls-blazing-ton-in-vain-as-bihar-stun-delhi",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1128612/file-image-dhull-slammed-seven-maximums-and-16-boundaries-in-his-59-ball-125.jpg",
+        "publishedAt": "2026-11-18T12:26:46Z",
         "category": "sports",
-        "summary": "Erling Haaland led Norway to a 3-2 victory over Denmark in the UEFA Nations League, scoring twice, including a last-minute penalty. This performance secured Norway's place in the quarter-finals. Haaland's achievement highlighted his growing prominence in international football, contrasting with fellow star Kylian Mbappé. The match showcased Haaland's ability to deliver under pressure in crucial moments.",
+        "summary": "In the SMAT 2026 tournament, Bihar defeated Delhi, while Haryana triumphed over Tamil Nadu and Vidarbha won against Hyderabad. Chhattisgarh's captain Vikalp Tiwari scored 119 runs off 56 balls, leading his team to a 51-run victory against Odisha. Tiwari hit 18 fours and three sixes before retiring hurt, contributing significantly to his team's success.",
+        "wordCount": 54
+      },
+      {
+        "title": "Arshdeep Singh makes big jump in ODI bowling rankings, Rohit Sharma slips after New Zealand series",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/arshdeep-singh-makes-big-jump-in-odi-bowling-rankings-rohit-sharma-slips-after-new-zealand-series/articleshow/135962954.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135963246,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-18T12:22:00Z",
+        "category": "sports",
+        "summary": "India fast bowler Arshdeep Singh has advanced 12 positions in the ICC ODI bowling rankings, now sharing 19th place with teammate Axar Patel. This improvement follows his performance in the recent series against New Zealand. Conversely, Indian captain Rohit Sharma has slipped in the rankings, reflecting the competitive nature of the ODI format and player performances.",
         "wordCount": 56
-      },
-      {
-        "title": "Erling Haaland sends Norway to Nations League quarterfinals",
-        "url": "https://www.espn.in/football/story/_/id/50513761/erling-haaland-sends-norway-nations-league-quarterfinals",
-        "source": "ESPN India",
-        "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F1117%2Fr1747269_1296x729_16%2D9.jpg",
-        "publishedAt": "2026-11-17T22:15:00Z",
-        "category": "sports",
-        "summary": "Erling Haaland scored a decisive penalty in the final moments, leading Norway to a 3-2 victory over Denmark. This win secured Norway's advancement to the Nations League quarterfinals. The match was crucial for both teams, with Haaland's performance highlighting his significance to the squad. Norway's progression marks an important achievement in their Nations League campaign.",
-        "wordCount": 55
       }
     ],
     "health": [
       {
-        "title": "GLP-1 weight-loss drugs linked to inadequate intake of key nutrients in some people",
-        "url": "https://medicalxpress.com/news/2026-11-glp-weight-loss-drugs-linked.html",
-        "source": "Medical Xpress",
-        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/person-taking-suppleme.jpg",
-        "publishedAt": "2026-11-17T23:30:06Z",
+        "title": "What a lump in your armpit could mean: An oncologist explains",
+        "url": "https://indianexpress.com/article/lifestyle/health/sudden-lump-in-armpit-causes-reasons-breast-cancer-9507872/",
+        "source": "The Indian Express",
+        "image": "https://images.indianexpress.com/2024/08/armpit-breast-cance.jpg",
+        "publishedAt": "2026-11-18T12:30:13Z",
         "category": "health",
-        "summary": "A small exploratory study published in BMJ Nutrition Prevention & Health indicates that appetite-suppressing drugs like Wegovy and Mounjaro may lead to inadequate intake of essential nutrients and energy in some individuals. The findings highlight potential nutritional deficiencies associated with these weight-loss medications, suggesting that users should be monitored for their dietary intake while using such treatments.",
+        "summary": "A lump in the armpit can cause concern, but it does not always indicate breast cancer. Various factors may contribute to its presence, and specific symptoms should be monitored. It is crucial to seek medical advice if the lump persists or is accompanied by other symptoms. Understanding these aspects can help alleviate anxiety regarding potential health issues.",
         "wordCount": 57
       },
       {
-        "title": "Older Immigrants at Increased Risk as US Loses Measles Elimination Status",
-        "url": "https://americancommunitymedia.org/news-exchange/older-immigrants-at-increased-risk-as-us-loses-measles-elimination-status/",
-        "source": "American Community Media",
-        "image": "https://americancommunitymedia.org/wp-content/uploads/2026/11/IMG_1025.jpeg",
-        "publishedAt": "2026-11-17T23:23:16Z",
+        "title": "The DRC’s Ebola outbreak remains out of control",
+        "url": "https://www.semafor.com/article/11/18/2026/the-drcs-ebola-outbreak-remains-out-of-control",
+        "source": "Semafor",
+        "image": "https://img.semafor.com/0ceebc9edc13002d010c41d893f42076721b9291-4233x2722.jpg?rect=0,250,4233,2222&w=1200&h=630&q=75&auto=format",
+        "publishedAt": "2026-11-18T11:29:00Z",
         "category": "health",
-        "summary": "The US lost its measles elimination status on November 17 due to ongoing virus spread for over a year. Older adults, particularly immigrants who may lack childhood vaccinations, are at heightened risk for measles infections. The Centers for Disease Control and Prevention (CDC) reported 5,412 confirmed cases as of November, highlighting the vulnerability of this demographic.",
-        "wordCount": 56
+        "summary": "The Democratic Republic of Congo's Ebola outbreak is worsening, spreading rapidly despite increased funding. The situation is exacerbated by rampant misinformation, widespread violence, and insufficient medical equipment. The current outbreak is reportedly more fatal due to a lack of available treatments and vaccines. Efforts to control the disease face significant challenges, hindering effective response measures and public health initiatives.",
+        "wordCount": 59
       },
       {
-        "title": "Can Diabetes Before Pregnancy Affect a Baby’s Heart?",
-        "url": "https://www.diabetesincontrol.com/preexisting-diabetes-congenital-heart-defects-risk/",
-        "source": "Diabetes In Control",
-        "image": "https://www.diabetesincontrol.com/wp-content/uploads/2026/11/preexisting-diabetes-pregnancy-congenital-heart-defects.png",
-        "publishedAt": "2026-11-17T20:26:38Z",
+        "title": "US loses measles elimination status after 26 years",
+        "url": "https://www.manoramayearbook.in/current-affairs/world/2026/11/18/us-loses-measles-elimination-status-after-26-years.html",
+        "source": "Manorama Yearbook",
+        "image": "https://img.manoramayearbook.in/content/dam/yearbook/learn/world/images/2026/November-26/measles-screening.jpg",
+        "publishedAt": "2026-11-18T11:20:14Z",
         "category": "health",
-        "summary": "A study analyzing over 44 million births indicates that preexisting diabetes significantly increases the risk of congenital heart defects in newborns, with a 48% higher relative risk identified. Researchers emphasize the importance of early prenatal care, as a baby's heart begins developing before pregnancy is often recognized. These findings highlight potential implications for maternal health and infant outcomes.",
-        "wordCount": 58
+        "summary": "The United States has lost its measles elimination status after 26 years, according to the Pan American Health Organization (PAHO). This decline is part of a broader trend, as Bolivia and Mexico have also lost their elimination status. The increase in measles cases globally raises concerns about public health and vaccination efforts, particularly in regions with low immunization rates.",
+        "wordCount": 59
       }
     ],
     "science": [
       {
-        "title": "November’s sky has a full supermoon on November 24 that starts a run of three, the Leonid meteor shower peaking before dawn on November 17 and 18, and Taurid showers known for bright fireballs, NASA s",
-        "url": "https://timesofindia.indiatimes.com/science/space/novembers-sky-has-a-full-supermoon-on-november-24-that-starts-a-run-of-three-the-leonid-meteor-shower-peaking-before-dawn-on-november-17-and-18-and-taurid-showers-known-for-bright-fireballs-nasa-says/articleshow/135873336.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-135873395,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-17T21:25:00Z",
+        "title": "Cornell scientists studied how 2,839 fish species swim together; their analysis found group swimming evolved around 60 times but disappeared about 320 times",
+        "url": "https://economictimes.indiatimes.com/news/international/us/cornell-scientists-studied-how-2839-fish-species-swim-together-their-analysis-found-group-swimming-evolved-around-60-times-but-disappeared-about-320-times/articleshow/135889778.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-135889829,width-1200,height-900,imgsize-158392,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-11-18T12:30:00Z",
         "category": "science",
-        "summary": "November features a full supermoon on the 24th, marking the beginning of three consecutive supermoons. The Leonid meteor shower will peak before dawn on November 17 and 18, while the Taurid meteor showers are noted for their bright fireballs. NASA highlights these celestial events, showcasing the ongoing mysteries of the universe that continue to intrigue humanity.",
+        "summary": "A Cornell University study analyzed 2,839 fish species, revealing that group swimming has independently evolved approximately 60 times. Despite the advantages of collective behavior, this trait has disappeared around 320 times across various species. The research highlights the complex evolutionary dynamics of fish movement, with about 79 percent of species exhibiting collective swimming, while others prefer solitary habits.",
+        "wordCount": 58
+      },
+      {
+        "title": "Voyager 1 Becomes First Human-Made Object to Reach One Light-Day from Earth",
+        "url": "https://www.downtoearth.org.in/climate-change/voyager-1-becomes-first-human-made-object-to-reach-one-light-day-from-earth",
+        "source": "Down To Earth",
+        "image": "https://cf-images.assettype.com/downtoearth%2F2026-11-18%2Fasbw73zl%2Fvoyager-7-copy-ac.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "publishedAt": "2026-11-18T11:22:46Z",
+        "category": "science",
+        "summary": "Voyager 1 has made history as the first human-made object to reach one light-day from Earth, achieving this milestone on November 18 at 5:16 AM EST. The spacecraft is now approximately 25.9 billion kilometers away. This achievement highlights nearly 50 years of interstellar exploration and scientific discovery, showcasing the advancements in space technology and human ingenuity.",
         "wordCount": 56
       },
       {
-        "title": "How far is a light-day? NASA's Voyager 1 probe nears milestone",
-        "url": "https://www.gulfcoastnewsnow.com/article/light-day-voyager-1-visualized/74443917",
-        "source": "Gulf Coast News and Weather",
-        "image": "https://kubrick.htvapps.com/htv-prod/images/372425b4-7eef-4304-86c5-9f9c4ed8b569.jpg?crop=0.976xw%3A1.00xh%3B0.0128xw%2C0&resize=1200%3A*",
-        "publishedAt": "2026-11-17T21:00:00Z",
+        "title": "Genomic breakthrough offers new hope for southern corroboree frog",
+        "url": "https://phys.org/news/2026-11-genomic-breakthrough-southern-corroboree-frog.html",
+        "source": "Phys.org",
+        "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/genomic-breakthrough-o.jpg",
+        "publishedAt": "2026-11-18T11:20:04Z",
         "category": "science",
-        "summary": "NASA's Voyager 1 probe is approaching a significant milestone, expected to cross a light-day from Earth on Wednesday morning. This distance will place it over 58 billion Empire State Buildings away from our planet, marking it as the most distant human-made object in space. Voyager 1 was launched nearly 50 years ago and continues its journey through the cosmos.",
-        "wordCount": 59
-      },
-      {
-        "title": "Gravitational waves point to black holes without supernovae",
-        "url": "https://ua.news/en/dovkolo-svitu/gravitatsiini-khvili-vkazali-na-chorni-diri-bez-vibukhu-nadnovoyi-space-com",
-        "source": "UA.NEWS",
-        "image": "https://cdn-cabinet.ua.news/uploads/images/gravitational_waves_point_to_black_holes_1794942367583.webp",
-        "publishedAt": "2026-11-17T19:09:58Z",
-        "category": "science",
-        "summary": "An analysis of 257 black hole mergers has identified a population of black holes potentially formed through the direct collapse of massive stars, bypassing supernova explosions. This finding, based on gravitational-wave signals, suggests an alternative formation pathway for these cosmic objects. The study was published in the journal Physical Review, highlighting significant implications for our understanding of black hole formation.",
-        "wordCount": 60
+        "summary": "Researchers have demonstrated that genomic selection, a breeding technique commonly used in agriculture, could enhance the resilience of the southern corroboree frog, one of Australia's most endangered species, against a lethal disease. This breakthrough marks the first application of this method to improve the survival prospects of the frog, potentially aiding conservation efforts for this threatened amphibian.",
+        "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: November 18, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-november-18-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-11-18T00:30:00Z",
+        "title": "Hindu Janajagruti Samiti urges Hindus to skip ‘Ramayana’, seeks special screening of part 2- Report",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/hindu-janajagruti-samiti-urges-hindus-to-skip-ramayana-seeks-special-screening-of-part-2-report/articleshow/135963321.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135963343,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-18T12:25:00Z",
         "category": "entertainment",
-        "summary": "On November 18, 2026, horoscopes suggest that Capricorns may be accustomed to stress and cortisol spikes, leading to a false sense of thriving. The article encourages reflection on this lifestyle, questioning whether it is sustainable or healthy. It prompts individuals to consider how they can interrupt this cycle and prioritize well-being over constant stress.",
-        "wordCount": 54
+        "summary": "The Hindu Janajagruti Samiti (HJS) has expressed strong objections to the recently released film 'Ramayana', claiming it distorts Maharshi Valmiki’s epic. The group alleges that the film glorifies Ravana and misrepresents Lord Ram and Lakshman. HJS has urged Hindus to boycott the film and is seeking a special screening of part two to address these concerns.",
+        "wordCount": 56
       },
       {
-        "title": "Capricorn Horoscope Today: November 18, 2026",
-        "url": "https://www.vogue.in/content/capricorn-horoscope-today-november-18-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
-        "publishedAt": "2026-11-18T00:20:00Z",
+        "title": "TV Proposal To Marriage: How Ramayana's Ravi Dubey Found His Forever Partner In Sargun Mehta",
+        "url": "https://www.ndtv.com/lifestyle/tv-proposal-to-marriage-how-ramayanas-ravi-dubey-found-his-forever-partner-in-sargun-mehta-12338793",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/hs4rtljo_ravi-dubey-sargun-mehta_625x300_18_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-18T12:14:13Z",
         "category": "entertainment",
-        "summary": "On November 18, 2026, Capricorns are advised to reconsider their relationship with stress. The horoscope suggests that while some may feel they thrive under pressure, this is not a sustainable way to live. It encourages individuals to reflect on their stress levels and consider making changes to improve their well-being, emphasizing the importance of finding balance in life.",
+        "summary": "Ravi Dubey, known for his role as Lakshman in Nitesh Tiwari's Ramayana, gained renewed attention for his personal life. He and Sargun Mehta first met on a television set in 2009 and developed a relationship over the years. The couple married four years later, solidifying their bond as they continue to navigate their careers in the entertainment industry.",
         "wordCount": 58
       },
       {
-        "title": "Virgo Horoscope Today: November 18, 2026",
-        "url": "https://www.vogue.in/content/virgo-horoscope-today-november-18-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04c0eb279a773d39008/16:9/w_1280,c_limit/7-Virgo_16;9.png",
-        "publishedAt": "2026-11-18T00:20:00Z",
+        "title": "Sidharth Malhotra and Kiara Advani request privacy after daughter Saraayah’s face appears in airport video",
+        "url": "https://www.hindustantimes.com/entertainment/bollywood/sidharth-malhotra-and-kiara-advani-request-privacy-after-daughter-saraayah-face-appears-in-airport-video-101795003264041.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/18/1600x900/logo/PTI09-15-2026-000055B-0_1795003621688_3fVv_1795003644031_vEXG_983277da-ebec-4be5-8606-b76f9c37dc04_XE0w.jpg",
+        "publishedAt": "2026-11-18T12:12:37Z",
         "category": "entertainment",
-        "summary": "On November 18, 2026, Virgos are advised to prioritize their health and reduce stress. The horoscope suggests letting go of worries and embracing a more relaxed approach to life. Although it may be challenging, focusing on well-being and adopting a calm mindset is encouraged. This guidance serves as a reminder to maintain balance and care for oneself.",
-        "wordCount": 57
+        "summary": "Sidharth Malhotra and Kiara Advani have requested privacy following the appearance of their one-year-old daughter, Saraayah, in an airport video. The couple has kept their child away from public attention and urged paparazzi and social media users to avoid sharing images or videos that reveal her face. They emphasize the importance of respecting their family's privacy.",
+        "wordCount": 56
       }
     ]
   }
