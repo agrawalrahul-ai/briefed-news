@@ -1,208 +1,228 @@
 {
-  "updatedAt": "2026-11-21T00:31:21.255Z",
+  "updatedAt": "2026-11-21T12:31:23.881Z",
   "categories": {
     "world": [
       {
-        "title": "Bangladesh Unrest: Humayun Kabir's House Targeted As Fresh Violence Erupts",
-        "url": "https://www.news18.com/world/bangladesh-unrest-yunuss-ancestral-home-set-ablaze-amid-hasinas-planned-return-10434361.html",
-        "source": "News18",
-        "image": "https://images.news18.com/ibnlive/uploads/2026/11/bangladeshfire-2026-11-df063db74a9af66e9cd52d576e487d87-1200x675.jpg",
-        "publishedAt": "2026-11-20T12:10:49Z",
+        "title": "A North Carolina couple noticed their new home's kitchen floor dipping within weeks of moving in in 2016, then sued the builder years later; an appeals court has rejected their defective-construction",
+        "url": "https://timesofindia.indiatimes.com/world/us/a-north-carolina-couple-noticed-their-new-homes-kitchen-floor-dipping-within-weeks-of-moving-in-in-2016-then-sued-the-builder-years-later-an-appeals-court-has-rejected-their-defective-construction-claims/articleshow/135987043.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-135987141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-21T00:26:00Z",
         "category": "world",
-        "summary": "Bangladesh is experiencing renewed political unrest, with protests erupting over Sheikh Hasina's planned return. Muhammad Yunus's ancestral home and Grameen Bank properties have been targeted amid the violence. On Thursday night, unidentified individuals attacked these locations, escalating tensions in the country. The situation remains volatile as protests continue, reflecting deep divisions within the political landscape of Bangladesh.",
-        "wordCount": 57
+        "summary": "A North Carolina couple discovered a significant dip in their kitchen floor shortly after moving into their new home in 2016. They contacted the builder, who attempted repairs. Years later, the couple sued for defective construction. However, an appeals court has rejected their claims, ruling against the couple in their pursuit of compensation for the issue.",
+        "wordCount": 56
       },
       {
-        "title": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount",
-        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Refuses-Nuclear-Inspections-as-US-Military-Threats-Mount.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-20_0mkfspioti.jpg",
-        "publishedAt": "2026-11-20T11:30:00Z",
+        "title": "Saudi Arabia says it intercepts three Houthi missiles targeting Riyadh",
+        "url": "https://www.reuters.com/world/middle-east/saudi-arabia-issues-two-riyadh-alerts-says-danger-has-passed-2026-11-20/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-11-20T23:36:00Z",
         "category": "world",
-        "summary": "Iran has reiterated its refusal to allow unrestricted access to its nuclear sites for UN inspectors, citing ongoing U.S. military threats. This decision hampers the International Atomic Energy Agency's ability to verify Iran's nuclear materials. A senior Iranian official emphasized that the country will not accept conditions that could lead to military action against it.",
+        "summary": "The Saudi-led coalition reported intercepting and destroying three ballistic missiles aimed at Riyadh on Saturday. This incident marks the second Houthi attack on the Saudi capital within a few days, following a missile strike on the city's tallest skyscraper on Thursday. The coalition continues to combat the Iran-aligned Houthis amid ongoing tensions in the region.",
         "wordCount": 55
+      },
+      {
+        "title": "Araqchi says Iran wants diplomacy to end war, Trump says terms unacceptable",
+        "url": "https://www.reuters.com/world/middle-east/araqchi-says-iran-wants-diplomacy-end-war-trump-says-terms-unacceptable-2026-11-20/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/JUEXIZGLWZJTXC6YQJIFABYOXQ.jpg?auth=ca61765fa54d41732a3c3753093346e777d2df2b9bbf8dfc95d8b76a5d23c580&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-11-20T23:11:00Z",
+        "category": "world",
+        "summary": "Iran's Foreign Minister Abbas Araqchi expressed hope for a diplomatic resolution to the ongoing conflict with the United States. In contrast, US President Donald Trump stated that while Iran seeks a deal, the terms proposed are unacceptable to him. The comments highlight the ongoing tensions and differing perspectives on negotiations between the two nations.",
+        "wordCount": 54
       }
     ],
     "business": [
       {
-        "title": "India's forex reserves fall to over three month low of $705 billion",
-        "url": "https://www.reuters.com/world/india/indias-forex-reserves-fall-over-three-month-low-705-billion-2026-11-20/",
-        "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/WL5BCD4QFFNS5LWGPS6C2W4AAI.jpg?auth=d875f80ae39cc68944c024dae37b60aa92f0debb4e92b34cb9c6364e9e32e00d&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-11-20T11:48:55Z",
-        "category": "business",
-        "summary": "India's foreign exchange reserves decreased by over $14 billion to $705.3 billion as of November 13, marking a three-month low, according to the Reserve Bank of India. The decline was attributed to a fall in the value of foreign currency holdings by $7.8 billion and gold holdings by $6.1 billion week-on-week.",
-        "wordCount": 51
-      },
-      {
-        "title": "Core sector output growth accelerates to 10.9% in October from 8.2% in September",
-        "url": "https://economictimes.indiatimes.com/news/economy/indicators/core-sector-output-growth-rises-to-10-9-percent-in-october/articleshow/136025435.cms?from=mdr",
+        "title": "Tata Trusts Chair Noel Tata fires stronger salvo at Tata Sons board in new letter",
+        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/tata-trusts-chair-noel-tata-fires-stronger-salvo-at-tata-sons-board-in-new-letter/articleshow/136038611.cms?from=mdr",
         "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-136025553,width-1200,height-900,imgsize-36390,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-11-20T11:42:31Z",
+        "image": "https://img.etimg.com/thumb/msid-136038611,width-1200,height-900,imgsize-55222,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-11-21T00:00:00Z",
         "category": "business",
-        "summary": "India's core sector output growth accelerated to 10.9% in October, up from 8.2% in September. Iron ore contributed significantly with a 26.4% increase, alongside strong performances in coal and electricity. Conversely, natural gas, crude oil, and fertilizers reported negative growth. The cumulative growth rate for the index from April to October 2026 was recorded at 6%.",
-        "wordCount": 56
+        "summary": "Noel Tata has expressed serious concerns about decisions made by Tata Sons, advocating for increased transparency. He questions the validity of N Chandrasekaran's reappointment as executive chairman. In a letter, Tata requests recordings from a key board meeting held on September 17 and seeks clarification on the company's communications with the Reserve Bank of India regarding future listings.",
+        "wordCount": 58
       },
       {
-        "title": "Stock Market Close: Sensex rises for 2nd day, gains 898 pts; Nifty at 25,801; bank shares lead rally",
-        "url": "https://www.business-standard.com/markets/news/stock-market-live-november-20-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126112000118_1.html",
-        "source": "Business Standard",
-        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/27/thumb/fitandfill/1200X628/1777284313-8467.jpeg",
-        "publishedAt": "2026-11-20T10:23:52Z",
+        "title": "Tata Steel closes in on APL Apollo buyout; ArcelorMittal also in fray",
+        "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/tata-steel-closes-in-on-apl-apollo-buyout-arcelormittal-also-in-fray/articleshow/136038587.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-136038705,width-1200,height-900,imgsize-60634,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-11-21T00:00:00Z",
         "category": "business",
-        "summary": "The Sensex increased by 898 points, closing higher for the second consecutive day, while the Nifty reached 25,801. In broader markets, the Nifty MidCap 100 rose by 0.66%, but the Nifty SmallCap 100 declined by 0.13%. Bank shares led the rally, contributing significantly to the overall market gains observed on Friday.",
-        "wordCount": 51
+        "summary": "Tata Steel is pursuing a buyout of APL Apollo, aiming to acquire the entire 28% promoter stake. A successful open offer could result in a total transaction valued at approximately $3.5 billion. ArcelorMittal is also competing for the acquisition, indicating significant interest in APL Apollo among major steel producers in India. The outcome remains to be seen.",
+        "wordCount": 57
+      },
+      {
+        "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+        "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_4lj1w8vw2i.jpg",
+        "publishedAt": "2026-11-21T00:00:00Z",
+        "category": "business",
+        "summary": "Global oil markets are facing a potential supply surplus as Middle Eastern production increases. However, geopolitical tensions and varying demand forecasts, along with European gas shortages, are maintaining price support. Recent agency reports indicate expectations of oversupply, while oil prices have remained stable amid ongoing conflicts and stalled diplomatic efforts in the region, creating a complex market environment.",
+        "wordCount": 58
       }
     ],
     "technology": [
       {
-        "title": "Xiaomi 18 Pro could move into India’s ultra-premium smartphone segment: Expected price, features",
-        "url": "https://www.livemint.com/technology/gadgets/xiaomi-18-pro-could-move-into-india-s-ultra-premium-smartphone-segment-expected-price-features-11795171610726.html",
-        "source": "Livemint",
-        "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/xiaomi_1795172114134_pxxn_1795172119843_H8yh_ce6280a3-84c0-4dad-9e1f-d11bc30d8596_OVUC.jpg",
-        "publishedAt": "2026-11-20T11:26:49Z",
+        "title": "Where is Mandy’s house in GTA 6? Where to find her location and what happens after Chapter 1",
+        "url": "https://timesofindia.indiatimes.com/sports/esports/gta/where-is-mandys-house-in-gta-6-where-to-find-her-location-and-what-happens-after-chapter-1/articleshow/136042038.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-136042053,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-21T00:13:00Z",
         "category": "technology",
-        "summary": "Xiaomi's upcoming Xiaomi 18 Pro is expected to launch in India with a price range of ₹1.6 lakh to ₹1.7 lakh, placing it in the ultra-premium smartphone segment. This information was shared by tipster Yogesh Brar. Additionally, Xiaomi has teased the standard Xiaomi 18 in China and has begun accepting pre-orders ahead of its official launch.",
+        "summary": "In GTA 6, players can discover small story moments while exploring Leonida. One notable character is Mandy, whom Jason meets early in Chapter 1. Although her appearance may seem brief, players can find her house and learn more about her character as they progress through the game. These interactions enhance the overall gaming experience for curious players.",
+        "wordCount": 57
+      },
+      {
+        "title": "Actor Who Plays Mandy in GTA 6 Excitedly Speaks Out After Character Goes Viral",
+        "url": "https://sea.ign.com/grand-theft-auto-vi-rumored-title/252270/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-character-goes-viral",
+        "source": "IGN Southeast Asia",
+        "image": "https://sm.ign.com/t/ign_ap/news/a/actor-who-/actor-who-plays-mandy-in-gta-6-excitedly-speaks-out-after-ch_m22h.1200.jpg",
+        "publishedAt": "2026-11-21T00:00:42Z",
+        "category": "technology",
+        "summary": "Lexie Shoaibi, the actress portraying Mandy in the newly released GTA 6, expressed her excitement after the character gained popularity online. Mandy is introduced early in the game, and Shoaibi, an American actress, shared her thoughts on the character's reception. The game's official release has sparked significant interest, leading to discussions about Mandy's role among players.",
         "wordCount": 56
       },
       {
-        "title": "GTA 6 sold nearly 25 million copies on day one, crushing every launch record in sight",
-        "url": "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html",
+        "title": "Apple Watch Series 12 GPS + Cellular (2026) drops to lowest price",
+        "url": "https://www.notebookcheck.net/Apple-Watch-Series-12-GPS-Cellular-2026-drops-to-lowest-price.1455594.0.html",
         "source": "Notebookcheck",
-        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gta-6-netfloix-deal691087.jpg",
-        "publishedAt": "2026-11-20T11:13:18Z",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/Apple-Watch-Series-12-GPS-Cellular-2026-drops-to-lowest-price.png",
+        "publishedAt": "2026-11-20T21:43:00Z",
         "category": "technology",
-        "summary": "Grand Theft Auto VI sold approximately 24.6 million digital copies on its launch day, 19 November 2026, generating an estimated $2.36 billion in revenue, according to Sensor Tower. PlayStation 5 accounted for 75% of the sales. The game's performance set new records for video game launches. Take-Two Interactive has not yet provided official sales figures.",
-        "wordCount": 55
+        "summary": "The Apple Watch Series 12 GPS + Cellular (2026) is now available at its lowest price on Amazon, following a significant discount. The 42 mm model is priced at $429, while the 46 mm model costs $479. This smartwatch features call services and offers full integration with Apple iPhone smartphones, enhancing connectivity for users.",
+        "wordCount": 54
       }
     ],
     "sports": [
       {
-        "title": "How South Africa plan to manage expectations",
-        "url": "https://www.cricbuzz.com/cricket-news/140989/how-south-africa-plan-to-manage-expectations",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1130469/maharaj-will-see-the-trust-placed-in-him-as-south-africas-captain-in-the-odis-against-bangladesh-as-a-sign-that-he-has-not-been-forgotten.jpg",
-        "publishedAt": "2026-11-20T12:16:08Z",
+        "title": "Hazlewood backs 'great leader' Cummins, insists no knowledge of ball tampering",
+        "url": "https://www.cricinfo.com/story/josh-hazlewood-backs-great-leader-pat-cummins-would-considering-quitting-if-captain-loses-job-1563382",
+        "source": "Cricinfo",
+        "image": "https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/294700/294783.6.jpg",
+        "publishedAt": "2026-11-20T23:08:00Z",
         "category": "sports",
-        "summary": "South Africa's squad for the upcoming Test series against Bangladesh will see only three players participating in the subsequent white-ball series. The three ODIs and three T20Is are viewed as unnecessary additions to the schedule. This decision aims to manage expectations and focus on the Test format, with a clear distinction between the two types of cricket.",
+        "summary": "Fast bowler Josh Hazlewood defended captain Pat Cummins, calling him a \"great leader\" amid controversy. He refuted claims made by Cameron Bancroft and Usman Khawaja regarding ball tampering, asserting he had no knowledge of such actions. Hazlewood also stated he would reconsider his position on the team if Cummins were not the captain, emphasizing his support for leadership.",
+        "wordCount": 58
+      },
+      {
+        "title": "India vs New Zealand Live Score 1st Test: Rahul, Padikkal keep New Zealand at bay",
+        "url": "https://m.rediff.com/cricket/commentary/2026/nov/21/liveupdates.htm",
+        "source": "Rediff",
+        "image": "https://im.rediff.com/worldrediff/pix/livelisting1.jpg",
+        "publishedAt": "2026-11-20T23:06:34Z",
+        "category": "sports",
+        "summary": "In the 1st Test between India and New Zealand, India scored 190 runs for 1 wicket after 53 overs, chasing New Zealand's total of 368. KL Rahul and Devdutt Padikkal played crucial roles in keeping New Zealand's bowlers at bay. A notable front no-ball from Duffy contributed to India's progress as they approached the 200-run mark.",
+        "wordCount": 56
+      },
+      {
+        "title": "'Deserved justice': Why India boycotted presentation ceremony after Pakistan won Asia Cup - Explained",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/deserved-justice-why-india-boycotted-presentation-ceremony-after-pakistan-won-asia-cup-explained/articleshow/136039556.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-136039680,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-20T22:30:00Z",
+        "category": "sports",
+        "summary": "The Indian blind cricket team boycotted the men's Asia Cup presentation ceremony in Dhaka after Pakistan was declared champions, despite the final being washed out without any play. The team's action was a protest against the decision, which they deemed unfair. The incident highlights ongoing tensions between the two nations in the context of sports and competition.",
         "wordCount": 57
-      },
-      {
-        "title": "India blind cricket team threatens Pakistan boycott after Asia Cup title row",
-        "url": "https://www.indiatoday.in/sports/cricket/story/india-blind-cricket-team-pakistan-asia-cup-controversy-explained-3043257-2026-11-20",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/indian-blind-cricket-team-205217637-16x9_0.jpeg?VersionId=iWOiQ9TLZ9ELEzlv9n65GbXe7CXTuD4.",
-        "publishedAt": "2026-11-20T11:47:25Z",
-        "category": "sports",
-        "summary": "India's blind cricket team has threatened to boycott future matches against Pakistan following the controversial awarding of the Men's Asia Cup title to Pakistan, despite the final being washed out. The Cricket Association for the Blind in India (CABI) has challenged this decision, claiming it resulted from a misinterpretation of the playing conditions governing the tournament.",
-        "wordCount": 56
-      },
-      {
-        "title": "Spain to face France in Nations League quarter-finals",
-        "url": "https://www.barcablaugranes.com/barcelona-internationals/138484/spain-to-face-france-in-nations-league-quarter-finals",
-        "source": "Barca Blaugranes",
-        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/11/gettyimages-2305261622.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
-        "publishedAt": "2026-11-20T11:32:10Z",
-        "category": "sports",
-        "summary": "Spain will compete against France in the quarter-finals of the Nations League. The match is part of a series of exciting games scheduled for next year. Fans are encouraged to engage respectfully with contributors and fellow supporters. Community guidelines emphasize the importance of maintaining a positive environment, explicitly prohibiting trolling or negative interactions with rival sites.",
-        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Winter heart health: Cardiologist explains why cold mornings increase heart attack risk and what precautions you should take",
-        "url": "https://www.hindustantimes.com/lifestyle/health/winter-heart-health-cardiologist-explains-why-cold-mornings-increase-heart-attack-risk-and-what-precautions-you-should-take-101795167943682.html",
-        "source": "Hindustan Times",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/20/1600x900/logo/pexels-photo-5340282__1795168987211_MPiz_1795168987412_MRRd_afa1f743-e288-45ac-9de7-cce0cb13727c_2oSb.jpeg",
-        "publishedAt": "2026-11-20T12:26:45Z",
+        "title": "Cases of seasonal ailments rise as weather changes",
+        "url": "https://timesofindia.indiatimes.com/city/allahabad/cases-of-seasonal-ailments-rise-as-weather-changes/articleshow/136036086.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-136036084,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-20T20:43:00Z",
         "category": "health",
-        "summary": "Cold mornings in winter can elevate the risk of heart-related emergencies, according to a cardiologist. Lower temperatures may impact blood pressure, heart rate, and circulation, particularly affecting those with pre-existing heart conditions. To mitigate risks, individuals are advised to take precautions such as dressing warmly, avoiding sudden exertion, and monitoring their health closely during colder months.",
-        "wordCount": 56
+        "summary": "Prayagraj is experiencing a rise in seasonal ailments, including viral fever, conjunctivitis, allergies, and chronic obstructive pulmonary disease (COPD), as temperatures and humidity fluctuate. Local doctors attribute this increase to pollution and cold weather conditions. Hospitals and clinics are reporting a significant uptick in patients seeking treatment for these conditions amid the changing climate.",
+        "wordCount": 54
       },
       {
-        "title": "ESMO 2026: Advancing Lung Cancer Prevention with Laura Mezquita",
-        "url": "https://www.emjreviews.com/oncology/congress-review/advancing-lung-cancer-prevention-and-early-detection-with-laura-mezquita/",
-        "source": "EMJ",
-        "image": "https://www.emjreviews.com/wp-content/uploads/2026/11/nterview-Laura-Mezquita_Oncology_wEB.jpg",
-        "publishedAt": "2026-11-20T11:54:39Z",
+        "title": "Revolution Medicines Highlights Strong 12-Month Overall Survival Rate for Lead Cancer Drug Regimen",
+        "url": "https://www.tradingview.com/news/benzinga:e5237794d094b:0-revolution-medicines-highlights-strong-12-month-overall-survival-rate-for-lead-cancer-drug-regimen/",
+        "source": "TradingView",
+        "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+        "publishedAt": "2026-11-20T14:26:55Z",
         "category": "health",
-        "summary": "Laura Mezquita, an oncologist specializing in thoracic oncology, reflects on her initial attraction to the field, influenced by a mentor who reshaped her understanding of lung cancer. Her research focus has evolved over time, emphasizing advancements in lung cancer prevention. Mezquita's experiences highlight the importance of mentorship in shaping medical careers and improving patient outcomes in oncology.",
+        "summary": "Revolution Medicines, Inc. reported positive results from its Phase 1/2 RMC-GI-102 study of Rasonque (daraxonrasib) combined with gemcitabine and nab-paclitaxel (GnP). The regimen is being evaluated as a first-line treatment for metastatic pancreatic adenocarcinoma (PDAC). The company highlighted a strong overall survival rate over 12 months, indicating potential effectiveness in this challenging cancer type.",
+        "wordCount": 54
+      },
+      {
+        "title": "India unveils first indigenous H5N1 vaccine to protect chickens from bird flu",
+        "url": "https://timesofindia.indiatimes.com/india/india-unveils-first-indigenous-h5n1-vaccine-to-protect-chickens-from-bird-flu/articleshow/136029379.cms?utm_source=newsletter&utm_medium=email&utm_campaign=amp_rss",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-136029561,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-20T13:48:00Z",
+        "category": "health",
+        "summary": "India has introduced its first indigenous vaccine against the H5N1 strain of bird flu, aimed at protecting poultry. Union agriculture minister Shivraj Singh Chouhan announced the vaccine, which is priced at Rs 1-2 per dose. This development is expected to enhance biosecurity in the poultry sector and mitigate the impact of bird flu outbreaks in the country.",
         "wordCount": 57
-      },
-      {
-        "title": "How wireless ECG patch can transform heart rhythm monitoring",
-        "url": "https://medicalbuyer.co.in/how-wireless-ecg-patch-can-transform-heart-rhythm-monitoring/",
-        "source": "Medical Buyer",
-        "image": "https://medicalbuyer.co.in/wp-content/uploads/2026/11/How-wireless-ECG-patch-can-transform-heart-rhythm-monitoring.jpg",
-        "publishedAt": "2026-11-20T11:29:48Z",
-        "category": "health",
-        "summary": "A wireless ECG patch, developed by Australian start-up Lubdub from research at RMIT University, monitors heart rhythms continuously for up to 14 days. This wearable device provides doctors with detailed data comparable to medical-grade electrocardiogram (ECG) Holter monitors. Patients prescribed Holter monitors can use this prototype for effective heart rhythm tracking and management.",
-        "wordCount": 53
       }
     ],
     "science": [
       {
-        "title": "Astronomers Observe a Huge Puffy Star Merge with Smaller Companion",
-        "url": "https://english.aawsat.com/varieties/5343562-astronomers-observe-huge-puffy-star-merge-smaller-companion",
-        "source": "ASHARQ AL-AWSAT English",
-        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1885686_0.jpeg.webp?VersionId=l3qKjzcMIZ7kr.i0u.nfUp_5RH_XTrpG",
-        "publishedAt": "2026-11-20T11:26:15Z",
+        "title": "Petrology Journal Guide: Scope, Metrics & APC",
+        "url": "https://casrai.org/guides/petrology-journal",
+        "source": "CASRAI",
+        "image": "https://casrai.org/api/og?title=Petrology%20Journal%20Guide%3A%20Scope%2C%20Metrics%20%26%20APC&eyebrow=Guide&type=guide",
+        "publishedAt": "2026-11-20T23:20:53Z",
         "category": "science",
-        "summary": "Astronomers have observed a massive dying star, seven times the mass and 18,000 times the brightness of the sun, merging with a smaller companion in a unique stellar event. This merger occurred in a binary system, where the larger star expanded into a puffy supergiant during its death, ultimately engulfing and combining with the smaller star.",
+        "summary": "The Petrology Journal Guide provides a comprehensive overview of petrology journals, focusing on the Journal of Petrology's scope, Oxford publishing models, article processing charges (APC), and indexing. It highlights the significance of these journals in studying the origin, composition, structure, and geological occurrence of igneous, metamorphic, and sedimentary rocks within the broader context of earth and planetary sciences.",
+        "wordCount": 58
+      },
+      {
+        "title": "Big supermoon energy this winter in Middle Tennessee",
+        "url": "https://www.wsmv.com/2026/11/20/big-supermoon-energy-this-winter-middle-tennessee/",
+        "source": "WSMV",
+        "image": "https://gray-wsmv-prod.gtv-cdn.com/resizer/v2/VTTHE2YQARGNNLIFPJFMJZTW4A.png?auth=74ce63b62d0bd05f12c6efa4633fb9212a2158c5d53c8471e0de6cf0a5d9ba33&width=1200&height=600&smart=true",
+        "publishedAt": "2026-11-20T22:35:00Z",
+        "category": "science",
+        "summary": "Middle Tennessee will experience three full supermoons this winter, starting with the Beaver Moon on Tuesday. Named for seasonal activities, the Beaver, Cold, and Wolf supermoons will occur from Thanksgiving week into the new year. These celestial events will provide opportunities for stargazers to observe the moons at their closest point to Earth, enhancing their visibility.",
         "wordCount": 56
       },
       {
-        "title": "Indentation-induced polar domain reconfiguration in the charge-density-wave semiconductor EuTe4",
-        "url": "https://www.nature.com/articles/s43246-026-01410-8?error=cookies_not_supported&code=780ed923-df2d-47bf-afbd-18ae9435dbcf",
-        "source": "Nature",
-        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43246-026-01410-8/MediaObjects/43246_2026_1410_Fig1_HTML.png",
-        "publishedAt": "2026-11-20T10:29:31Z",
+        "title": "Full Beaver Supermoon November 2026",
+        "url": "https://www.accuweather.com/en/space-news/full-beaver-supermoon-november-2026/1961930",
+        "source": "AccuWeather",
+        "image": "https://cms.accuweather.com/wp-content/uploads/2026/11/AP25309631723949.jpg?w=768",
+        "publishedAt": "2026-11-20T18:12:03Z",
         "category": "science",
-        "summary": "Researchers demonstrated mechanically induced polar-domain reconfiguration in the charge-density-wave semiconductor EuTe₄ at room temperature. Using local indentation with a needle, they achieved write/erase-like changes in polarisation domains. Polarised-light microscopy and second-harmonic-generation measurements revealed in-plane polarisation domains with approximately 90° configurations. This study highlights a novel approach for domain engineering in conducting materials, advancing polarisation-based electronics.",
-        "wordCount": 55
-      },
-      {
-        "title": "Preceding meteorological conditions and machine-learning identification of salinity anomalies in the Yangtze Estuary",
-        "url": "https://www.nature.com/articles/s41598-026-80595-x?error=cookies_not_supported&code=43c65a29-0df3-4211-b4b7-b73bc7cffc15",
-        "source": "Nature",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-11-20T10:29:27Z",
-        "category": "science",
-        "summary": "This study investigates salinity anomalies in the Yangtze Estuary, using daily observations and ERA5 reanalysis from 2021 to 2024. It identifies seasonal variability and antecedent meteorological conditions linked to these anomalies. Machine-learning models, including XGBoost and TabPFN, were developed for retrospective identification, revealing key factors like precipitation and temperature that influence anomaly probabilities, enhancing understanding of estuarine salinity dynamics.",
-        "wordCount": 59
+        "summary": "The Beaver Moon in November 2026 will mark the first of three consecutive supermoons. Its increased tidal pull may cause water to inundate low-lying coastal roads and sidewalks, particularly during the Thanksgiving period. This astronomical event is expected to attract attention due to its potential impact on coastal areas, highlighting the significance of lunar phases on tidal patterns.",
+        "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "'Salman Khan se bachne ke liye’: Aishwarya Rai Bachchan's ex-bodyguard recalls tense encounter with 'Maatrubhumi' actor, says he quit within two days",
-        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-se-bachne-ke-liye-aishwarya-rai-bachchans-ex-bodyguard-recalls-tense-encounter-with-maatrubhumi-actor-says-he-quit-within-two-days/articleshow/136026645.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136026728,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-20T12:16:00Z",
+        "title": "Taurus Horoscope Today: November 21, 2026",
+        "url": "https://www.vogue.in/content/taurus-horoscope-today-november-21-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912dd65ee2e104d623d6d33/16:9/w_1280,c_limit/2-Taurus_16;9.png",
+        "publishedAt": "2026-11-21T00:20:00Z",
         "category": "entertainment",
-        "summary": "Ketan Karande, an actor and bodybuilder, revealed on a podcast that he briefly worked as Aishwarya Rai Bachchan’s bodyguard, primarily to protect her from Salman Khan. He recounted a tense encounter with Khan that prompted him to resign within two days. Karande's comments have sparked interest and discussion regarding the dynamics between the actors involved.",
-        "wordCount": 55
+        "summary": "Today, Taurus, you may feel mentally stressed and caught in an overthinking cycle. Despite this, your life remains comfortable, grounded, and steady. It's important to recognize the positive aspects of your situation. Focus on finding balance and clarity to alleviate mental strain. Embrace the stability around you and work towards a more peaceful mindset as you navigate your thoughts.",
+        "wordCount": 59
       },
       {
-        "title": "From Sequins To Classic Whites: Breaking Down Kavya Maran, Anirudh Ravichander's Pre-Wedding Looks",
-        "url": "https://www.ndtv.com/lifestyle/from-sequins-to-classic-whites-breaking-down-kavya-maran-anirudh-ravichanders-pre-wedding-looks-12354540",
-        "source": "NDTV",
-        "image": "https://c.ndtvimg.com/2026-11/22efrhe_anirudh_625x300_20_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-        "publishedAt": "2026-11-20T12:03:39Z",
+        "title": "Leo Horoscope Today: November 21, 2026",
+        "url": "https://www.vogue.in/content/leo-horoscope-today-november-21-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912e04db6cb334650d382b9/16:9/w_1280,c_limit/6-Leo_16;9.png",
+        "publishedAt": "2026-11-21T00:20:00Z",
         "category": "entertainment",
-        "summary": "Kavya Maran and Anirudh Ravichander got married on November 11, celebrating with family and friends. Their pre-wedding looks featured a mix of styles, including striking sequinned outfits and classic white attire. The couple's fashion choices highlighted their personalities and set the tone for their wedding festivities, marking the beginning of their new life together.",
-        "wordCount": 54
-      },
-      {
-        "title": "Pratap Movie Review: Tedious Prison Drama",
-        "url": "https://m.rediff.com/movies/review/pratap-movie-review-amit-sadhs-performance-shines-in-otherwise-tedious-prison-drama/20261120.htm",
-        "source": "Rediff",
-        "image": "https://im.rediff.com/1200-630/movies/2026/nov/20pratap1.jpg",
-        "publishedAt": "2026-11-20T11:36:53Z",
-        "category": "entertainment",
-        "summary": "Amit Sadh stars as a disgraced encounter cop in \"Pratap,\" a film written and directed by Sachin Saraf. Despite Sadh's committed performance, the storytelling is criticized for being tedious and predictable, leading to a lack of engagement. The film's narrative struggles to captivate audiences, resulting in a prison drama that fails to deliver a compelling experience.",
+        "summary": "Today, Leos are encouraged to reflect on their recent experiences, including disappointments and joys. This introspective period is seen as a necessary step before moving forward. Once this self-review is complete, Leos will be prepared to plant new seeds for future growth, leading to stronger foundations and positive developments in their lives. Embrace this transformative phase.",
         "wordCount": 56
+      },
+      {
+        "title": "Aries Horoscope Today: November 21, 2026",
+        "url": "https://www.vogue.in/content/aries-horoscope-today-november-21-2026",
+        "source": "Vogue India",
+        "image": "https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/16:9/w_1280,c_limit/1-Aries_16;9.png",
+        "publishedAt": "2026-11-21T00:20:00Z",
+        "category": "entertainment",
+        "summary": "Aries individuals are encouraged to take action today on tasks they have been postponing. Even small steps are significant, as there may not be a tomorrow to rely on. While the complete plan may not be clear, it is emphasized that immediate progress is essential. The message highlights the importance of starting now, regardless of uncertainty about future steps.",
+        "wordCount": 59
       }
     ]
   }
