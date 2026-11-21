@@ -1,228 +1,208 @@
 {
-  "updatedAt": "2026-11-20T12:31:20.048Z",
+  "updatedAt": "2026-11-21T00:31:21.255Z",
   "categories": {
     "world": [
       {
-        "title": "Hormuz Oil Exports Could Decline amid Inbound Tanker Shortage",
-        "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Oil-Exports-Could-Decline-amid-Inbound-Tanker-Shortage.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-19_2vhmqs3jji.jpg",
-        "publishedAt": "2026-11-19T23:00:00Z",
+        "title": "Bangladesh Unrest: Humayun Kabir's House Targeted As Fresh Violence Erupts",
+        "url": "https://www.news18.com/world/bangladesh-unrest-yunuss-ancestral-home-set-ablaze-amid-hasinas-planned-return-10434361.html",
+        "source": "News18",
+        "image": "https://images.news18.com/ibnlive/uploads/2026/11/bangladeshfire-2026-11-df063db74a9af66e9cd52d576e487d87-1200x675.jpg",
+        "publishedAt": "2026-11-20T12:10:49Z",
         "category": "world",
-        "summary": "Oil exports from the Strait of Hormuz may decline due to a shortage of inbound tankers. Increased oil flows, primarily from ship-to-ship transfers in the Gulf of Oman, are causing supertankers to wait weeks for transfers outside the Strait. Despite a recovery in crude exports nearing pre-war levels, Brent Crude prices have recently decreased, reflecting market bearishness.",
+        "summary": "Bangladesh is experiencing renewed political unrest, with protests erupting over Sheikh Hasina's planned return. Muhammad Yunus's ancestral home and Grameen Bank properties have been targeted amid the violence. On Thursday night, unidentified individuals attacked these locations, escalating tensions in the country. The situation remains volatile as protests continue, reflecting deep divisions within the political landscape of Bangladesh.",
         "wordCount": 57
       },
       {
-        "title": "Trump pushes Iran war decision to 2027, says he will 'see what happens' after January 1",
-        "url": "https://timesofindia.indiatimes.com/world/us/trump-pushes-iran-war-decision-to-2027-says-he-will-see-what-happens-after-january-1/articleshow/136005177.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136005246,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-19T21:43:00Z",
+        "title": "Iran Refuses Nuclear Inspections as U.S. Military Threats Mount",
+        "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Refuses-Nuclear-Inspections-as-US-Military-Threats-Mount.html",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-20_0mkfspioti.jpg",
+        "publishedAt": "2026-11-20T11:30:00Z",
         "category": "world",
-        "summary": "US President Donald Trump announced on Thursday that he will postpone any decision regarding military action against Iran until after January 1, 2027. This statement indicates a halt in his plans for new attacks on Iran this year. Trump's remarks suggest a cautious approach to future military engagement, emphasizing a wait-and-see strategy in the coming years.",
-        "wordCount": 56
-      },
-      {
-        "title": "India votes in support of UNGA resolutions on Palestine",
-        "url": "https://www.newindianexpress.com/india/2026/Nov/19/india-votes-in-support-of-unga-resolutions-on-palestine-2",
-        "source": "The New Indian Express",
-        "image": "https://cf-images.assettype.com/TNIE%2Fimport%2F2021%2F7%2F28%2Foriginal%2FPalestine_flag_AP.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-11-19T19:55:38Z",
-        "category": "world",
-        "summary": "India has voted in favor of four United Nations General Assembly resolutions regarding Palestine. These resolutions affirm the Palestinian people's right to self-determination, support the continuation of operations by the United Nations Relief and Works Agency (UNRWA), and uphold the property rights of Palestinian refugees. India's support reflects its ongoing commitment to addressing the Palestinian issue in international forums.",
-        "wordCount": 59
+        "summary": "Iran has reiterated its refusal to allow unrestricted access to its nuclear sites for UN inspectors, citing ongoing U.S. military threats. This decision hampers the International Atomic Energy Agency's ability to verify Iran's nuclear materials. A senior Iranian official emphasized that the country will not accept conditions that could lead to military action against it.",
+        "wordCount": 55
       }
     ],
     "business": [
       {
-        "title": "D-Street braces for gap-down opening on negative GIFT Nifty cues",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135981229.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-136001472,width-1200,height-900,imgsize-163176,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-11-20T00:30:00Z",
+        "title": "India's forex reserves fall to over three month low of $705 billion",
+        "url": "https://www.reuters.com/world/india/indias-forex-reserves-fall-over-three-month-low-705-billion-2026-11-20/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/WL5BCD4QFFNS5LWGPS6C2W4AAI.jpg?auth=d875f80ae39cc68944c024dae37b60aa92f0debb4e92b34cb9c6364e9e32e00d&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-11-20T11:48:55Z",
         "category": "business",
-        "summary": "Indian equity benchmarks closed higher on Thursday after recovering from earlier losses. The Nifty 50 and BSE Sensex saw significant gains, driven by strong buying interest, particularly in auto stocks, which rose over four percent. Foreign portfolio investors actively purchased shares, while domestic institutional investors were net sellers, indicating mixed sentiment in the market ahead of a gap-down opening.",
-        "wordCount": 59
+        "summary": "India's foreign exchange reserves decreased by over $14 billion to $705.3 billion as of November 13, marking a three-month low, according to the Reserve Bank of India. The decline was attributed to a fall in the value of foreign currency holdings by $7.8 billion and gold holdings by $6.1 billion week-on-week.",
+        "wordCount": 51
       },
       {
-        "title": "VMware patches vCenter zero-day exploited in attacks since September",
-        "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-        "source": "BleepingComputer",
-        "image": "https://www.bleepstatic.com/content/hl-images/2023/10/25/VMware_red.jpg",
-        "publishedAt": "2026-11-20T00:26:25Z",
+        "title": "Core sector output growth accelerates to 10.9% in October from 8.2% in September",
+        "url": "https://economictimes.indiatimes.com/news/economy/indicators/core-sector-output-growth-rises-to-10-9-percent-in-october/articleshow/136025435.cms?from=mdr",
+        "source": "The Economic Times",
+        "image": "https://img.etimg.com/thumb/msid-136025553,width-1200,height-900,imgsize-36390,overlay-economictimes/articleshow.jpg",
+        "publishedAt": "2026-11-20T11:42:31Z",
         "category": "business",
-        "summary": "Broadcom has issued security updates to address a critical authentication bypass vulnerability in VMware vCenter Server, identified as CVE-2026-123890. This flaw has been exploited in zero-day attacks linked to Chinese hackers since September 2026. Users are urged to apply the patches promptly to mitigate potential risks associated with this vulnerability and enhance their system security.",
-        "wordCount": 55
+        "summary": "India's core sector output growth accelerated to 10.9% in October, up from 8.2% in September. Iron ore contributed significantly with a 26.4% increase, alongside strong performances in coal and electricity. Conversely, natural gas, crude oil, and fertilizers reported negative growth. The cumulative growth rate for the index from April to October 2026 was recorded at 6%.",
+        "wordCount": 56
       },
       {
-        "title": "Noel Tata to push alternative plan at Tata Sons board meeting",
-        "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/noel-tata-to-push-alternative-plan-at-tata-sons-board-meeting/articleshow/136003766.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-136003826,width-1200,height-900,imgsize-76224,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-11-20T00:00:00Z",
+        "title": "Stock Market Close: Sensex rises for 2nd day, gains 898 pts; Nifty at 25,801; bank shares lead rally",
+        "url": "https://www.business-standard.com/markets/news/stock-market-live-november-20-nse-bse-sensex-today-nifty50-gift-nifty-crude-oil-prices-126112000118_1.html",
+        "source": "Business Standard",
+        "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/27/thumb/fitandfill/1200X628/1777284313-8467.jpeg",
+        "publishedAt": "2026-11-20T10:23:52Z",
         "category": "business",
-        "summary": "Noel Tata intends to propose an alternative restructuring plan for Tata Sons at the board meeting on November 26. He seeks transparency on the Reserve Bank of India's listing requirements. Additionally, Tata Trusts are advocating for changes to maintain Tata Sons' unlisted status through mergers. A legal opinion indicates that compliance with RBI directives is essential, complicating the situation.",
-        "wordCount": 59
+        "summary": "The Sensex increased by 898 points, closing higher for the second consecutive day, while the Nifty reached 25,801. In broader markets, the Nifty MidCap 100 rose by 0.66%, but the Nifty SmallCap 100 declined by 0.13%. Bank shares led the rally, contributing significantly to the overall market gains observed on Friday.",
+        "wordCount": 51
       }
     ],
     "technology": [
       {
-        "title": "Apple Recruits Engineering Chief for Autonomous AI Agent Built to Run Apps and Write Code",
-        "url": "https://finance.biggo.com/news/93add3d5-786b-44fc-beb1-6ec336afd710",
-        "source": "BigGo Finance",
-        "image": "https://img.biggo.com/jwdY_6eRWouhdqnbS5Oq02yiqi7fdgmL08SdHUGbD8A/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzkzYWRkM2Q1LTc4NmItNDRmYy1iZWIxLTZlYzMzNmFmZDcxMF8xNzk1MTI5NzExX2RlZmF1bHQuanBn.jpg",
-        "publishedAt": "2026-11-19T23:05:00Z",
+        "title": "Xiaomi 18 Pro could move into India’s ultra-premium smartphone segment: Expected price, features",
+        "url": "https://www.livemint.com/technology/gadgets/xiaomi-18-pro-could-move-into-india-s-ultra-premium-smartphone-segment-expected-price-features-11795171610726.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/xiaomi_1795172114134_pxxn_1795172119843_H8yh_ce6280a3-84c0-4dad-9e1f-d11bc30d8596_OVUC.jpg",
+        "publishedAt": "2026-11-20T11:26:49Z",
         "category": "technology",
-        "summary": "Apple is seeking a senior engineering manager to develop an autonomous AI assistant capable of writing and debugging code, browsing the web, and controlling applications. This initiative aims to create a proactive AI agent that can operate across devices on behalf of users. The recruitment effort reflects Apple's commitment to advancing AI technology in its product ecosystem.",
-        "wordCount": 57
+        "summary": "Xiaomi's upcoming Xiaomi 18 Pro is expected to launch in India with a price range of ₹1.6 lakh to ₹1.7 lakh, placing it in the ultra-premium smartphone segment. This information was shared by tipster Yogesh Brar. Additionally, Xiaomi has teased the standard Xiaomi 18 in China and has begun accepting pre-orders ahead of its official launch.",
+        "wordCount": 56
       },
       {
-        "title": "If tiny 'primordial' black holes exist, here's how we might find them",
-        "url": "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
-        "source": "Phys.org",
-        "image": "https://scx2.b-cdn.net/gfx/news/2026/if-tiny-primordial-bla.jpg",
-        "publishedAt": "2026-11-19T22:40:07Z",
+        "title": "GTA 6 sold nearly 25 million copies on day one, crushing every launch record in sight",
+        "url": "https://www.notebookcheck.net/GTA-6-sold-nearly-25-million-copies-on-day-one-crushing-every-launch-record-in-sight.1455216.0.html",
+        "source": "Notebookcheck",
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc5/gta-6-netfloix-deal691087.jpg",
+        "publishedAt": "2026-11-20T11:13:18Z",
         "category": "technology",
-        "summary": "Scientists propose that tiny \"primordial\" black holes may have formed shortly after the Big Bang in dense regions that collapsed under gravity. If discovered, these black holes could significantly contribute to our understanding of dark matter, the elusive substance that constitutes most of the universe's mass. Their existence remains hypothetical, but research continues to explore potential detection methods.",
-        "wordCount": 58
-      },
-      {
-        "title": "Advanced Electronic Materials Journal: Scope, OA",
-        "url": "https://casrai.org/guides/advanced-electronic-materials",
-        "source": "CASRAI",
-        "image": "https://casrai.org/api/og?title=Advanced%20Electronic%20Materials%20Journal%3A%20Scope%2C%20OA&eyebrow=Guide&type=guide",
-        "publishedAt": "2026-11-19T20:51:27Z",
-        "category": "technology",
-        "summary": "Advanced Electronic Materials is a fully open access journal published by Wiley-VCH, ISSN 2199-160X. It focuses on interdisciplinary research in electronic materials and their applications. The journal features a displayed impact factor and includes various review types. Due to the title's commonality, search results may yield mixed results, complicating the identification of this specific publication.",
+        "summary": "Grand Theft Auto VI sold approximately 24.6 million digital copies on its launch day, 19 November 2026, generating an estimated $2.36 billion in revenue, according to Sensor Tower. PlayStation 5 accounted for 75% of the sales. The game's performance set new records for video game launches. Take-Two Interactive has not yet provided official sales figures.",
         "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "De Villiers calls Usman Khawaja 'biggest traitor'; Cummins' captaincy faces threat as sandpaper shockwaves reverberate",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/de-villiers-calls-usman-khawaja-biggest-traitor-cummins-captaincy-faces-threat-as-sandpaper-shockwaves-reverberate/articleshow/136007568.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136007568,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-19T22:59:00Z",
+        "title": "How South Africa plan to manage expectations",
+        "url": "https://www.cricbuzz.com/cricket-news/140989/how-south-africa-plan-to-manage-expectations",
+        "source": "Cricbuzz",
+        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1130469/maharaj-will-see-the-trust-placed-in-him-as-south-africas-captain-in-the-odis-against-bangladesh-as-a-sign-that-he-has-not-been-forgotten.jpg",
+        "publishedAt": "2026-11-20T12:16:08Z",
         "category": "sports",
-        "summary": "Former South Africa captain Fanie de Villiers labeled Usman Khawaja the \"biggest traitor ever seen\" amid ongoing discussions about Australia's 2018 ball-tampering scandal. The controversy has raised questions about Pat Cummins' captaincy, as the fallout from the incident continues to affect Australian cricket. The remarks highlight the tensions surrounding the scandal and its implications for team leadership.",
+        "summary": "South Africa's squad for the upcoming Test series against Bangladesh will see only three players participating in the subsequent white-ball series. The three ODIs and three T20Is are viewed as unnecessary additions to the schedule. This decision aims to manage expectations and focus on the Test format, with a clear distinction between the two types of cricket.",
         "wordCount": 57
       },
       {
-        "title": "Temba Bavuma scripts history, creates captaincy world record with Bangladesh Test win",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/temba-bavuma-scripts-history-creates-captaincy-world-record-after-bangladesh-test-win/articleshow/136005463.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136005463,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-19T22:34:00Z",
+        "title": "India blind cricket team threatens Pakistan boycott after Asia Cup title row",
+        "url": "https://www.indiatoday.in/sports/cricket/story/india-blind-cricket-team-pakistan-asia-cup-controversy-explained-3043257-2026-11-20",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/indian-blind-cricket-team-205217637-16x9_0.jpeg?VersionId=iWOiQ9TLZ9ELEzlv9n65GbXe7CXTuD4.",
+        "publishedAt": "2026-11-20T11:47:25Z",
         "category": "sports",
-        "summary": "Temba Bavuma has set a record for the most Test wins by a captain in their first 16 matches, achieving his 14th victory. This milestone was reached after South Africa defeated Bangladesh by nine wickets in a recent Test match. Bavuma's leadership has marked a significant achievement in cricket history, highlighting his successful start as captain.",
+        "summary": "India's blind cricket team has threatened to boycott future matches against Pakistan following the controversial awarding of the Men's Asia Cup title to Pakistan, despite the final being washed out. The Cricket Association for the Blind in India (CABI) has challenged this decision, claiming it resulted from a misinterpretation of the playing conditions governing the tournament.",
         "wordCount": 56
       },
       {
-        "title": "Lionel Messi fed up with Argentine football association and sets lawyers to work",
-        "url": "https://www.goal.com/en-in/news/lionel-messi-fed-up-with-argentine-football-association-and-sets-lawyers-to-work/blt0e456c3d7c4341ab",
-        "source": "Goal.com",
-        "image": "https://assets.goal.com/images/v3/blt7740242100f7ab0f/crop/MM5DKMBQGQ5DEOBRGU5G433XMU5DAORQ/GettyImages-2298387605.jpg",
-        "publishedAt": "2026-11-19T21:54:17Z",
+        "title": "Spain to face France in Nations League quarter-finals",
+        "url": "https://www.barcablaugranes.com/barcelona-internationals/138484/spain-to-face-france-in-nations-league-quarter-finals",
+        "source": "Barca Blaugranes",
+        "image": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2026/11/gettyimages-2305261622.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "publishedAt": "2026-11-20T11:32:10Z",
         "category": "sports",
-        "summary": "Lionel Messi has ended his relationship with the Argentine Football Association (AFA) approximately six weeks after his last international match. According to A24 and journalist Nicolás Wiñazki, Messi's decision stems from dissatisfaction with various issues related to the AFA. The superstar has reportedly engaged lawyers to address these concerns, marking a significant shift in his involvement with Argentine football.",
-        "wordCount": 59
+        "summary": "Spain will compete against France in the quarter-finals of the Nations League. The match is part of a series of exciting games scheduled for next year. Fans are encouraged to engage respectfully with contributors and fellow supporters. Community guidelines emphasize the importance of maintaining a positive environment, explicitly prohibiting trolling or negative interactions with rival sites.",
+        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Delhi Lab's Analysis Flags Abnormal Health Findings Among Men Over 30",
-        "url": "https://kashmirobserver.net/2026/11/19/delhi-labs-analysis-flags-abnormal-health-findings-among-men-over-30/",
-        "source": "Kashmir Observer",
-        "image": "https://media.kashmirobserver.net/wp-content/uploads/2026/11/20055758/Lab-Analysis-Men.jpg",
-        "publishedAt": "2026-11-20T00:29:23Z",
+        "title": "Winter heart health: Cardiologist explains why cold mornings increase heart attack risk and what precautions you should take",
+        "url": "https://www.hindustantimes.com/lifestyle/health/winter-heart-health-cardiologist-explains-why-cold-mornings-increase-heart-attack-risk-and-what-precautions-you-should-take-101795167943682.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/20/1600x900/logo/pexels-photo-5340282__1795168987211_MPiz_1795168987412_MRRd_afa1f743-e288-45ac-9de7-cce0cb13727c_2oSb.jpeg",
+        "publishedAt": "2026-11-20T12:26:45Z",
         "category": "health",
-        "summary": "A Delhi NCR diagnostic laboratory network reported a significant number of abnormal health findings in men over 30, emphasizing the importance of regular preventive health check-ups. Conditions like heart disease, diabetes, hypertension, and fatty liver often develop silently, making early detection crucial. The findings underscore the need for increased awareness and proactive health management among this demographic.",
+        "summary": "Cold mornings in winter can elevate the risk of heart-related emergencies, according to a cardiologist. Lower temperatures may impact blood pressure, heart rate, and circulation, particularly affecting those with pre-existing heart conditions. To mitigate risks, individuals are advised to take precautions such as dressing warmly, avoiding sudden exertion, and monitoring their health closely during colder months.",
+        "wordCount": 56
+      },
+      {
+        "title": "ESMO 2026: Advancing Lung Cancer Prevention with Laura Mezquita",
+        "url": "https://www.emjreviews.com/oncology/congress-review/advancing-lung-cancer-prevention-and-early-detection-with-laura-mezquita/",
+        "source": "EMJ",
+        "image": "https://www.emjreviews.com/wp-content/uploads/2026/11/nterview-Laura-Mezquita_Oncology_wEB.jpg",
+        "publishedAt": "2026-11-20T11:54:39Z",
+        "category": "health",
+        "summary": "Laura Mezquita, an oncologist specializing in thoracic oncology, reflects on her initial attraction to the field, influenced by a mentor who reshaped her understanding of lung cancer. Her research focus has evolved over time, emphasizing advancements in lung cancer prevention. Mezquita's experiences highlight the importance of mentorship in shaping medical careers and improving patient outcomes in oncology.",
         "wordCount": 57
       },
       {
-        "title": "Bordetella pertussis adapts to human nasal mucosa through biofilm-associated virulence reprogramming and host-defense attenuation",
-        "url": "https://www.nature.com/articles/s41467-026-79522-5?error=cookies_not_supported&code=287cdfc7-8680-45f1-a97e-6f57a4b86f4f",
-        "source": "Nature",
-        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
-        "publishedAt": "2026-11-19T18:12:20Z",
+        "title": "How wireless ECG patch can transform heart rhythm monitoring",
+        "url": "https://medicalbuyer.co.in/how-wireless-ecg-patch-can-transform-heart-rhythm-monitoring/",
+        "source": "Medical Buyer",
+        "image": "https://medicalbuyer.co.in/wp-content/uploads/2026/11/How-wireless-ECG-patch-can-transform-heart-rhythm-monitoring.jpg",
+        "publishedAt": "2026-11-20T11:29:48Z",
         "category": "health",
-        "summary": "Bordetella pertussis adapts to human nasal mucosa by forming biofilms that enhance its virulence and resist antimicrobial peptides. Inoculated primary human nasal epithelial cultures showed Bp's robust adherence and replication, leading to altered host gene expression. Key findings include downregulation of vaccine-targeted virulence factors and mucociliary clearance genes, highlighting biofilms as significant in Bp transmission and potential vaccine development targets.",
-        "wordCount": 60
-      },
-      {
-        "title": "Petra Ibum Adjah։ Three Important Facts Concerning Cervical Cancer in Nigeria",
-        "url": "https://oncodaily.com/voices/petra-ibum-adjah-635927",
-        "source": "Oncodaily",
-        "image": "https://oncodaily.com/pub/uploads/2026/10/Снимок-экрана-—-2026-10-12-в-21.32.00.webp",
-        "publishedAt": "2026-11-19T17:58:31Z",
-        "category": "health",
-        "summary": "Petra Ibum Adjah from Pink Africa Foundation highlighted three key facts about cervical cancer in Nigeria. She emphasized the World Health Organization's 90-70-90 strategy aimed at eliminating cervical cancer in low- and middle-income countries by 2030. This includes vaccinating 90% of girls by age 15, screening 70% of women, and providing treatment for 90% of diagnosed cases.",
-        "wordCount": 57
+        "summary": "A wireless ECG patch, developed by Australian start-up Lubdub from research at RMIT University, monitors heart rhythms continuously for up to 14 days. This wearable device provides doctors with detailed data comparable to medical-grade electrocardiogram (ECG) Holter monitors. Patients prescribed Holter monitors can use this prototype for effective heart rhythm tracking and management.",
+        "wordCount": 53
       }
     ],
     "science": [
       {
-        "title": "A Black Hole Smaller Than an Atom Could Blow a Star Apart From Inside",
-        "url": "https://aroundprague.cz/en/news/science/a-black-hole-smaller-than-an-atom-could-blow-a-star-apart-from-inside",
-        "source": "Around Prague",
-        "image": "https://aroundprague.cz/assets/images/resources/64068/cover.jpg",
-        "publishedAt": "2026-11-19T23:45:57Z",
+        "title": "Astronomers Observe a Huge Puffy Star Merge with Smaller Companion",
+        "url": "https://english.aawsat.com/varieties/5343562-astronomers-observe-huge-puffy-star-merge-smaller-companion",
+        "source": "ASHARQ AL-AWSAT English",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-11/1885686_0.jpeg.webp?VersionId=l3qKjzcMIZ7kr.i0u.nfUp_5RH_XTrpG",
+        "publishedAt": "2026-11-20T11:26:15Z",
         "category": "science",
-        "summary": "Physicists have discovered that a primordial black hole, smaller than an atom, could potentially explode a sun-like star from within. This explosion might produce a visible flash detectable by modern telescopes. The study, conducted by researchers at MIT and other institutions, presents a novel method for astronomers to search for dark matter through these cosmic events.",
+        "summary": "Astronomers have observed a massive dying star, seven times the mass and 18,000 times the brightness of the sun, merging with a smaller companion in a unique stellar event. This merger occurred in a binary system, where the larger star expanded into a puffy supergiant during its death, ultimately engulfing and combining with the smaller star.",
         "wordCount": 56
       },
       {
-        "title": "Experiments in Fluids Journal: Scope & Metrics",
-        "url": "https://casrai.org/guides/experiments-in-fluids-journal",
-        "source": "CASRAI",
-        "image": "https://casrai.org/api/og?title=Experiments%20in%20Fluids%20Journal%3A%20Scope%20%26%20Metrics&eyebrow=Guide&type=guide",
-        "publishedAt": "2026-11-19T22:22:22Z",
+        "title": "Indentation-induced polar domain reconfiguration in the charge-density-wave semiconductor EuTe4",
+        "url": "https://www.nature.com/articles/s43246-026-01410-8?error=cookies_not_supported&code=780ed923-df2d-47bf-afbd-18ae9435dbcf",
+        "source": "Nature",
+        "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs43246-026-01410-8/MediaObjects/43246_2026_1410_Fig1_HTML.png",
+        "publishedAt": "2026-11-20T10:29:31Z",
         "category": "science",
-        "summary": "Experiments in Fluids is a journal focused on experimental fluid mechanics, catering to researchers, mechanical engineers, aerospace scientists, and chemical engineers. It features a peer review workflow and emphasizes measurement techniques in the field. The journal has an impact factor of 2.7, highlighting its relevance and contribution to the scientific community in fluid dynamics research and applications.",
-        "wordCount": 57
+        "summary": "Researchers demonstrated mechanically induced polar-domain reconfiguration in the charge-density-wave semiconductor EuTe₄ at room temperature. Using local indentation with a needle, they achieved write/erase-like changes in polarisation domains. Polarised-light microscopy and second-harmonic-generation measurements revealed in-plane polarisation domains with approximately 90° configurations. This study highlights a novel approach for domain engineering in conducting materials, advancing polarisation-based electronics.",
+        "wordCount": 55
       },
       {
-        "title": "Engineering Research Express: Scope and Guide",
-        "url": "https://casrai.org/guides/engineering-research-express",
-        "source": "CASRAI",
-        "image": "https://casrai.org/api/og?title=Engineering%20Research%20Express%3A%20Scope%20and%20Guide&eyebrow=Guide&type=guide",
-        "publishedAt": "2026-11-19T22:08:29Z",
+        "title": "Preceding meteorological conditions and machine-learning identification of salinity anomalies in the Yangtze Estuary",
+        "url": "https://www.nature.com/articles/s41598-026-80595-x?error=cookies_not_supported&code=43c65a29-0df3-4211-b4b7-b73bc7cffc15",
+        "source": "Nature",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-11-20T10:29:27Z",
         "category": "science",
-        "summary": "Engineering Research Express (ERX), launched in 2019 by IOP Publishing, focuses on interdisciplinary applied science. The journal is indexed in Scopus and ESCI, ensuring visibility. It features peer review workflows, author submission guidelines, and article processing charge (APC) terms. ERX aims to facilitate the dissemination of research that crosses traditional departmental boundaries in modern technological projects.",
-        "wordCount": 56
+        "summary": "This study investigates salinity anomalies in the Yangtze Estuary, using daily observations and ERA5 reanalysis from 2021 to 2024. It identifies seasonal variability and antecedent meteorological conditions linked to these anomalies. Machine-learning models, including XGBoost and TabPFN, were developed for retrospective identification, revealing key factors like precipitation and temperature that influence anomaly probabilities, enhancing understanding of estuarine salinity dynamics.",
+        "wordCount": 59
       }
     ],
     "entertainment": [
       {
-        "title": "Actor Arjun slams alcoholic claims, marital discord reports about daughter Aishwarya",
-        "url": "https://www.indiatoday.in/movies/regional-cinema/story/arjun-sarja-complaint-aishwarya-umapathy-marital-discord-reports-alcoholic-claims-3042809-2026-11-20",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/arjun-sarja-200556521-16x9_0.jpg?VersionId=sQ0g4nVuera39qzH10DxqBJoC0Pj_0BV",
-        "publishedAt": "2026-11-20T00:25:37Z",
+        "title": "'Salman Khan se bachne ke liye’: Aishwarya Rai Bachchan's ex-bodyguard recalls tense encounter with 'Maatrubhumi' actor, says he quit within two days",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-se-bachne-ke-liye-aishwarya-rai-bachchans-ex-bodyguard-recalls-tense-encounter-with-maatrubhumi-actor-says-he-quit-within-two-days/articleshow/136026645.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-136026728,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-20T12:16:00Z",
         "category": "entertainment",
-        "summary": "Actor Arjun Sarja has filed a complaint against reports alleging marital discord between his daughter, Aishwarya Sarja, and her husband, Umapathy Ramaiah. He condemned claims labeling Aishwarya as an 'alcoholic' and emphasized that public scrutiny does not justify baseless allegations or attacks on a woman’s dignity. Arjun seeks to protect his daughter's reputation from unfounded accusations.",
+        "summary": "Ketan Karande, an actor and bodybuilder, revealed on a podcast that he briefly worked as Aishwarya Rai Bachchan’s bodyguard, primarily to protect her from Salman Khan. He recounted a tense encounter with Khan that prompted him to resign within two days. Karande's comments have sparked interest and discussion regarding the dynamics between the actors involved.",
+        "wordCount": 55
+      },
+      {
+        "title": "From Sequins To Classic Whites: Breaking Down Kavya Maran, Anirudh Ravichander's Pre-Wedding Looks",
+        "url": "https://www.ndtv.com/lifestyle/from-sequins-to-classic-whites-breaking-down-kavya-maran-anirudh-ravichanders-pre-wedding-looks-12354540",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/22efrhe_anirudh_625x300_20_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-20T12:03:39Z",
+        "category": "entertainment",
+        "summary": "Kavya Maran and Anirudh Ravichander got married on November 11, celebrating with family and friends. Their pre-wedding looks featured a mix of styles, including striking sequinned outfits and classic white attire. The couple's fashion choices highlighted their personalities and set the tone for their wedding festivities, marking the beginning of their new life together.",
+        "wordCount": 54
+      },
+      {
+        "title": "Pratap Movie Review: Tedious Prison Drama",
+        "url": "https://m.rediff.com/movies/review/pratap-movie-review-amit-sadhs-performance-shines-in-otherwise-tedious-prison-drama/20261120.htm",
+        "source": "Rediff",
+        "image": "https://im.rediff.com/1200-630/movies/2026/nov/20pratap1.jpg",
+        "publishedAt": "2026-11-20T11:36:53Z",
+        "category": "entertainment",
+        "summary": "Amit Sadh stars as a disgraced encounter cop in \"Pratap,\" a film written and directed by Sachin Saraf. Despite Sadh's committed performance, the storytelling is criticized for being tedious and predictable, leading to a lack of engagement. The film's narrative struggles to captivate audiences, resulting in a prison drama that fails to deliver a compelling experience.",
         "wordCount": 56
-      },
-      {
-        "title": "Capricorn Horoscope Today: November 20, 2026",
-        "url": "https://www.vogue.in/content/capricorn-horoscope-today-november-20-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e055a26e3c01d1b39cf3/16:9/w_1280,c_limit/12-Capricorn_16;9.png",
-        "publishedAt": "2026-11-20T00:20:00Z",
-        "category": "entertainment",
-        "summary": "On November 20, 2026, Capricorns may feel busy and unsupported. The horoscope suggests a need to reflect on recent efforts in collaboration and resource gathering. While hard work is acknowledged, there may be feelings of being uprooted. It’s a time to assess personal contributions and seek balance, ensuring that emotional needs are also addressed amidst ongoing commitments.",
-        "wordCount": 57
-      },
-      {
-        "title": "Aries Horoscope Today: November 20, 2026",
-        "url": "https://www.vogue.in/content/aries-horoscope-today-november-20-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912dd65a26e3c01d1b39cf1/16:9/w_1280,c_limit/1-Aries_16;9.png",
-        "publishedAt": "2026-11-20T00:20:00Z",
-        "category": "entertainment",
-        "summary": "Aries individuals are experiencing a sense of celebration due to recent developments in their personal or professional lives, such as a birth, conception, or significant idea evolution. This period brings a reflective mood, highlighting accomplishments and milestones. The stars suggest that Aries should embrace these achievements while looking forward to future opportunities and growth in various aspects of life.",
-        "wordCount": 59
       }
     ]
   }
