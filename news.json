@@ -1,217 +1,227 @@
 {
-  "updatedAt": "2026-11-23T12:31:32.114Z",
+  "updatedAt": "2026-11-24T00:31:18.749Z",
   "categories": {
     "world": [
       {
-        "title": "A missing letter on a 1964 Welsh map sparked a driveway row; after a glampsite owner tried to stop neighbours parking in their own garden, she lost, faced £135,000 in costs and is now appealing",
-        "url": "https://timesofindia.indiatimes.com/world/uk/a-missing-letter-on-a-1964-welsh-map-sparked-a-driveway-row-after-a-glampsite-owner-tried-to-stop-neighbours-parking-in-their-own-garden-she-lost-faced-135000-in-costs-and-is-now-appealing/articleshow/136051786.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136051892,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-22T23:25:00Z",
+        "title": "Tata Sons board meeting put off after Noel Tata's objection",
+        "url": "https://m.rediff.com/news/commentary/2026/nov/23/liveupdates.htm",
+        "source": "Rediff",
+        "image": "https://im.rediff.com/worldrediff/pix/livelisting1.jpg",
+        "publishedAt": "2026-11-23T11:32:26Z",
         "category": "world",
-        "summary": "A Welsh glamping site owner has been ordered to pay £135,000 in legal costs following a dispute regarding her neighbours' access to their driveway. The conflict arose after she attempted to prevent them from parking in their garden. The owner is now appealing the decision, which stemmed from a missing letter on a 1964 map.",
+        "summary": "Tata Sons has postponed a significant board meeting originally scheduled to address the future of the holding company's listing. The delay follows an objection raised by Noel Tata, chairman of Tata Trusts. The meeting's agenda included key discussions on strategic decisions affecting the company's direction. Further details regarding the rescheduling and implications of this postponement remain unclear.",
+        "wordCount": 57
+      },
+      {
+        "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
+        "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know",
+        "source": "Al Jazeera",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0335854cc50-1795372421.jpg?resize=1920%2C1440",
+        "publishedAt": "2026-11-23T11:26:15Z",
+        "category": "world",
+        "summary": "Ukraine has claimed responsibility for drone strikes that sank a Russian warship and damaged a cargo vessel off the coast of Libya. This incident raises concerns about the potential geographical expansion of the Russia-Ukraine conflict. The strikes were conducted by Ukrainian forces, highlighting the ongoing tensions and the possibility of the war affecting regions beyond Eastern Europe.",
+        "wordCount": 57
+      },
+      {
+        "title": "Indonesia seizes Bangladesh-bound cargo ship carrying chemicals from China that could make 100 missiles",
+        "url": "https://timesofindia.indiatimes.com/world/south-asia/indonesia-seizes-bangladesh-bound-cargo-ship-carrying-chemicals-from-china-that-could-make-100-missiles/articleshow/136099424.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-136099635,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-23T11:01:00Z",
+        "category": "world",
+        "summary": "The Indonesian Navy has seized a Comoros-flagged cargo ship transporting 405 tonnes of sodium perchlorate, a chemical capable of being used in missile production. The vessel was bound for Bangladesh and originated from China. Sodium perchlorate is a potent oxidizer commonly utilized in industrial applications, raising concerns about its potential military use in missile development.",
         "wordCount": 55
-      },
-      {
-        "title": "Watch: Russian warship hit by suspected Ukrainian drones at Benghazi naval base, bursts into flames",
-        "url": "https://timesofindia.indiatimes.com/world/rest-of-world/watch-russian-warship-hit-by-suspected-ukrainian-drones-at-benghazi-naval-base-bursts-into-flames/articleshow/136085577.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136085591,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-22T23:21:00Z",
-        "category": "world",
-        "summary": "A suspected Ukrainian sea drone attack targeted the Russian navy corvette Merkury at the Benghazi Naval Base in eastern Libya. The strike resulted in significant damage, causing an explosion and fire on the vessel. The incident highlights ongoing tensions in the region and the use of drone technology in maritime conflicts, further complicating the situation between Ukraine and Russia.",
-        "wordCount": 59
-      },
-      {
-        "title": "US Democrats secure 258 House seats, biggest election win since 1992",
-        "url": "https://www.indiatoday.in/world/story/us-democrats-258-house-seats-100-day-agenda-trump-probes-3044681-2026-11-23",
-        "source": "India Today",
-        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/democrat-chuck-hubbard-225817338-16x9_0.jpg?VersionId=CtlyT0Bgne0N27caKTzAx_5aKD7UMK2g",
-        "publishedAt": "2026-11-22T22:01:58Z",
-        "category": "world",
-        "summary": "US Democrats have achieved a significant victory by securing at least 258 seats in the House of Representatives, their best performance since 1992. This commanding majority allows them to pursue an ambitious affordability agenda and conduct extensive oversight of the Trump administration. The election results reflect a shift in voter sentiment and provide Democrats with substantial legislative power moving forward.",
-        "wordCount": 60
       }
     ],
     "business": [
       {
-        "title": "D-Street poised for a gap-up start as GIFT Nifty trades firmly higher",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/136080174.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-136080530,width-1200,height-900,imgsize-240448,overlay-etmarkets/articleshow.jpg",
-        "publishedAt": "2026-11-23T00:30:00Z",
+        "title": "RBI retains SBI, HDFC Bank and ICICI Bank as systemically important banks in 2026 list",
+        "url": "https://www.moneycontrol.com/banking/rbi-retains-sbi-hdfc-bank-and-icici-bank-as-systemically-important-banks-in-2026-list-article-14087366.html",
+        "source": "Moneycontrol.com",
+        "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261123100519_RBIbbg.png",
+        "publishedAt": "2026-11-23T11:56:33Z",
         "category": "business",
-        "summary": "Indian stock markets are set for a gap-up start as GIFT Nifty shows strong gains. On Friday, domestic purchases fueled a significant upswing, despite weaker global trends. The banking sector contributed notably, resulting in weekly gains of 5.9%. Analysts predict the Nifty index may approach record highs, potentially surpassing the 25500 mark, which could act as a support level.",
-        "wordCount": 59
+        "summary": "The Reserve Bank of India (RBI) has retained State Bank of India (SBI), HDFC Bank, and ICICI Bank as systemically important banks in its 2026 list. The additional capital requirements for these banks remain unchanged, with SBI facing the highest Common Equity Tier 1 (CET1) surcharge of 0.80 percent. This designation underscores their significance in the financial system.",
+        "wordCount": 58
       },
       {
-        "title": "Oil Markets Are Betting on a Surplus That Hasn't Arrived Yet",
-        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Markets-Are-Betting-on-a-Surplus-That-Hasnt-Arrived-Yet.html",
-        "source": "Crude Oil Prices Today | OilPrice.com",
-        "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-22_jq2moogvfb.jpg",
-        "publishedAt": "2026-11-23T00:00:00Z",
+        "title": "Tata Sons board meeting put off after Noel Tata's objection",
+        "url": "https://www.rediff.com/news/commentary/2026/nov/23/tata-sons-board-meeting-put-off-after-noel-tatas-objection/2d3de64b07501c026dc4d3a295862e9a",
+        "source": "Rediff.com",
+        "image": "https://im.rediff.com/money/2024/oct/11noel-tata1.jpg",
+        "publishedAt": "2026-11-23T11:52:14Z",
         "category": "business",
-        "summary": "Oil prices are stable around $93 per barrel as predictions of a global supply surplus face challenges from ongoing Middle East tensions and shipping disruptions. Recent agency reports have heightened expectations for oversupply, yet the market remains cautious due to persistent attacks and stalled diplomatic efforts in the region, leading to uncertainty in future oil supply dynamics.",
-        "wordCount": 57
+        "summary": "Tata Sons postponed a crucial board meeting originally scheduled to discuss the listing of the holding company. The delay was prompted by an objection from Noel Tata. The meeting will now take place four days later. This decision reflects ongoing internal discussions regarding the future direction of the conglomerate, which is India's largest.",
+        "wordCount": 53
       },
       {
-        "title": "US futures bounce as AI rout rattles Asian stocks",
-        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/",
+        "title": "Coal India unit Mahanadi's IPO fully subscribed on final day, led by institutional investors",
+        "url": "https://www.reuters.com/world/india/coal-india-unit-mahanadis-ipo-fully-subscribed-final-day-bidding-2026-11-23/",
         "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/OI32M3IOIJIMXFN2VM4GFHOATM.jpg?auth=5b8b599d5998f9c3da72e1a0ebde71187cc2e43a22d288e47f0e79f1aad7ea3e&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-11-22T23:44:00Z",
+        "image": "https://www.reuters.com/resizer/v2/WBCI25WCRNP5VPNQ4TLK6FFVCY.jpg?auth=c21a4386c1cbb5b14c15a78a159b2db5ad71f464ad84b6e91d4544a5f69e48eb&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-11-23T11:42:32Z",
         "category": "business",
-        "summary": "US stock futures increased on Monday as Asian markets faced declines, following a significant drop in technology and chip stocks linked to the AI sector. Authorities in Asia are working to stabilize the markets amid investor concerns. The recent volatility has raised questions about the sustainability of the AI boom and its impact on stock performance.",
-        "wordCount": 56
+        "summary": "Mahanadi Coalfields' initial public offering (IPO) was fully subscribed on its final bidding day, primarily driven by institutional investors. The IPO, consisting entirely of an offer-for-sale, involved existing investors reducing their stakes. Coal India aimed to sell approximately 662 million shares, representing a 10% stake, with anchor investors purchasing a portion and around 493 million shares available for others.",
+        "wordCount": 59
       }
     ],
     "technology": [
       {
-        "title": "Save up to $150 on two Apple Watch Ultra models ahead of Black Friday",
-        "url": "https://mashable.com/tech/best-early-black-friday-apple-watch-live-deals-2026",
-        "source": "Mashable",
-        "image": "https://helios-i.mashable.com/imagery/articles/06Z7GhfapJIZTikPO0mXfUk/hero-image.fill.size_1200x675.v1794923569.jpg",
-        "publishedAt": "2026-11-22T23:04:42Z",
+        "title": "Vivo S70, S70 flagship edition to launch in December: Check expected features and camera details",
+        "url": "https://www.livemint.com/technology/gadgets/vivo-s70-s70-flagship-edition-to-launch-in-december-check-expected-features-and-camera-details-11795432250764.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/11/23/1600x900/logo/vivoo_1795432617813_uYb9_1795432621574_xLgH_c7004043-324d-4bb0-af81-ff6d9c646d42_934b.png",
+        "publishedAt": "2026-11-23T11:43:22Z",
         "category": "technology",
-        "summary": "Ahead of Black Friday, significant discounts on two Apple Watch Ultra models are available, allowing shoppers to save up to $150. Best Buy and Amazon are offering these deals, providing an opportunity for early holiday shopping. As Black Friday approaches, more deals are emerging, making it a good time to explore savings on popular electronics.",
-        "wordCount": 55
+        "summary": "Vivo has announced the launch of the S70 series, which includes the Vivo S70 and S70 flagship edition, set for December 2026 in China. Pre-orders are currently open. The new smartphones are expected to feature advanced specifications and camera capabilities, although detailed features have yet to be disclosed. Further information will likely emerge closer to the launch date.",
+        "wordCount": 58
       },
       {
-        "title": "'Grand theft without auto': Shashi Tharoor's dig at Modi government's 2016 demonetisation over GTA 6. Watch video",
-        "url": "https://economictimes.indiatimes.com/news/new-updates/grand-theft-without-auto-shashi-tharoors-dig-at-modi-governments-2016-demonetisation-over-gta-6-watch-video/articleshow/136082363.cms?from=mdr",
-        "source": "The Economic Times",
-        "image": "https://img.etimg.com/thumb/msid-136082692,width-1200,height-900,imgsize-118563,overlay-economictimes/articleshow.jpg",
-        "publishedAt": "2026-11-22T19:12:40Z",
+        "title": "iPhone 17 price drop alert, check deal here",
+        "url": "https://www.indiatoday.in/visualstories/technology/iphone-17-price-drop-alert-check-deal-here-287729-23-11-2026",
+        "source": "India Today",
+        "image": "https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2026/11/imageITG-1795433593191.png?size=*:900",
+        "publishedAt": "2026-11-23T11:33:56Z",
         "category": "technology",
-        "summary": "Congress MP Shashi Tharoor criticized the Modi government's 2016 demonetisation by likening it to \"grand theft without auto\" in response to the launch of Grand Theft Auto 6. His comment coincided with Rockstar Games announcing record pre-orders and first-day sales of USD 3.79 billion for the new game, highlighting the stark contrast between the two events.",
+        "summary": "The iPhone 17 is currently discounted on Flipkart, priced at Rs 89,100, down from Rs 99,900. Customers can save an additional Rs 4,000 through bank offers, totaling nearly Rs 15,000 in savings. This promotion highlights the ongoing sales strategy for the iPhone 17, making it more accessible to consumers looking for deals on the latest model.",
         "wordCount": 56
+      },
+      {
+        "title": "Motorola Edge 70 Neo India launch on November 24: Check expected price, 7,000mAh battery, camera and other features",
+        "url": "https://www.livemint.com/technology/motorola-edge-70-neo-india-launch-on-november-24-check-expected-price-7-000mah-battery-camera-and-other-features-11795428219048.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/11/23/1600x900/logo/Motorola_Edge_70_Neo_1795430718641_qHnP_1795430718803_t1ZG_02a99177-1f11-4465-9755-15cd4beaefa2_lLgu.png",
+        "publishedAt": "2026-11-23T11:12:21Z",
+        "category": "technology",
+        "summary": "Motorola will launch the Edge 70 Neo in India on November 24. The smartphone features a 7,000mAh battery, a 144Hz AMOLED display, and is powered by the Snapdragon 7s Gen 3 processor. Details regarding its camera, charging capabilities, expected price, and availability have been shared, providing potential buyers with comprehensive information ahead of the launch.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "IND vs NZ first Test Day 5: New Zealand batters blunt Indian attack",
-        "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-test-day-5-updates-november-23-2026/article71733174.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/data/hmovdj/article71733283.ece/alternates/LANDSCAPE_1200/NewZealand.jpg",
-        "publishedAt": "2026-11-23T00:23:09Z",
+        "title": "Ashwin foresees Rishabh Pant's Sandpaper saga chirps against Australia",
+        "url": "https://m.rediff.com/cricket/report/r-ashwin-on-rishabh-pants-sledging-sandpapergate--india-australia-test-series/20261123.htm",
+        "source": "Rediff.com",
+        "image": "https://im.rediff.com/1200-630/cricket/2026/nov/23pant-rishabh.jpg",
+        "publishedAt": "2026-11-23T11:27:26Z",
         "category": "sports",
-        "summary": "New Zealand's batters effectively defended against India's bowling on Day 5 of the first Test at Basin Reserve. With partnerships from Conway, Ravindra, and Blundell, New Zealand reached 206 for five at tea, needing to hold out for a draw. India sought five wickets to secure a rare Test win in New Zealand, with 39 overs remaining.",
+        "summary": "R Ashwin predicts Rishabh Pant may reference the Sandpaper saga during the upcoming India-Australia Test series, highlighting the potential for sledging related to past controversies. He also noted cultural differences in addressing such scandals and commended Cricket Australia's firm response in 2018. Former cricketers Matthew Hayden and Irfan Pathan shared their views on how Australia should navigate these discussions.",
+        "wordCount": 59
+      },
+      {
+        "title": "Skipper Shubman Gill slams Basin Reserve pitch, ball quality",
+        "url": "https://www.hindustantimes.com/cricket/ind-vs-nz-first-test-skipper-shubman-gill-slams-basin-reserve-pitch-ball-quality-101795432364492.html",
+        "source": "Hindustan Times",
+        "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/AP11-21-2026-000029A-0_1795432522906_Ojku_1795432590561_bMgd_24fbf938-dcc2-4422-84cf-21283e2e98d3_9Yoe.jpg",
+        "publishedAt": "2026-11-23T11:17:16Z",
+        "category": "sports",
+        "summary": "India's Shubman Gill criticized the Basin Reserve pitch and the quality of the balls used in the first Test against New Zealand, which ended in a draw. He noted that the balls became soft too quickly and questioned their manufacturing standards. Gill also suggested that the ban on using saliva to polish the ball should be reconsidered.",
         "wordCount": 57
       },
       {
-        "title": "MCC says India-Pakistan handshake issue is beyond its control",
-        "url": "https://www.cricbuzz.com/cricket-news/141022/mcc-says-india-pakistan-handshake-issue-is-beyond-its-control-cricbuzzcom",
-        "source": "Cricbuzz",
-        "image": "https://static.cricbuzz.com/a/img/v1/540x303/i1/c1132875/fraser-stewart-laws-manager-and-head-of-cricket-of-the-mcc-is-in-uae-for-the-ilt20.jpg",
-        "publishedAt": "2026-11-22T22:57:24Z",
+        "title": "MS Dhoni To Mentor CSK, Not Participate In IPL 2027 Auction",
+        "url": "https://m.rediff.com/cricket/report/ms-dhoni-to-mentor-csk-not-participate-in-ipl-2027-auction/20261123.htm",
+        "source": "Rediff.com",
+        "image": "https://im.rediff.com/1200-630/cricket/2026/nov/23ms-dhoni.jpg",
+        "publishedAt": "2026-11-23T11:16:24Z",
         "category": "sports",
-        "summary": "MCC Laws Manager Fraser Stewart stated that the issue of players shaking hands between India and Pakistan is beyond the control of cricket's law custodians. Despite a desire for camaraderie, geopolitical tensions and higher directives prevent such gestures. During a recent match, players maintained stoic body language, reflecting the ongoing cold relations between the two teams.",
-        "wordCount": 56
-      },
-      {
-        "title": "Carlos Alcaraz scripts history, becomes just fourth Tennis player ever to achieve rare feat with ATP Finals win over Zverev",
-        "url": "https://timesofindia.indiatimes.com/sports/tennis/top-stories/carlos-alcaraz-scripts-history-becomes-just-fourth-tennis-player-ever-to-achieve-rare-feat-with-atp-finals-win-over-zverev/articleshow/136083784.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136083805,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-22T22:43:00Z",
-        "category": "sports",
-        "summary": "Carlos Alcaraz won the ATP Finals by defeating Alexander Zverev 6-2, 7-6 (7) on November 22, 2026, in Turin. This victory marks Alcaraz as the fourth player in tennis history to achieve this feat. The match showcased Alcaraz's skill as he continued his impressive performance throughout the tournament, further solidifying his status in the sport.",
-        "wordCount": 55
+        "summary": "Irfan Pathan confirmed that MS Dhoni will serve as a mentor for Chennai Super Kings (CSK) in IPL 2027, emphasizing his focus on player development instead of participating in the auction. Pathan noted Dhoni's preference for behind-the-scenes roles and trust in CSK's management. Former batter Abhinav Mukund suggested that CSK needs to strengthen its bowling department for future success.",
+        "wordCount": 59
       }
     ],
     "health": [
       {
-        "title": "Could the time you eat affect the decisions you make?",
-        "url": "https://www.news-medical.net/news/20261122/Could-the-time-you-eat-affect-the-decisions-you-make.aspx",
-        "source": "News-Medical",
-        "image": "https://www.news-medical.net/images/news/ImageForNews_852398_1795388937754655.jpg",
-        "publishedAt": "2026-11-22T23:10:00Z",
+        "title": "Lung Cancer Awareness Month: When A Cough Refuses To Go Away, It Could Be An Early Sign, Says Thoracic Surgeon",
+        "url": "https://www.etvbharat.com/en/health/lung-cancer-awareness-month-persistent-cough-early-sign-enn26112304926",
+        "source": "ETV Bharat",
+        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/23-11-2026/1200-675-28177068-thumbnail-16x9-cough.jpg",
+        "publishedAt": "2026-11-23T11:39:59Z",
         "category": "health",
-        "summary": "A study involving 28 women with overweight or obesity found that early time-restricted eating led to more impulsive monetary decisions compared to late eating. This behavior was linked to higher plasma tyrosine ratios, especially in women with impaired glucose metabolism. However, the small sample size limited the ability to determine underlying mechanisms or effects on daily behavior.",
+        "summary": "Thoracic surgeon Dr. Prriya Eshpuniyani highlights that a persistent cough or worsening breathlessness can be early signs of lung cancer. These symptoms are frequently dismissed as effects of pollution, allergies, smoking, or recurrent respiratory infections. Lung Cancer Awareness Month serves as a reminder for individuals, especially smokers, to be vigilant about such symptoms and seek medical evaluation.",
         "wordCount": 57
       },
       {
-        "title": "Julie Fleshman Calls for Greater Pancreatic Cancer Research Investment on World Pancreatic Cancer Day",
-        "url": "https://oncodaily.com/community/julie-fleshman-pancreatic-cancer-638163",
-        "source": "Oncodaily",
-        "image": "https://oncodaily.com/pub/uploads/2026/11/1795195807944-1280x720.webp",
-        "publishedAt": "2026-11-22T18:34:23Z",
+        "title": "What babies eat could shape their adult sweet tooth. Here’s what scientists found",
+        "url": "https://theprint.in/feature/what-babies-eat-could-shape-their-adult-sweet-tooth-heres-what-scientists-found/3106485/",
+        "source": "ThePrint",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/grey85-motherhood-7114294_1920-e1795431803108.jpg",
+        "publishedAt": "2026-11-23T11:02:15Z",
         "category": "health",
-        "summary": "Julie Fleshman, President and CEO of the Pancreatic Cancer Action Network, emphasized the need for increased investment in pancreatic cancer research during World Pancreatic Cancer Day. She highlighted global awareness efforts and called for action to improve outcomes for patients. Fleshman’s remarks were shared on LinkedIn, reflecting a collective commitment to addressing the challenges posed by pancreatic cancer.",
-        "wordCount": 58
+        "summary": "Research on mice indicates that early exposure to different flavors may significantly influence food preferences in adulthood. Scientists discovered that inhibitory neurons, which manage communication between nerve cells, are particularly responsive to experiences during the initial weeks after birth. This suggests that what babies eat could shape their future sweet tooth and overall taste preferences.",
+        "wordCount": 55
       },
       {
-        "title": "Glucose Data: How Pharmacists Turn Readings Into Next Steps",
-        "url": "https://www.pharmacytimes.com/view/glucose-data-how-pharmacists-turn-readings-into-next-steps",
-        "source": "Pharmacy Times",
-        "image": "https://cdn.sanity.io/images/0vv8moc6/pharmacytimes/c3954522b0fccfe1949508dfaa2de35fb1f32e33-6557x3660.jpg?w=1200&fit=max&q=75&fm=jpg",
-        "publishedAt": "2026-11-22T16:32:17Z",
+        "title": "Soha Ali Khan Wears A CGM To Track Blood Sugar: What The Device Does And Who Needs It",
+        "url": "https://www.news18.com/lifestyle/health-and-fitness/soha-ali-khan-wears-a-cgm-to-track-blood-sugar-what-the-device-does-and-who-needs-it-10437137.html",
+        "source": "News18",
+        "image": "https://images.news18.com/ibnlive/uploads/2025/10/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2025-10-04T141245.265-2025-10-59f761d88aada6aacb77723485da1b10-16x9.png",
+        "publishedAt": "2026-11-23T11:00:41Z",
         "category": "health",
-        "summary": "Pharmacists play a crucial role in diabetes care by analyzing glucose data to identify patterns and resolve testing issues. They summarize findings and communicate them to the care team, ensuring timely interventions. This proactive approach enhances patient management by addressing potential problems before the next appointment, ultimately improving outcomes for individuals with diabetes through effective collaboration and communication.",
-        "wordCount": 58
+        "summary": "Soha Ali Khan has begun using a continuous glucose monitor (CGM) to track her blood sugar levels. The device provides real-time data on glucose fluctuations, which can benefit not only diabetics but also non-diabetics interested in health monitoring. The increasing popularity of wearable health technology has prompted discussions about its applications beyond traditional medical use.",
+        "wordCount": 55
       }
     ],
     "science": [
       {
-        "title": "Spacecraft Reaches Asteroid NASA Hit Hard in 2022 for the First-Ever Space Crash Site Investigation",
-        "url": "https://www.autoevolution.com/news/spacecraft-reaches-asteroid-nasa-hit-hard-in-2022-for-the-first-ever-space-crash-site-investigation-278811.html",
-        "source": "autoevolution",
-        "image": "https://s1.cdn.autoevolution.com/images/news/spacecraft-reaches-asteroid-nasa-hit-hard-in-2022-for-the-first-ever-space-crash-site-investigation-278811_1.jpg",
-        "publishedAt": "2026-11-22T20:13:44Z",
+        "title": "Giant planet discovered near a small star - SCMP",
+        "url": "https://ua.news/en/dovkolo-svitu/astronomi-viiavili-gigantsku-planetu-bilia-maloyi-zori-south-china-morning-post",
+        "source": "UA.NEWS",
+        "image": "https://cdn-cabinet.ua.news/uploads/images/astronomy_vyyavyly_gigantsku_planetu_bil_1795435604270.webp",
+        "publishedAt": "2026-11-23T12:11:41Z",
         "category": "science",
-        "summary": "The European Space Agency's Hera spacecraft has arrived at the 65803 Didymos asteroid system to investigate the impact site of NASA's DART mission, which successfully collided with the asteroid in September 2022. This marks the first-ever examination of a space crash site, aimed at understanding how to potentially alter the trajectory of asteroids in the future.",
-        "wordCount": 56
+        "summary": "Chinese and American astronomers discovered the exoplanet HIP 88962 b, which has a mass nearly five times that of Jupiter. This giant planet orbits a dim star that is about two-thirds the mass of the Sun. The discovery was made during observations conducted in Chile, marking a significant addition to the study of exoplanets and their characteristics.",
+        "wordCount": 57
       },
       {
-        "title": "Drone operator in California warns fisherman of great white near swimmer",
-        "url": "https://flipit.money/flips/drone-operator-in-california-warns-fisherman-of-great-white-near-swimmer",
+        "title": "Young researchers reveal relativity alters traditional triple bond chemistry",
+        "url": "https://flipit.money/flips/young-researchers-reveal-relativity-alters-traditional-triple-bond-chemistry",
         "source": "FlipItMoney",
-        "image": "https://cdn.flipitnews.com/img/flips/4740e75be095dd7c6db1f3f3b2f5899c.webp",
-        "publishedAt": "2026-11-22T17:50:00Z",
+        "image": "https://cdn.flipitnews.com/img/flips/957da360c0acbae8600f4fcc0f261f45.webp",
+        "publishedAt": "2026-11-23T11:52:08Z",
         "category": "science",
-        "summary": "A California fisherman swimming near his boat was approached by a juvenile great white shark, drawn by live fish. The situation was averted when a drone operator spotted the shark and alerted the fisherman. This incident highlights the effectiveness of drone technology in enhancing safety for individuals in marine environments, potentially preventing dangerous encounters with wildlife.",
+        "summary": "Brown University researchers have found that Einstein's theory of relativity influences chemical bonding in heavy elements, specifically bismuth. This discovery challenges traditional understandings of triple bond chemistry, suggesting that the structure of certain chemical bonds is altered by relativistic effects. The findings provide direct experimental evidence, prompting a re-evaluation of foundational principles in chemical bonding education.",
         "wordCount": 56
       },
       {
-        "title": "A California drone operator filming sharks from nearly two miles away spotted a large great white approaching a fisherman who had jumped into the water; he used the drone to warn the man, who climbed",
-        "url": "https://timesofindia.indiatimes.com/world/us/a-california-drone-operator-filming-sharks-from-nearly-two-miles-away-spotted-a-large-great-white-approaching-a-fisherman-who-had-jumped-into-the-water-he-used-the-drone-to-warn-the-man-who-climbed-back-aboard/articleshow/136075963.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136076036,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-22T17:07:00Z",
+        "title": "Artificial intelligence for the characterization of particles and fibers by optical microscopy",
+        "url": "https://www.nature.com/articles/s40494-026-03094-2?error=cookies_not_supported&code=d5cf7fa5-2f9b-4722-98ea-06ff363e561c",
+        "source": "Nature",
+        "image": "https://www.nature.com/oscar-static/images/favicons/nature/favicon-48x48-b52890008c.png",
+        "publishedAt": "2026-11-23T11:46:52Z",
         "category": "science",
-        "summary": "A California drone operator spotted a great white shark approaching a fisherman swimming near his boat. The operator, filming from nearly two miles away, used the drone to alert the man, who then climbed back onto the boat. The incident underscores the risks of ocean safety, as live fish hanging beside the boat may have attracted the shark.",
+        "summary": "A new artificial intelligence framework automates the characterization of particles and fibers using optical microscopy. It employs a multimodal teacher to combine visual and text embeddings related to specimen properties. A student vision transformer is trained to reconstruct these embeddings from images alone. The system achieves about 80% validation accuracy and 75% Recall@1 for retrieval and classification tasks.",
         "wordCount": 58
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: November 23, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-november-23-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-11-23T00:30:00Z",
+        "title": "Panchayat 5 trailer: Phulera braces for new politics, twist in Sachivji's love story",
+        "url": "https://www.indiatoday.in/entertainment/ott/story/panchayat-season-5-trailer-phulera-braces-for-new-politics-twist-in-sachivjis-love-story-jitendra-kumar-3045138-2026-11-23",
+        "source": "India Today",
+        "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/panchayat-5-trailer-phulera-braces-for-new-politics--twist-in-sachivjis-love-story-231331904-16x9_0.jpg?VersionId=9eXEmzE82zybbLOtb08sQoHob7JyU0Y5",
+        "publishedAt": "2026-11-23T12:13:50Z",
         "category": "entertainment",
-        "summary": "On November 23, 2026, horoscopes emphasize the importance of clear intentions for the week. For Leos, relationships, particularly intimate ones, are highlighted. Singles are encouraged to reflect on their relationship history and the dynamics with past partners. The guidance suggests that understanding these aspects can lead to better connections and insights moving forward in personal relationships.",
+        "summary": "The official trailer for Panchayat Season 5 was released on Monday, highlighting political changes and turmoil in Phulera. The new season features an unexpected twist in Sachivji and Rinki's relationship. The comedy-drama series stars Jitendra Kumar, Raghubir Yadav, and Neena Gupta, continuing to explore the complexities of rural governance and personal relationships in a humorous context.",
         "wordCount": 56
       },
       {
-        "title": "A Tamil Nadu man packed grocery orders in freezing rooms and cycled up to 100 km delivering food while studying for CA exams; six months later, he joined the Bengaluru office he once looked at across",
-        "url": "https://timesofindia.indiatimes.com/life-style/people/a-tamil-nadu-man-packed-grocery-orders-in-freezing-rooms-and-cycled-up-to-100-km-delivering-food-while-studying-for-ca-exams-six-months-later-he-joined-the-bengaluru-office-he-once-looked-at-across-the-road/articleshow/136072191.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136072297,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-23T00:20:00Z",
+        "title": "Behind Notice To Amitabh Bachchan Over KBC, A 'Punjab Question' That Was An AI Clip",
+        "url": "https://www.ndtv.com/india-news/behind-notice-to-amitabh-bachchan-over-kbc-a-punjab-bomb-blasts-question-that-was-an-ai-clip-12366099",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/5edc6toc_amitabh-bachchan-in-the-2022-episode-of-kaun-banega-crorepati-from-which-the-clip-was-doctored_625x300_23_November_26.jpeg",
+        "publishedAt": "2026-11-23T11:43:30Z",
         "category": "entertainment",
-        "summary": "Parthiban Krishnamoorthi from Tamil Nadu faced challenges while preparing for his CA exams, including two failed attempts, night shifts, and delivering groceries by bicycle over 100 km. He worked in freezing rooms and often gazed at the BDO office in Bengaluru's Koramangala during breaks, dreaming of employment there. Six months later, he successfully joined the office he admired.",
+        "summary": "Amitabh Bachchan received a notice regarding a controversial question from 'Kaun Banega Crorepati' that implied the AAP government's failure in maintaining law and order in Punjab. The question, which suggested criminals were \"not afraid\" to commit bomb blasts, sparked outrage and claims of defamation against Punjab. The incident highlights tensions surrounding governance and public safety in the state.",
         "wordCount": 58
       },
       {
-        "title": "Pisces Horoscope Today: November 23, 2026",
-        "url": "https://www.vogue.in/content/pisces-horoscope-today-november-23-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e054f07905602c8158cf/16:9/w_1280,c_limit/14-Pisces_16;9.png",
-        "publishedAt": "2026-11-23T00:20:00Z",
+        "title": "\"Don't Want To Make A Big Deal Of It\": Parvathy Thiruvothu, 38, Reveals She Has ADHD",
+        "url": "https://www.ndtv.com/lifestyle/dont-want-to-make-a-big-deal-of-it-parvathy-thiruvothu-reveals-she-has-adhd-12366098",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/hcsb2m9s_ramayana_625x300_23_November_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+        "publishedAt": "2026-11-23T11:43:10Z",
         "category": "entertainment",
-        "summary": "This week, Pisces individuals are encouraged to observe their surroundings and embrace a sense of peace. They may find contentment with their current life circumstances and personal growth. This period allows for reflection and acceptance, leading to a harmonious state of mind. Overall, it is a time for Pisces to appreciate their journey and the present moment.",
+        "summary": "Actor Parvathy Thiruvothu, 38, has disclosed her diagnosis of Attention Deficit Hyperactivity Disorder (ADHD). In a conversation with Ranjini Haridas on YouTube, she explained how ADHD influences her daily life and work. Parvathy emphasized her flexible approach to time, stating it is \"elastic\" and that she prioritizes her sleep, indicating a balanced perspective on managing her condition.",
         "wordCount": 57
       }
     ]
