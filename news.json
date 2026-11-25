@@ -1,228 +1,228 @@
 {
-  "updatedAt": "2026-11-24T12:31:22.324Z",
+  "updatedAt": "2026-11-25T00:31:22.275Z",
   "categories": {
     "world": [
       {
-        "title": "A woman underwent a breast MRI in 2019, but doctors allegedly missed an incidental lung cancer finding; seven years later, a jury awarded nearly $8 million in a medical negligence case.",
-        "url": "https://timesofindia.indiatimes.com/world/us/a-woman-underwent-a-breast-mri-in-2019-but-doctors-allegedly-missed-an-incidental-lung-cancer-finding-seven-years-later-a-jury-awarded-nearly-8-million-in-a-medical-negligence-case-/articleshow/136100140.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136100759,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-24T00:25:00Z",
-        "category": "world",
-        "summary": "A jury in Oregon awarded nearly $8 million to the family of a woman after a medical negligence case. The woman underwent a breast MRI in 2019, during which doctors allegedly missed an incidental lung cancer finding. By 2020, the cancer had spread to her lymph nodes, leading to the lawsuit and subsequent jury decision.",
-        "wordCount": 55
-      },
-      {
-        "title": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace",
-        "url": "https://www.reuters.com/world/asia-pacific/south-korea-briefly-issues-evacuation-warning-after-russia-aircraft-enters-2026-11-23/",
+        "title": "Bangladesh garment workers clash with police as pay protests shut factories",
+        "url": "https://www.reuters.com/business/world-at-work/bangladesh-garment-workers-clash-with-police-pay-protests-shut-factories-2026-11-24/",
         "source": "Reuters",
-        "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-        "publishedAt": "2026-11-23T23:25:00Z",
+        "image": "https://www.reuters.com/resizer/v2/4LFHGANMOZNV7AEMR3TE3WR5MA.jpg?auth=45f1b9b7983cb8eeaf76cbfe276c1c0a181424feaebc0dfecb91bd1700ed9165&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-11-24T11:54:23Z",
         "category": "world",
-        "summary": "South Korea's Air Force deployed fighter jets on Tuesday following the incursion of Russian military aircraft into its air defense identification zone (ADIZ). In response, the government issued a \"preemptive\" shelter warning for residents on an island. The situation highlights ongoing tensions in the region and the vigilance of South Korean defense forces regarding airspace security.",
-        "wordCount": 56
+        "summary": "Bangladesh garment workers protested for higher wages on Tuesday, blocking roads in a major industrial area. The demonstrations led to clashes with police, who responded by using tear gas and sound grenades. The unrest disrupted production, resulting in the suspension of operations at numerous factories. Authorities reported significant impacts on the garment industry due to the ongoing protests.",
+        "wordCount": 58
       },
       {
-        "title": "Federal appeals court gives President Donald Trump path to erasing hush money conviction",
-        "url": "https://www.thehindu.com/news/international/federal-appeals-court-gives-president-donald-trump-path-to-erasing-hush-money-conviction/article71736252.ece",
-        "source": "The Hindu",
-        "image": "https://th-i.thgim.com/public/incoming/j7v72z/article71736368.ece/alternates/LANDSCAPE_1200/2026-11-23T175105Z_1421164491_RC2TROAZ0M6H_RTRMADP_3_BOEING-TRUMP.JPG",
-        "publishedAt": "2026-11-23T21:36:13Z",
+        "title": "US envoy 'not certain' military aid to Israel will end this year as Trump promised",
+        "url": "https://www.reuters.com/world/us/us-envoy-not-certain-military-aid-israel-will-end-this-year-trump-promised-2026-11-24/",
+        "source": "Reuters",
+        "image": "https://www.reuters.com/resizer/v2/BTKG2YMLXRIAXCTKQJBAZ7GIVI.jpg?auth=ec1ce73a813e77e272022149e375c29693dc70907bbb69a70abea411474dd005&height=1005&width=1920&quality=80&smart=true",
+        "publishedAt": "2026-11-24T10:37:03Z",
         "category": "world",
-        "summary": "A federal appeals court has granted President Donald Trump the opportunity to move his hush money conviction case to federal court. This decision allows Trump to challenge the conviction based on presidential immunity grounds. The ruling, made on November 23, 2026, provides a new avenue for Trump to seek dismissal of the charges against him.",
-        "wordCount": 55
+        "summary": "US Ambassador to Israel Mike Huckabee expressed uncertainty about the potential cessation of $3.8 billion in annual military aid to Israel by year-end, despite President Trump's earlier promise. Huckabee noted that the funding had already been allocated by Congress and indicated that stopping it would likely require congressional approval, complicating the situation regarding U.S. military support for Israel.",
+        "wordCount": 58
+      },
+      {
+        "title": "Thousands Protest In Karachi Against Asim Munir's Gamble To Redraw Pakistan",
+        "url": "https://www.ndtv.com/world-news/thousands-protest-in-karachi-against-asim-munirs-gamble-to-redraw-pakistan-12370275",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/15p8seic_karachi-protest_625x300_24_November_26.jpeg",
+        "publishedAt": "2026-11-24T09:57:09Z",
+        "category": "world",
+        "summary": "Thousands protested in Karachi against Field Marshal Asim Munir's proposal to redraw the maps of four key provinces: Punjab, Sindh, Khyber Pakhtunkhwa, and Balochistan. The plan, linked to Munir's influence as military chief, has sparked political controversy, although no official blueprint has been released. The protests reflect growing public concern over military involvement in political matters.",
+        "wordCount": 56
       }
     ],
     "business": [
       {
-        "title": "Gold gives back early gains as global AI stocks regain traction",
-        "url": "https://www.fxstreet.com/news/gold-rebounds-above-3-600-as-ceo-nvidia-returns-markets-trim-fed-hike-202611232326",
-        "source": "FXStreet",
-        "image": "https://editorial.fxsstatic.com/images/i/gold-02.jpg",
-        "publishedAt": "2026-11-23T23:26:45Z",
+        "title": "TVS Jupiter Achieves Production Milestone of 1 Crore Units",
+        "url": "https://bikeadvice.in/tvs-jupiter-achieves-production-milestone-of-1-crore-units/",
+        "source": "BikeAdvice",
+        "image": "https://bikeadvice.in/wp-content/uploads/2026/11/TVS-Jupiter-1-Crore-Production-Milestone.jpg",
+        "publishedAt": "2026-11-24T11:31:25Z",
         "category": "business",
-        "summary": "Gold prices (XAU/USD) declined slightly to around $3,620 during the early Asian session on Tuesday, reversing earlier gains. This drop occurred as global Artificial Intelligence (AI) stocks rebounded, following the reinstatement of Jensen Huang as CEO of chipmaker Nvidia. The shift in market sentiment contributed to the precious metal's decrease amid fluctuating investor confidence.",
-        "wordCount": 54
+        "summary": "TVS Motor Company announced the production milestone of 1 crore units for its Jupiter scooter. The landmark 1 croreth unit was produced at the company’s manufacturing facility in Hosur, Tamil Nadu. This achievement highlights the popularity and demand for the TVS Jupiter in the Indian market, marking a significant milestone in the company’s production history.",
+        "wordCount": 55
       },
       {
-        "title": "Tata Steel to Acquire Control of APL Apollo Through Rs 15,511 Crore Stake Deal",
-        "url": "https://insights.dsij.in/mr/dsijarticledetail/tata-steel-to-acquire-control-of-apl-apollo-through-rs-15511-crore-stake-deal",
-        "source": "Dalal Street Investment Journal",
-        "image": "https://site.dsij.in/Portals/0/EasyDNNNews/60556/output1.jpeg",
-        "publishedAt": "2026-11-23T22:49:32Z",
+        "title": "26-Year-Old Google Employee Earns Rs 3 Crore, But Spends Under 10% To Retire Early. Here's His Plan",
+        "url": "https://www.ndtv.com/feature/26-year-old-google-employee-earns-rs-3-crore-but-spends-under-10-to-retire-early-heres-his-plan-12370702",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/3dve07fg_charles-broomfield_625x300_24_November_26.jpeg",
+        "publishedAt": "2026-11-24T11:31:25Z",
         "category": "business",
-        "summary": "Tata Steel will acquire a 26.38 percent fully diluted stake in APL Apollo Tubes for Rs 15,511 crore, at Rs 2,100 per share. The deal involves three tranches and grants Tata Steel control over APL Apollo. Following the announcement, APL Apollo's shares fell by 13.43 percent in early trading on November 23, 2026.",
-        "wordCount": 53
+        "summary": "A 26-year-old Google employee earning approximately Rs 3 crore annually adopts a frugal lifestyle to retire early. He shares an apartment with four roommates, walks or cycles to work, and uses public transport instead of owning a car. Additionally, he takes advantage of free meals at the office, spending less than 10% of his income.",
+        "wordCount": 55
       },
       {
-        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-        "source": "TechCrunch",
-        "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
-        "publishedAt": "2026-11-23T22:05:50Z",
+        "title": "HPE Expects Thinner AI Margins. Is Dell Next?",
+        "url": "https://www.trefis.com/stock/hpe/articles/628212/hpe-expects-thinner-ai-margins-is-dell-next/2026-11-24",
+        "source": "Trefis",
+        "image": "https://s3.amazonaws.com/wp-uploads-trefis/articles/wp-content/uploads/2025/04/16074026/electronics-7030987_1920.jpg",
+        "publishedAt": "2026-11-24T11:22:36Z",
         "category": "business",
-        "summary": "Anthropic has launched Claude Ship, a suite of AI agents designed to automate code reviews, fixes, and approvals. This new tool aims to streamline the development process by allowing AI to handle routine tasks, thereby reducing bottlenecks associated with AI-generated code. The initiative marks a shift from merely generating code to assisting developers in determining its readiness for deployment.",
-        "wordCount": 59
+        "summary": "Hewlett Packard Enterprise (HPE) reported a significant increase in server sales, nearly doubling its figures and raising its outlook. However, the company anticipates thinner profit margins, expecting to retain less from each dollar earned. This news follows Nvidia's substantial market valuation increase of $954 billion in a single day, raising questions about leadership stability within the tech industry.",
+        "wordCount": 58
       }
     ],
     "technology": [
       {
-        "title": "GTA 6 Xbox Executable Leaks Online as “Early Christmas Gift” from Cyberleek",
-        "url": "https://www.cbr.com/gta-6-xbox-exe-leak-pc-port-cyberleek/",
-        "source": "Comic Book Resources",
-        "image": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2026/11/gta-6-jason-lucia-robbery.jpg?w=1600&h=900&fit=crop",
-        "publishedAt": "2026-11-23T23:38:41Z",
+        "title": "GTA 6 Easter egg takes players back to original Vice City with PS2 graphics: How to unlock it",
+        "url": "https://www.livemint.com/technology/tech-news/gta-6-easter-egg-takes-players-back-to-original-vice-city-with-ps2-graphics-how-to-unlock-it-11795517690584.html",
+        "source": "Livemint",
+        "image": "https://www.livemint.com/lm-img/img/2026/11/24/1600x900/logo/gta66_1795517908310_NzMa_1795517918292_GMWW_9c4f8c98-ad91-48d3-afc4-2fc1ba61ed5b_IA2z.png",
+        "publishedAt": "2026-11-24T11:28:04Z",
         "category": "technology",
-        "summary": "A hacker known as Cyberleek has leaked a playable executable file for the Xbox version of Grand Theft Auto 6 online. This release may lead to a PC recompilation in the near future. The leak adds to the ongoing anticipation surrounding Rockstar Games' latest installment in the popular open-world crime series, which has faced multiple security breaches.",
-        "wordCount": 57
-      },
-      {
-        "title": "Apple AI agent: What Apple’s job listings reveal",
-        "url": "https://www.neoteo.com/en/apple-ai-agent-what-its-job-listings-reveal",
-        "source": "NeoTeo",
-        "image": "https://www.nitroindex.com/opengraph/www.neoteo.com/og.png?url=https%3A%2F%2Fwww.neoteo.com%2Fen%2Fapple-ai-agent-what-its-job-listings-reveal",
-        "publishedAt": "2026-11-23T20:30:05Z",
-        "category": "technology",
-        "summary": "Apple's job listings indicate the development of an AI agent designed to function across various apps and computer tools. The listings focus on engineering objectives rather than a consumer product. Additionally, a separate role highlights a broader emphasis on platform engineering, suggesting Apple's commitment to integrating AI capabilities into its ecosystem, although no specific product has been announced.",
+        "summary": "GTA 6 players have found a hidden Easter egg that allows the protagonist, Jason, to visit a recreation of the original 2002 Vice City. This feature includes PS2-era graphics, the Malibu Club, and familiar characters from the original game. The Easter egg was revealed within the context of Rockstar Games' fictional Leonida, enhancing the nostalgic experience for players.",
         "wordCount": 58
       },
       {
-        "title": "GTA 6 leaker Cyberleek releases Xbox build .EXE: Could a PC Port be coming?",
-        "url": "https://timesofindia.indiatimes.com/sports/esports/gta/gta-6-leaker-cyberleek-releases-xbox-build-exe-could-a-pc-port-be-coming/articleshow/136111524.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136111648,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-23T18:20:00Z",
+        "title": "Best Black Friday Apple Watch deals 2026: Prices start at just $179",
+        "url": "https://mashable.com/tech/best-black-friday-apple-watch-deals-2026",
+        "source": "Mashable",
+        "image": "https://helios-i.mashable.com/imagery/articles/00NC9dkMRHVb9tadSI73JrS/hero-image.fill.size_1200x675.v1795513555.jpg",
+        "publishedAt": "2026-11-24T09:46:45Z",
         "category": "technology",
-        "summary": "The GTA 6 leak has progressed as the leaker Cyberleek released an Xbox executable file, previously absent from a 209 GB build that circulated earlier. This development raises speculation about a potential PC port for the game. The leak continues to generate interest and discussion within the gaming community, highlighting ongoing anticipation for the official release of GTA 6.",
-        "wordCount": 59
+        "summary": "Black Friday Apple Watch deals for 2026 feature significant discounts, with prices starting at $179 for the Apple Watch SE 3. Additionally, customers can save $100 on the Ultra 4 model. Major retailers like Amazon and Best Buy have begun their official sales, offering a variety of deals as the holiday shopping season approaches.",
+        "wordCount": 54
+      },
+      {
+        "title": "Motorola launches Edge 70 Neo for premium segment buyers in India",
+        "url": "https://www.thehindu.com/sci-tech/technology/gadgets/motorola-launches-edge-70-neo-for-premium-segment-buyers-in-india/article71737595.ece",
+        "source": "The Hindu",
+        "image": "https://th-i.thgim.com/public/sci-tech/technology/gadgets/2hfpcs/article71737623.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-11-24%20at%2012.57.13%20PM.jpeg",
+        "publishedAt": "2026-11-24T07:28:46Z",
+        "category": "technology",
+        "summary": "Motorola launched the Edge 70 Neo in India on November 24, 2026, targeting premium segment buyers. This new model complements the existing Edge 70 series, which includes the Edge 70 Pro, Fusion, and Max. The Edge 70 Neo features a 6.8-inch 1.5K Extreme AMOLED Super HD display, enhancing Motorola's offerings in the premium smartphone market.",
+        "wordCount": 55
       }
     ],
     "sports": [
       {
-        "title": "'Inappropriate and very defensive strategy': Ex-India cricketer slams Gautam Gambhir and management after NZ Test draw",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/india-vs-new-zealand/inappropriate-and-very-defensive-strategy-ex-india-cricketer-slams-gautam-gambhir-and-management-after-nz-test-draw/articleshow/136108791.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136108844,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-24T00:30:00Z",
+        "title": "'That's how cut off I am': Parore's Kohli airport moment",
+        "url": "https://m.rediff.com/cricket/report/thats-how-cut-off-i-am-parores-kohli-airport-moment/20261124.htm",
+        "source": "Rediff.com",
+        "image": "https://im.rediff.com/1200-630/cricket/2026/oct/30kohli1.jpg",
+        "publishedAt": "2026-11-24T11:23:28Z",
         "category": "sports",
-        "summary": "Former India pacer Venkatesh Prasad criticized the Indian cricket team's strategy and selection after their draw against New Zealand in the first Test in Wellington. He described the approach as \"inappropriate and very defensive,\" expressing concerns that the outcome could negatively impact the team's future performance. Prasad's comments reflect disappointment in the management's decisions during the match.",
+        "summary": "Former New Zealand cricketer Adam Parore reflects on his post-retirement life, 20-25 years after leaving international cricket. He has built a successful career in corporate finance and private equity, embracing diverse experiences. Parore expresses contentment away from the limelight and recently became a father to twins, highlighting his fulfilling transition from sports to a new professional path.",
         "wordCount": 57
       },
       {
-        "title": "Rafael Nadal celebrates Real Madrid’s late winner with wife Mery Perelló and son in viral family moment",
-        "url": "https://timesofindia.indiatimes.com/sports/international-sports/rafael-nadal-celebrates-real-madrids-late-winner-with-wife-mery-perell-and-son-in-viral-family-moment/articleshow/136114253.cms",
-        "source": "The Times of India",
-        "image": "https://static.toiimg.com/thumb/msid-136114673,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "publishedAt": "2026-11-23T22:33:00Z",
+        "title": "South Africa name multi-format squads for India home series",
+        "url": "https://www.icc-cricket.com/news/south-africa-name-multi-format-squads-for-india-home-series",
+        "source": "ICC",
+        "image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/kk4gttq4eg3umzdysju9",
+        "publishedAt": "2026-11-24T11:08:12Z",
         "category": "sports",
-        "summary": "Rafael Nadal celebrated Real Madrid's late 2-1 victory over Celta Vigo at the Santiago Bernabéu on November 21. Joined by his wife Mery Perelló and their son, Nadal expressed his joy during the match. The moment captured the family's enthusiasm and went viral, highlighting Nadal's support for the football club alongside his successful tennis career.",
-        "wordCount": 55
+        "summary": "South Africa has announced their squads for the upcoming home series against India, featuring several new players. Laura Wolvaardt will captain the team across all three formats. The series begins with a four-day Test starting December 9, followed by One Day Internationals and T20 Internationals. This marks South Africa's first home series against India in this format.",
+        "wordCount": 57
       },
       {
-        "title": "New Zealand lose fast bowler to injury for second India Test",
-        "url": "https://www.icc-cricket.com/tournaments/world-test-championship/news/new-zealand-lose-fast-bowler-to-injury-for-second-india-test",
-        "source": "ICC",
-        "image": "https://images.icc-cricket.com/image/upload/t_ratio16_9-size20-webp/prd/p2vb7bzw1o4ah8cwvj36",
-        "publishedAt": "2026-11-23T22:32:44Z",
+        "title": "Asia Cup Rising Stars (50 Overs)",
+        "url": "https://www.espn.in/cricket/series/1562333/scorecard/1562352/pakistan-a-vs-nepal-11th-match-group-b-asia-cup-rising-stars-50-overs-2026-27",
+        "source": "ESPN India",
+        "image": "https://a.espncdn.com/combiner/i?img=/i/espn/espn_logos/espncricinfo.png",
+        "publishedAt": "2026-11-24T11:07:36Z",
         "category": "sports",
-        "summary": "New Zealand's fast bowler Blair Tickner will miss the second Test against India in Christchurch due to a right hamstring injury sustained during training in Wellington. His absence impacts the team's bowling lineup, prompting the inclusion of fellow pacer Matt Fisher in the 14-player squad for the ICC World Test Championship match.",
-        "wordCount": 52
+        "summary": "Pakistan A faced Nepal in the 11th Match of the Asia Cup Rising Stars (50 Overs) 2026, with Pakistan A scoring 168 all out in 42 overs. Key performances included a top score of 64 runs. The match featured various individual contributions, including boundaries and extras. Detailed statistics and the complete scorecard are available on ESPN.in.",
+        "wordCount": 56
       }
     ],
     "health": [
       {
-        "title": "Alcohol May Make This Popular Cancer Treatment Worse",
-        "url": "https://gizmodo.com/alcohol-has-a-surprising-effect-on-this-popular-cancer-treatment-2000844108",
-        "source": "Gizmodo",
-        "image": "https://gizmodo.com/app/uploads/2026/11/Empty-wine-bottle-1200x675.jpg",
-        "publishedAt": "2026-11-23T22:45:36Z",
+        "title": "The Surprising Link Between Sleep Deprivation, Memory, & Caffeine",
+        "url": "https://www.yahoo.com/lifestyle/articles/surprising-between-sleep-deprivation-memory-110900862.html",
+        "source": "Yahoo",
+        "image": "https://s.yimg.com/lo/mysterio/api/dfff1abd782946dd2399d11b96ebae95495d1a1d1551be5008f47a86ea2c6cbd/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmindbodygreen_articles_658%2F3238b7e8ee81aa1746435e763443b104.jpg_up.jpg",
+        "publishedAt": "2026-11-24T11:09:00Z",
         "category": "health",
-        "summary": "Researchers at the University of North Carolina at Chapel Hill found that alcohol may reduce the effectiveness of certain immunotherapy drugs in mice with cancer. The study also indicated that cancer patients who consume alcohol regularly experience diminished benefits from these treatments compared to non-drinkers. This suggests that alcohol should be avoided during specific cancer therapies.",
+        "summary": "Sleep deprivation significantly impacts memory and cognitive functions, making tasks more challenging. It alters brain regions responsible for memory processing. While many rely on caffeine to counteract these effects, its efficacy may vary. Understanding the relationship between sleep, memory, and caffeine can help individuals manage their productivity and cognitive performance more effectively, highlighting the importance of adequate rest.",
+        "wordCount": 58
+      },
+      {
+        "title": "Offit says measles is endemic in the US again as a CDC alert sits blocked",
+        "url": "https://finance.biggo.com/news/9ff8114a9a594dec",
+        "source": "finance.biggo.com",
+        "image": "https://img.biggo.com/7_Po1bvFYgjVTU1bkfUBOH9SxJ5fW-ZSDznSnUyXGfw/fit/1200/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTExLzlmZjgxMTRhOWE1OTRkZWNfMTc5NTUyNDYzNF9jb3Zlci5qcGc.jpg",
+        "publishedAt": "2026-11-24T11:08:00Z",
+        "category": "health",
+        "summary": "Paul Offit, a vaccine developer, claims the U.S. has lost its measles elimination status, citing a rise in deaths. In the past 25 years, three people died from measles, but in the last 20 months, 13 have died, including half adults. This increase highlights the urgency of addressing the CDC alert, which remains blocked, according to Offit.",
+        "wordCount": 57
+      },
+      {
+        "title": "Mizoram records decline in new HIV infections: Official",
+        "url": "https://theprint.in/india/mizoram-records-decline-in-new-hiv-infections-official/3107626/",
+        "source": "ThePrint",
+        "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+        "publishedAt": "2026-11-24T10:48:17Z",
+        "category": "health",
+        "summary": "Mizoram State AIDS Control Society Project Director Dr. Jane Rinsangi Ralte announced a decline in new HIV infections in the state. The number of newly detected cases decreased to 1,628 in 2025-2026, down from 2,236 previously. This trend reflects ongoing efforts to combat HIV in the northeastern state, highlighting improvements in public health initiatives and awareness.",
         "wordCount": 56
-      },
-      {
-        "title": "Can you get measles if you are vaccinated? Explaining the MMR vaccine",
-        "url": "https://www.usatoday.com/story/news/health/2026/11/23/measles-mmr-vaccine-booster-faq/92884406007/",
-        "source": "USA Today",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/11/20/USAT/92885277007-getty-images-1145644118.jpg?crop=1999,1125,x0,y0&width=1999&height=1125&format=pjpg&auto=webp",
-        "publishedAt": "2026-11-23T18:51:00Z",
-        "category": "health",
-        "summary": "The United States recently lost its measles-free status, with over 5,000 cases reported this year, surpassing total cases from 2000 to 2024. The MMR vaccine, which protects against measles, mumps, and rubella, is effective but not 100% foolproof. Vaccinated individuals can still contract measles, though the likelihood is significantly reduced compared to unvaccinated individuals.",
-        "wordCount": 54
-      },
-      {
-        "title": "Mizoram Tests Over 85,000 for HIV in 2026, Records Declining New Cases",
-        "url": "https://gulfnews.com/world/asia/india/over-85000-people-tested-for-hiv-in-mizoram-between-april-and-october-2026-1.500758520",
-        "source": "Gulf News",
-        "image": "https://media.assettype.com/gulfnews%2F2026-11-23%2Fo85zbyj1%2F202611234022972.jpg?rect=0%2C72%2C1437%2C754&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "publishedAt": "2026-11-23T18:10:49Z",
-        "category": "health",
-        "summary": "In 2026, Mizoram tested over 85,000 individuals for HIV, showing higher prevalence rates than the national average. The state reported HIV positive rates of 1.63% among males, 1.20% among females, and 0.77% among antenatal care mothers. Health officials noted a decline in new cases and reduced HIV-related deaths, indicating progress in combating the epidemic.",
-        "wordCount": 54
       }
     ],
     "science": [
       {
-        "title": "BepiColombo Mercury mission: ESA confirms spacecraft safe despite thruster glitch",
-        "url": "https://www.thehindubusinessline.com/news/science/mercury-mission-bepicolombo-safe-after-thruster-glitch-esa-confirms/article71736968.ece",
-        "source": "BusinessLine",
-        "image": "https://bl-i.thgim.com/public/incoming/dgm8wz/article71737014.ece/alternates/LANDSCAPE_1200/2026-11-23T195246Z_167406405_RC2VTOABASEX_RTRMADP_3_SPACE-MERCURY.JPG",
-        "publishedAt": "2026-11-23T23:54:35Z",
+        "title": "NASA's Webb Telescope Reveals Hidden Changes Before Star's Explosion",
+        "url": "https://www.ndtv.com/science/nasas-webb-telescope-reveals-hidden-changes-before-stars-explosion-12370960",
+        "source": "NDTV",
+        "image": "https://c.ndtvimg.com/2026-11/v0oq8ut_star-explosion-_625x300_24_November_26.jpeg",
+        "publishedAt": "2026-11-24T12:19:40Z",
         "category": "science",
-        "summary": "The European Space Agency (ESA) confirmed that the BepiColombo mission to Mercury is safe, despite a software glitch that interrupted a thruster burn. The spacecraft is currently in orbit around Mercury, and the two science orbiters are scheduled to separate on December 9. ESA stated that the mission remains on track for its exploration objectives.",
-        "wordCount": 55
+        "summary": "NASA's James Webb Space Telescope has provided new insights into Cassiopeia A, a supernova remnant from a massive star's explosion. Recent findings, published in The Astrophysical Journal Letters, detail structural changes in the star prior to its explosion. These observations enhance understanding of stellar evolution and the processes leading to supernova events, contributing to astrophysical research.",
+        "wordCount": 56
       },
       {
-        "title": "Scrapped Space Mission Fuels Debate Over Suspected Lost Soviet Probe",
-        "url": "https://www.wideopencountry.com/scrapped-space-mission-fuels-debate-over-suspected-lost-soviet-probe/",
-        "source": "Wide Open Country",
-        "image": "https://www.wideopencountry.com/wp-content/uploads/sites/4/2026/11/GettyImages-2289697491-1.jpg",
-        "publishedAt": "2026-11-23T21:19:11Z",
+        "title": "Hidden planet lurking beyond Neptune? New simulations offer clues",
+        "url": "https://earthsky.org/space/hidden-planet-x2-lurking-beyond-neptune-new-model/",
+        "source": "EarthSky",
+        "image": "https://earthsky.org/upl/2026/11/Planet-X2-artistic-impression-RAS-800x450.png",
+        "publishedAt": "2026-11-24T12:13:08Z",
         "category": "science",
-        "summary": "A Harvard astrophysicist claims a Soviet-era probe may still be in Earth's orbit, contradicting NASA's assertion that it is an asteroid. The professor expressed disappointment over the cancellation of the only mission intended to verify the object's identity. This debate highlights ongoing interest in space relics from the Soviet Union and the challenges of confirming their existence.",
+        "summary": "New simulations suggest a hidden planet, 1.5 to 2 times Earth's mass, may exist beyond Neptune. This hypothetical planet could explain the unusual orbits of distant icy objects in the solar system. Astronomers have long speculated about such a planet, and these findings provide new insights into its potential mass and location, reigniting interest in the search.",
         "wordCount": 57
       },
       {
-        "title": "Beyond Pale Blue Dot: Voyager 1’s journey to the final frontier",
-        "url": "https://www.metroindia.net/news/articlenews/beyond-pale-blue-dot-voyager-firest-journey-to-the-final-frontier--47355",
-        "source": "www.metroindia.net",
-        "image": "https://www.metroindia.net/uploads/articles/article_35171780.webp",
-        "publishedAt": "2026-11-23T15:34:17Z",
+        "title": "Triple Star System Welopōʻai: What Is It? Explained",
+        "url": "https://utkarsh.com/current-affairs/international/space-news/triple-star-system-welopai-what-is-it-and-why-should-it-not-exist-explained",
+        "source": "Utkarsh Classes",
+        "image": "https://apps-s3-prod.utkarshapp.com/admin_v1/admin_v1/current_affairs/18154767316_current%20affair%20banner%20%2882%29.webp",
+        "publishedAt": "2026-11-24T11:37:56Z",
         "category": "science",
-        "summary": "Voyager 1 continues its journey through interstellar space, providing significant scientific discoveries that enhance our understanding of the universe. Launched in 1977, it has traveled beyond the solar system, offering insights into cosmic phenomena. The mission, part of NASA's Voyager program, remains a critical tool for exploring the final frontier, demonstrating humanity's quest for knowledge beyond Earth.",
+        "summary": "Astronomers have discovered a triple-star system named Welopōʻai, the closest known system of its kind, located within 100 light-years of Earth. It consists of three stars, including two white dwarfs. The existence of such a system raises questions among scientists, as no similar configurations have been observed nearby. Welopōʻai challenges existing theories about star formation and evolution.",
         "wordCount": 57
       }
     ],
     "entertainment": [
       {
-        "title": "Horoscope Today: November 24, 2026",
-        "url": "https://www.vogue.in/content/horoscope-today-november-24-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6936a34b536bb7db1633ae3b/16:9/w_1280,c_limit/16;9_For%20Desktop%20View_Thumbnail%20Creative_Daily%20Horoscope.png",
-        "publishedAt": "2026-11-24T00:30:00Z",
+        "title": "Guru Randhawa faces police complaint and legal warning ahead of Delhi concert over alleged glorification of drugs and alcohol, gets 7-day warning",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/guru-randhawa-faces-police-complaint-and-legal-warning-ahead-of-delhi-concert-over-alleged-glorification-of-drugs-and-alcohol-gets-7-day-warning/articleshow/136129506.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-136129553,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-24T11:51:00Z",
         "category": "entertainment",
-        "summary": "On November 24, 2026, Taurus is advised to soften the impact of ongoing transitions and truths. This message, previously encountered, reemerges, suggesting deeper insights beyond surface-level issues. The horoscope encourages reflection on personal challenges and emphasizes the importance of understanding underlying factors in current situations. Overall, it highlights the need for patience and awareness during this period.",
-        "wordCount": 57
+        "summary": "Singer Guru Randhawa is facing a police complaint and legal warning ahead of his 'Sirra Tour' concert in New Delhi. The controversy arises from allegations of glorifying drugs and alcohol in his music. Authorities have issued a seven-day warning to address the concerns. The situation has sparked discussions regarding the impact of music on societal issues.",
+        "wordCount": 56
       },
       {
-        "title": "Gemini Horoscope Today: November 24, 2026",
-        "url": "https://www.vogue.in/content/gemini-horoscope-today-november-24-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04cf280aa95e93d0629/16:9/w_1280,c_limit/3-Gemini_16;9.png",
-        "publishedAt": "2026-11-24T00:20:00Z",
+        "title": "Akshay Kumar, Karan Johar come out in support of Deepika Padukone's 8-hour shift demand: 'She’s earned that right, she’s a hardworking woman, a mother and a wife'",
+        "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-karan-johar-come-out-in-support-of-deepika-padukones-8-hour-shift-demand-shes-earned-that-right-shes-a-hardworking-woman-a-mother-and-a-wife/articleshow/136127280.cms",
+        "source": "The Times of India",
+        "image": "https://static.toiimg.com/thumb/msid-136127413,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "publishedAt": "2026-11-24T10:47:00Z",
         "category": "entertainment",
-        "summary": "On November 24, 2026, Geminis are encouraged to focus on being present in their current situation. A significant change or new chapter is unfolding, and embracing this transition requires courage to explore deeper emotions. By fully engaging with their surroundings, Geminis can harness the potential of this transformative time and navigate the upcoming developments effectively.",
-        "wordCount": 55
-      },
-      {
-        "title": "Libra Horoscope Today: November 24, 2026",
-        "url": "https://www.vogue.in/content/libra-horoscope-today-november-24-2026",
-        "source": "Vogue India",
-        "image": "https://assets.vogue.in/photos/6912e04d23f3d66ec7d06816/16:9/w_1280,c_limit/8-Libra_16;9.png",
-        "publishedAt": "2026-11-24T00:20:00Z",
-        "category": "entertainment",
-        "summary": "On November 24, 2026, Libras are encouraged to follow their true passions while remaining cautious of enticing but misleading promises. It is advised to practice discernment in relationships and intentions, as not everything may be as it appears. Focusing on genuine connections and being mindful of distractions can lead to a more fulfilling day for those under this sign.",
+        "summary": "Filmmaker Karan Johar has expressed support for Deepika Padukone's call for an eight-hour workday, emphasizing that actors should be able to establish boundaries regarding their work commitments. He highlighted Padukone's dedication as a hardworking woman, mother, and wife, questioning the criticism surrounding her request. Akshay Kumar also backed her stance, reinforcing the importance of work-life balance in the industry.",
         "wordCount": 59
+      },
+      {
+        "title": "Watch: “K-Pop: The Debut” Teases Ji Young Yoo’s Journey With Cameos From Joshua, Jay, Jake, KATSEYE, And More",
+        "url": "https://www.soompi.com/article/1890342wpp/watch-k-pop-the-debut-teases-ji-young-yoos-journey-with-cameos-from-joshua-jay-jake-katseye-and-more",
+        "source": "Soompi",
+        "image": "https://0.soompi.io/wp-content/uploads/2026/11/24193950/k-pop-the-debut-01.jpg",
+        "publishedAt": "2026-11-24T10:46:49Z",
+        "category": "entertainment",
+        "summary": "The film \"K-Pop: The Debut\" has released its first trailer, showcasing the journey of Lizzy, played by Ji Young Yoo. A Korean-American woman, Lizzy decides to follow her dream of becoming a singer rather than attending medical school. The trailer features cameos from Joshua, Jay, Jake, and KATSEYE, highlighting the film's connection to the K-Pop industry.",
+        "wordCount": 56
       }
     ]
   }
